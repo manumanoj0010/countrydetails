@@ -2,20 +2,6 @@
 
 A python package for retrieving data of all the countries in the world.
 
-
-## Created & Maintained By
-
-### [Manumanoj](https://github.com/manumanoj0010)
-
-Passionate Python and Web Developer. Currently pursuing his carrer as a student.
-
-<a href="https://www.linkedin.com/in/manumanoj0010/" target="_blank"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="60"></a><a href="https://facebook.com/manumanoj0010" target="_blank"><img src="https://github.com/aritraroy/social-icons/blob/master/facebook-icon.png?raw=true" width="60"></a><a href="https://instagram.com/m.a.n.u.m.a.n.o.j" target="_blank"><img src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.png?raw=true" width="60"></a><a href="https://github.com/manumanoj0010" target="_blank"><img src="https://img.icons8.com/material-outlined/52/000000/github.png"></a><a href="http://manojmanu.me/"  target="_blank"><img src="https://img.icons8.com/metro/52/000000/domain.png"></a>
-
-### Show some :heart: and star the repo to support the project
-
-[![GitHub stars](https://img.shields.io/github/stars/manumanoj0010/countrydetails.svg?style=social&label=Star)](https://github.com/manumanoj0010/countrydetails) [![GitHub forks](https://img.shields.io/github/forks/manumanoj0010/countrydetails.svg?style=social&label=Fork)](https://github.com/manumanoj0010/countrydetails/fork) [![GitHub watchers](https://img.shields.io/github/watchers/manumanoj0010/countrydetails?style=social&label=Watch)](https://github.com/manumanoj0010/countrydetails) [![GitHub followers](https://img.shields.io/github/followers/manumanoj0010.svg?style=social&label=Follow)](https://github.com/manumanoj0010)
-
-
 ## Install
 
 ```python
@@ -117,7 +103,7 @@ print(country.phone_code())
 ``` python
 {'Afghanistan': '93', 'Aland Islands': '+358-18', 'Albania': '355', 'Algeria': '213', 'American Samoa': '+1-684', 'Andorra': '376', 'Angola': '244', 'Anguilla': '+1-264', 'Antarctica': '', 'Antigua And Barbuda': '+1-268', 'Argentina': '54', 'Armenia': '374', 'Aruba': '297', 'Australia': '61', 'Austria': '43', 'Azerbaijan': '994', 'Bahamas The': '+1-242', 'Bahrain': '973', 'Bangladesh': '880', 
 
-````
+```
 
 ### .currencies()
 Returns currencies of each country in a dictionary
@@ -740,3 +726,14 @@ print(country.geo_json())
         ]
     },
 ```
+
+## Created & Maintained By
+
+### [Manumanoj](https://github.com/manumanoj0010)
+
+Passionate Python and Web Developer. Currently pursuing his carrer as a student.
+
+<a href="https://www.linkedin.com/in/manumanoj0010/" target="_blank"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="60"></a><a href="https://facebook.com/manumanoj0010" target="_blank"><img src="https://github.com/aritraroy/social-icons/blob/master/facebook-icon.png?raw=true" width="60"></a><a href="https://instagram.com/m.a.n.u.m.a.n.o.j" target="_blank"><img src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.png?raw=true" width="60"></a><a href="https://github.com/manumanoj0010" target="_blank"><img src="https://img.icons8.com/material-outlined/52/000000/github.png"></a><a href="http://manojmanu.me/"  target="_blank"><img src="https://img.icons8.com/metro/52/000000/domain.png"></a>
+
+[![GitHub stars](https://img.shields.io/github/stars/manumanoj0010/countrydetails.svg?style=social&label=Star)](https://github.com/manumanoj0010/countrydetails) [![GitHub forks](https://img.shields.io/github/forks/manumanoj0010/countrydetails.svg?style=social&label=Fork)](https://github.com/manumanoj0010/countrydetails/fork) [![GitHub watchers](https://img.shields.io/github/watchers/manumanoj0010/countrydetails?style=social&label=Watch)](https://github.com/manumanoj0010/countrydetails) [![GitHub followers](https://img.shields.io/github/followers/manumanoj0010.svg?style=social&label=Follow)](https://github.com/manumanoj0010)
+

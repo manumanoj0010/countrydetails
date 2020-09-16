@@ -4,7 +4,7 @@ from setuptools import setup
 exec(compile(open('Countrydetails/version.py').read(), 'Countrydetails/version.py', 'exec'))
 
 def readme():
-    with open('README.md') as f:
+    with open('README.md', encoding="utf8") as f:
         README = f.read()
     return README
 
@@ -14,11 +14,11 @@ keywords = ['country', 'countrydetails', 'countryinfo', 'country information' ,'
 setup(
     name="Countrydetails",
     version= __version__,
-    description="A Python package to get weather reports for any location.",
+    description="A python package for retrieving data of all the countries in the world.",
     long_description=readme(),
     long_description_content_type="text/markdown",
     contact_email = 'manumanoj0010@gmail.com',
-    url="",
+    url="https://github.com/manumanoj0010/countrydetails",
     author="Manoj Boddu",
     author_email="manumanoj0010@gmail.com",
     keywords = keywords,

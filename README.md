@@ -22,59 +22,59 @@ Passionate Python and Web Developer. Currently pursuing his carrer as a student.
 pip install countrydetails
 ```
 
-#### Modules and their functions
+### Modules and their functions
 
 ##### Module Countries
 
 - [countries()](#countries)
-- phone_code()
-- currencies() 
-- capitals()  
-- continents()   
-- countries_in_continents()
--  regions()
-- countries_in_region() 
-- states() 
+- [phone_code()](#phone_code)
+- [currencies()](#currencies) 
+- [capitals()](#capitals)  
+- [continents()](#continents)   
+- [countries_in_continents()](#countries_in_continents)
+- [regions()](#regions)
+- [countries_in_region()](#countries_in_region) 
+- [states()](#states) 
 
 ##### Module Country
 
--  info() 
-- name()  
--  states() 
-- cities()  
-- states_and_cities()  
--  iso() 
--  alt_spelling() 
-- area()  
-- borders()  
-- capital()  
-- calling_codes()  
--  independence() 
--  currency() 
--  capital_latlng() 
--  demonym() 
--  flag() 
--  languages() 
-- latlang()  
--  native_name() 
-- population()  
--  timezones() 
--  tld() 
--  translations() 
--  continents() 
-- temperature()  
--  government() 
-- expectancy()  
-- dish()  
--  symbol() 
-- desnity()  
--  region() 
-- religion()  
-- total_states()  
-- total_cities()  
-- wiki()  
-- gei_json()  
--  all() 
+- [info()](#info) 
+- [name()](#name)  
+- [states()](#states) 
+- [cities()](#cities)  
+- [states_and_cities()](#states_and_cities)  
+- [iso()](#iso) 
+- [alt_spelling()](#alt_spellings) 
+- [area()](#area)  
+- [borders()](#borders)  
+- [capital()](#capital)  
+- [calling_codes()](#calling_codes)  
+- [independence()](#independence) 
+- [currency()](#currency) 
+- [capital_latlng()](#capital_latlng) 
+- [demonym()](#demonym) 
+- [flag()](#flag) 
+- [languages()](#languages) 
+- [latlang()](#latlng)  
+- [native_name()](#native_name) 
+- [population()](#population)  
+- [timezones()](#timezones) 
+- [tld()](#tld) 
+- [translations()](#translations) 
+- [continents()](#continent) 
+- [temperature()](#temperature)  
+- [government()](#government) 
+- [expectancy()](#expectancy)  
+- [dish()](#dish)  
+- [symbol()](#symbol) 
+- [desnity()](#density)  
+- [region()](#region) 
+- [religion()](#religion)  
+- [total_states()](#total_states)  
+- [total_cities()](#total_cities)  
+- [wiki()](#wiki)  
+- [gei_json()](#geo_json)  
+- [all()](#all) 
 
 
 
@@ -344,7 +344,6 @@ print(country.borders())
 ### .capital()
 Returns capital city for a specified country
 ```python
-Returns international calling codes for a specified country
 from Countrydetails import country
 
 country = country.country_details('India')
@@ -358,7 +357,6 @@ New Delhi
 
 ### .calling_codes()
 ```python
-Returns international calling codes for a specified country
 from Countrydetails import country
 
 country = country.country_details('India')

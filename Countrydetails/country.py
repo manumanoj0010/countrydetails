@@ -412,7 +412,7 @@ class country_details:
                     if flag != '':
                         return flag
                     else:
-                        return (f"Sorry there is link for {self.country_name} :(")
+                        return (f"Sorry there is no link for {self.country_name} :(")
 
                 except KeyError as k:
                     return (f'There is no data for {k} of {self.country_name}')

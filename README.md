@@ -153,6 +153,7 @@ country = country.country_details('India')  #you can give your desired country
 print(country.info()) 
 ```
 ```
+# Returns the data present below in a dict
 ```
 
 ### .name()

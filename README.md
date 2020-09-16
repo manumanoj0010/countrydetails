@@ -1,6 +1,6 @@
 # Country Details
 
-A python package for retrieving data of all the countries in the world.
+A python package for retrieving data from all the countries in the world.
 
 ![](https://raw.githubusercontent.com/manumanoj0010/countrydetails/master/Readme_Images/cd.jpeg)
 

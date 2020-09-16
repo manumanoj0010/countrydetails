@@ -58,7 +58,7 @@ class country_details:
 
 
     def states(self):
-        """return all available in a  states list
+        """Returns all available in a  states list
 
         :return: list
         """
@@ -87,7 +87,7 @@ class country_details:
                     return(f'There is no available country named {self.country_name}') 
 
     def cities(self):
-        """return all available cities in a list
+        """Returns all available cities in a list
 
         :return: list
         """
@@ -117,7 +117,7 @@ class country_details:
                 return (f'There is no data for {e} of {self.country_name}')        
 
     def states_and_cities(self):
-        """ return states and cities list
+        """Returns states and cities in a dict
 
         :return: dict
         """
@@ -255,7 +255,7 @@ class country_details:
             try:
                 country = self.countries[self.country_name]
                 try:
-                    call = country['callingcodes']
+                    call = country['callingCodes']
                     if call != []:
                         return call
                     else:
@@ -297,7 +297,7 @@ class country_details:
                     return(f'There is no available country named {self.country_name}')
 
     def independence(self):
-            """Returns independence day for a specified country
+            """Returns independence year for a specified country
 
             :return: int
             """
@@ -412,7 +412,7 @@ class country_details:
                     if flag != '':
                         return flag
                     else:
-                        return (f"Sorry {self.country_name} flag doesnot exist :(")
+                        return (f"Sorry there is link for {self.country_name} :(")
 
                 except KeyError as k:
                     return (f'There is no data for {k} of {self.country_name}')
@@ -450,7 +450,7 @@ class country_details:
                     return(f'There is no available country named {self.country_name}')
 
     def languages(self):
-        """Returns official languages for a specified country
+        """Returns all spolen languages for a specified country
 
         :return: list
         """
@@ -549,7 +549,7 @@ class country_details:
                     return(f'There is no available country named {self.country_name}')
 
     def population(self):
-        """Returns approximate population for a specified country
+        """Returns population for a specified country
 
         :return: int
         """
@@ -880,7 +880,7 @@ class country_details:
     def total_states(self):
         if self.country_name:
             total_states = self.countries[self.country_name]['states']
-            print(len(total_states))
+            return(len(total_states))
 
     def total_cities(self):
         if self.country_name:
@@ -923,6 +923,6 @@ class country_details:
 
 
 if __name__ == '__main__':
-    country = country_details('afghanistan')
+    country = country_details('India')
     print(country.info())
 

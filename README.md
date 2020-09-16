@@ -22,6 +22,12 @@ Passionate Python and Web Developer. Currently pursuing his carrer as a student.
 pip install countrydetails
 ```
 
+## Usage
+
+There are 2 modules -
+1. Retrieving data of all countries **(Module Countries)**
+2. Retrieving data of a single country **(Module Country)**
+
 ### Modules and their functions
 
 ##### Module Countries
@@ -76,13 +82,6 @@ pip install countrydetails
 - [gei_json()](#geo_json)  
 - [all()](#all) 
 
-
-
-## Usage
-
-There are 2 modules -
-1. Retrieving data of all countries **(Module Countries)**
-2. Retrieving data of a single country **(Module Country)**
 
 ## Module Countries
 

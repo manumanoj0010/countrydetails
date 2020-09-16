@@ -1,0 +1,2424 @@
+{
+    "name": "South Africa",
+    "altSpellings": [
+        "ZA",
+        "RSA",
+        "Suid-Afrika",
+        "Republic of South Africa"
+    ],
+    "area": 1221037,
+    "borders": [
+        "BWA",
+        "LSO",
+        "MOZ",
+        "NAM",
+        "SWZ",
+        "ZWE"
+    ],
+    "callingCodes": [
+        "27"
+    ],
+    "capital": "Pretoria",
+    "capital_latlng": [
+        -25.745937,
+        28.187944
+    ],
+    "currencies": [
+        "ZAR"
+    ],
+    "demonym": "South African",
+    "flag": "",
+    "geoJSON": {
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "type": "Feature",
+                "id": "ZAF",
+                "properties": {
+                    "name": "South Africa"
+                },
+                "geometry": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                31.521001,
+                                -29.257387
+                            ],
+                            [
+                                31.325561,
+                                -29.401978
+                            ],
+                            [
+                                30.901763,
+                                -29.909957
+                            ],
+                            [
+                                30.622813,
+                                -30.423776
+                            ],
+                            [
+                                30.055716,
+                                -31.140269
+                            ],
+                            [
+                                28.925553,
+                                -32.172041
+                            ],
+                            [
+                                28.219756,
+                                -32.771953
+                            ],
+                            [
+                                27.464608,
+                                -33.226964
+                            ],
+                            [
+                                26.419452,
+                                -33.61495
+                            ],
+                            [
+                                25.909664,
+                                -33.66704
+                            ],
+                            [
+                                25.780628,
+                                -33.944646
+                            ],
+                            [
+                                25.172862,
+                                -33.796851
+                            ],
+                            [
+                                24.677853,
+                                -33.987176
+                            ],
+                            [
+                                23.594043,
+                                -33.794474
+                            ],
+                            [
+                                22.988189,
+                                -33.916431
+                            ],
+                            [
+                                22.574157,
+                                -33.864083
+                            ],
+                            [
+                                21.542799,
+                                -34.258839
+                            ],
+                            [
+                                20.689053,
+                                -34.417175
+                            ],
+                            [
+                                20.071261,
+                                -34.795137
+                            ],
+                            [
+                                19.616405,
+                                -34.819166
+                            ],
+                            [
+                                19.193278,
+                                -34.462599
+                            ],
+                            [
+                                18.855315,
+                                -34.444306
+                            ],
+                            [
+                                18.424643,
+                                -33.997873
+                            ],
+                            [
+                                18.377411,
+                                -34.136521
+                            ],
+                            [
+                                18.244499,
+                                -33.867752
+                            ],
+                            [
+                                18.25008,
+                                -33.281431
+                            ],
+                            [
+                                17.92519,
+                                -32.611291
+                            ],
+                            [
+                                18.24791,
+                                -32.429131
+                            ],
+                            [
+                                18.221762,
+                                -31.661633
+                            ],
+                            [
+                                17.566918,
+                                -30.725721
+                            ],
+                            [
+                                17.064416,
+                                -29.878641
+                            ],
+                            [
+                                17.062918,
+                                -29.875954
+                            ],
+                            [
+                                16.344977,
+                                -28.576705
+                            ],
+                            [
+                                16.824017,
+                                -28.082162
+                            ],
+                            [
+                                17.218929,
+                                -28.355943
+                            ],
+                            [
+                                17.387497,
+                                -28.783514
+                            ],
+                            [
+                                17.836152,
+                                -28.856378
+                            ],
+                            [
+                                18.464899,
+                                -29.045462
+                            ],
+                            [
+                                19.002127,
+                                -28.972443
+                            ],
+                            [
+                                19.894734,
+                                -28.461105
+                            ],
+                            [
+                                19.895768,
+                                -24.76779
+                            ],
+                            [
+                                20.165726,
+                                -24.917962
+                            ],
+                            [
+                                20.758609,
+                                -25.868136
+                            ],
+                            [
+                                20.66647,
+                                -26.477453
+                            ],
+                            [
+                                20.889609,
+                                -26.828543
+                            ],
+                            [
+                                21.605896,
+                                -26.726534
+                            ],
+                            [
+                                22.105969,
+                                -26.280256
+                            ],
+                            [
+                                22.579532,
+                                -25.979448
+                            ],
+                            [
+                                22.824271,
+                                -25.500459
+                            ],
+                            [
+                                23.312097,
+                                -25.26869
+                            ],
+                            [
+                                23.73357,
+                                -25.390129
+                            ],
+                            [
+                                24.211267,
+                                -25.670216
+                            ],
+                            [
+                                25.025171,
+                                -25.71967
+                            ],
+                            [
+                                25.664666,
+                                -25.486816
+                            ],
+                            [
+                                25.765849,
+                                -25.174845
+                            ],
+                            [
+                                25.941652,
+                                -24.696373
+                            ],
+                            [
+                                26.485753,
+                                -24.616327
+                            ],
+                            [
+                                26.786407,
+                                -24.240691
+                            ],
+                            [
+                                27.11941,
+                                -23.574323
+                            ],
+                            [
+                                28.017236,
+                                -22.827754
+                            ],
+                            [
+                                29.432188,
+                                -22.091313
+                            ],
+                            [
+                                29.839037,
+                                -22.102216
+                            ],
+                            [
+                                30.322883,
+                                -22.271612
+                            ],
+                            [
+                                30.659865,
+                                -22.151567
+                            ],
+                            [
+                                31.191409,
+                                -22.25151
+                            ],
+                            [
+                                31.670398,
+                                -23.658969
+                            ],
+                            [
+                                31.930589,
+                                -24.369417
+                            ],
+                            [
+                                31.752408,
+                                -25.484284
+                            ],
+                            [
+                                31.837778,
+                                -25.843332
+                            ],
+                            [
+                                31.333158,
+                                -25.660191
+                            ],
+                            [
+                                31.04408,
+                                -25.731452
+                            ],
+                            [
+                                30.949667,
+                                -26.022649
+                            ],
+                            [
+                                30.676609,
+                                -26.398078
+                            ],
+                            [
+                                30.685962,
+                                -26.743845
+                            ],
+                            [
+                                31.282773,
+                                -27.285879
+                            ],
+                            [
+                                31.86806,
+                                -27.177927
+                            ],
+                            [
+                                32.071665,
+                                -26.73382
+                            ],
+                            [
+                                32.83012,
+                                -26.742192
+                            ],
+                            [
+                                32.580265,
+                                -27.470158
+                            ],
+                            [
+                                32.462133,
+                                -28.301011
+                            ],
+                            [
+                                32.203389,
+                                -28.752405
+                            ],
+                            [
+                                31.521001,
+                                -29.257387
+                            ]
+                        ],
+                        [
+                            [
+                                28.978263,
+                                -28.955597
+                            ],
+                            [
+                                28.5417,
+                                -28.647502
+                            ],
+                            [
+                                28.074338,
+                                -28.851469
+                            ],
+                            [
+                                27.532511,
+                                -29.242711
+                            ],
+                            [
+                                26.999262,
+                                -29.875954
+                            ],
+                            [
+                                27.749397,
+                                -30.645106
+                            ],
+                            [
+                                28.107205,
+                                -30.545732
+                            ],
+                            [
+                                28.291069,
+                                -30.226217
+                            ],
+                            [
+                                28.8484,
+                                -30.070051
+                            ],
+                            [
+                                29.018415,
+                                -29.743766
+                            ],
+                            [
+                                29.325166,
+                                -29.257387
+                            ],
+                            [
+                                28.978263,
+                                -28.955597
+                            ]
+                        ]
+                    ]
+                }
+            }
+        ]
+    },
+    "ISO": {
+        "alpha2": "ZA",
+        "alpha3": "ZAF"
+    },
+    "states": [
+        {
+            "id": 938,
+            "name": "Eastern Cape",
+            "state_code": "EC",
+            "cities": [
+                {
+                    "id": 131015,
+                    "name": "Adelaide",
+                    "latitude": "-32.70747000",
+                    "longitude": "26.29564000"
+                },
+                {
+                    "id": 131018,
+                    "name": "Alfred Nzo District Municipality",
+                    "latitude": "-30.66803000",
+                    "longitude": "29.15490000"
+                },
+                {
+                    "id": 131019,
+                    "name": "Alice",
+                    "latitude": "-32.78749000",
+                    "longitude": "26.83440000"
+                },
+                {
+                    "id": 131020,
+                    "name": "Aliwal North",
+                    "latitude": "-30.69366000",
+                    "longitude": "26.71141000"
+                },
+                {
+                    "id": 131023,
+                    "name": "Amathole District Municipality",
+                    "latitude": "-32.55895000",
+                    "longitude": "27.45919000"
+                },
+                {
+                    "id": 131037,
+                    "name": "Bhisho",
+                    "latitude": "-32.84721000",
+                    "longitude": "27.44218000"
+                },
+                {
+                    "id": 131052,
+                    "name": "Buffalo City Metropolitan Municipality",
+                    "latitude": "-32.95141000",
+                    "longitude": "27.61164000"
+                },
+                {
+                    "id": 131053,
+                    "name": "Burgersdorp",
+                    "latitude": "-30.99766000",
+                    "longitude": "26.32862000"
+                },
+                {
+                    "id": 131054,
+                    "name": "Butterworth",
+                    "latitude": "-32.33083000",
+                    "longitude": "28.14981000"
+                },
+                {
+                    "id": 131055,
+                    "name": "Cacadu District Municipality",
+                    "latitude": "-33.06583000",
+                    "longitude": "24.77583000"
+                },
+                {
+                    "id": 131068,
+                    "name": "Chris Hani District Municipality",
+                    "latitude": "-31.79033000",
+                    "longitude": "26.43965000"
+                },
+                {
+                    "id": 131078,
+                    "name": "Cradock",
+                    "latitude": "-32.16422000",
+                    "longitude": "25.61918000"
+                },
+                {
+                    "id": 131086,
+                    "name": "Dordrecht",
+                    "latitude": "-31.37200000",
+                    "longitude": "27.04878000"
+                },
+                {
+                    "id": 131093,
+                    "name": "East London",
+                    "latitude": "-33.01529000",
+                    "longitude": "27.91162000"
+                },
+                {
+                    "id": 131103,
+                    "name": "Elliot",
+                    "latitude": "-31.33333000",
+                    "longitude": "27.85000000"
+                },
+                {
+                    "id": 131109,
+                    "name": "Fort Beaufort",
+                    "latitude": "-32.77477000",
+                    "longitude": "26.63376000"
+                },
+                {
+                    "id": 131119,
+                    "name": "Graaff-Reinet",
+                    "latitude": "-32.25215000",
+                    "longitude": "24.53075000"
+                },
+                {
+                    "id": 131121,
+                    "name": "Grahamstown",
+                    "latitude": "-33.30422000",
+                    "longitude": "26.53276000"
+                },
+                {
+                    "id": 131133,
+                    "name": "Ilinge",
+                    "latitude": "-31.97676000",
+                    "longitude": "27.04267000"
+                },
+                {
+                    "id": 131135,
+                    "name": "Joe Gqabi District Municipality",
+                    "latitude": "-30.94178000",
+                    "longitude": "27.06053000"
+                },
+                {
+                    "id": 131141,
+                    "name": "Kirkwood",
+                    "latitude": "-33.39829000",
+                    "longitude": "25.44279000"
+                },
+                {
+                    "id": 131152,
+                    "name": "Kruisfontein",
+                    "latitude": "-34.00333000",
+                    "longitude": "24.73142000"
+                },
+                {
+                    "id": 131157,
+                    "name": "Lady Frere",
+                    "latitude": "-31.70312000",
+                    "longitude": "27.23290000"
+                },
+                {
+                    "id": 131174,
+                    "name": "Middelburg",
+                    "latitude": "-31.49285000",
+                    "longitude": "25.00633000"
+                },
+                {
+                    "id": 131182,
+                    "name": "Molteno",
+                    "latitude": "-31.39675000",
+                    "longitude": "26.36246000"
+                },
+                {
+                    "id": 131191,
+                    "name": "Mthatha",
+                    "latitude": "-31.58893000",
+                    "longitude": "28.78443000"
+                },
+                {
+                    "id": 131197,
+                    "name": "Nelson Mandela Bay Metropolitan Municipality",
+                    "latitude": "-33.80399000",
+                    "longitude": "25.49213000"
+                },
+                {
+                    "id": 131206,
+                    "name": "OR Tambo District Municipality",
+                    "latitude": "-31.46740000",
+                    "longitude": "29.05247000"
+                },
+                {
+                    "id": 131224,
+                    "name": "Port Alfred",
+                    "latitude": "-33.58601000",
+                    "longitude": "26.88329000"
+                },
+                {
+                    "id": 131225,
+                    "name": "Port Elizabeth",
+                    "latitude": "-33.96109000",
+                    "longitude": "25.61494000"
+                },
+                {
+                    "id": 131226,
+                    "name": "Port Saint John’s",
+                    "latitude": "-31.62291000",
+                    "longitude": "29.54477000"
+                },
+                {
+                    "id": 131233,
+                    "name": "Queensdale",
+                    "latitude": "-31.87101000",
+                    "longitude": "26.97862000"
+                },
+                {
+                    "id": 131234,
+                    "name": "Queenstown",
+                    "latitude": "-31.89756000",
+                    "longitude": "26.87533000"
+                },
+                {
+                    "id": 131259,
+                    "name": "Somerset East",
+                    "latitude": "-32.72173000",
+                    "longitude": "25.58804000"
+                },
+                {
+                    "id": 131266,
+                    "name": "Stutterheim",
+                    "latitude": "-32.57076000",
+                    "longitude": "27.42396000"
+                },
+                {
+                    "id": 131279,
+                    "name": "Uitenhage",
+                    "latitude": "-33.75757000",
+                    "longitude": "25.39710000"
+                },
+                {
+                    "id": 131308,
+                    "name": "Whittlesea",
+                    "latitude": "-32.17588000",
+                    "longitude": "26.82437000"
+                },
+                {
+                    "id": 131309,
+                    "name": "Willowmore",
+                    "latitude": "-33.29265000",
+                    "longitude": "23.48954000"
+                }
+            ]
+        },
+        {
+            "id": 932,
+            "name": "Free State",
+            "state_code": "FS",
+            "cities": [
+                {
+                    "id": 131021,
+                    "name": "Allanridge",
+                    "latitude": "-27.75431000",
+                    "longitude": "26.64382000"
+                },
+                {
+                    "id": 131036,
+                    "name": "Bethlehem",
+                    "latitude": "-28.23078000",
+                    "longitude": "28.30707000"
+                },
+                {
+                    "id": 131038,
+                    "name": "Bloemfontein",
+                    "latitude": "-29.12107000",
+                    "longitude": "26.21400000"
+                },
+                {
+                    "id": 131043,
+                    "name": "Bothaville",
+                    "latitude": "-27.38870000",
+                    "longitude": "26.61701000"
+                },
+                {
+                    "id": 131044,
+                    "name": "Botshabelo",
+                    "latitude": "-29.26737000",
+                    "longitude": "26.72595000"
+                },
+                {
+                    "id": 131046,
+                    "name": "Brandfort",
+                    "latitude": "-28.70008000",
+                    "longitude": "26.45968000"
+                },
+                {
+                    "id": 131075,
+                    "name": "Clocolan",
+                    "latitude": "-28.91367000",
+                    "longitude": "27.56555000"
+                },
+                {
+                    "id": 131084,
+                    "name": "Deneysville",
+                    "latitude": "-26.89080000",
+                    "longitude": "28.09707000"
+                },
+                {
+                    "id": 131107,
+                    "name": "Fezile Dabi District Municipality",
+                    "latitude": "-27.33918000",
+                    "longitude": "27.71927000"
+                },
+                {
+                    "id": 131111,
+                    "name": "Frankfort",
+                    "latitude": "-27.27888000",
+                    "longitude": "28.49696000"
+                },
+                {
+                    "id": 131124,
+                    "name": "Harrismith",
+                    "latitude": "-28.27276000",
+                    "longitude": "29.12946000"
+                },
+                {
+                    "id": 131126,
+                    "name": "Heilbron",
+                    "latitude": "-27.28115000",
+                    "longitude": "27.97090000"
+                },
+                {
+                    "id": 131128,
+                    "name": "Hennenman",
+                    "latitude": "-27.97654000",
+                    "longitude": "27.02423000"
+                },
+                {
+                    "id": 131131,
+                    "name": "Hoopstad",
+                    "latitude": "-27.83273000",
+                    "longitude": "25.90833000"
+                },
+                {
+                    "id": 131146,
+                    "name": "Koppies",
+                    "latitude": "-27.24179000",
+                    "longitude": "27.57422000"
+                },
+                {
+                    "id": 131150,
+                    "name": "Kroonstad",
+                    "latitude": "-27.65036000",
+                    "longitude": "27.23488000"
+                },
+                {
+                    "id": 131154,
+                    "name": "Kutloanong",
+                    "latitude": "-27.83333000",
+                    "longitude": "26.75000000"
+                },
+                {
+                    "id": 131158,
+                    "name": "Ladybrand",
+                    "latitude": "-29.19448000",
+                    "longitude": "27.45739000"
+                },
+                {
+                    "id": 131161,
+                    "name": "Lejweleputswa District Municipality",
+                    "latitude": "-28.23982000",
+                    "longitude": "26.12649000"
+                },
+                {
+                    "id": 131163,
+                    "name": "Lindley",
+                    "latitude": "-27.87910000",
+                    "longitude": "27.91348000"
+                },
+                {
+                    "id": 131170,
+                    "name": "Mangaung Metropolitan Municipality",
+                    "latitude": "-29.15627000",
+                    "longitude": "26.35116000"
+                },
+                {
+                    "id": 131173,
+                    "name": "Marquard",
+                    "latitude": "-28.66449000",
+                    "longitude": "27.43048000"
+                },
+                {
+                    "id": 131214,
+                    "name": "Parys",
+                    "latitude": "-26.90330000",
+                    "longitude": "27.45727000"
+                },
+                {
+                    "id": 131216,
+                    "name": "Phuthaditjhaba",
+                    "latitude": "-28.52423000",
+                    "longitude": "28.81582000"
+                },
+                {
+                    "id": 131237,
+                    "name": "Reitz",
+                    "latitude": "-27.80138000",
+                    "longitude": "28.42726000"
+                },
+                {
+                    "id": 131249,
+                    "name": "Sasolburg",
+                    "latitude": "-26.81358000",
+                    "longitude": "27.81695000"
+                },
+                {
+                    "id": 131255,
+                    "name": "Senekal",
+                    "latitude": "-28.31971000",
+                    "longitude": "27.62082000"
+                },
+                {
+                    "id": 131271,
+                    "name": "Thaba Nchu",
+                    "latitude": "-29.20932000",
+                    "longitude": "26.83898000"
+                },
+                {
+                    "id": 131273,
+                    "name": "Thabo Mofutsanyana District Municipality",
+                    "latitude": "-28.24378000",
+                    "longitude": "28.34077000"
+                },
+                {
+                    "id": 131274,
+                    "name": "Theunissen",
+                    "latitude": "-28.41098000",
+                    "longitude": "26.70107000"
+                },
+                {
+                    "id": 131285,
+                    "name": "Ventersburg",
+                    "latitude": "-28.08561000",
+                    "longitude": "27.13814000"
+                },
+                {
+                    "id": 131288,
+                    "name": "Viljoenskroon",
+                    "latitude": "-27.20841000",
+                    "longitude": "26.94855000"
+                },
+                {
+                    "id": 131289,
+                    "name": "Villiers",
+                    "latitude": "-27.03026000",
+                    "longitude": "28.60061000"
+                },
+                {
+                    "id": 131290,
+                    "name": "Virginia",
+                    "latitude": "-28.10391000",
+                    "longitude": "26.86593000"
+                },
+                {
+                    "id": 131292,
+                    "name": "Vrede",
+                    "latitude": "-27.42573000",
+                    "longitude": "29.16585000"
+                },
+                {
+                    "id": 131293,
+                    "name": "Vredefort",
+                    "latitude": "-27.00805000",
+                    "longitude": "27.36460000"
+                },
+                {
+                    "id": 131301,
+                    "name": "Welkom",
+                    "latitude": "-27.97742000",
+                    "longitude": "26.73506000"
+                },
+                {
+                    "id": 131303,
+                    "name": "Wesselsbron",
+                    "latitude": "-27.85490000",
+                    "longitude": "26.36583000"
+                },
+                {
+                    "id": 131310,
+                    "name": "Winburg",
+                    "latitude": "-28.51805000",
+                    "longitude": "27.00933000"
+                },
+                {
+                    "id": 131314,
+                    "name": "Xhariep District Municipality",
+                    "latitude": "-29.84311000",
+                    "longitude": "25.83286000"
+                },
+                {
+                    "id": 131315,
+                    "name": "Zastron",
+                    "latitude": "-30.30225000",
+                    "longitude": "27.08395000"
+                }
+            ]
+        },
+        {
+            "id": 936,
+            "name": "Gauteng",
+            "state_code": "GT",
+            "cities": [
+                {
+                    "id": 131017,
+                    "name": "Alberton",
+                    "latitude": "-26.26786000",
+                    "longitude": "28.12225000"
+                },
+                {
+                    "id": 131032,
+                    "name": "Benoni",
+                    "latitude": "-26.18848000",
+                    "longitude": "28.32078000"
+                },
+                {
+                    "id": 131042,
+                    "name": "Boksburg",
+                    "latitude": "-26.21197000",
+                    "longitude": "28.25958000"
+                },
+                {
+                    "id": 131045,
+                    "name": "Brakpan",
+                    "latitude": "-26.23656000",
+                    "longitude": "28.36938000"
+                },
+                {
+                    "id": 131051,
+                    "name": "Bronkhorstspruit",
+                    "latitude": "-25.81015000",
+                    "longitude": "28.74248000"
+                },
+                {
+                    "id": 131062,
+                    "name": "Carletonville",
+                    "latitude": "-26.36094000",
+                    "longitude": "27.39767000"
+                },
+                {
+                    "id": 131066,
+                    "name": "Centurion",
+                    "latitude": "-25.85891000",
+                    "longitude": "28.18577000"
+                },
+                {
+                    "id": 131071,
+                    "name": "City of Johannesburg Metropolitan Municipality",
+                    "latitude": "-26.17673000",
+                    "longitude": "27.96353000"
+                },
+                {
+                    "id": 131072,
+                    "name": "City of Tshwane Metropolitan Municipality",
+                    "latitude": "-25.65985000",
+                    "longitude": "28.44343000"
+                },
+                {
+                    "id": 131079,
+                    "name": "Cullinan",
+                    "latitude": "-25.67088000",
+                    "longitude": "28.52364000"
+                },
+                {
+                    "id": 131085,
+                    "name": "Diepsloot",
+                    "latitude": "-25.93312000",
+                    "longitude": "28.01213000"
+                },
+                {
+                    "id": 131094,
+                    "name": "Eastleigh",
+                    "latitude": "-26.12965000",
+                    "longitude": "28.15541000"
+                },
+                {
+                    "id": 131096,
+                    "name": "Eden Glen",
+                    "latitude": "-26.13230000",
+                    "longitude": "28.16859000"
+                },
+                {
+                    "id": 131097,
+                    "name": "Eden Glen Ext 60",
+                    "latitude": "-26.12593000",
+                    "longitude": "28.16500000"
+                },
+                {
+                    "id": 131098,
+                    "name": "Edenvale",
+                    "latitude": "-26.14095000",
+                    "longitude": "28.15247000"
+                },
+                {
+                    "id": 131100,
+                    "name": "Ekangala",
+                    "latitude": "-25.69619000",
+                    "longitude": "28.74918000"
+                },
+                {
+                    "id": 131101,
+                    "name": "Ekurhuleni Metropolitan Municipality",
+                    "latitude": "-26.19890000",
+                    "longitude": "28.31262000"
+                },
+                {
+                    "id": 131125,
+                    "name": "Heidelberg",
+                    "latitude": "-26.50476000",
+                    "longitude": "28.35921000"
+                },
+                {
+                    "id": 131136,
+                    "name": "Johannesburg",
+                    "latitude": "-26.20227000",
+                    "longitude": "28.04363000"
+                },
+                {
+                    "id": 131151,
+                    "name": "Krugersdorp",
+                    "latitude": "-26.08577000",
+                    "longitude": "27.77515000"
+                },
+                {
+                    "id": 131166,
+                    "name": "Mabopane",
+                    "latitude": "-25.49768000",
+                    "longitude": "28.10065000"
+                },
+                {
+                    "id": 131176,
+                    "name": "Midrand",
+                    "latitude": "-25.98953000",
+                    "longitude": "28.12843000"
+                },
+                {
+                    "id": 131177,
+                    "name": "Midstream",
+                    "latitude": "-25.91849000",
+                    "longitude": "28.19881000"
+                },
+                {
+                    "id": 131179,
+                    "name": "Modderfontein",
+                    "latitude": "-26.08909000",
+                    "longitude": "28.16534000"
+                },
+                {
+                    "id": 131193,
+                    "name": "Muldersdriseloop",
+                    "latitude": "-26.03673000",
+                    "longitude": "27.83798000"
+                },
+                {
+                    "id": 131202,
+                    "name": "Nigel",
+                    "latitude": "-26.43138000",
+                    "longitude": "28.47713000"
+                },
+                {
+                    "id": 131207,
+                    "name": "Orange Farm",
+                    "latitude": "-26.48333000",
+                    "longitude": "27.86667000"
+                },
+                {
+                    "id": 131230,
+                    "name": "Pretoria",
+                    "latitude": "-25.74486000",
+                    "longitude": "28.18783000"
+                },
+                {
+                    "id": 131235,
+                    "name": "Randburg",
+                    "latitude": "-26.09410000",
+                    "longitude": "28.00123000"
+                },
+                {
+                    "id": 131236,
+                    "name": "Randfontein",
+                    "latitude": "-26.18440000",
+                    "longitude": "27.70203000"
+                },
+                {
+                    "id": 131245,
+                    "name": "Roodepoort",
+                    "latitude": "-26.16250000",
+                    "longitude": "27.87250000"
+                },
+                {
+                    "id": 131253,
+                    "name": "Sedibeng District Municipality",
+                    "latitude": "-26.56686000",
+                    "longitude": "28.18277000"
+                },
+                {
+                    "id": 131260,
+                    "name": "Soweto",
+                    "latitude": "-26.26781000",
+                    "longitude": "27.85849000"
+                },
+                {
+                    "id": 131262,
+                    "name": "Springs",
+                    "latitude": "-26.25000000",
+                    "longitude": "28.40000000"
+                },
+                {
+                    "id": 131270,
+                    "name": "Tembisa",
+                    "latitude": "-25.99636000",
+                    "longitude": "28.22680000"
+                },
+                {
+                    "id": 131284,
+                    "name": "Vanderbijlpark",
+                    "latitude": "-26.71171000",
+                    "longitude": "27.83795000"
+                },
+                {
+                    "id": 131286,
+                    "name": "Vereeniging",
+                    "latitude": "-26.67313000",
+                    "longitude": "27.92615000"
+                },
+                {
+                    "id": 131305,
+                    "name": "West Rand District Municipality",
+                    "latitude": "-26.24565000",
+                    "longitude": "27.55538000"
+                },
+                {
+                    "id": 131306,
+                    "name": "Westonaria",
+                    "latitude": "-26.31905000",
+                    "longitude": "27.64860000"
+                }
+            ]
+        },
+        {
+            "id": 935,
+            "name": "KwaZulu-Natal",
+            "state_code": "NL",
+            "cities": [
+                {
+                    "id": 131022,
+                    "name": "Amajuba District Municipality",
+                    "latitude": "-27.73558000",
+                    "longitude": "30.13537000"
+                },
+                {
+                    "id": 131027,
+                    "name": "Ballito",
+                    "latitude": "-29.53897000",
+                    "longitude": "31.21439000"
+                },
+                {
+                    "id": 131033,
+                    "name": "Berea",
+                    "latitude": "-29.85185000",
+                    "longitude": "30.99337000"
+                },
+                {
+                    "id": 131091,
+                    "name": "Dundee",
+                    "latitude": "-28.16678000",
+                    "longitude": "30.23371000"
+                },
+                {
+                    "id": 131092,
+                    "name": "Durban",
+                    "latitude": "-29.85790000",
+                    "longitude": "31.02920000"
+                },
+                {
+                    "id": 131102,
+                    "name": "Ekuvukeni",
+                    "latitude": "-28.46752000",
+                    "longitude": "30.15513000"
+                },
+                {
+                    "id": 131320,
+                    "name": "eMkhomazi",
+                    "latitude": "-30.20674000",
+                    "longitude": "30.79776000"
+                },
+                {
+                    "id": 131104,
+                    "name": "Empangeni",
+                    "latitude": "-28.76197000",
+                    "longitude": "31.89329000"
+                },
+                {
+                    "id": 131106,
+                    "name": "Eshowe",
+                    "latitude": "-28.88649000",
+                    "longitude": "31.46990000"
+                },
+                {
+                    "id": 131321,
+                    "name": "eSikhaleni",
+                    "latitude": "-28.87097000",
+                    "longitude": "31.89961000"
+                },
+                {
+                    "id": 131322,
+                    "name": "eThekwini Metropolitan Municipality",
+                    "latitude": "-29.86670000",
+                    "longitude": "31.01670000"
+                },
+                {
+                    "id": 131118,
+                    "name": "Glencoe",
+                    "latitude": "-28.17827000",
+                    "longitude": "30.14702000"
+                },
+                {
+                    "id": 131122,
+                    "name": "Greytown",
+                    "latitude": "-29.06415000",
+                    "longitude": "30.59279000"
+                },
+                {
+                    "id": 131130,
+                    "name": "Hluhluwe",
+                    "latitude": "-28.01895000",
+                    "longitude": "32.26762000"
+                },
+                {
+                    "id": 131132,
+                    "name": "Howick",
+                    "latitude": "-29.47795000",
+                    "longitude": "30.23057000"
+                },
+                {
+                    "id": 131323,
+                    "name": "iLembe District Municipality",
+                    "latitude": "-29.27326000",
+                    "longitude": "31.14253000"
+                },
+                {
+                    "id": 131144,
+                    "name": "Kokstad",
+                    "latitude": "-30.54723000",
+                    "longitude": "29.42412000"
+                },
+                {
+                    "id": 131155,
+                    "name": "KwaDukuza",
+                    "latitude": "-29.32816000",
+                    "longitude": "31.28954000"
+                },
+                {
+                    "id": 131172,
+                    "name": "Margate",
+                    "latitude": "-30.86360000",
+                    "longitude": "30.37052000"
+                },
+                {
+                    "id": 131183,
+                    "name": "Mondlo",
+                    "latitude": "-27.98299000",
+                    "longitude": "30.71769000"
+                },
+                {
+                    "id": 131185,
+                    "name": "Mooirivier",
+                    "latitude": "-29.20824000",
+                    "longitude": "29.99460000"
+                },
+                {
+                    "id": 131189,
+                    "name": "Mpophomeni",
+                    "latitude": "-29.56822000",
+                    "longitude": "30.18618000"
+                },
+                {
+                    "id": 131190,
+                    "name": "Mpumalanga",
+                    "latitude": "-29.81292000",
+                    "longitude": "30.63646000"
+                },
+                {
+                    "id": 131192,
+                    "name": "Mtubatuba",
+                    "latitude": "-28.41789000",
+                    "longitude": "32.18483000"
+                },
+                {
+                    "id": 131196,
+                    "name": "Ndwedwe",
+                    "latitude": "-29.51686000",
+                    "longitude": "30.92687000"
+                },
+                {
+                    "id": 131199,
+                    "name": "Newcastle",
+                    "latitude": "-27.75796000",
+                    "longitude": "29.93180000"
+                },
+                {
+                    "id": 131218,
+                    "name": "Pietermaritzburg",
+                    "latitude": "-29.61679000",
+                    "longitude": "30.39278000"
+                },
+                {
+                    "id": 131227,
+                    "name": "Port Shepstone",
+                    "latitude": "-30.74137000",
+                    "longitude": "30.45499000"
+                },
+                {
+                    "id": 131239,
+                    "name": "Richards Bay",
+                    "latitude": "-28.78301000",
+                    "longitude": "32.03768000"
+                },
+                {
+                    "id": 131240,
+                    "name": "Richmond",
+                    "latitude": "-29.87196000",
+                    "longitude": "30.27235000"
+                },
+                {
+                    "id": 131251,
+                    "name": "Scottburgh",
+                    "latitude": "-30.28666000",
+                    "longitude": "30.75316000"
+                },
+                {
+                    "id": 131256,
+                    "name": "Sisonke District Municipality",
+                    "latitude": "-30.11082000",
+                    "longitude": "29.66009000"
+                },
+                {
+                    "id": 131267,
+                    "name": "Sundumbili",
+                    "latitude": "-29.13371000",
+                    "longitude": "31.39752000"
+                },
+                {
+                    "id": 131278,
+                    "name": "Ugu District Municipality",
+                    "latitude": "-30.54365000",
+                    "longitude": "30.27480000"
+                },
+                {
+                    "id": 131280,
+                    "name": "Ulundi",
+                    "latitude": "-28.33523000",
+                    "longitude": "31.41617000"
+                },
+                {
+                    "id": 131324,
+                    "name": "uMgungundlovu District Municipality",
+                    "latitude": "-29.50927000",
+                    "longitude": "30.19838000"
+                },
+                {
+                    "id": 131325,
+                    "name": "uMkhanyakude District Municipality",
+                    "latitude": "-27.62236000",
+                    "longitude": "32.32945000"
+                },
+                {
+                    "id": 131326,
+                    "name": "uMzinyathi District Municipality",
+                    "latitude": "-28.58570000",
+                    "longitude": "30.55883000"
+                },
+                {
+                    "id": 131327,
+                    "name": "uThukela District Municipality",
+                    "latitude": "-28.71920000",
+                    "longitude": "29.65799000"
+                },
+                {
+                    "id": 131328,
+                    "name": "uThungulu District Municipality",
+                    "latitude": "-28.70046000",
+                    "longitude": "31.51527000"
+                },
+                {
+                    "id": 131282,
+                    "name": "Utrecht",
+                    "latitude": "-27.65862000",
+                    "longitude": "30.32166000"
+                },
+                {
+                    "id": 131297,
+                    "name": "Vryheid",
+                    "latitude": "-27.76952000",
+                    "longitude": "30.79165000"
+                },
+                {
+                    "id": 131318,
+                    "name": "Zululand District Municipality",
+                    "latitude": "-27.81139000",
+                    "longitude": "31.29426000"
+                }
+            ]
+        },
+        {
+            "id": 933,
+            "name": "Limpopo",
+            "state_code": "LP",
+            "cities": [
+                {
+                    "id": 131040,
+                    "name": "Bochum",
+                    "latitude": "-23.28609000",
+                    "longitude": "29.13964000"
+                },
+                {
+                    "id": 131061,
+                    "name": "Capricorn District Municipality",
+                    "latitude": "-23.48163000",
+                    "longitude": "29.18350000"
+                },
+                {
+                    "id": 131090,
+                    "name": "Duiwelskloof",
+                    "latitude": "-23.69339000",
+                    "longitude": "30.14002000"
+                },
+                {
+                    "id": 131113,
+                    "name": "Ga-Kgapane",
+                    "latitude": "-23.64378000",
+                    "longitude": "30.22324000"
+                },
+                {
+                    "id": 131117,
+                    "name": "Giyani",
+                    "latitude": "-23.30246000",
+                    "longitude": "30.71868000"
+                },
+                {
+                    "id": 131160,
+                    "name": "Lebowakgomo",
+                    "latitude": "-24.20000000",
+                    "longitude": "29.50000000"
+                },
+                {
+                    "id": 131164,
+                    "name": "Louis Trichardt",
+                    "latitude": "-23.04385000",
+                    "longitude": "29.90319000"
+                },
+                {
+                    "id": 131171,
+                    "name": "Mankoeng",
+                    "latitude": "-23.90000000",
+                    "longitude": "29.81667000"
+                },
+                {
+                    "id": 131180,
+                    "name": "Modimolle",
+                    "latitude": "-24.70000000",
+                    "longitude": "28.40000000"
+                },
+                {
+                    "id": 131181,
+                    "name": "Mokopane",
+                    "latitude": "-24.19436000",
+                    "longitude": "29.00974000"
+                },
+                {
+                    "id": 131187,
+                    "name": "Mopani District Municipality",
+                    "latitude": "-23.76661000",
+                    "longitude": "30.83600000"
+                },
+                {
+                    "id": 131194,
+                    "name": "Musina",
+                    "latitude": "-22.34881000",
+                    "longitude": "30.04074000"
+                },
+                {
+                    "id": 131204,
+                    "name": "Nkowakowa",
+                    "latitude": "-23.88782000",
+                    "longitude": "30.28708000"
+                },
+                {
+                    "id": 131215,
+                    "name": "Phalaborwa",
+                    "latitude": "-23.94299000",
+                    "longitude": "31.14107000"
+                },
+                {
+                    "id": 131223,
+                    "name": "Polokwane",
+                    "latitude": "-23.90449000",
+                    "longitude": "29.46885000"
+                },
+                {
+                    "id": 131254,
+                    "name": "Sekhukhune District Municipality",
+                    "latitude": "-24.82806000",
+                    "longitude": "29.83803000"
+                },
+                {
+                    "id": 131272,
+                    "name": "Thabazimbi",
+                    "latitude": "-24.59165000",
+                    "longitude": "27.41155000"
+                },
+                {
+                    "id": 131275,
+                    "name": "Thohoyandou",
+                    "latitude": "-22.94564000",
+                    "longitude": "30.48497000"
+                },
+                {
+                    "id": 131276,
+                    "name": "Thulamahashi",
+                    "latitude": "-24.72459000",
+                    "longitude": "31.19939000"
+                },
+                {
+                    "id": 131277,
+                    "name": "Tzaneen",
+                    "latitude": "-23.83322000",
+                    "longitude": "30.16351000"
+                },
+                {
+                    "id": 131287,
+                    "name": "Vhembe District Municipality",
+                    "latitude": "-22.75467000",
+                    "longitude": "30.19360000"
+                },
+                {
+                    "id": 131298,
+                    "name": "Warmbaths",
+                    "latitude": "-24.88333000",
+                    "longitude": "28.28333000"
+                },
+                {
+                    "id": 131300,
+                    "name": "Waterberg District Municipality",
+                    "latitude": "-24.20514000",
+                    "longitude": "27.97870000"
+                }
+            ]
+        },
+        {
+            "id": 937,
+            "name": "Mpumalanga",
+            "state_code": "MP",
+            "cities": [
+                {
+                    "id": 131026,
+                    "name": "Balfour",
+                    "latitude": "-26.66331000",
+                    "longitude": "28.59016000"
+                },
+                {
+                    "id": 131028,
+                    "name": "Barberton",
+                    "latitude": "-25.78842000",
+                    "longitude": "31.05319000"
+                },
+                {
+                    "id": 131031,
+                    "name": "Belfast",
+                    "latitude": "-25.68991000",
+                    "longitude": "30.03504000"
+                },
+                {
+                    "id": 131035,
+                    "name": "Bethal",
+                    "latitude": "-26.45794000",
+                    "longitude": "29.46553000"
+                },
+                {
+                    "id": 131049,
+                    "name": "Breyten",
+                    "latitude": "-26.30176000",
+                    "longitude": "29.98696000"
+                },
+                {
+                    "id": 131064,
+                    "name": "Carolina",
+                    "latitude": "-26.06927000",
+                    "longitude": "30.11489000"
+                },
+                {
+                    "id": 131083,
+                    "name": "Delmas",
+                    "latitude": "-26.14660000",
+                    "longitude": "28.68322000"
+                },
+                {
+                    "id": 131089,
+                    "name": "Driefontein",
+                    "latitude": "-27.01770000",
+                    "longitude": "30.44979000"
+                },
+                {
+                    "id": 131099,
+                    "name": "Ehlanzeni District",
+                    "latitude": "-25.35100000",
+                    "longitude": "31.36100000"
+                },
+                {
+                    "id": 131319,
+                    "name": "eMbalenhle",
+                    "latitude": "-26.53333000",
+                    "longitude": "29.06667000"
+                },
+                {
+                    "id": 131105,
+                    "name": "Ermelo",
+                    "latitude": "-26.53333000",
+                    "longitude": "29.98333000"
+                },
+                {
+                    "id": 131116,
+                    "name": "Gert Sibande District Municipality",
+                    "latitude": "-26.67100000",
+                    "longitude": "29.92953000"
+                },
+                {
+                    "id": 131127,
+                    "name": "Hendrina",
+                    "latitude": "-26.15881000",
+                    "longitude": "29.71528000"
+                },
+                {
+                    "id": 131145,
+                    "name": "Komatipoort",
+                    "latitude": "-25.43321000",
+                    "longitude": "31.95478000"
+                },
+                {
+                    "id": 131149,
+                    "name": "Kriel",
+                    "latitude": "-26.27391000",
+                    "longitude": "29.22530000"
+                },
+                {
+                    "id": 131165,
+                    "name": "Lydenburg",
+                    "latitude": "-25.09598000",
+                    "longitude": "30.44393000"
+                },
+                {
+                    "id": 131175,
+                    "name": "Middelburg",
+                    "latitude": "-25.77507000",
+                    "longitude": "29.46482000"
+                },
+                {
+                    "id": 131198,
+                    "name": "Nelspruit",
+                    "latitude": "-25.47448000",
+                    "longitude": "30.97033000"
+                },
+                {
+                    "id": 131203,
+                    "name": "Nkangala District Municipality",
+                    "latitude": "-25.71222000",
+                    "longitude": "29.42431000"
+                },
+                {
+                    "id": 131217,
+                    "name": "Piet Retief",
+                    "latitude": "-27.00706000",
+                    "longitude": "30.81323000"
+                },
+                {
+                    "id": 131252,
+                    "name": "Secunda",
+                    "latitude": "-26.55000000",
+                    "longitude": "29.16667000"
+                },
+                {
+                    "id": 131257,
+                    "name": "Siyabuswa",
+                    "latitude": "-25.11319000",
+                    "longitude": "29.04454000"
+                },
+                {
+                    "id": 131263,
+                    "name": "Standerton",
+                    "latitude": "-26.93366000",
+                    "longitude": "29.24152000"
+                },
+                {
+                    "id": 131291,
+                    "name": "Volksrust",
+                    "latitude": "-27.36541000",
+                    "longitude": "29.88175000"
+                },
+                {
+                    "id": 131307,
+                    "name": "White River",
+                    "latitude": "-25.33177000",
+                    "longitude": "31.01166000"
+                },
+                {
+                    "id": 131311,
+                    "name": "Witbank",
+                    "latitude": "-25.87133000",
+                    "longitude": "29.23323000"
+                }
+            ]
+        },
+        {
+            "id": 934,
+            "name": "North West",
+            "state_code": "NW",
+            "cities": [
+                {
+                    "id": 131039,
+                    "name": "Bloemhof",
+                    "latitude": "-27.64685000",
+                    "longitude": "25.60697000"
+                },
+                {
+                    "id": 131041,
+                    "name": "Bojanala Platinum District Municipality",
+                    "latitude": "-25.42612000",
+                    "longitude": "27.22430000"
+                },
+                {
+                    "id": 131050,
+                    "name": "Brits",
+                    "latitude": "-25.63473000",
+                    "longitude": "27.78022000"
+                },
+                {
+                    "id": 131069,
+                    "name": "Christiana",
+                    "latitude": "-27.91402000",
+                    "longitude": "25.16111000"
+                },
+                {
+                    "id": 131087,
+                    "name": "Dr Kenneth Kaunda District Municipality",
+                    "latitude": "-26.80678000",
+                    "longitude": "26.56926000"
+                },
+                {
+                    "id": 131088,
+                    "name": "Dr Ruth Segomotsi Mompati District Municipality",
+                    "latitude": "-26.63765000",
+                    "longitude": "24.27462000"
+                },
+                {
+                    "id": 131108,
+                    "name": "Fochville",
+                    "latitude": "-26.48862000",
+                    "longitude": "27.49387000"
+                },
+                {
+                    "id": 131114,
+                    "name": "Ga-Rankuwa",
+                    "latitude": "-25.61692000",
+                    "longitude": "27.99471000"
+                },
+                {
+                    "id": 131134,
+                    "name": "Jan Kempdorp",
+                    "latitude": "-27.92246000",
+                    "longitude": "24.83051000"
+                },
+                {
+                    "id": 131142,
+                    "name": "Klerksdorp",
+                    "latitude": "-26.85213000",
+                    "longitude": "26.66672000"
+                },
+                {
+                    "id": 131147,
+                    "name": "Koster",
+                    "latitude": "-25.86301000",
+                    "longitude": "26.89756000"
+                },
+                {
+                    "id": 131162,
+                    "name": "Lichtenburg",
+                    "latitude": "-26.15200000",
+                    "longitude": "26.15968000"
+                },
+                {
+                    "id": 131167,
+                    "name": "Mahikeng",
+                    "latitude": "-25.86522000",
+                    "longitude": "25.64421000"
+                },
+                {
+                    "id": 131168,
+                    "name": "Maile",
+                    "latitude": "-25.44152000",
+                    "longitude": "27.28165000"
+                },
+                {
+                    "id": 131178,
+                    "name": "Mmabatho",
+                    "latitude": "-25.85000000",
+                    "longitude": "25.63333000"
+                },
+                {
+                    "id": 131201,
+                    "name": "Ngaka Modiri Molema District Municipality",
+                    "latitude": "-25.95559000",
+                    "longitude": "25.80782000"
+                },
+                {
+                    "id": 131209,
+                    "name": "Orkney",
+                    "latitude": "-26.98023000",
+                    "longitude": "26.67272000"
+                },
+                {
+                    "id": 131229,
+                    "name": "Potchefstroom",
+                    "latitude": "-26.71667000",
+                    "longitude": "27.10000000"
+                },
+                {
+                    "id": 131247,
+                    "name": "Rustenburg",
+                    "latitude": "-25.66756000",
+                    "longitude": "27.24208000"
+                },
+                {
+                    "id": 131250,
+                    "name": "Schweizer-Reneke",
+                    "latitude": "-27.18871000",
+                    "longitude": "25.32931000"
+                },
+                {
+                    "id": 131265,
+                    "name": "Stilfontein",
+                    "latitude": "-26.84493000",
+                    "longitude": "26.76829000"
+                },
+                {
+                    "id": 131296,
+                    "name": "Vryburg",
+                    "latitude": "-26.95659000",
+                    "longitude": "24.72840000"
+                },
+                {
+                    "id": 131312,
+                    "name": "Wolmaransstad",
+                    "latitude": "-27.19740000",
+                    "longitude": "25.98311000"
+                },
+                {
+                    "id": 131316,
+                    "name": "Zeerust",
+                    "latitude": "-25.53695000",
+                    "longitude": "26.07512000"
+                }
+            ]
+        },
+        {
+            "id": 931,
+            "name": "Northern Cape",
+            "state_code": "NC",
+            "cities": [
+                {
+                    "id": 131029,
+                    "name": "Barkly West",
+                    "latitude": "-28.53537000",
+                    "longitude": "24.52151000"
+                },
+                {
+                    "id": 131047,
+                    "name": "Brandvlei",
+                    "latitude": "-30.46532000",
+                    "longitude": "20.48659000"
+                },
+                {
+                    "id": 131058,
+                    "name": "Calvinia",
+                    "latitude": "-31.47069000",
+                    "longitude": "19.77601000"
+                },
+                {
+                    "id": 131063,
+                    "name": "Carnarvon",
+                    "latitude": "-30.96827000",
+                    "longitude": "22.13303000"
+                },
+                {
+                    "id": 131076,
+                    "name": "Colesberg",
+                    "latitude": "-30.71999000",
+                    "longitude": "25.09718000"
+                },
+                {
+                    "id": 131080,
+                    "name": "Daniëlskuil",
+                    "latitude": "-28.18873000",
+                    "longitude": "23.53951000"
+                },
+                {
+                    "id": 131081,
+                    "name": "De Aar",
+                    "latitude": "-30.64966000",
+                    "longitude": "24.01230000"
+                },
+                {
+                    "id": 131110,
+                    "name": "Frances Baard District Municipality",
+                    "latitude": "-28.30003000",
+                    "longitude": "24.38188000"
+                },
+                {
+                    "id": 131112,
+                    "name": "Fraserburg",
+                    "latitude": "-31.91566000",
+                    "longitude": "21.51335000"
+                },
+                {
+                    "id": 131137,
+                    "name": "John Taolo Gaetsewe District Municipality",
+                    "latitude": "-27.04549000",
+                    "longitude": "23.04706000"
+                },
+                {
+                    "id": 131138,
+                    "name": "Kathu",
+                    "latitude": "-27.69569000",
+                    "longitude": "23.04929000"
+                },
+                {
+                    "id": 131139,
+                    "name": "Kenhardt",
+                    "latitude": "-29.34574000",
+                    "longitude": "21.15786000"
+                },
+                {
+                    "id": 131140,
+                    "name": "Kimberley",
+                    "latitude": "-28.73226000",
+                    "longitude": "24.76232000"
+                },
+                {
+                    "id": 131153,
+                    "name": "Kuruman",
+                    "latitude": "-27.45240000",
+                    "longitude": "23.43246000"
+                },
+                {
+                    "id": 131195,
+                    "name": "Namakwa District Municipality",
+                    "latitude": "-30.53561000",
+                    "longitude": "19.42892000"
+                },
+                {
+                    "id": 131205,
+                    "name": "Noupoort",
+                    "latitude": "-31.18736000",
+                    "longitude": "24.94991000"
+                },
+                {
+                    "id": 131208,
+                    "name": "Orania",
+                    "latitude": "-29.81381000",
+                    "longitude": "24.41205000"
+                },
+                {
+                    "id": 131213,
+                    "name": "Pampierstad",
+                    "latitude": "-27.78324000",
+                    "longitude": "24.68768000"
+                },
+                {
+                    "id": 131220,
+                    "name": "Pixley ka Seme District Municipality",
+                    "latitude": "-30.28920000",
+                    "longitude": "23.25818000"
+                },
+                {
+                    "id": 131222,
+                    "name": "Pofadder",
+                    "latitude": "-29.12830000",
+                    "longitude": "19.39492000"
+                },
+                {
+                    "id": 131228,
+                    "name": "Postmasburg",
+                    "latitude": "-28.33392000",
+                    "longitude": "23.06541000"
+                },
+                {
+                    "id": 131231,
+                    "name": "Prieska",
+                    "latitude": "-29.66803000",
+                    "longitude": "22.74251000"
+                },
+                {
+                    "id": 131241,
+                    "name": "Ritchie",
+                    "latitude": "-29.03801000",
+                    "longitude": "24.60278000"
+                },
+                {
+                    "id": 131258,
+                    "name": "Siyanda District Municipality",
+                    "latitude": "-28.00013000",
+                    "longitude": "21.18459000"
+                },
+                {
+                    "id": 131261,
+                    "name": "Springbok",
+                    "latitude": "-29.66434000",
+                    "longitude": "17.88650000"
+                },
+                {
+                    "id": 131281,
+                    "name": "Upington",
+                    "latitude": "-28.44776000",
+                    "longitude": "21.25612000"
+                },
+                {
+                    "id": 131283,
+                    "name": "Van Wyksvlei",
+                    "latitude": "-30.35101000",
+                    "longitude": "21.82498000"
+                },
+                {
+                    "id": 131299,
+                    "name": "Warrenton",
+                    "latitude": "-28.11396000",
+                    "longitude": "24.84753000"
+                }
+            ]
+        },
+        {
+            "id": 939,
+            "name": "Western Cape",
+            "state_code": "WC",
+            "cities": [
+                {
+                    "id": 131016,
+                    "name": "Albertina",
+                    "latitude": "-34.20544000",
+                    "longitude": "21.58001000"
+                },
+                {
+                    "id": 131024,
+                    "name": "Arniston",
+                    "latitude": "-34.66739000",
+                    "longitude": "20.23086000"
+                },
+                {
+                    "id": 131025,
+                    "name": "Atlantis",
+                    "latitude": "-33.56668000",
+                    "longitude": "18.48335000"
+                },
+                {
+                    "id": 131030,
+                    "name": "Beaufort West",
+                    "latitude": "-32.35671000",
+                    "longitude": "22.58295000"
+                },
+                {
+                    "id": 131034,
+                    "name": "Bergvliet",
+                    "latitude": "-34.04746000",
+                    "longitude": "18.45250000"
+                },
+                {
+                    "id": 131048,
+                    "name": "Bredasdorp",
+                    "latitude": "-34.53215000",
+                    "longitude": "20.04031000"
+                },
+                {
+                    "id": 131056,
+                    "name": "Caledon",
+                    "latitude": "-34.22997000",
+                    "longitude": "19.42650000"
+                },
+                {
+                    "id": 131057,
+                    "name": "Calitzdorp",
+                    "latitude": "-33.52755000",
+                    "longitude": "21.67620000"
+                },
+                {
+                    "id": 131059,
+                    "name": "Cape Town",
+                    "latitude": "-33.92584000",
+                    "longitude": "18.42322000"
+                },
+                {
+                    "id": 131060,
+                    "name": "Cape Winelands District Municipality",
+                    "latitude": "-33.32249000",
+                    "longitude": "19.68998000"
+                },
+                {
+                    "id": 131065,
+                    "name": "Central Karoo District Municipality",
+                    "latitude": "-32.62812000",
+                    "longitude": "22.21192000"
+                },
+                {
+                    "id": 131067,
+                    "name": "Ceres",
+                    "latitude": "-33.36889000",
+                    "longitude": "19.31095000"
+                },
+                {
+                    "id": 131070,
+                    "name": "City of Cape Town",
+                    "latitude": "-33.91667000",
+                    "longitude": "18.41667000"
+                },
+                {
+                    "id": 131073,
+                    "name": "Clanwilliam",
+                    "latitude": "-32.18173000",
+                    "longitude": "18.89217000"
+                },
+                {
+                    "id": 131074,
+                    "name": "Claremont",
+                    "latitude": "-33.98056000",
+                    "longitude": "18.46528000"
+                },
+                {
+                    "id": 131077,
+                    "name": "Constantia",
+                    "latitude": "-34.03139000",
+                    "longitude": "18.41833000"
+                },
+                {
+                    "id": 131082,
+                    "name": "De Rust",
+                    "latitude": "-33.49035000",
+                    "longitude": "22.53523000"
+                },
+                {
+                    "id": 131095,
+                    "name": "Eden District Municipality",
+                    "latitude": "-33.82139000",
+                    "longitude": "22.01263000"
+                },
+                {
+                    "id": 131115,
+                    "name": "George",
+                    "latitude": "-33.96300000",
+                    "longitude": "22.46173000"
+                },
+                {
+                    "id": 131120,
+                    "name": "Grabouw",
+                    "latitude": "-34.15152000",
+                    "longitude": "19.01509000"
+                },
+                {
+                    "id": 131123,
+                    "name": "Hardys Memories of Africa",
+                    "latitude": "-33.90539000",
+                    "longitude": "20.71690000"
+                },
+                {
+                    "id": 131129,
+                    "name": "Hermanus",
+                    "latitude": "-34.41870000",
+                    "longitude": "19.23446000"
+                },
+                {
+                    "id": 131143,
+                    "name": "Knysna",
+                    "latitude": "-34.03627000",
+                    "longitude": "23.04713000"
+                },
+                {
+                    "id": 131148,
+                    "name": "Kraaifontein",
+                    "latitude": "-33.84808000",
+                    "longitude": "18.71723000"
+                },
+                {
+                    "id": 131156,
+                    "name": "Ladismith",
+                    "latitude": "-33.49331000",
+                    "longitude": "21.26755000"
+                },
+                {
+                    "id": 131159,
+                    "name": "Lansdowne",
+                    "latitude": "-33.98735000",
+                    "longitude": "18.49746000"
+                },
+                {
+                    "id": 131169,
+                    "name": "Malmesbury",
+                    "latitude": "-33.46080000",
+                    "longitude": "18.72714000"
+                },
+                {
+                    "id": 131184,
+                    "name": "Montagu",
+                    "latitude": "-33.78664000",
+                    "longitude": "20.12106000"
+                },
+                {
+                    "id": 131186,
+                    "name": "Moorreesburg",
+                    "latitude": "-33.15388000",
+                    "longitude": "18.66031000"
+                },
+                {
+                    "id": 131188,
+                    "name": "Mossel Bay",
+                    "latitude": "-34.18307000",
+                    "longitude": "22.14605000"
+                },
+                {
+                    "id": 131200,
+                    "name": "Newlands",
+                    "latitude": "-33.97846000",
+                    "longitude": "18.44810000"
+                },
+                {
+                    "id": 131210,
+                    "name": "Oudtshoorn",
+                    "latitude": "-33.60047000",
+                    "longitude": "22.19955000"
+                },
+                {
+                    "id": 131211,
+                    "name": "Overberg District Municipality",
+                    "latitude": "-34.26131000",
+                    "longitude": "19.93985000"
+                },
+                {
+                    "id": 131212,
+                    "name": "Paarl",
+                    "latitude": "-33.73378000",
+                    "longitude": "18.97523000"
+                },
+                {
+                    "id": 131219,
+                    "name": "Piketberg",
+                    "latitude": "-32.90323000",
+                    "longitude": "18.75704000"
+                },
+                {
+                    "id": 131221,
+                    "name": "Plettenberg Bay",
+                    "latitude": "-34.05274000",
+                    "longitude": "23.37160000"
+                },
+                {
+                    "id": 131232,
+                    "name": "Prince Albert",
+                    "latitude": "-33.22476000",
+                    "longitude": "22.02673000"
+                },
+                {
+                    "id": 131238,
+                    "name": "Retreat",
+                    "latitude": "-34.05515000",
+                    "longitude": "18.47617000"
+                },
+                {
+                    "id": 131242,
+                    "name": "Riversdale",
+                    "latitude": "-34.09345000",
+                    "longitude": "21.25725000"
+                },
+                {
+                    "id": 131243,
+                    "name": "Robertson",
+                    "latitude": "-33.80342000",
+                    "longitude": "19.88537000"
+                },
+                {
+                    "id": 131244,
+                    "name": "Rondebosch",
+                    "latitude": "-33.96333000",
+                    "longitude": "18.47639000"
+                },
+                {
+                    "id": 131246,
+                    "name": "Rosebank",
+                    "latitude": "-33.95556000",
+                    "longitude": "18.47417000"
+                },
+                {
+                    "id": 131248,
+                    "name": "Saldanha",
+                    "latitude": "-33.01167000",
+                    "longitude": "17.94420000"
+                },
+                {
+                    "id": 131264,
+                    "name": "Stellenbosch",
+                    "latitude": "-33.93462000",
+                    "longitude": "18.86676000"
+                },
+                {
+                    "id": 131268,
+                    "name": "Sunset Beach",
+                    "latitude": "-33.85395000",
+                    "longitude": "18.49231000"
+                },
+                {
+                    "id": 131269,
+                    "name": "Swellendam",
+                    "latitude": "-34.02262000",
+                    "longitude": "20.44171000"
+                },
+                {
+                    "id": 131294,
+                    "name": "Vredenburg",
+                    "latitude": "-32.90719000",
+                    "longitude": "17.98997000"
+                },
+                {
+                    "id": 131295,
+                    "name": "Vredendal",
+                    "latitude": "-31.66833000",
+                    "longitude": "18.50119000"
+                },
+                {
+                    "id": 131302,
+                    "name": "Wellington",
+                    "latitude": "-33.63981000",
+                    "longitude": "19.01120000"
+                },
+                {
+                    "id": 131304,
+                    "name": "West Coast District Municipality",
+                    "latitude": "-32.09506000",
+                    "longitude": "18.62695000"
+                },
+                {
+                    "id": 131313,
+                    "name": "Worcester",
+                    "latitude": "-33.64651000",
+                    "longitude": "19.44852000"
+                },
+                {
+                    "id": 131317,
+                    "name": "Zoar",
+                    "latitude": "-33.49560000",
+                    "longitude": "21.44373000"
+                }
+            ]
+        }
+    ],
+    "languages": [
+        "Afrikaans",
+        "English",
+        "Ndebele",
+        "Northsotho",
+        "Southsotho",
+        "Swazi",
+        "Tsonga",
+        "Tswana",
+        "Venda",
+        "Xhosa",
+        "Zulu"
+    ],
+    "latlng": [
+        -29,
+        24
+    ],
+    "nativeName": "South Africa",
+    "population": 54002000,
+    "timezones": [
+        "UTC+02:00"
+    ],
+    "tld": [
+        ".za"
+    ],
+    "continent": "Africa",
+    "independence": 1910,
+    "government": "Republic",  
+    "dish": "Bobotie",
+    "location": "Southern Africa",
+    "symbol": null,
+    "religion": "Christianity",
+    "temperature": 17.75,
+    "density": 47.63011978,
+    "expectancy": 51.1,
+    "translations": {
+        "de": "Republik Südafrika",
+        "es": "República de Sudáfrica",
+        "fr": "Afrique du Sud",
+        "ja": "南アフリカ",
+        "it": "Sud Africa"
+    },
+    "wiki": "http://en.wikipedia.org/wiki/south_africa"
+}

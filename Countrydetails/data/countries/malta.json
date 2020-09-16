@@ -1,0 +1,1024 @@
+{
+    "name": "Malta",
+    "altSpellings": [
+        "MT",
+        "Republic of Malta",
+        "Repubblika ta' Malta"
+    ],
+    "area": 316,
+    "borders": [],
+    "callingCodes": [
+        "356"
+    ],
+    "capital": "Valletta",
+    "capital_latlng": [
+        35.898982,
+        14.513676
+    ],
+    "currencies": [
+        "EUR"
+    ],
+    "demonym": "Maltese",
+    "flag": "",
+    "geoJSON": {
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "type": "Feature",
+                "id": "MLT",
+                "properties": {
+                    "name": "Malta"
+                },
+                "geometry": {
+                    "type": "MultiPolygon",
+                    "coordinates": [
+                        [
+                            [
+                                [
+                                    14.566171,
+                                    35.852721
+                                ],
+                                [
+                                    14.532684,
+                                    35.820191
+                                ],
+                                [
+                                    14.436463,
+                                    35.821664
+                                ],
+                                [
+                                    14.352334,
+                                    35.872281
+                                ],
+                                [
+                                    14.3513,
+                                    35.978399
+                                ],
+                                [
+                                    14.448348,
+                                    35.957444
+                                ],
+                                [
+                                    14.537025,
+                                    35.886285
+                                ],
+                                [
+                                    14.566171,
+                                    35.852721
+                                ]
+                            ]
+                        ],
+                        [
+                            [
+                                [
+                                    14.313473,
+                                    36.027569
+                                ],
+                                [
+                                    14.253632,
+                                    36.012143
+                                ],
+                                [
+                                    14.194204,
+                                    36.042245
+                                ],
+                                [
+                                    14.180354,
+                                    36.060383
+                                ],
+                                [
+                                    14.263243,
+                                    36.075809
+                                ],
+                                [
+                                    14.303758,
+                                    36.062295
+                                ],
+                                [
+                                    14.320914,
+                                    36.03625
+                                ],
+                                [
+                                    14.313473,
+                                    36.027569
+                                ]
+                            ]
+                        ]
+                    ]
+                }
+            }
+        ]
+    },
+    "ISO": {
+        "alpha2": "MT",
+        "alpha3": "MLT"
+    },
+    "languages": [
+        "Bajad",
+        "Buryat",
+        "Dariganga",
+        "Dorbet",
+        "Kazakh",
+        "Mongolian"
+    ],
+    "latlng": [
+        35.83333333,
+        14.58333333
+    ],
+    "nativeName": "Malta",
+    "population": 416055,
+    "timezones": [
+        "UTC+01:00"
+    ],
+    "tld": [
+        ".mt"
+    ],
+    "states": [
+        {
+            "id": 110,
+            "name": "Attard",
+            "state_code": "01",
+            "cities": [
+                {
+                    "id": 67758,
+                    "name": "Attard",
+                    "latitude": "35.88972000",
+                    "longitude": "14.44250000"
+                }
+            ]
+        },
+        {
+            "id": 108,
+            "name": "Balzan",
+            "state_code": "02",
+            "cities": [
+                {
+                    "id": 67759,
+                    "name": "Balzan",
+                    "latitude": "35.90028000",
+                    "longitude": "14.45500000"
+                }
+            ]
+        },
+        {
+            "id": 107,
+            "name": "Birgu",
+            "state_code": "03",
+            "cities": [
+                {
+                    "id": 67817,
+                    "name": "Vittoriosa",
+                    "latitude": "35.89222000",
+                    "longitude": "14.51833000"
+                }
+            ]
+        },
+        {
+            "id": 97,
+            "name": "Birkirkara",
+            "state_code": "04",
+            "cities": [
+                {
+                    "id": 67760,
+                    "name": "Birkirkara",
+                    "latitude": "35.89722000",
+                    "longitude": "14.46111000"
+                }
+            ]
+        },
+        {
+            "id": 88,
+            "name": "Birżebbuġa",
+            "state_code": "05",
+            "cities": [
+                {
+                    "id": 67761,
+                    "name": "Birżebbuġa",
+                    "latitude": "35.82583000",
+                    "longitude": "14.52694000"
+                }
+            ]
+        },
+        {
+            "id": 138,
+            "name": "Cospicua",
+            "state_code": "06",
+            "cities": [
+                {
+                    "id": 67762,
+                    "name": "Cospicua",
+                    "latitude": "35.88556000",
+                    "longitude": "14.52750000"
+                }
+            ]
+        },
+        {
+            "id": 117,
+            "name": "Dingli",
+            "state_code": "07",
+            "cities": [
+                {
+                    "id": 67763,
+                    "name": "Dingli",
+                    "latitude": "35.86139000",
+                    "longitude": "14.38222000"
+                }
+            ]
+        },
+        {
+            "id": 129,
+            "name": "Fgura",
+            "state_code": "08",
+            "cities": [
+                {
+                    "id": 67764,
+                    "name": "Fgura",
+                    "latitude": "35.87028000",
+                    "longitude": "14.51333000"
+                }
+            ]
+        },
+        {
+            "id": 84,
+            "name": "Floriana",
+            "state_code": "09",
+            "cities": [
+                {
+                    "id": 67765,
+                    "name": "Floriana",
+                    "latitude": "35.89583000",
+                    "longitude": "14.50833000"
+                }
+            ]
+        },
+        {
+            "id": 134,
+            "name": "Fontana",
+            "state_code": "10",
+            "cities": [
+                {
+                    "id": 67766,
+                    "name": "Fontana",
+                    "latitude": "36.03750000",
+                    "longitude": "14.23611000"
+                }
+            ]
+        },
+        {
+            "id": 130,
+            "name": "Għajnsielem",
+            "state_code": "13",
+            "cities": [
+                {
+                    "id": 67768,
+                    "name": "Għajnsielem",
+                    "latitude": "36.02639000",
+                    "longitude": "14.28500000"
+                },
+                {
+                    "id": 67772,
+                    "name": "Hal Gharghur",
+                    "latitude": "35.92409000",
+                    "longitude": "14.45118000"
+                }
+            ]
+        },
+        {
+            "id": 92,
+            "name": "Għarb",
+            "state_code": "14",
+            "cities": []
+        },
+        {
+            "id": 120,
+            "name": "Għargħur",
+            "state_code": "15",
+            "cities": [
+                {
+                    "id": 67770,
+                    "name": "Għaxaq",
+                    "latitude": "35.84889000",
+                    "longitude": "14.51667000"
+                }
+            ]
+        },
+        {
+            "id": 106,
+            "name": "Għasri",
+            "state_code": "16",
+            "cities": [
+                {
+                    "id": 67767,
+                    "name": "Gudja",
+                    "latitude": "35.84917000",
+                    "longitude": "14.50306000"
+                }
+            ]
+        },
+        {
+            "id": 124,
+            "name": "Għaxaq",
+            "state_code": "17",
+            "cities": [
+                {
+                    "id": 67771,
+                    "name": "Gżira",
+                    "latitude": "35.90583000",
+                    "longitude": "14.48806000"
+                }
+            ]
+        },
+        {
+            "id": 118,
+            "name": "Gudja",
+            "state_code": "11",
+            "cities": []
+        },
+        {
+            "id": 113,
+            "name": "Gżira",
+            "state_code": "12",
+            "cities": [
+                {
+                    "id": 67769,
+                    "name": "Għarb",
+                    "latitude": "36.06000000",
+                    "longitude": "14.20889000"
+                }
+            ]
+        },
+        {
+            "id": 105,
+            "name": "Ħamrun",
+            "state_code": "18",
+            "cities": [
+                {
+                    "id": 67821,
+                    "name": "Ħamrun",
+                    "latitude": "35.88472000",
+                    "longitude": "14.48444000"
+                }
+            ]
+        },
+        {
+            "id": 93,
+            "name": "Iklin",
+            "state_code": "19",
+            "cities": [
+                {
+                    "id": 67781,
+                    "name": "L-Iklin",
+                    "latitude": "35.90414000",
+                    "longitude": "14.45415000"
+                }
+            ]
+        },
+        {
+            "id": 99,
+            "name": "Kalkara",
+            "state_code": "21",
+            "cities": [
+                {
+                    "id": 67777,
+                    "name": "Imġarr",
+                    "latitude": "35.92056000",
+                    "longitude": "14.36639000"
+                },
+                {
+                    "id": 67791,
+                    "name": "Mġarr",
+                    "latitude": "36.02528000",
+                    "longitude": "14.29500000"
+                }
+            ]
+        },
+        {
+            "id": 91,
+            "name": "Kerċem",
+            "state_code": "22",
+            "cities": [
+                {
+                    "id": 67789,
+                    "name": "Mqabba",
+                    "latitude": "35.84763000",
+                    "longitude": "14.46824000"
+                }
+            ]
+        },
+        {
+            "id": 82,
+            "name": "Kirkop",
+            "state_code": "23",
+            "cities": [
+                {
+                    "id": 67775,
+                    "name": "Imsida",
+                    "latitude": "35.89250000",
+                    "longitude": "14.48278000"
+                },
+                {
+                    "id": 67780,
+                    "name": "Kirkop",
+                    "latitude": "35.84222000",
+                    "longitude": "14.48528000"
+                }
+            ]
+        },
+        {
+            "id": 126,
+            "name": "Lija",
+            "state_code": "24",
+            "cities": [
+                {
+                    "id": 67776,
+                    "name": "Imtarfa",
+                    "latitude": "35.89333000",
+                    "longitude": "14.39889000"
+                },
+                {
+                    "id": 67782,
+                    "name": "Lija",
+                    "latitude": "35.90056000",
+                    "longitude": "14.44639000"
+                }
+            ]
+        },
+        {
+            "id": 77,
+            "name": "Luqa",
+            "state_code": "25",
+            "cities": [
+                {
+                    "id": 67783,
+                    "name": "Luqa",
+                    "latitude": "35.85889000",
+                    "longitude": "14.48861000"
+                },
+                {
+                    "id": 67809,
+                    "name": "Senglea",
+                    "latitude": "35.88750000",
+                    "longitude": "14.51694000"
+                }
+            ]
+        },
+        {
+            "id": 128,
+            "name": "Marsa",
+            "state_code": "26",
+            "cities": [
+                {
+                    "id": 67778,
+                    "name": "Kalkara",
+                    "latitude": "35.88917000",
+                    "longitude": "14.53278000"
+                }
+            ]
+        },
+        {
+            "id": 137,
+            "name": "Marsaskala",
+            "state_code": "27",
+            "cities": [
+                {
+                    "id": 67779,
+                    "name": "Kerċem",
+                    "latitude": "36.04194000",
+                    "longitude": "14.22667000"
+                },
+                {
+                    "id": 67785,
+                    "name": "Marsaskala",
+                    "latitude": "35.86220000",
+                    "longitude": "14.56701000"
+                }
+            ]
+        },
+        {
+            "id": 78,
+            "name": "Marsaxlokk",
+            "state_code": "28",
+            "cities": [
+                {
+                    "id": 67786,
+                    "name": "Marsaxlokk",
+                    "latitude": "35.84194000",
+                    "longitude": "14.54306000"
+                }
+            ]
+        },
+        {
+            "id": 89,
+            "name": "Mdina",
+            "state_code": "29",
+            "cities": []
+        },
+        {
+            "id": 102,
+            "name": "Mellieħa",
+            "state_code": "30",
+            "cities": []
+        },
+        {
+            "id": 109,
+            "name": "Mġarr",
+            "state_code": "31",
+            "cities": [
+                {
+                    "id": 67784,
+                    "name": "Marsa",
+                    "latitude": "35.87917000",
+                    "longitude": "14.49528000"
+                }
+            ]
+        },
+        {
+            "id": 140,
+            "name": "Mosta",
+            "state_code": "32",
+            "cities": []
+        },
+        {
+            "id": 74,
+            "name": "Mqabba",
+            "state_code": "33",
+            "cities": []
+        },
+        {
+            "id": 96,
+            "name": "Msida",
+            "state_code": "34",
+            "cities": [
+                {
+                    "id": 67787,
+                    "name": "Mellieħa",
+                    "latitude": "35.95639000",
+                    "longitude": "14.36222000"
+                }
+            ]
+        },
+        {
+            "id": 131,
+            "name": "Mtarfa",
+            "state_code": "35",
+            "cities": []
+        },
+        {
+            "id": 132,
+            "name": "Munxar",
+            "state_code": "36",
+            "cities": [
+                {
+                    "id": 67790,
+                    "name": "Munxar",
+                    "latitude": "36.03000000",
+                    "longitude": "14.23333000"
+                }
+            ]
+        },
+        {
+            "id": 133,
+            "name": "Nadur",
+            "state_code": "37",
+            "cities": [
+                {
+                    "id": 67792,
+                    "name": "Nadur",
+                    "latitude": "36.03778000",
+                    "longitude": "14.29417000"
+                }
+            ]
+        },
+        {
+            "id": 112,
+            "name": "Naxxar",
+            "state_code": "38",
+            "cities": [
+                {
+                    "id": 67793,
+                    "name": "Naxxar",
+                    "latitude": "35.91361000",
+                    "longitude": "14.44361000"
+                }
+            ]
+        },
+        {
+            "id": 115,
+            "name": "Paola",
+            "state_code": "39",
+            "cities": [
+                {
+                    "id": 67794,
+                    "name": "Paola",
+                    "latitude": "35.87306000",
+                    "longitude": "14.49889000"
+                }
+            ]
+        },
+        {
+            "id": 125,
+            "name": "Pembroke",
+            "state_code": "40",
+            "cities": [
+                {
+                    "id": 67795,
+                    "name": "Pembroke",
+                    "latitude": "35.93056000",
+                    "longitude": "14.47639000"
+                }
+            ]
+        },
+        {
+            "id": 127,
+            "name": "Pietà",
+            "state_code": "41",
+            "cities": [
+                {
+                    "id": 67796,
+                    "name": "Pietà",
+                    "latitude": "35.89472000",
+                    "longitude": "14.49500000"
+                }
+            ]
+        },
+        {
+            "id": 79,
+            "name": "Qala",
+            "state_code": "42",
+            "cities": [
+                {
+                    "id": 67797,
+                    "name": "Qala",
+                    "latitude": "36.03611000",
+                    "longitude": "14.30944000"
+                }
+            ]
+        },
+        {
+            "id": 119,
+            "name": "Qormi",
+            "state_code": "43",
+            "cities": [
+                {
+                    "id": 67798,
+                    "name": "Qormi",
+                    "latitude": "35.87601000",
+                    "longitude": "14.47200000"
+                }
+            ]
+        },
+        {
+            "id": 111,
+            "name": "Qrendi",
+            "state_code": "44",
+            "cities": [
+                {
+                    "id": 67799,
+                    "name": "Qrendi",
+                    "latitude": "35.83472000",
+                    "longitude": "14.45833000"
+                }
+            ]
+        },
+        {
+            "id": 83,
+            "name": "Rabat",
+            "state_code": "46",
+            "cities": []
+        },
+        {
+            "id": 87,
+            "name": "Saint Lawrence",
+            "state_code": "50",
+            "cities": [
+                {
+                    "id": 67803,
+                    "name": "San Lawrenz",
+                    "latitude": "36.05556000",
+                    "longitude": "14.20361000"
+                }
+            ]
+        },
+        {
+            "id": 75,
+            "name": "San Ġwann",
+            "state_code": "49",
+            "cities": [
+                {
+                    "id": 67805,
+                    "name": "San Ġiljan",
+                    "latitude": "35.91839000",
+                    "longitude": "14.48977000"
+                }
+            ]
+        },
+        {
+            "id": 116,
+            "name": "Sannat",
+            "state_code": "52",
+            "cities": [
+                {
+                    "id": 67804,
+                    "name": "San Pawl il-Baħar",
+                    "latitude": "35.95064000",
+                    "longitude": "14.41561000"
+                },
+                {
+                    "id": 67806,
+                    "name": "Sannat",
+                    "latitude": "36.02444000",
+                    "longitude": "14.24278000"
+                }
+            ]
+        },
+        {
+            "id": 94,
+            "name": "Santa Luċija",
+            "state_code": "53",
+            "cities": [
+                {
+                    "id": 67808,
+                    "name": "Santa Venera",
+                    "latitude": "35.89083000",
+                    "longitude": "14.47417000"
+                }
+            ]
+        },
+        {
+            "id": 90,
+            "name": "Santa Venera",
+            "state_code": "54",
+            "cities": []
+        },
+        {
+            "id": 136,
+            "name": "Senglea",
+            "state_code": "20",
+            "cities": [
+                {
+                    "id": 67774,
+                    "name": "Imdina",
+                    "latitude": "35.88694000",
+                    "longitude": "14.40250000"
+                }
+            ]
+        },
+        {
+            "id": 98,
+            "name": "Siġġiewi",
+            "state_code": "55",
+            "cities": [
+                {
+                    "id": 67810,
+                    "name": "Siġġiewi",
+                    "latitude": "35.85556000",
+                    "longitude": "14.43639000"
+                }
+            ]
+        },
+        {
+            "id": 104,
+            "name": "Sliema",
+            "state_code": "56",
+            "cities": [
+                {
+                    "id": 67811,
+                    "name": "Sliema",
+                    "latitude": "35.91250000",
+                    "longitude": "14.50194000"
+                }
+            ]
+        },
+        {
+            "id": 100,
+            "name": "St. Julian's",
+            "state_code": "48",
+            "cities": [
+                {
+                    "id": 67801,
+                    "name": "Saint John",
+                    "latitude": "35.90556000",
+                    "longitude": "14.47611000"
+                }
+            ]
+        },
+        {
+            "id": 139,
+            "name": "St. Paul's Bay",
+            "state_code": "51",
+            "cities": [
+                {
+                    "id": 67788,
+                    "name": "Mosta",
+                    "latitude": "35.90917000",
+                    "longitude": "14.42556000"
+                },
+                {
+                    "id": 67802,
+                    "name": "Saint Lucia",
+                    "latitude": "36.04306000",
+                    "longitude": "14.21722000"
+                },
+                {
+                    "id": 67807,
+                    "name": "Santa Luċija",
+                    "latitude": "35.86278000",
+                    "longitude": "14.50750000"
+                }
+            ]
+        },
+        {
+            "id": 86,
+            "name": "Swieqi",
+            "state_code": "57",
+            "cities": [
+                {
+                    "id": 67812,
+                    "name": "Swieqi",
+                    "latitude": "35.92250000",
+                    "longitude": "14.48000000"
+                }
+            ]
+        },
+        {
+            "id": 122,
+            "name": "Ta' Xbiex",
+            "state_code": "58",
+            "cities": [
+                {
+                    "id": 67814,
+                    "name": "Ta’ Xbiex",
+                    "latitude": "35.89917000",
+                    "longitude": "14.49444000"
+                }
+            ]
+        },
+        {
+            "id": 103,
+            "name": "Tarxien",
+            "state_code": "59",
+            "cities": [
+                {
+                    "id": 67813,
+                    "name": "Tarxien",
+                    "latitude": "35.86583000",
+                    "longitude": "14.51500000"
+                }
+            ]
+        },
+        {
+            "id": 95,
+            "name": "Valletta",
+            "state_code": "60",
+            "cities": [
+                {
+                    "id": 67815,
+                    "name": "Valletta",
+                    "latitude": "35.89972000",
+                    "longitude": "14.51472000"
+                }
+            ]
+        },
+        {
+            "id": 101,
+            "name": "Victoria",
+            "state_code": "45",
+            "cities": [
+                {
+                    "id": 67800,
+                    "name": "Rabat",
+                    "latitude": "35.88152000",
+                    "longitude": "14.39872000"
+                },
+                {
+                    "id": 67816,
+                    "name": "Victoria",
+                    "latitude": "36.04444000",
+                    "longitude": "14.23972000"
+                }
+            ]
+        },
+        {
+            "id": 114,
+            "name": "Xagħra",
+            "state_code": "61",
+            "cities": [
+                {
+                    "id": 67818,
+                    "name": "Xagħra",
+                    "latitude": "36.05000000",
+                    "longitude": "14.26444000"
+                }
+            ]
+        },
+        {
+            "id": 121,
+            "name": "Xewkija",
+            "state_code": "62",
+            "cities": [
+                {
+                    "id": 67819,
+                    "name": "Xewkija",
+                    "latitude": "36.03278000",
+                    "longitude": "14.25806000"
+                }
+            ]
+        },
+        {
+            "id": 81,
+            "name": "Xgħajra",
+            "state_code": "63",
+            "cities": [
+                {
+                    "id": 67820,
+                    "name": "Xgħajra",
+                    "latitude": "35.88556000",
+                    "longitude": "14.54750000"
+                }
+            ]
+        },
+        {
+            "id": 123,
+            "name": "Żabbar",
+            "state_code": "64",
+            "cities": [
+                {
+                    "id": 67822,
+                    "name": "Żabbar",
+                    "latitude": "35.87611000",
+                    "longitude": "14.53500000"
+                }
+            ]
+        },
+        {
+            "id": 85,
+            "name": "Żebbuġ Gozo",
+            "state_code": "65",
+            "cities": [
+                {
+                    "id": 67773,
+                    "name": "Haz-Zebbug",
+                    "latitude": "35.87194000",
+                    "longitude": "14.44111000"
+                }
+            ]
+        },
+        {
+            "id": 80,
+            "name": "Żebbuġ Malta",
+            "state_code": "66",
+            "cities": [
+                {
+                    "id": 67823,
+                    "name": "Żebbuġ",
+                    "latitude": "36.07222000",
+                    "longitude": "14.23583000"
+                }
+            ]
+        },
+        {
+            "id": 135,
+            "name": "Żejtun",
+            "state_code": "67",
+            "cities": [
+                {
+                    "id": 67824,
+                    "name": "Żejtun",
+                    "latitude": "35.85583000",
+                    "longitude": "14.53306000"
+                }
+            ]
+        },
+        {
+            "id": 76,
+            "name": "Żurrieq",
+            "state_code": "68",
+            "cities": [
+                {
+                    "id": 67825,
+                    "name": "Żurrieq",
+                    "latitude": "35.83111000",
+                    "longitude": "14.47417000"
+                }
+            ]
+        }
+    ],
+    "translations": {
+        "de": "Malta",
+        "es": "Malta",
+        "fr": "Malte",
+        "ja": "マルタ",
+        "it": "Malta"
+    },
+    "symbol": null,
+    "expectancy": 77.9,
+    "dish": "Pastizzi, Rabbit Stew (Fenkata)",
+    "independence": 1964,
+    "government": "Republic",
+    "continent": "Europe",
+    "temperature": 19.2,
+    "religion": "Christianity",
+    "location": "Southern Europe",
+    "density": 1511.03125,
+    "wiki": "http://en.wikipedia.org/wiki/malta"
+}

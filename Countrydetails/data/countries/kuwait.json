@@ -1,0 +1,313 @@
+{
+    "name": "Kuwait",
+    "altSpellings": [
+        "KW",
+        "State of Kuwait",
+        "Dawlat al-Kuwait"
+    ],
+    "area": 17818,
+    "borders": [
+        "IRN",
+        "SAU"
+    ],
+    "callingCodes": [
+        "965"
+    ],
+    "capital": "Kuwait City",
+    "capital_latlng": [
+        29.379709,
+        47.973563
+    ],
+    "currencies": [
+        "KWD"
+    ],
+    "demonym": "Kuwaiti",
+    "flag": "",
+    "geoJSON": {
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "type": "Feature",
+                "id": "KWT",
+                "properties": {
+                    "name": "Kuwait"
+                },
+                "geometry": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                47.974519,
+                                29.975819
+                            ],
+                            [
+                                48.183189,
+                                29.534477
+                            ],
+                            [
+                                48.093943,
+                                29.306299
+                            ],
+                            [
+                                48.416094,
+                                28.552004
+                            ],
+                            [
+                                47.708851,
+                                28.526063
+                            ],
+                            [
+                                47.459822,
+                                29.002519
+                            ],
+                            [
+                                46.568713,
+                                29.099025
+                            ],
+                            [
+                                47.302622,
+                                30.05907
+                            ],
+                            [
+                                47.974519,
+                                29.975819
+                            ]
+                        ]
+                    ]
+                }
+            }
+        ]
+    },
+    "ISO": {
+        "alpha2": "KW",
+        "alpha3": "KWT"
+    },
+    "languages": [
+        "Arabic",
+        "English"
+    ],
+    "latlng": [
+        29.5,
+        45.75
+    ],
+    "nativeName": "الكويت",
+    "population": 3268431,
+    "states": [
+        {
+            "id": 977,
+            "name": "Al Ahmadi Governorate",
+            "state_code": "AH",
+            "cities": [
+                {
+                    "id": 65572,
+                    "name": "Al Aḩmadī",
+                    "latitude": "29.07694000",
+                    "longitude": "48.08389000"
+                },
+                {
+                    "id": 65574,
+                    "name": "Al Faḩāḩīl",
+                    "latitude": "29.08250000",
+                    "longitude": "48.13028000"
+                },
+                {
+                    "id": 65575,
+                    "name": "Al Finţās",
+                    "latitude": "29.17389000",
+                    "longitude": "48.12111000"
+                },
+                {
+                    "id": 65578,
+                    "name": "Al Mahbūlah",
+                    "latitude": "29.14500000",
+                    "longitude": "48.13028000"
+                },
+                {
+                    "id": 65579,
+                    "name": "Al Manqaf",
+                    "latitude": "29.09611000",
+                    "longitude": "48.13278000"
+                },
+                {
+                    "id": 65580,
+                    "name": "Al Wafrah",
+                    "latitude": "28.63917000",
+                    "longitude": "47.93056000"
+                },
+                {
+                    "id": 65582,
+                    "name": "Ar Riqqah",
+                    "latitude": "29.14583000",
+                    "longitude": "48.09472000"
+                }
+            ]
+        },
+        {
+            "id": 975,
+            "name": "Al Farwaniyah Governorate",
+            "state_code": "FA",
+            "cities": [
+                {
+                    "id": 65573,
+                    "name": "Al Farwānīyah",
+                    "latitude": "29.27750000",
+                    "longitude": "47.95861000"
+                },
+                {
+                    "id": 65589,
+                    "name": "Janūb as Surrah",
+                    "latitude": "29.26917000",
+                    "longitude": "47.97806000"
+                }
+            ]
+        },
+        {
+            "id": 972,
+            "name": "Al Jahra Governorate",
+            "state_code": "JA",
+            "cities": [
+                {
+                    "id": 65577,
+                    "name": "Al Jahrā’",
+                    "latitude": "29.33750000",
+                    "longitude": "47.65806000"
+                }
+            ]
+        },
+        {
+            "id": 976,
+            "name": "Capital Governorate",
+            "state_code": "KU",
+            "cities": [
+                {
+                    "id": 65571,
+                    "name": "Ad Dasmah",
+                    "latitude": "29.36500000",
+                    "longitude": "48.00139000"
+                },
+                {
+                    "id": 65584,
+                    "name": "Ar Rābiyah",
+                    "latitude": "29.29500000",
+                    "longitude": "47.93306000"
+                },
+                {
+                    "id": 65586,
+                    "name": "Ash Shāmīyah",
+                    "latitude": "29.34722000",
+                    "longitude": "47.96167000"
+                },
+                {
+                    "id": 65587,
+                    "name": "Az Zawr",
+                    "latitude": "29.44250000",
+                    "longitude": "48.27472000"
+                },
+                {
+                    "id": 65590,
+                    "name": "Kuwait City",
+                    "latitude": "29.36972000",
+                    "longitude": "47.97833000"
+                }
+            ]
+        },
+        {
+            "id": 973,
+            "name": "Hawalli Governorate",
+            "state_code": "HA",
+            "cities": [
+                {
+                    "id": 65583,
+                    "name": "Ar Rumaythīyah",
+                    "latitude": "29.31167000",
+                    "longitude": "48.07417000"
+                },
+                {
+                    "id": 65585,
+                    "name": "As Sālimīyah",
+                    "latitude": "29.33389000",
+                    "longitude": "48.07611000"
+                },
+                {
+                    "id": 65588,
+                    "name": "Bayān",
+                    "latitude": "29.30320000",
+                    "longitude": "48.04881000"
+                },
+                {
+                    "id": 65593,
+                    "name": "Ḩawallī",
+                    "latitude": "29.33278000",
+                    "longitude": "48.02861000"
+                },
+                {
+                    "id": 65591,
+                    "name": "Salwá",
+                    "latitude": "29.29583000",
+                    "longitude": "48.07861000"
+                }
+            ]
+        },
+        {
+            "id": 974,
+            "name": "Mubarak Al-Kabeer Governorate",
+            "state_code": "MU",
+            "cities": [
+                {
+                    "id": 65569,
+                    "name": "Abu Al Hasaniya",
+                    "latitude": "29.19076000",
+                    "longitude": "48.11355000"
+                },
+                {
+                    "id": 65570,
+                    "name": "Abu Fatira",
+                    "latitude": "29.19746000",
+                    "longitude": "48.10278000"
+                },
+                {
+                    "id": 65576,
+                    "name": "Al Funayţīs",
+                    "latitude": "29.22528000",
+                    "longitude": "48.10167000"
+                },
+                {
+                    "id": 65581,
+                    "name": "Al-Masayel",
+                    "latitude": "29.23930000",
+                    "longitude": "48.08862000"
+                },
+                {
+                    "id": 65592,
+                    "name": "Şabāḩ as Sālim",
+                    "latitude": "29.25722000",
+                    "longitude": "48.05722000"
+                }
+            ]
+        }
+    ],
+    "continent": "Asia",
+    "government": "Constitutional Monarchy (Emirate)",
+    "independence": 1961,
+    "expectancy": 76.1,
+    "symbol": null,
+    "dish": "Machboos",
+    "density": 232.1722222,
+    "temperature": 25.35,
+    "religion": "Islam",
+    "location": "Middle East",
+    "timezones": [
+        "UTC+03:00"
+    ],
+    "tld": [
+        ".kw"
+    ],
+    "translations": {
+        "de": "Kuwait",
+        "es": "Kuwait",
+        "fr": "Koweït",
+        "ja": "クウェート",
+        "it": "Kuwait"
+    },
+    "wiki": "http://en.wikipedia.org/wiki/kuwait"
+}

@@ -1,0 +1,61 @@
+{
+    "name": "Aruba",
+    "altSpellings": [
+        "AW"
+    ],
+    "area": 180,
+    "borders": [],
+    "callingCodes": [
+        "297"
+    ],
+    "capital": "Oranjestad",
+    "capital_latlng": [
+        12.526874,
+        -70.035684
+    ],
+    "currencies": [
+        "AWG"
+    ],
+    "demonym": "Aruban",
+    "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f6/Flag_of_Aruba.svg",
+    "geoJSON": {},
+    "ISO": {
+        "alpha2": "AW",
+        "alpha3": "ABW"
+    },
+    "languages": [
+        "Dutch",
+        "English",
+        "Papiamento",
+        "Spanish"
+    ],
+    "states": [],
+    "latlng": [
+        12.5,
+        -69.96666666
+    ],
+    "nativeName": "Aruba",
+    "population": 101484,
+    "timezones": null,
+    "tld": [
+        ".aw"
+    ],
+    "translations": {
+        "de": "Aruba",
+        "es": "Aruba",
+        "fr": "Aruba",
+        "ja": "アルバ",
+        "it": "Aruba"
+    },
+    "government": "Nonmetropolitan Territory of The Netherlands",
+    "expectancy": 78.4,
+    "dish": "Keshi yena",
+    "symbol": null,
+    "density": 588.0277778,
+    "location": "Caribbean",
+    "religion": "Christianity",
+    "temperature": null,
+    "continent": "North America",
+    "independence": null,
+    "wiki": "http://en.wikipedia.org/wiki/aruba"
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Guam",
+  "altSpellings": ["GU", "Guåhån"],
+  "area": 549,
+  "borders": [],
+  "callingCodes": ["1671"],
+  "capital": "Hagåtña",
+  "capital_latlng": [13.472745, 144.752018],
+  "currencies": ["USD"],
+  "demonym": "Guamanian",
+  "flag": "",
+  "geoJSON": {},
+  "ISO": {
+    "alpha2": "GU",
+    "alpha3": "GUM"
+  },
+  "latlng": [13.46666666, 144.78333333],
+  "nativeName": "Guam",
+  "population": 159358,
+    "independence": null,
+    "languages": [
+        "Chamorro",
+        "English",
+        "Japanese",
+        "Korean",
+        "Philippene Languages"
+    ],
+"expectancy": 77.8,
+"government": "US Territory",
+  "dish": null,
+  "continent": "Oceania",
+"symbol": null,
+  "density": 306.9777778,
+"location": "Micronesia",
+  "religion": "Christianity",
+  "temperature": null,
+  "states": [],
+  "timezones": null,
+  "tld": [".gu"],
+  "translations": {
+    "de": "Guam",
+    "es": "Guam",
+    "fr": "Guam",
+    "ja": "グアム",
+    "it": "Guam"
+  },
+  "wiki": "http://en.wikipedia.org/wiki/guam"
+}

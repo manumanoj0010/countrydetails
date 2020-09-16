@@ -1,0 +1,514 @@
+{
+    "name": "East Timor",
+    "altSpellings": [
+        "TL",
+        "East Timor",
+        "Democratic Republic of Timor-Leste",
+        "República Democrática de Timor-Leste",
+        "Repúblika Demokrátika Timór-Leste"
+    ],
+    "area": 14874,
+    "borders": [
+        "IDN"
+    ],
+    "callingCodes": [
+        "670"
+    ],
+    "capital": "Dili",
+    "capital_latlng": [
+        28.651718,
+        77.221939
+    ],
+    "currencies": [
+        "USD"
+    ],
+    "demonym": "East Timorese",
+    "flag": "",
+    "geoJSON": {
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "type": "Feature",
+                "id": "TLS",
+                "properties": {
+                    "name": "East Timor"
+                },
+                "geometry": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                124.968682,
+                                -8.89279
+                            ],
+                            [
+                                125.086246,
+                                -8.656887
+                            ],
+                            [
+                                125.947072,
+                                -8.432095
+                            ],
+                            [
+                                126.644704,
+                                -8.398247
+                            ],
+                            [
+                                126.957243,
+                                -8.273345
+                            ],
+                            [
+                                127.335928,
+                                -8.397317
+                            ],
+                            [
+                                126.967992,
+                                -8.668256
+                            ],
+                            [
+                                125.925885,
+                                -9.106007
+                            ],
+                            [
+                                125.08852,
+                                -9.393173
+                            ],
+                            [
+                                125.07002,
+                                -9.089987
+                            ],
+                            [
+                                124.968682,
+                                -8.89279
+                            ]
+                        ]
+                    ]
+                }
+            }
+        ]
+    },
+    "ISO": {
+        "alpha2": "TL",
+        "alpha3": "TLS"
+    },
+    "languages": [
+        "Portuguese",
+            "Sunda"
+    ],
+    "latlng": [
+        -8.83333333,
+        125.91666666
+    ],
+    "nativeName": "Timor-Leste",
+    "population": 1172390,
+    "timezones": [
+        "UTC+09:00"
+    ],
+    "states": [
+        {
+            "id": 4520,
+            "name": "Aileu municipality",
+            "state_code": "AL",
+            "cities": [
+                {
+                    "id": 106830,
+                    "name": "Aileu",
+                    "latitude": "-8.72806000",
+                    "longitude": "125.56639000"
+                },
+                {
+                    "id": 106854,
+                    "name": "Lequidoe",
+                    "latitude": "-8.69139000",
+                    "longitude": "125.63611000"
+                },
+                {
+                    "id": 106868,
+                    "name": "Remexio",
+                    "latitude": "-8.61667000",
+                    "longitude": "125.66667000"
+                }
+            ]
+        },
+        {
+            "id": 4518,
+            "name": "Ainaro Municipality",
+            "state_code": "AN",
+            "cities": [
+                {
+                    "id": 106831,
+                    "name": "Ainaro",
+                    "latitude": "-8.99241000",
+                    "longitude": "125.50816000"
+                },
+                {
+                    "id": 106846,
+                    "name": "Hato-Udo",
+                    "latitude": "-9.12036000",
+                    "longitude": "125.58935000"
+                }
+            ]
+        },
+        {
+            "id": 4521,
+            "name": "Baucau Municipality",
+            "state_code": "BA",
+            "cities": [
+                {
+                    "id": 106834,
+                    "name": "Baguia",
+                    "latitude": "-8.62787000",
+                    "longitude": "126.65743000"
+                },
+                {
+                    "id": 106836,
+                    "name": "Baucau",
+                    "latitude": "-8.46667000",
+                    "longitude": "126.45000000"
+                },
+                {
+                    "id": 106837,
+                    "name": "Baukau",
+                    "latitude": "-8.47572000",
+                    "longitude": "126.45633000"
+                },
+                {
+                    "id": 106852,
+                    "name": "Laga",
+                    "latitude": "-8.47411000",
+                    "longitude": "126.59228000"
+                },
+                {
+                    "id": 106866,
+                    "name": "Quelicai",
+                    "latitude": "-8.60135000",
+                    "longitude": "126.55904000"
+                },
+                {
+                    "id": 106877,
+                    "name": "Vemasse",
+                    "latitude": "-8.51036000",
+                    "longitude": "126.20823000"
+                },
+                {
+                    "id": 106878,
+                    "name": "Venilale",
+                    "latitude": "-8.64306000",
+                    "longitude": "126.37833000"
+                }
+            ]
+        },
+        {
+            "id": 4525,
+            "name": "Bobonaro Municipality",
+            "state_code": "BO",
+            "cities": [
+                {
+                    "id": 106859,
+                    "name": "Maliana",
+                    "latitude": "-8.99167000",
+                    "longitude": "125.21972000"
+                }
+            ]
+        },
+        {
+            "id": 4522,
+            "name": "Cova Lima Municipality",
+            "state_code": "CO",
+            "cities": [
+                {
+                    "id": 106843,
+                    "name": "Fatumean",
+                    "latitude": "-9.22917000",
+                    "longitude": "125.03583000"
+                },
+                {
+                    "id": 106844,
+                    "name": "Fohorem",
+                    "latitude": "-9.28361000",
+                    "longitude": "125.08944000"
+                },
+                {
+                    "id": 106863,
+                    "name": "Maucatar",
+                    "latitude": "-9.21772000",
+                    "longitude": "125.22981000"
+                },
+                {
+                    "id": 106871,
+                    "name": "Suai",
+                    "latitude": "-9.30000000",
+                    "longitude": "125.25000000"
+                },
+                {
+                    "id": 106872,
+                    "name": "Tilomar",
+                    "latitude": "-9.34182000",
+                    "longitude": "125.10887000"
+                }
+            ]
+        },
+        {
+            "id": 4524,
+            "name": "Dili municipality",
+            "state_code": "DI",
+            "cities": [
+                {
+                    "id": 106833,
+                    "name": "Atauro Island",
+                    "latitude": "-8.26785000",
+                    "longitude": "125.59699000"
+                },
+                {
+                    "id": 106839,
+                    "name": "Cristo Rei",
+                    "latitude": "-8.52047000",
+                    "longitude": "125.60837000"
+                },
+                {
+                    "id": 106840,
+                    "name": "Dili",
+                    "latitude": "-8.55861000",
+                    "longitude": "125.57361000"
+                },
+                {
+                    "id": 106864,
+                    "name": "Metinaro",
+                    "latitude": "-8.53007000",
+                    "longitude": "125.74163000"
+                }
+            ]
+        },
+        {
+            "id": 4516,
+            "name": "Ermera District",
+            "state_code": "ER",
+            "cities": [
+                {
+                    "id": 106841,
+                    "name": "Ermera Villa",
+                    "latitude": "-8.75222000",
+                    "longitude": "125.39694000"
+                },
+                {
+                    "id": 106845,
+                    "name": "Gleno",
+                    "latitude": "-8.72389000",
+                    "longitude": "125.43611000"
+                },
+                {
+                    "id": 106847,
+                    "name": "Hatulia",
+                    "latitude": "-8.81667000",
+                    "longitude": "125.31667000"
+                },
+                {
+                    "id": 106855,
+                    "name": "Letefoho",
+                    "latitude": "-8.83444000",
+                    "longitude": "125.42639000"
+                },
+                {
+                    "id": 106867,
+                    "name": "Railaco",
+                    "latitude": "-8.67237000",
+                    "longitude": "125.42546000"
+                }
+            ]
+        },
+        {
+            "id": 4523,
+            "name": "Lautém Municipality",
+            "state_code": "LA",
+            "cities": [
+                {
+                    "id": 106848,
+                    "name": "Iliomar",
+                    "latitude": "-8.70917000",
+                    "longitude": "126.82833000"
+                },
+                {
+                    "id": 106853,
+                    "name": "Lautem",
+                    "latitude": "-8.36514000",
+                    "longitude": "126.90389000"
+                },
+                {
+                    "id": 106857,
+                    "name": "Lospalos",
+                    "latitude": "-8.52167000",
+                    "longitude": "126.99833000"
+                },
+                {
+                    "id": 106858,
+                    "name": "Luro",
+                    "latitude": "-8.54359000",
+                    "longitude": "126.83003000"
+                },
+                {
+                    "id": 106874,
+                    "name": "Tutuala",
+                    "latitude": "-8.39597000",
+                    "longitude": "127.25923000"
+                }
+            ]
+        },
+        {
+            "id": 4515,
+            "name": "Liquiçá Municipality",
+            "state_code": "LI",
+            "cities": [
+                {
+                    "id": 106838,
+                    "name": "Bazartete",
+                    "latitude": "-8.62464000",
+                    "longitude": "125.38168000"
+                },
+                {
+                    "id": 106856,
+                    "name": "Likisá",
+                    "latitude": "-8.58750000",
+                    "longitude": "125.34194000"
+                },
+                {
+                    "id": 106862,
+                    "name": "Maubara",
+                    "latitude": "-8.61194000",
+                    "longitude": "125.20611000"
+                }
+            ]
+        },
+        {
+            "id": 4517,
+            "name": "Manatuto District",
+            "state_code": "MT",
+            "cities": [
+                {
+                    "id": 106835,
+                    "name": "Barique",
+                    "latitude": "-8.85472000",
+                    "longitude": "126.06556000"
+                },
+                {
+                    "id": 106849,
+                    "name": "Laclo",
+                    "latitude": "-8.55000000",
+                    "longitude": "125.91667000"
+                },
+                {
+                    "id": 106850,
+                    "name": "Laclubar",
+                    "latitude": "-8.74975000",
+                    "longitude": "125.91186000"
+                },
+                {
+                    "id": 106860,
+                    "name": "Manatuto",
+                    "latitude": "-8.52207000",
+                    "longitude": "126.01516000"
+                },
+                {
+                    "id": 106861,
+                    "name": "Manatutu",
+                    "latitude": "-8.51139000",
+                    "longitude": "126.01306000"
+                },
+                {
+                    "id": 106870,
+                    "name": "Soibada",
+                    "latitude": "-8.86000000",
+                    "longitude": "125.94000000"
+                }
+            ]
+        },
+        {
+            "id": 4519,
+            "name": "Manufahi Municipality",
+            "state_code": "MF",
+            "cities": [
+                {
+                    "id": 106832,
+                    "name": "Alas",
+                    "latitude": "-9.02730000",
+                    "longitude": "125.78680000"
+                },
+                {
+                    "id": 106842,
+                    "name": "Fatuberliu",
+                    "latitude": "-8.94790000",
+                    "longitude": "125.86633000"
+                },
+                {
+                    "id": 106869,
+                    "name": "Same",
+                    "latitude": "-9.00000000",
+                    "longitude": "125.65000000"
+                },
+                {
+                    "id": 106873,
+                    "name": "Turiscai",
+                    "latitude": "-8.82371000",
+                    "longitude": "125.70454000"
+                }
+            ]
+        },
+        {
+            "id": 4514,
+            "name": "Viqueque Municipality",
+            "state_code": "VI",
+            "cities": [
+                {
+                    "id": 106851,
+                    "name": "Lacluta",
+                    "latitude": "-8.80000000",
+                    "longitude": "126.13333000"
+                },
+                {
+                    "id": 106865,
+                    "name": "Ossu",
+                    "latitude": "-8.73477000",
+                    "longitude": "126.38324000"
+                },
+                {
+                    "id": 106875,
+                    "name": "Uatocarabau",
+                    "latitude": "-8.75658000",
+                    "longitude": "126.68060000"
+                },
+                {
+                    "id": 106876,
+                    "name": "Uatolari",
+                    "latitude": "-8.76277000",
+                    "longitude": "126.57353000"
+                },
+                {
+                    "id": 106879,
+                    "name": "Viqueque",
+                    "latitude": "-8.85908000",
+                    "longitude": "126.36972000"
+                }
+            ]
+        }
+    ],
+    "tld": [
+        ".tl"
+    ],
+    "translations": {
+        "de": "Timor-Leste",
+        "es": "Timor Oriental",
+        "fr": "Timor oriental",
+        "ja": "東ティモール",
+        "it": "Timor Est"
+    },
+    "expectancy": 46,
+    "dish": null,
+    "symbol": null,
+    "density": 85.27,
+    "location": "Southeast Asia",
+    "religion": null,
+    "temperature": 25.25,
+    "continent": "Asia",
+    "government": "Administrated by the UN",
+    "independence": null,
+    "wiki": "http://en.wikipedia.org/wiki/tobago"
+}

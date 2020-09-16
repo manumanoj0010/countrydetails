@@ -1,0 +1,60 @@
+{
+    "name": "Norfolk Island",
+    "altSpellings": [
+        "NF",
+        "Territory of Norfolk Island",
+        "Teratri of Norf'k Ailen"
+    ],
+    "area": 36,
+    "borders": [],
+    "callingCodes": [
+        "672"
+    ],
+    "capital": "Kingston",
+    "capital_latlng": [
+        17.971215,
+        -76.792813
+    ],
+    "currencies": [
+        "AUD"
+    ],
+    "demonym": "Norfolk Islander",
+    "flag": "",
+    "geoJSON": {},
+    "ISO": {
+        "alpha2": "NF",
+        "alpha3": "NFK"
+    },
+    "expectancy": null,
+    "languages": [
+        "English"
+    ],
+    "independence": null,
+    "government": "Territory of Australia",
+    "continent": "Oceania",
+    "temperature": null,
+    "location": "Australia and New Zealand",
+    "density": 61.9,
+    "symbol": null,
+    "dish": null,
+
+    "latlng": [
+        -29.03333333,
+        167.95
+    ],
+    "nativeName": "Norfolk Island",
+    "population": 2302,
+    
+    "timezones": null,
+    "tld": [
+        ".nf"
+    ],
+    "translations": {
+        "de": "Norfolkinsel",
+        "es": "Isla de Norfolk",
+        "fr": "Île de Norfolk",
+        "ja": "ノーフォーク島",
+        "it": "Isola Norfolk"
+    },
+    "wiki": "http://en.wikipedia.org/wiki/norfolk_island"
+}

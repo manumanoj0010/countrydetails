@@ -1,0 +1,59 @@
+{
+    "name": "Martinique",
+    "altSpellings": [
+        "MQ"
+    ],
+    "area": null,
+    "borders": [],
+    "callingCodes": [
+        "596"
+    ],
+    "capital": "Fort-de-France",
+    "capital_latlng": [
+        14.602796,
+        -61.067672
+    ],
+    "currencies": [
+        "EUR"
+    ],
+    "demonym": "French",
+    "flag": "",
+    "geoJSON": {},
+    "ISO": {
+        "alpha2": "MQ",
+        "alpha3": "MTQ"
+    },
+    "languages": [
+        "Creole French",
+        "French"
+    ],
+    "latlng": [
+        14.666667,
+        -61
+    ],
+    "nativeName": "Martinique",
+    "population": 386486,
+    "timezones": null,
+    "tld": [
+        ".mq"
+    ],
+    "states": [],
+    "translations": {
+        "de": "Martinique",
+        "es": "Martinica",
+        "fr": "Martinique",
+        "ja": "マルティニーク",
+        "it": "Martinica"
+    },
+    "expectancy": 78.3,
+    "dish": null,
+    "symbol": null,
+    "density": 330,
+    "location": "Caribbean",
+    "religion": "Christianity",
+    "temperature": null,
+    "continent": "North America",
+    "government": "Overseas Department of France",
+    "independence": null,
+    "wiki": "http://en.wikipedia.org/wiki/martinique"
+}

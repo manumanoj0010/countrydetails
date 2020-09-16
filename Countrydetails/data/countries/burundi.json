@@ -1,0 +1,367 @@
+{
+    "name": "Burundi",
+    "altSpellings": [
+        "BI",
+        "Republic of Burundi",
+        "Republika y'Uburundi",
+        "République du Burundi"
+    ],
+    "area": 27834,
+    "borders": [
+        "COD",
+        "RWA",
+        "TZA"
+    ],
+    "callingCodes": [
+        "257"
+    ],
+    "capital": "Bujumbura",
+    "capital_latlng": [
+        -3.363812,
+        29.367503
+    ],
+    "currencies": [
+        "BIF"
+    ],
+    "demonym": "Burundian",
+    "flag": "",
+    "geoJSON": {
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "type": "Feature",
+                "id": "BDI",
+                "properties": {
+                    "name": "Burundi"
+                },
+                "geometry": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                29.339998,
+                                -4.499983
+                            ],
+                            [
+                                29.276384,
+                                -3.293907
+                            ],
+                            [
+                                29.024926,
+                                -2.839258
+                            ],
+                            [
+                                29.632176,
+                                -2.917858
+                            ],
+                            [
+                                29.938359,
+                                -2.348487
+                            ],
+                            [
+                                30.469696,
+                                -2.413858
+                            ],
+                            [
+                                30.527677,
+                                -2.807632
+                            ],
+                            [
+                                30.743013,
+                                -3.034285
+                            ],
+                            [
+                                30.752263,
+                                -3.35933
+                            ],
+                            [
+                                30.50556,
+                                -3.568567
+                            ],
+                            [
+                                30.116333,
+                                -4.090138
+                            ],
+                            [
+                                29.753512,
+                                -4.452389
+                            ],
+                            [
+                                29.339998,
+                                -4.499983
+                            ]
+                        ]
+                    ]
+                }
+            }
+        ]
+    },
+    "ISO": {
+        "alpha2": "BI",
+        "alpha3": "BDI"
+    },
+    "languages": [
+        "French",
+        "Kirundi",
+        "Swahili"
+    ],
+    "latlng": [
+        -3.5,
+        30
+    ],
+    "nativeName": "Burundi",
+    "population": 9530434,
+    "timezones": [
+        "UTC+02:00"
+    ],
+    "states": [
+        {
+            "id": 3196,
+            "name": "Bubanza Province",
+            "state_code": "BB",
+            "cities": [
+                {
+                    "id": 9762,
+                    "name": "Bubanza",
+                    "latitude": "-3.08040000",
+                    "longitude": "29.39100000"
+                }
+            ]
+        },
+        {
+            "id": 3198,
+            "name": "Bujumbura Mairie Province",
+            "state_code": "BM",
+            "cities": [
+                {
+                    "id": 9763,
+                    "name": "Bujumbura",
+                    "latitude": "-3.38193000",
+                    "longitude": "29.36142000"
+                }
+            ]
+        },
+        {
+            "id": 3200,
+            "name": "Bujumbura Rural Province",
+            "state_code": "BL",
+            "cities": []
+        },
+        {
+            "id": 3202,
+            "name": "Bururi Province",
+            "state_code": "BR",
+            "cities": [
+                {
+                    "id": 9764,
+                    "name": "Bururi",
+                    "latitude": "-3.94877000",
+                    "longitude": "29.62438000"
+                }
+            ]
+        },
+        {
+            "id": 3201,
+            "name": "Cankuzo Province",
+            "state_code": "CA",
+            "cities": [
+                {
+                    "id": 9765,
+                    "name": "Cankuzo",
+                    "latitude": "-3.21860000",
+                    "longitude": "30.55280000"
+                }
+            ]
+        },
+        {
+            "id": 3190,
+            "name": "Cibitoke Province",
+            "state_code": "CI",
+            "cities": [
+                {
+                    "id": 9766,
+                    "name": "Cibitoke",
+                    "latitude": "-2.88690000",
+                    "longitude": "29.12480000"
+                }
+            ]
+        },
+        {
+            "id": 3197,
+            "name": "Gitega Province",
+            "state_code": "GI",
+            "cities": [
+                {
+                    "id": 9767,
+                    "name": "Gitega",
+                    "latitude": "-3.42708000",
+                    "longitude": "29.92463000"
+                }
+            ]
+        },
+        {
+            "id": 3194,
+            "name": "Karuzi Province",
+            "state_code": "KR",
+            "cities": [
+                {
+                    "id": 9768,
+                    "name": "Karuzi",
+                    "latitude": "-3.10139000",
+                    "longitude": "30.16278000"
+                }
+            ]
+        },
+        {
+            "id": 3192,
+            "name": "Kayanza Province",
+            "state_code": "KY",
+            "cities": [
+                {
+                    "id": 9769,
+                    "name": "Kayanza",
+                    "latitude": "-2.92210000",
+                    "longitude": "29.62930000"
+                }
+            ]
+        },
+        {
+            "id": 3195,
+            "name": "Kirundo Province",
+            "state_code": "KI",
+            "cities": [
+                {
+                    "id": 9770,
+                    "name": "Kirundo",
+                    "latitude": "-2.58450000",
+                    "longitude": "30.09590000"
+                }
+            ]
+        },
+        {
+            "id": 3188,
+            "name": "Makamba Province",
+            "state_code": "MA",
+            "cities": [
+                {
+                    "id": 9771,
+                    "name": "Makamba",
+                    "latitude": "-4.13480000",
+                    "longitude": "29.80400000"
+                }
+            ]
+        },
+        {
+            "id": 3193,
+            "name": "Muramvya Province",
+            "state_code": "MU",
+            "cities": [
+                {
+                    "id": 9772,
+                    "name": "Muramvya",
+                    "latitude": "-3.26820000",
+                    "longitude": "29.60790000"
+                }
+            ]
+        },
+        {
+            "id": 3186,
+            "name": "Muyinga Province",
+            "state_code": "MY",
+            "cities": [
+                {
+                    "id": 9773,
+                    "name": "Muyinga",
+                    "latitude": "-2.84510000",
+                    "longitude": "30.34140000"
+                }
+            ]
+        },
+        {
+            "id": 3187,
+            "name": "Mwaro Province",
+            "state_code": "MW",
+            "cities": [
+                {
+                    "id": 9774,
+                    "name": "Mwaro",
+                    "latitude": "-3.51128000",
+                    "longitude": "29.70334000"
+                }
+            ]
+        },
+        {
+            "id": 3199,
+            "name": "Ngozi Province",
+            "state_code": "NG",
+            "cities": [
+                {
+                    "id": 9775,
+                    "name": "Ngozi",
+                    "latitude": "-2.90750000",
+                    "longitude": "29.83060000"
+                }
+            ]
+        },
+        {
+            "id": 3185,
+            "name": "Rumonge Province",
+            "state_code": "RM",
+            "cities": [
+                {
+                    "id": 9776,
+                    "name": "Rumonge",
+                    "latitude": "-3.97360000",
+                    "longitude": "29.43860000"
+                }
+            ]
+        },
+        {
+            "id": 3189,
+            "name": "Rutana Province",
+            "state_code": "RT",
+            "cities": [
+                {
+                    "id": 9777,
+                    "name": "Rutana",
+                    "latitude": "-3.92790000",
+                    "longitude": "29.99200000"
+                }
+            ]
+        },
+        {
+            "id": 3191,
+            "name": "Ruyigi Province",
+            "state_code": "RY",
+            "cities": [
+                {
+                    "id": 9778,
+                    "name": "Ruyigi",
+                    "latitude": "-3.47639000",
+                    "longitude": "30.24861000"
+                }
+            ]
+        }
+    ],
+    "tld": [
+        ".bi"
+    ],
+    "dish": null,
+    "expectancy": 46.2,
+    "symbol": null,
+    "religion": "Christianity",
+    "location": "Eastern Africa",
+    "density": 435.178271,
+    "temperature": 19.8,
+    "continent": "Africa",
+    "independence": 1962,
+    "translations": {
+        "de": "Burundi",
+        "es": "Burundi",
+        "fr": "Burundi",
+        "ja": "ブルンジ",
+        "it": "Burundi"
+    },
+    "government": "Republic",
+    "wiki": "http://en.wikipedia.org/wiki/burundi"
+}

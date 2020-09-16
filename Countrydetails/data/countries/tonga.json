@@ -1,0 +1,145 @@
+{
+    "name": "Tonga",
+    "altSpellings": [
+        "TO"
+    ],
+    "area": 747,
+    "borders": [],
+    "callingCodes": [
+        "676"
+    ],
+    "capital": "Nuku'alofa",
+    "capital_latlng": [
+        -21.13434,
+        -175.201808
+    ],
+    "currencies": [
+        "TOP"
+    ],
+    "demonym": "Tongan",
+    "flag": "",
+    "geoJSON": {},
+    "ISO": {
+        "alpha2": "TO",
+        "alpha3": "TON"
+    },
+    "languages": [
+        "English",
+            "Tongan"
+    ],
+    "latlng": [
+        -20,
+        -175
+    ],
+    "states": [
+        {
+            "id": 3913,
+            "name": "Haʻapai",
+            "state_code": "02",
+            "cities": [
+                {
+                    "id": 107049,
+                    "name": "Pangai",
+                    "latitude": "-19.81468000",
+                    "longitude": "-174.35423000"
+                }
+            ]
+        },
+        {
+            "id": 3915,
+            "name": "ʻEua",
+            "state_code": "01",
+            "cities": [
+                {
+                    "id": 107051,
+                    "name": "‘Ohonua",
+                    "latitude": "-21.33333000",
+                    "longitude": "-174.95000000"
+                }
+            ]
+        },
+        {
+            "id": 3914,
+            "name": "Niuas",
+            "state_code": "03",
+            "cities": [
+                {
+                    "id": 107045,
+                    "name": "Hihifo",
+                    "latitude": "-15.95440000",
+                    "longitude": "-173.79616000"
+                }
+            ]
+        },
+        {
+            "id": 3912,
+            "name": "Tongatapu",
+            "state_code": "04",
+            "cities": [
+                {
+                    "id": 107044,
+                    "name": "Haveluloto",
+                    "latitude": "-21.15216000",
+                    "longitude": "-175.21333000"
+                },
+                {
+                    "id": 107046,
+                    "name": "Kolonga",
+                    "latitude": "-21.13333000",
+                    "longitude": "-175.06667000"
+                },
+                {
+                    "id": 107048,
+                    "name": "Nuku‘alofa",
+                    "latitude": "-21.13938000",
+                    "longitude": "-175.20180000"
+                },
+                {
+                    "id": 107050,
+                    "name": "Vaini",
+                    "latitude": "-21.19292000",
+                    "longitude": "-175.17678000"
+                }
+            ]
+        },
+        {
+            "id": 3911,
+            "name": "Vavaʻu",
+            "state_code": "05",
+            "cities": [
+                {
+                    "id": 107047,
+                    "name": "Neiafu",
+                    "latitude": "-18.65060000",
+                    "longitude": "-173.98404000"
+                }
+            ]
+        }
+    ],
+    "nativeName": "Tonga",
+    "population": 103252,
+    "timezones": [
+        "UTC+13:00"
+    ],
+    "tld": [
+        ".to"
+    ],
+    "translations": {
+        "de": "Tonga",
+        "es": "Tonga",
+        "fr": "Tonga",
+        "ja": "トンガ",
+        "it": "Tonga"
+    },
+    "expectancy": 67.9,
+    "dish": null,
+    "symbol": null,
+    "density": 143.3291667,
+    "location": "Polynesia",
+    "temperature": 25.25,
+    "religion": "Christianity",
+    "continent": "Oceania",
+    "government": "Monarchy",
+    "independence": 1970,
+    "wiki": "http://en.wikipedia.org/wiki/tonga"
+}

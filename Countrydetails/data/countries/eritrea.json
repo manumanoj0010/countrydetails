@@ -1,0 +1,313 @@
+{
+    "name": "Eritrea",
+    "altSpellings": [
+        "ER",
+        "State of Eritrea",
+        "ሃገረ ኤርትራ",
+        "Dawlat Iritriyá",
+        "ʾErtrā",
+        "Iritriyā"
+    ],
+    "area": 117600,
+    "borders": [
+        "DJI",
+        "ETH",
+        "SDN"
+    ],
+    "callingCodes": [
+        "291"
+    ],
+    "capital": "Asmara",
+    "capital_latlng": [
+        15.338967,
+        38.932676
+    ],
+    "currencies": [
+        "ERN"
+    ],
+    "continent": "Africa",
+    "density": 35,
+    "religion": "Christianity",
+    "location": "Eastern Africa",
+    "government": "Republic",
+    "temperature": 25.5,
+    "dish": "Zigini with injera, Gored gored, raw meat",
+    "symbol": "animal",
+    "expectancy": 55.8,
+    "demonym": "Eritrean",
+    "independence": 1993,
+    "flag": "",
+    "geoJSON": {
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "type": "Feature",
+                "id": "ERI",
+                "properties": {
+                    "name": "Eritrea"
+                },
+                "geometry": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                42.35156,
+                                12.54223
+                            ],
+                            [
+                                42.00975,
+                                12.86582
+                            ],
+                            [
+                                41.59856,
+                                13.45209
+                            ],
+                            [
+                                41.155194,
+                                13.77332
+                            ],
+                            [
+                                40.8966,
+                                14.11864
+                            ],
+                            [
+                                40.026219,
+                                14.519579
+                            ],
+                            [
+                                39.34061,
+                                14.53155
+                            ],
+                            [
+                                39.0994,
+                                14.74064
+                            ],
+                            [
+                                38.51295,
+                                14.50547
+                            ],
+                            [
+                                37.90607,
+                                14.95943
+                            ],
+                            [
+                                37.59377,
+                                14.2131
+                            ],
+                            [
+                                36.42951,
+                                14.42211
+                            ],
+                            [
+                                36.323189,
+                                14.822481
+                            ],
+                            [
+                                36.75386,
+                                16.291874
+                            ],
+                            [
+                                36.85253,
+                                16.95655
+                            ],
+                            [
+                                37.16747,
+                                17.26314
+                            ],
+                            [
+                                37.904,
+                                17.42754
+                            ],
+                            [
+                                38.41009,
+                                17.998307
+                            ],
+                            [
+                                38.990623,
+                                16.840626
+                            ],
+                            [
+                                39.26611,
+                                15.922723
+                            ],
+                            [
+                                39.814294,
+                                15.435647
+                            ],
+                            [
+                                41.179275,
+                                14.49108
+                            ],
+                            [
+                                41.734952,
+                                13.921037
+                            ],
+                            [
+                                42.276831,
+                                13.343992
+                            ],
+                            [
+                                42.589576,
+                                13.000421
+                            ],
+                            [
+                                43.081226,
+                                12.699639
+                            ],
+                            [
+                                42.779642,
+                                12.455416
+                            ],
+                            [
+                                42.35156,
+                                12.54223
+                            ]
+                        ]
+                    ]
+                }
+            }
+        ]
+    },
+    "ISO": {
+        "alpha2": "ER",
+        "alpha3": "ERI"
+    },
+    "states": [
+        {
+            "id": 3425,
+            "name": "Anseba Region",
+            "state_code": "AN",
+            "cities": [
+                {
+                    "id": 31888,
+                    "name": "Keren",
+                    "latitude": "15.77792000",
+                    "longitude": "38.45107000"
+                }
+            ]
+        },
+        {
+            "id": 3427,
+            "name": "Debub Region",
+            "state_code": "DU",
+            "cities": [
+                {
+                    "id": 31881,
+                    "name": "Adi Keyh",
+                    "latitude": "14.84444000",
+                    "longitude": "39.37722000"
+                },
+                {
+                    "id": 31886,
+                    "name": "Dek’emhāre",
+                    "latitude": "15.07000000",
+                    "longitude": "39.04750000"
+                },
+                {
+                    "id": 31890,
+                    "name": "Mendefera",
+                    "latitude": "14.88722000",
+                    "longitude": "38.81528000"
+                }
+            ]
+        },
+        {
+            "id": 3428,
+            "name": "Gash-Barka Region",
+            "state_code": "GB",
+            "cities": [
+                {
+                    "id": 31882,
+                    "name": "Ak’ordat",
+                    "latitude": "15.54798000",
+                    "longitude": "37.88291000"
+                },
+                {
+                    "id": 31885,
+                    "name": "Barentu",
+                    "latitude": "15.10582000",
+                    "longitude": "37.59067000"
+                },
+                {
+                    "id": 31891,
+                    "name": "Teseney",
+                    "latitude": "15.11000000",
+                    "longitude": "36.65750000"
+                }
+            ]
+        },
+        {
+            "id": 3426,
+            "name": "Maekel Region",
+            "state_code": "MA",
+            "cities": [
+                {
+                    "id": 31883,
+                    "name": "Asmara",
+                    "latitude": "15.33805000",
+                    "longitude": "38.93184000"
+                }
+            ]
+        },
+        {
+            "id": 3424,
+            "name": "Northern Red Sea Region",
+            "state_code": "SK",
+            "cities": [
+                {
+                    "id": 31889,
+                    "name": "Massawa",
+                    "latitude": "15.60811000",
+                    "longitude": "39.47455000"
+                }
+            ]
+        },
+        {
+            "id": 3429,
+            "name": "Southern Red Sea Region",
+            "state_code": "DK",
+            "cities": [
+                {
+                    "id": 31884,
+                    "name": "Assab",
+                    "latitude": "13.00917000",
+                    "longitude": "42.73944000"
+                },
+                {
+                    "id": 31887,
+                    "name": "Edd",
+                    "latitude": "13.93088000",
+                    "longitude": "41.69380000"
+                }
+            ]
+        }
+    ],
+    "languages": [
+        "Afar",
+        "Bilin",
+        "Hadareb",
+        "Saho",
+        "Tigre",
+        "Tigrigna"
+    ],
+    "latlng": [
+        15,
+        39
+    ],
+    "nativeName": "ኤርትራ",
+    "population": 6536000,
+    "timezones": [
+        "UTC+03:00"
+    ],
+    "tld": [
+        ".er"
+    ],
+    "translations": {
+        "de": "Eritrea",
+        "es": "Eritrea",
+        "fr": "Érythrée",
+        "ja": "エリトリア",
+        "it": "Eritrea"
+    },
+    "wiki": "http://en.wikipedia.org/wiki/eritrea"
+}

@@ -1,0 +1,152 @@
+{
+    "name": "Bahrain",
+    "altSpellings": [
+        "BH",
+        "Kingdom of Bahrain",
+        "Mamlakat al-Baḥrayn"
+    ],
+    "area": 765,
+    "borders": [],
+    "callingCodes": [
+        "973"
+    ],
+    "capital": "Manama",
+    "capital_latlng": [
+        26.223504,
+        50.582244
+    ],
+    "currencies": [
+        "BHD"
+    ],
+    "demonym": "Bahraini",
+    "flag": "",
+    "geoJSON": {},
+    "ISO": {
+        "alpha2": "BH",
+        "alpha3": "BHR"
+    },
+    "languages": [
+        "Arabic",
+            "English"
+    ],
+    "states": [
+        {
+            "id": 1992,
+            "name": "Capital Governorate",
+            "state_code": "13",
+            "cities": [
+                {
+                    "id": 9757,
+                    "name": "Jidd Ḩafş",
+                    "latitude": "26.21861000",
+                    "longitude": "50.54778000"
+                },
+                {
+                    "id": 9760,
+                    "name": "Manama",
+                    "latitude": "26.22787000",
+                    "longitude": "50.58565000"
+                },
+                {
+                    "id": 9761,
+                    "name": "Sitrah",
+                    "latitude": "26.15472000",
+                    "longitude": "50.62056000"
+                }
+            ]
+        },
+        {
+            "id": 1996,
+            "name": "Central Governorate",
+            "state_code": "16",
+            "cities": [
+                {
+                    "id": 9758,
+                    "name": "Madīnat Ḩamad",
+                    "latitude": "26.11528000",
+                    "longitude": "50.50694000"
+                }
+            ]
+        },
+        {
+            "id": 1995,
+            "name": "Muharraq Governorate",
+            "state_code": "15",
+            "cities": [
+                {
+                    "id": 9754,
+                    "name": "Al Ḩadd",
+                    "latitude": "26.24556000",
+                    "longitude": "50.65417000"
+                },
+                {
+                    "id": 9753,
+                    "name": "Al Muharraq",
+                    "latitude": "26.25722000",
+                    "longitude": "50.61194000"
+                }
+            ]
+        },
+        {
+            "id": 1994,
+            "name": "Northern Governorate",
+            "state_code": "17",
+            "cities": []
+        },
+        {
+            "id": 1993,
+            "name": "Southern Governorate",
+            "state_code": "14",
+            "cities": [
+                {
+                    "id": 9755,
+                    "name": "Ar Rifā‘",
+                    "latitude": "26.13000000",
+                    "longitude": "50.55500000"
+                },
+                {
+                    "id": 9756,
+                    "name": "Dār Kulayb",
+                    "latitude": "26.06861000",
+                    "longitude": "50.50389000"
+                },
+                {
+                    "id": 9759,
+                    "name": "Madīnat ‘Īsá",
+                    "latitude": "26.17361000",
+                    "longitude": "50.54778000"
+                }
+            ]
+        }
+    ],
+    "latlng": [
+        26,
+        50.55
+    ],
+    "nativeName": "‏البحرين",
+    "population": 1316500,
+    "timezones": [
+        "UTC+03:00"
+    ],
+    "tld": [
+        ".bh"
+    ],
+    "translations": {
+        "de": "Bahrain",
+        "es": "Bahrein",
+        "fr": "Bahreïn",
+        "ja": "バーレーン",
+        "it": "Bahrein"
+    },
+    "expectancy": 73,
+    "dish": "Machboos",
+    "symbol": null,
+    "density": 2017.2737,
+    "location": "Middle East",
+    "religion": "Islam",
+    "temperature": 27.15,
+    "continent": "Asia",
+    "government": "Monarchy (Emirate)",
+    "independence": 1971,
+    "wiki": "http://en.wikipedia.org/wiki/bahrain"
+}

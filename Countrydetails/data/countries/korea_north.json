@@ -1,0 +1,816 @@
+{
+    "name": "North Korea",
+    "altSpellings": [
+        "KP",
+        "Democratic People's Republic of Korea",
+        "조선민주주의인민공화국",
+        "Chosŏn Minjujuŭi Inmin Konghwaguk"
+    ],
+    "area": 120538,
+    "borders": [
+        "CHN",
+        "KOR",
+        "RUS"
+    ],
+    "callingCodes": [
+        "850"
+    ],
+    "capital": "Pyongyang",
+    "capital_latlng": [
+        39.019474,
+        125.753388
+    ],
+    "currencies": [
+        "KPW"
+    ],
+    "demonym": "North Korean",
+    "flag": "",
+    "geoJSON": {
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "type": "Feature",
+                "id": "PRK",
+                "properties": {
+                    "name": "North Korea"
+                },
+                "geometry": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                130.640016,
+                                42.395009
+                            ],
+                            [
+                                130.780007,
+                                42.220007
+                            ],
+                            [
+                                130.400031,
+                                42.280004
+                            ],
+                            [
+                                129.965949,
+                                41.941368
+                            ],
+                            [
+                                129.667362,
+                                41.601104
+                            ],
+                            [
+                                129.705189,
+                                40.882828
+                            ],
+                            [
+                                129.188115,
+                                40.661808
+                            ],
+                            [
+                                129.0104,
+                                40.485436
+                            ],
+                            [
+                                128.633368,
+                                40.189847
+                            ],
+                            [
+                                127.967414,
+                                40.025413
+                            ],
+                            [
+                                127.533436,
+                                39.75685
+                            ],
+                            [
+                                127.50212,
+                                39.323931
+                            ],
+                            [
+                                127.385434,
+                                39.213472
+                            ],
+                            [
+                                127.783343,
+                                39.050898
+                            ],
+                            [
+                                128.349716,
+                                38.612243
+                            ],
+                            [
+                                128.205746,
+                                38.370397
+                            ],
+                            [
+                                127.780035,
+                                38.304536
+                            ],
+                            [
+                                127.073309,
+                                38.256115
+                            ],
+                            [
+                                126.68372,
+                                37.804773
+                            ],
+                            [
+                                126.237339,
+                                37.840378
+                            ],
+                            [
+                                126.174759,
+                                37.749686
+                            ],
+                            [
+                                125.689104,
+                                37.94001
+                            ],
+                            [
+                                125.568439,
+                                37.752089
+                            ],
+                            [
+                                125.27533,
+                                37.669071
+                            ],
+                            [
+                                125.240087,
+                                37.857224
+                            ],
+                            [
+                                124.981033,
+                                37.948821
+                            ],
+                            [
+                                124.712161,
+                                38.108346
+                            ],
+                            [
+                                124.985994,
+                                38.548474
+                            ],
+                            [
+                                125.221949,
+                                38.665857
+                            ],
+                            [
+                                125.132859,
+                                38.848559
+                            ],
+                            [
+                                125.38659,
+                                39.387958
+                            ],
+                            [
+                                125.321116,
+                                39.551385
+                            ],
+                            [
+                                124.737482,
+                                39.660344
+                            ],
+                            [
+                                124.265625,
+                                39.928493
+                            ],
+                            [
+                                125.079942,
+                                40.569824
+                            ],
+                            [
+                                126.182045,
+                                41.107336
+                            ],
+                            [
+                                126.869083,
+                                41.816569
+                            ],
+                            [
+                                127.343783,
+                                41.503152
+                            ],
+                            [
+                                128.208433,
+                                41.466772
+                            ],
+                            [
+                                128.052215,
+                                41.994285
+                            ],
+                            [
+                                129.596669,
+                                42.424982
+                            ],
+                            [
+                                129.994267,
+                                42.985387
+                            ],
+                            [
+                                130.640016,
+                                42.395009
+                            ]
+                        ]
+                    ]
+                }
+            }
+        ]
+    },
+    "ISO": {
+        "alpha2": "KP",
+        "alpha3": "PRK"
+    },
+    "languages": [
+        "Chinese",
+        "Korean"
+    ],
+    "latlng": [
+        40,
+        127
+    ],
+    "nativeName": "북한",
+    "population": 25027000,
+    "government": "Socialistic Republic",
+    "independence": 1948,
+    "continent": "Asia",
+    "dish": "Galbi, Kimchi",
+    "symbol": null,
+    "density": 212.1901752,
+    "expectancy": 70.7,
+    "religion": "Unaffiliated Religions",
+    "temperature": 5.7,
+    "location": "Eastern Asia",
+    "states": [
+        {
+            "id": 3998,
+            "name": "Chagang Province",
+            "state_code": "04",
+            "cities": [
+                {
+                    "id": 65186,
+                    "name": "Changgang-gun",
+                    "latitude": "41.06333000",
+                    "longitude": "126.72556000"
+                },
+                {
+                    "id": 65188,
+                    "name": "Chasŏng",
+                    "latitude": "41.46083000",
+                    "longitude": "126.64139000"
+                },
+                {
+                    "id": 65208,
+                    "name": "Kanggye",
+                    "latitude": "40.96946000",
+                    "longitude": "126.58523000"
+                },
+                {
+                    "id": 65221,
+                    "name": "Manp’o",
+                    "latitude": "41.15472000",
+                    "longitude": "126.28944000"
+                }
+            ]
+        },
+        {
+            "id": 3999,
+            "name": "Kangwon Province",
+            "state_code": "07",
+            "cities": [
+                {
+                    "id": 65181,
+                    "name": "Anbyŏn-ŭp",
+                    "latitude": "39.04250000",
+                    "longitude": "127.52389000"
+                },
+                {
+                    "id": 65198,
+                    "name": "Hoeyang",
+                    "latitude": "38.71028000",
+                    "longitude": "127.59833000"
+                },
+                {
+                    "id": 65214,
+                    "name": "Kosan",
+                    "latitude": "38.85583000",
+                    "longitude": "127.41806000"
+                },
+                {
+                    "id": 65250,
+                    "name": "T’ongch’ŏn-ŭp",
+                    "latitude": "38.95389000",
+                    "longitude": "127.89167000"
+                },
+                {
+                    "id": 65252,
+                    "name": "Wŏnsan",
+                    "latitude": "39.15278000",
+                    "longitude": "127.44361000"
+                }
+            ]
+        },
+        {
+            "id": 3995,
+            "name": "North Hamgyong Province",
+            "state_code": "09",
+            "cities": [
+                {
+                    "id": 65183,
+                    "name": "Aoji",
+                    "latitude": "42.52448000",
+                    "longitude": "130.39718000"
+                },
+                {
+                    "id": 65189,
+                    "name": "Chongjin",
+                    "latitude": "41.79556000",
+                    "longitude": "129.77583000"
+                },
+                {
+                    "id": 65195,
+                    "name": "Hau-ri",
+                    "latitude": "41.20056000",
+                    "longitude": "129.47028000"
+                },
+                {
+                    "id": 65196,
+                    "name": "Hoemul-li",
+                    "latitude": "41.43389000",
+                    "longitude": "129.67000000"
+                },
+                {
+                    "id": 65197,
+                    "name": "Hoeryŏng",
+                    "latitude": "42.44113000",
+                    "longitude": "129.74601000"
+                },
+                {
+                    "id": 65210,
+                    "name": "Kilju",
+                    "latitude": "40.96417000",
+                    "longitude": "129.32778000"
+                },
+                {
+                    "id": 65211,
+                    "name": "Kimch’aek-si",
+                    "latitude": "40.66889000",
+                    "longitude": "129.18972000"
+                },
+                {
+                    "id": 65213,
+                    "name": "Komusan Il-tong",
+                    "latitude": "42.10914000",
+                    "longitude": "129.69997000"
+                },
+                {
+                    "id": 65219,
+                    "name": "Kyŏngsŏng",
+                    "latitude": "41.58778000",
+                    "longitude": "129.60611000"
+                },
+                {
+                    "id": 65220,
+                    "name": "Kyŏngwŏn",
+                    "latitude": "42.81361000",
+                    "longitude": "130.15278000"
+                },
+                {
+                    "id": 65222,
+                    "name": "Musan-ŭp",
+                    "latitude": "42.22609000",
+                    "longitude": "129.20776000"
+                },
+                {
+                    "id": 65224,
+                    "name": "Namyang-dong",
+                    "latitude": "42.95000000",
+                    "longitude": "129.86667000"
+                },
+                {
+                    "id": 65225,
+                    "name": "Nanam",
+                    "latitude": "41.71361000",
+                    "longitude": "129.68444000"
+                },
+                {
+                    "id": 65227,
+                    "name": "Onsŏng",
+                    "latitude": "42.95722000",
+                    "longitude": "129.99333000"
+                },
+                {
+                    "id": 65230,
+                    "name": "Puryŏng",
+                    "latitude": "42.06056000",
+                    "longitude": "129.71167000"
+                },
+                {
+                    "id": 65247,
+                    "name": "Sŭngam-nodongjagu",
+                    "latitude": "41.66972000",
+                    "longitude": "129.66889000"
+                }
+            ]
+        },
+        {
+            "id": 4004,
+            "name": "North Hwanghae Province",
+            "state_code": "06",
+            "cities": [
+                {
+                    "id": 65180,
+                    "name": "Anak",
+                    "latitude": "38.51083000",
+                    "longitude": "125.49417000"
+                },
+                {
+                    "id": 65203,
+                    "name": "Hŭkkyo-ri",
+                    "latitude": "38.79861000",
+                    "longitude": "125.79194000"
+                },
+                {
+                    "id": 65200,
+                    "name": "Hwangju-ŭp",
+                    "latitude": "38.67028000",
+                    "longitude": "125.77611000"
+                },
+                {
+                    "id": 65212,
+                    "name": "Koksan",
+                    "latitude": "38.78194000",
+                    "longitude": "126.66639000"
+                },
+                {
+                    "id": 65237,
+                    "name": "Sariwŏn",
+                    "latitude": "38.50722000",
+                    "longitude": "125.75583000"
+                },
+                {
+                    "id": 65240,
+                    "name": "Sinmak",
+                    "latitude": "38.41667000",
+                    "longitude": "126.23333000"
+                },
+                {
+                    "id": 65243,
+                    "name": "Songnim",
+                    "latitude": "38.75417000",
+                    "longitude": "125.64500000"
+                }
+            ]
+        },
+        {
+            "id": 4002,
+            "name": "North Pyongan Province",
+            "state_code": "03",
+            "cities": [
+                {
+                    "id": 65191,
+                    "name": "Chŏngju",
+                    "latitude": "39.69333000",
+                    "longitude": "125.21028000"
+                },
+                {
+                    "id": 65192,
+                    "name": "Chŏngju-gun",
+                    "latitude": "39.70944000",
+                    "longitude": "125.25278000"
+                },
+                {
+                    "id": 65216,
+                    "name": "Kujang-ŭp",
+                    "latitude": "39.86722000",
+                    "longitude": "126.03028000"
+                },
+                {
+                    "id": 65217,
+                    "name": "Kusŏng",
+                    "latitude": "39.98111000",
+                    "longitude": "125.24472000"
+                },
+                {
+                    "id": 65218,
+                    "name": "Kwaksan",
+                    "latitude": "39.68750000",
+                    "longitude": "125.08278000"
+                },
+                {
+                    "id": 65228,
+                    "name": "Panghyŏn-dong",
+                    "latitude": "39.88722000",
+                    "longitude": "125.24139000"
+                },
+                {
+                    "id": 65229,
+                    "name": "Pukchil-lodongjagu",
+                    "latitude": "40.20194000",
+                    "longitude": "125.74833000"
+                },
+                {
+                    "id": 65234,
+                    "name": "Sakchu-ŭp",
+                    "latitude": "40.38944000",
+                    "longitude": "125.04667000"
+                },
+                {
+                    "id": 65242,
+                    "name": "Sinŭiju",
+                    "latitude": "40.10056000",
+                    "longitude": "124.39806000"
+                },
+                {
+                    "id": 65259,
+                    "name": "Ŭiju",
+                    "latitude": "40.19944000",
+                    "longitude": "124.53167000"
+                },
+                {
+                    "id": 65255,
+                    "name": "Yŏmju-ŭp",
+                    "latitude": "39.89333000",
+                    "longitude": "124.59806000"
+                },
+                {
+                    "id": 65257,
+                    "name": "Yŏngbyŏn",
+                    "latitude": "39.81333000",
+                    "longitude": "125.80417000"
+                }
+            ]
+        },
+        {
+            "id": 4005,
+            "name": "Pyongyang",
+            "state_code": "01",
+            "cities": [
+                {
+                    "id": 65190,
+                    "name": "Chunghwa",
+                    "latitude": "38.86389000",
+                    "longitude": "125.80000000"
+                },
+                {
+                    "id": 65207,
+                    "name": "Kangdong-ŭp",
+                    "latitude": "39.14250000",
+                    "longitude": "126.09611000"
+                },
+                {
+                    "id": 65231,
+                    "name": "Pyongyang",
+                    "latitude": "39.03385000",
+                    "longitude": "125.75432000"
+                },
+                {
+                    "id": 65244,
+                    "name": "Sunan",
+                    "latitude": "39.19833000",
+                    "longitude": "125.69000000"
+                },
+                {
+                    "id": 65248,
+                    "name": "Sŭngho 1-tong",
+                    "latitude": "38.99139000",
+                    "longitude": "125.97778000"
+                }
+            ]
+        },
+        {
+            "id": 4001,
+            "name": "Rason",
+            "state_code": "13",
+            "cities": [
+                {
+                    "id": 65246,
+                    "name": "Sŏnbong",
+                    "latitude": "42.35118000",
+                    "longitude": "130.38307000"
+                },
+                {
+                    "id": 65251,
+                    "name": "Ungsang-nodongjagu",
+                    "latitude": "42.35778000",
+                    "longitude": "130.46222000"
+                }
+            ]
+        },
+        {
+            "id": 3996,
+            "name": "Ryanggang Province",
+            "state_code": "10",
+            "cities": [
+                {
+                    "id": 65201,
+                    "name": "Hyesan",
+                    "latitude": "41.40167000",
+                    "longitude": "128.17778000"
+                },
+                {
+                    "id": 65202,
+                    "name": "Hyesan-dong",
+                    "latitude": "41.39756000",
+                    "longitude": "128.17873000"
+                },
+                {
+                    "id": 65209,
+                    "name": "Kapsan-ŭp",
+                    "latitude": "41.09028000",
+                    "longitude": "128.29333000"
+                },
+                {
+                    "id": 65249,
+                    "name": "Sŭngjibaegam",
+                    "latitude": "41.24278000",
+                    "longitude": "128.79889000"
+                }
+            ]
+        },
+        {
+            "id": 4000,
+            "name": "South Hamgyong Province",
+            "state_code": "08",
+            "cities": [
+                {
+                    "id": 65194,
+                    "name": "Hamhŭng",
+                    "latitude": "39.91833000",
+                    "longitude": "127.53639000"
+                },
+                {
+                    "id": 65199,
+                    "name": "Hongwŏn",
+                    "latitude": "40.02528000",
+                    "longitude": "127.95583000"
+                },
+                {
+                    "id": 65204,
+                    "name": "Hŭngnam",
+                    "latitude": "39.83167000",
+                    "longitude": "127.61861000"
+                },
+                {
+                    "id": 65205,
+                    "name": "Iwŏn-ŭp",
+                    "latitude": "40.32306000",
+                    "longitude": "128.65528000"
+                },
+                {
+                    "id": 65215,
+                    "name": "Kowŏn-ŭp",
+                    "latitude": "39.43806000",
+                    "longitude": "127.24306000"
+                },
+                {
+                    "id": 65235,
+                    "name": "Samho-rodongjagu",
+                    "latitude": "39.94750000",
+                    "longitude": "127.87111000"
+                },
+                {
+                    "id": 65241,
+                    "name": "Sinsang-ni",
+                    "latitude": "39.65028000",
+                    "longitude": "127.40583000"
+                },
+                {
+                    "id": 65258,
+                    "name": "Yŏnggwang-ŭp",
+                    "latitude": "40.01833000",
+                    "longitude": "127.45472000"
+                },
+                {
+                    "id": 65254,
+                    "name": "Yuktae-dong",
+                    "latitude": "40.02472000",
+                    "longitude": "128.15972000"
+                }
+            ]
+        },
+        {
+            "id": 4003,
+            "name": "South Hwanghae Province",
+            "state_code": "05",
+            "cities": [
+                {
+                    "id": 65184,
+                    "name": "Ayang-ni",
+                    "latitude": "38.24306000",
+                    "longitude": "125.78000000"
+                },
+                {
+                    "id": 65185,
+                    "name": "Chaeryŏng-ŭp",
+                    "latitude": "38.39917000",
+                    "longitude": "125.61556000"
+                },
+                {
+                    "id": 65187,
+                    "name": "Changyŏn",
+                    "latitude": "38.25083000",
+                    "longitude": "125.09611000"
+                },
+                {
+                    "id": 65193,
+                    "name": "Haeju",
+                    "latitude": "38.04056000",
+                    "longitude": "125.71472000"
+                },
+                {
+                    "id": 65206,
+                    "name": "Kaesŏng",
+                    "latitude": "37.97083000",
+                    "longitude": "126.55444000"
+                },
+                {
+                    "id": 65226,
+                    "name": "Ongjin",
+                    "latitude": "37.93472000",
+                    "longitude": "125.36194000"
+                },
+                {
+                    "id": 65232,
+                    "name": "Pyŏksŏng-ŭp",
+                    "latitude": "38.04750000",
+                    "longitude": "125.55667000"
+                },
+                {
+                    "id": 65256,
+                    "name": "Yŏnan-ŭp",
+                    "latitude": "37.90889000",
+                    "longitude": "126.16111000"
+                }
+            ]
+        },
+        {
+            "id": 3997,
+            "name": "South Pyongan Province",
+            "state_code": "02",
+            "cities": [
+                {
+                    "id": 65182,
+                    "name": "Anju",
+                    "latitude": "39.61778000",
+                    "longitude": "125.66472000"
+                },
+                {
+                    "id": 65223,
+                    "name": "Namp’o",
+                    "latitude": "38.73750000",
+                    "longitude": "125.40778000"
+                },
+                {
+                    "id": 65233,
+                    "name": "P’yŏngsŏng",
+                    "latitude": "39.24639000",
+                    "longitude": "125.87194000"
+                },
+                {
+                    "id": 65236,
+                    "name": "Sangsŏng-ni",
+                    "latitude": "39.16944000",
+                    "longitude": "126.88556000"
+                },
+                {
+                    "id": 65238,
+                    "name": "Sil-li",
+                    "latitude": "39.49472000",
+                    "longitude": "125.47361000"
+                },
+                {
+                    "id": 65239,
+                    "name": "Sinanju",
+                    "latitude": "39.59806000",
+                    "longitude": "125.60972000"
+                },
+                {
+                    "id": 65245,
+                    "name": "Sunch’ŏn",
+                    "latitude": "39.43167000",
+                    "longitude": "125.93278000"
+                },
+                {
+                    "id": 65253,
+                    "name": "Yonggang-ŭp",
+                    "latitude": "38.85611000",
+                    "longitude": "125.42444000"
+                }
+            ]
+        }
+    ],
+    "timezones": [
+        "UTC+09:00"
+    ],
+    "tld": [
+        ".kp"
+    ],
+    "translations": {
+        "de": "Nordkorea",
+        "es": "Corea del Norte",
+        "fr": "Corée du Nord",
+        "ja": "朝鮮民主主義人民共和国",
+        "it": "Corea del Nord"
+    },
+    "wiki": "http://en.wikipedia.org/wiki/korea_north"
+}

@@ -1,0 +1,657 @@
+{
+    "name": "Namibia",
+    "altSpellings": [
+        "NA",
+        "Namibië",
+        "Republic of Namibia"
+    ],
+    "area": 825615,
+    "borders": [
+        "AGO",
+        "BWA",
+        "ZAF",
+        "ZMB"
+    ],
+    "callingCodes": [
+        "264"
+    ],
+    "capital": "Windhoek",
+    "capital_latlng": [
+        -22.574392,
+        17.079069
+    ],
+    "currencies": [
+        "NAD",
+        "ZAR"
+    ],
+    "demonym": "Namibian",
+    "flag": "",
+    "geoJSON": {
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "type": "Feature",
+                "id": "NAM",
+                "properties": {
+                    "name": "Namibia"
+                },
+                "geometry": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                16.344977,
+                                -28.576705
+                            ],
+                            [
+                                15.601818,
+                                -27.821247
+                            ],
+                            [
+                                15.210472,
+                                -27.090956
+                            ],
+                            [
+                                14.989711,
+                                -26.117372
+                            ],
+                            [
+                                14.743214,
+                                -25.39292
+                            ],
+                            [
+                                14.408144,
+                                -23.853014
+                            ],
+                            [
+                                14.385717,
+                                -22.656653
+                            ],
+                            [
+                                14.257714,
+                                -22.111208
+                            ],
+                            [
+                                13.868642,
+                                -21.699037
+                            ],
+                            [
+                                13.352498,
+                                -20.872834
+                            ],
+                            [
+                                12.826845,
+                                -19.673166
+                            ],
+                            [
+                                12.608564,
+                                -19.045349
+                            ],
+                            [
+                                11.794919,
+                                -18.069129
+                            ],
+                            [
+                                11.734199,
+                                -17.301889
+                            ],
+                            [
+                                12.215461,
+                                -17.111668
+                            ],
+                            [
+                                12.814081,
+                                -16.941343
+                            ],
+                            [
+                                13.462362,
+                                -16.971212
+                            ],
+                            [
+                                14.058501,
+                                -17.423381
+                            ],
+                            [
+                                14.209707,
+                                -17.353101
+                            ],
+                            [
+                                18.263309,
+                                -17.309951
+                            ],
+                            [
+                                18.956187,
+                                -17.789095
+                            ],
+                            [
+                                21.377176,
+                                -17.930636
+                            ],
+                            [
+                                23.215048,
+                                -17.523116
+                            ],
+                            [
+                                24.033862,
+                                -17.295843
+                            ],
+                            [
+                                24.682349,
+                                -17.353411
+                            ],
+                            [
+                                25.07695,
+                                -17.578823
+                            ],
+                            [
+                                25.084443,
+                                -17.661816
+                            ],
+                            [
+                                24.520705,
+                                -17.887125
+                            ],
+                            [
+                                24.217365,
+                                -17.889347
+                            ],
+                            [
+                                23.579006,
+                                -18.281261
+                            ],
+                            [
+                                23.196858,
+                                -17.869038
+                            ],
+                            [
+                                21.65504,
+                                -18.219146
+                            ],
+                            [
+                                20.910641,
+                                -18.252219
+                            ],
+                            [
+                                20.881134,
+                                -21.814327
+                            ],
+                            [
+                                19.895458,
+                                -21.849157
+                            ],
+                            [
+                                19.895768,
+                                -24.76779
+                            ],
+                            [
+                                19.894734,
+                                -28.461105
+                            ],
+                            [
+                                19.002127,
+                                -28.972443
+                            ],
+                            [
+                                18.464899,
+                                -29.045462
+                            ],
+                            [
+                                17.836152,
+                                -28.856378
+                            ],
+                            [
+                                17.387497,
+                                -28.783514
+                            ],
+                            [
+                                17.218929,
+                                -28.355943
+                            ],
+                            [
+                                16.824017,
+                                -28.082162
+                            ],
+                            [
+                                16.344977,
+                                -28.576705
+                            ]
+                        ]
+                    ]
+                }
+            }
+        ]
+    },
+    "ISO": {
+        "alpha2": "NA",
+        "alpha3": "NAM"
+    },
+    "states": [
+        {
+            "id": 43,
+            "name": "Erongo Region",
+            "state_code": "ER",
+            "cities": [
+                {
+                    "id": 76626,
+                    "name": "Arandis",
+                    "latitude": "-22.41667000",
+                    "longitude": "14.96667000"
+                },
+                {
+                    "id": 76633,
+                    "name": "Hentiesbaai",
+                    "latitude": "-22.11667000",
+                    "longitude": "14.28333000"
+                },
+                {
+                    "id": 76636,
+                    "name": "Karibib",
+                    "latitude": "-21.93333000",
+                    "longitude": "15.83333000"
+                },
+                {
+                    "id": 76648,
+                    "name": "Omaruru",
+                    "latitude": "-21.43333000",
+                    "longitude": "15.93333000"
+                },
+                {
+                    "id": 76659,
+                    "name": "Otjimbingwe",
+                    "latitude": "-22.35000000",
+                    "longitude": "16.13333000"
+                },
+                {
+                    "id": 76666,
+                    "name": "Swakopmund",
+                    "latitude": "-22.67842000",
+                    "longitude": "14.52663000"
+                },
+                {
+                    "id": 76667,
+                    "name": "Swakopmund Constituency",
+                    "latitude": "-22.63199000",
+                    "longitude": "14.60119000"
+                },
+                {
+                    "id": 76670,
+                    "name": "Usakos",
+                    "latitude": "-22.00000000",
+                    "longitude": "15.60000000"
+                },
+                {
+                    "id": 76671,
+                    "name": "Walvis Bay",
+                    "latitude": "-22.95750000",
+                    "longitude": "14.50528000"
+                }
+            ]
+        },
+        {
+            "id": 38,
+            "name": "Hardap Region",
+            "state_code": "HA",
+            "cities": [
+                {
+                    "id": 76627,
+                    "name": "Aranos",
+                    "latitude": "-24.13333000",
+                    "longitude": "19.11667000"
+                },
+                {
+                    "id": 76634,
+                    "name": "Hoachanas",
+                    "latitude": "-23.91667000",
+                    "longitude": "18.05000000"
+                },
+                {
+                    "id": 76643,
+                    "name": "Maltahöhe",
+                    "latitude": "-24.83333000",
+                    "longitude": "16.98333000"
+                },
+                {
+                    "id": 76644,
+                    "name": "Mariental",
+                    "latitude": "-24.63333000",
+                    "longitude": "17.96667000"
+                },
+                {
+                    "id": 76663,
+                    "name": "Rehoboth",
+                    "latitude": "-23.31700000",
+                    "longitude": "17.09000000"
+                }
+            ]
+        },
+        {
+            "id": 45,
+            "name": "Karas Region",
+            "state_code": "KA",
+            "cities": [
+                {
+                    "id": 76629,
+                    "name": "Bethanie",
+                    "latitude": "-26.48333000",
+                    "longitude": "17.15000000"
+                },
+                {
+                    "id": 76635,
+                    "name": "Karasburg",
+                    "latitude": "-28.01667000",
+                    "longitude": "18.75000000"
+                },
+                {
+                    "id": 76639,
+                    "name": "Keetmanshoop",
+                    "latitude": "-26.58333000",
+                    "longitude": "18.13333000"
+                },
+                {
+                    "id": 76642,
+                    "name": "Lüderitz",
+                    "latitude": "-26.64807000",
+                    "longitude": "15.15383000"
+                },
+                {
+                    "id": 76655,
+                    "name": "Oranjemund",
+                    "latitude": "-28.55000000",
+                    "longitude": "16.43333000"
+                },
+                {
+                    "id": 76668,
+                    "name": "Tses",
+                    "latitude": "-25.88333000",
+                    "longitude": "18.00000000"
+                },
+                {
+                    "id": 76672,
+                    "name": "Warmbad",
+                    "latitude": "-28.45000000",
+                    "longitude": "18.73333000"
+                }
+            ]
+        },
+        {
+            "id": 36,
+            "name": "Kavango East Region",
+            "state_code": "KE",
+            "cities": [
+                {
+                    "id": 76664,
+                    "name": "Rundu",
+                    "latitude": "-17.93333000",
+                    "longitude": "19.76667000"
+                }
+            ]
+        },
+        {
+            "id": 35,
+            "name": "Kavango West Region",
+            "state_code": "KW",
+            "cities": []
+        },
+        {
+            "id": 44,
+            "name": "Khomas Region",
+            "state_code": "KH",
+            "cities": [
+                {
+                    "id": 76638,
+                    "name": "Katutura",
+                    "latitude": "-22.52306000",
+                    "longitude": "17.06028000"
+                },
+                {
+                    "id": 76673,
+                    "name": "Windhoek",
+                    "latitude": "-22.55941000",
+                    "longitude": "17.08323000"
+                }
+            ]
+        },
+        {
+            "id": 34,
+            "name": "Kunene Region",
+            "state_code": "KU",
+            "cities": [
+                {
+                    "id": 76630,
+                    "name": "Epupa Constituency",
+                    "latitude": "-17.00388000",
+                    "longitude": "13.24825000"
+                },
+                {
+                    "id": 76640,
+                    "name": "Khorixas",
+                    "latitude": "-20.36667000",
+                    "longitude": "14.96667000"
+                },
+                {
+                    "id": 76641,
+                    "name": "Khorixas Constituency",
+                    "latitude": "-20.36792000",
+                    "longitude": "14.95996000"
+                },
+                {
+                    "id": 76653,
+                    "name": "Opuwo",
+                    "latitude": "-18.06068000",
+                    "longitude": "13.83998000"
+                },
+                {
+                    "id": 76654,
+                    "name": "Opuwo Constituency",
+                    "latitude": "-18.54247000",
+                    "longitude": "13.51617000"
+                },
+                {
+                    "id": 76662,
+                    "name": "Outjo",
+                    "latitude": "-20.11667000",
+                    "longitude": "16.15000000"
+                },
+                {
+                    "id": 76665,
+                    "name": "Sesfontein Constituency",
+                    "latitude": "-19.56106000",
+                    "longitude": "13.76530000"
+                }
+            ]
+        },
+        {
+            "id": 40,
+            "name": "Ohangwena Region",
+            "state_code": "OW",
+            "cities": [
+                {
+                    "id": 76657,
+                    "name": "Oshikango",
+                    "latitude": "-17.40000000",
+                    "longitude": "15.88333000"
+                }
+            ]
+        },
+        {
+            "id": 41,
+            "name": "Omaheke Region",
+            "state_code": "OH",
+            "cities": [
+                {
+                    "id": 76631,
+                    "name": "Gobabis",
+                    "latitude": "-22.45000000",
+                    "longitude": "18.96667000"
+                }
+            ]
+        },
+        {
+            "id": 39,
+            "name": "Omusati Region",
+            "state_code": "OS",
+            "cities": [
+                {
+                    "id": 76646,
+                    "name": "Okahao",
+                    "latitude": "-17.88758000",
+                    "longitude": "15.06677000"
+                },
+                {
+                    "id": 76651,
+                    "name": "Ongandjera",
+                    "latitude": "-17.88333000",
+                    "longitude": "15.06667000"
+                },
+                {
+                    "id": 76661,
+                    "name": "Outapi",
+                    "latitude": "-17.50000000",
+                    "longitude": "14.98333000"
+                }
+            ]
+        },
+        {
+            "id": 37,
+            "name": "Oshana Region",
+            "state_code": "ON",
+            "cities": [
+                {
+                    "id": 76650,
+                    "name": "Ondangwa",
+                    "latitude": "-17.91667000",
+                    "longitude": "15.95000000"
+                },
+                {
+                    "id": 76652,
+                    "name": "Ongwediva",
+                    "latitude": "-17.78333000",
+                    "longitude": "15.76667000"
+                },
+                {
+                    "id": 76656,
+                    "name": "Oshakati",
+                    "latitude": "-17.78833000",
+                    "longitude": "15.70436000"
+                }
+            ]
+        },
+        {
+            "id": 42,
+            "name": "Oshikoto Region",
+            "state_code": "OT",
+            "cities": [
+                {
+                    "id": 76649,
+                    "name": "Omuthiya",
+                    "latitude": "-18.36463000",
+                    "longitude": "16.58146000"
+                },
+                {
+                    "id": 76669,
+                    "name": "Tsumeb",
+                    "latitude": "-19.23333000",
+                    "longitude": "17.71667000"
+                }
+            ]
+        },
+        {
+            "id": 46,
+            "name": "Otjozondjupa Region",
+            "state_code": "OD",
+            "cities": [
+                {
+                    "id": 76632,
+                    "name": "Grootfontein",
+                    "latitude": "-19.56667000",
+                    "longitude": "18.11667000"
+                },
+                {
+                    "id": 76645,
+                    "name": "Okahandja",
+                    "latitude": "-21.98333000",
+                    "longitude": "16.91667000"
+                },
+                {
+                    "id": 76647,
+                    "name": "Okakarara",
+                    "latitude": "-20.58333000",
+                    "longitude": "17.43333000"
+                },
+                {
+                    "id": 76658,
+                    "name": "Otavi",
+                    "latitude": "-19.65000000",
+                    "longitude": "17.33333000"
+                },
+                {
+                    "id": 76660,
+                    "name": "Otjiwarongo",
+                    "latitude": "-20.46369000",
+                    "longitude": "16.64772000"
+                }
+            ]
+        },
+        {
+            "id": 47,
+            "name": "Zambezi Region",
+            "state_code": "CA",
+            "cities": [
+                {
+                    "id": 76628,
+                    "name": "Bagani",
+                    "latitude": "-18.11065000",
+                    "longitude": "21.61645000"
+                },
+                {
+                    "id": 76637,
+                    "name": "Katima Mulilo",
+                    "latitude": "-17.50000000",
+                    "longitude": "24.26667000"
+                }
+            ]
+        }
+    ],
+    "expectancy": 42.5,
+
+    "languages": [
+        "Afrikaans",
+        "Caprivi",
+        "German",
+        "Herero",
+        "Kavango",
+        "Nama",
+        "Ovambo",
+        "San"
+    ],
+    "independence": 1990,
+    "government": "Republic",
+    "continent": "Africa",
+
+    "latlng": [
+        -22,
+        17
+    ],
+    "nativeName": "Namibia",
+    "population": 2113077,
+    "temperature": 19.95,
+    "religion": "Christianity",
+    "location": "Southern Africa",
+    "density": 2.973745582,
+    "symbol": null,
+    "dish": null,
+    "timezones": [
+        "UTC+01:00"
+    ],
+    "tld": [
+        ".na"
+    ],
+    "translations": {
+        "de": "Namibia",
+        "es": "Namibia",
+        "fr": "Namibie",
+        "ja": "ナミビア",
+        "it": "Namibia"
+    },
+    "wiki": "http://en.wikipedia.org/wiki/namibia"
+}

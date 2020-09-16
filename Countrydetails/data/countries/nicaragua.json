@@ -1,0 +1,1265 @@
+{
+    "name": "Nicaragua",
+    "altSpellings": [
+        "NI",
+        "Republic of Nicaragua",
+        "República de Nicaragua"
+    ],
+    "area": 130373,
+    "borders": [
+        "CRI",
+        "HND"
+    ],
+    "callingCodes": [
+        "505"
+    ],
+    "capital": "Managua",
+    "capital_latlng": [
+        12.145991,
+        -86.274666
+    ],
+    "currencies": [
+        "NIO"
+    ],
+    "demonym": "Nicaraguan",
+    "flag": "",
+    "geoJSON": {
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "type": "Feature",
+                "id": "NIC",
+                "properties": {
+                    "name": "Nicaragua"
+                },
+                "geometry": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                -85.71254,
+                                11.088445
+                            ],
+                            [
+                                -86.058488,
+                                11.403439
+                            ],
+                            [
+                                -86.52585,
+                                11.806877
+                            ],
+                            [
+                                -86.745992,
+                                12.143962
+                            ],
+                            [
+                                -87.167516,
+                                12.458258
+                            ],
+                            [
+                                -87.668493,
+                                12.90991
+                            ],
+                            [
+                                -87.557467,
+                                13.064552
+                            ],
+                            [
+                                -87.392386,
+                                12.914018
+                            ],
+                            [
+                                -87.316654,
+                                12.984686
+                            ],
+                            [
+                                -87.005769,
+                                13.025794
+                            ],
+                            [
+                                -86.880557,
+                                13.254204
+                            ],
+                            [
+                                -86.733822,
+                                13.263093
+                            ],
+                            [
+                                -86.755087,
+                                13.754845
+                            ],
+                            [
+                                -86.520708,
+                                13.778487
+                            ],
+                            [
+                                -86.312142,
+                                13.771356
+                            ],
+                            [
+                                -86.096264,
+                                14.038187
+                            ],
+                            [
+                                -85.801295,
+                                13.836055
+                            ],
+                            [
+                                -85.698665,
+                                13.960078
+                            ],
+                            [
+                                -85.514413,
+                                14.079012
+                            ],
+                            [
+                                -85.165365,
+                                14.35437
+                            ],
+                            [
+                                -85.148751,
+                                14.560197
+                            ],
+                            [
+                                -85.052787,
+                                14.551541
+                            ],
+                            [
+                                -84.924501,
+                                14.790493
+                            ],
+                            [
+                                -84.820037,
+                                14.819587
+                            ],
+                            [
+                                -84.649582,
+                                14.666805
+                            ],
+                            [
+                                -84.449336,
+                                14.621614
+                            ],
+                            [
+                                -84.228342,
+                                14.748764
+                            ],
+                            [
+                                -83.975721,
+                                14.749436
+                            ],
+                            [
+                                -83.628585,
+                                14.880074
+                            ],
+                            [
+                                -83.489989,
+                                15.016267
+                            ],
+                            [
+                                -83.147219,
+                                14.995829
+                            ],
+                            [
+                                -83.233234,
+                                14.899866
+                            ],
+                            [
+                                -83.284162,
+                                14.676624
+                            ],
+                            [
+                                -83.182126,
+                                14.310703
+                            ],
+                            [
+                                -83.4125,
+                                13.970078
+                            ],
+                            [
+                                -83.519832,
+                                13.567699
+                            ],
+                            [
+                                -83.552207,
+                                13.127054
+                            ],
+                            [
+                                -83.498515,
+                                12.869292
+                            ],
+                            [
+                                -83.473323,
+                                12.419087
+                            ],
+                            [
+                                -83.626104,
+                                12.32085
+                            ],
+                            [
+                                -83.719613,
+                                11.893124
+                            ],
+                            [
+                                -83.650858,
+                                11.629032
+                            ],
+                            [
+                                -83.85547,
+                                11.373311
+                            ],
+                            [
+                                -83.808936,
+                                11.103044
+                            ],
+                            [
+                                -83.655612,
+                                10.938764
+                            ],
+                            [
+                                -83.895054,
+                                10.726839
+                            ],
+                            [
+                                -84.190179,
+                                10.79345
+                            ],
+                            [
+                                -84.355931,
+                                10.999226
+                            ],
+                            [
+                                -84.673069,
+                                11.082657
+                            ],
+                            [
+                                -84.903003,
+                                10.952303
+                            ],
+                            [
+                                -85.561852,
+                                11.217119
+                            ],
+                            [
+                                -85.71254,
+                                11.088445
+                            ]
+                        ]
+                    ]
+                }
+            }
+        ]
+    },
+    "ISO": {
+        "alpha2": "NI",
+        "alpha3": "NIC"
+    },
+    "languages": [
+        "Creole English",
+        "Miskito",
+        "Spanish",
+        "Sumo"
+    ],
+    "latlng": [
+        13,
+        -85
+    ],
+    "nativeName": "Nicaragua",
+    "population": 6134270,
+    "temperature": 24.9,
+    "independence": 1838,
+    "government": "Republic",
+    "continent": "North America",
+    "density": 53.72704836,
+    "symbol": null,
+    "location": "Central America",
+    "expectancy": 68.7,
+    "religion": "Christianity",
+    "dish": "Gallo pinto",
+    "states": [
+        {
+            "id": 946,
+            "name": "Boaco Department",
+            "state_code": "BO",
+            "cities": [
+                {
+                    "id": 77159,
+                    "name": "Boaco",
+                    "latitude": "12.47224000",
+                    "longitude": "-85.65860000"
+                },
+                {
+                    "id": 77163,
+                    "name": "Camoapa",
+                    "latitude": "12.38383000",
+                    "longitude": "-85.51277000"
+                },
+                {
+                    "id": 77260,
+                    "name": "San José de los Remates",
+                    "latitude": "12.59750000",
+                    "longitude": "-85.76174000"
+                },
+                {
+                    "id": 77265,
+                    "name": "San Lorenzo",
+                    "latitude": "12.37830000",
+                    "longitude": "-85.66646000"
+                },
+                {
+                    "id": 77273,
+                    "name": "Santa Lucía",
+                    "latitude": "12.53262000",
+                    "longitude": "-85.71074000"
+                },
+                {
+                    "id": 77285,
+                    "name": "Teustepe",
+                    "latitude": "12.42030000",
+                    "longitude": "-85.79798000"
+                }
+            ]
+        },
+        {
+            "id": 950,
+            "name": "Carazo Department",
+            "state_code": "CA",
+            "cities": [
+                {
+                    "id": 77176,
+                    "name": "Diriamba",
+                    "latitude": "11.85812000",
+                    "longitude": "-86.23922000"
+                },
+                {
+                    "id": 77179,
+                    "name": "Dolores",
+                    "latitude": "11.85672000",
+                    "longitude": "-86.21552000"
+                },
+                {
+                    "id": 77187,
+                    "name": "El Rosario",
+                    "latitude": "11.77756000",
+                    "longitude": "-86.37374000"
+                },
+                {
+                    "id": 77195,
+                    "name": "Jinotepe",
+                    "latitude": "11.84962000",
+                    "longitude": "-86.19903000"
+                },
+                {
+                    "id": 77202,
+                    "name": "La Conquista",
+                    "latitude": "11.73426000",
+                    "longitude": "-86.19279000"
+                },
+                {
+                    "id": 77206,
+                    "name": "La Paz de Carazo",
+                    "latitude": "11.82311000",
+                    "longitude": "-86.12781000"
+                },
+                {
+                    "id": 77236,
+                    "name": "Municipio de San Marcos",
+                    "latitude": "11.91784000",
+                    "longitude": "-86.27474000"
+                },
+                {
+                    "id": 77267,
+                    "name": "San Marcos",
+                    "latitude": "11.90949000",
+                    "longitude": "-86.20351000"
+                },
+                {
+                    "id": 77275,
+                    "name": "Santa Teresa",
+                    "latitude": "11.74321000",
+                    "longitude": "-86.21413000"
+                }
+            ]
+        },
+        {
+            "id": 954,
+            "name": "Chinandega Department",
+            "state_code": "CI",
+            "cities": [
+                {
+                    "id": 77165,
+                    "name": "Chichigalpa",
+                    "latitude": "12.57758000",
+                    "longitude": "-87.02705000"
+                },
+                {
+                    "id": 77166,
+                    "name": "Chinandega",
+                    "latitude": "12.62937000",
+                    "longitude": "-87.13105000"
+                },
+                {
+                    "id": 77167,
+                    "name": "Cinco Pinos",
+                    "latitude": "13.22956000",
+                    "longitude": "-86.86808000"
+                },
+                {
+                    "id": 77172,
+                    "name": "Corinto",
+                    "latitude": "12.48250000",
+                    "longitude": "-87.17304000"
+                },
+                {
+                    "id": 77186,
+                    "name": "El Realejo",
+                    "latitude": "12.54333000",
+                    "longitude": "-87.16517000"
+                },
+                {
+                    "id": 77190,
+                    "name": "El Viejo",
+                    "latitude": "12.66348000",
+                    "longitude": "-87.16663000"
+                },
+                {
+                    "id": 77196,
+                    "name": "Jiquilillo",
+                    "latitude": "12.74593000",
+                    "longitude": "-87.45160000"
+                },
+                {
+                    "id": 77232,
+                    "name": "Municipio de San Francisco del Norte",
+                    "latitude": "13.21187000",
+                    "longitude": "-86.77107000"
+                },
+                {
+                    "id": 77246,
+                    "name": "Posoltega",
+                    "latitude": "12.54422000",
+                    "longitude": "-86.97982000"
+                },
+                {
+                    "id": 77251,
+                    "name": "Puerto Morazán",
+                    "latitude": "12.85042000",
+                    "longitude": "-87.17167000"
+                },
+                {
+                    "id": 77278,
+                    "name": "Santo Tomás del Norte",
+                    "latitude": "13.18610000",
+                    "longitude": "-86.92267000"
+                },
+                {
+                    "id": 77280,
+                    "name": "Somotillo",
+                    "latitude": "13.04387000",
+                    "longitude": "-86.90506000"
+                }
+            ]
+        },
+        {
+            "id": 940,
+            "name": "Chontales Department",
+            "state_code": "CO",
+            "cities": [
+                {
+                    "id": 77155,
+                    "name": "Acoyapa",
+                    "latitude": "11.97028000",
+                    "longitude": "-85.17113000"
+                },
+                {
+                    "id": 77170,
+                    "name": "Comalapa",
+                    "latitude": "12.28345000",
+                    "longitude": "-85.51081000"
+                },
+                {
+                    "id": 77174,
+                    "name": "Cuapa",
+                    "latitude": "12.26875000",
+                    "longitude": "-85.38205000"
+                },
+                {
+                    "id": 77181,
+                    "name": "El Ayote",
+                    "latitude": "12.19046000",
+                    "longitude": "-85.28737000"
+                },
+                {
+                    "id": 77197,
+                    "name": "Juigalpa",
+                    "latitude": "12.10629000",
+                    "longitude": "-85.36452000"
+                },
+                {
+                    "id": 77204,
+                    "name": "La Libertad",
+                    "latitude": "12.21635000",
+                    "longitude": "-85.16595000"
+                },
+                {
+                    "id": 77276,
+                    "name": "Santo Domingo",
+                    "latitude": "12.26438000",
+                    "longitude": "-85.08235000"
+                },
+                {
+                    "id": 77277,
+                    "name": "Santo Tomás",
+                    "latitude": "12.06938000",
+                    "longitude": "-85.09059000"
+                },
+                {
+                    "id": 77293,
+                    "name": "Villa Sandino",
+                    "latitude": "12.04830000",
+                    "longitude": "-84.99362000"
+                }
+            ]
+        },
+        {
+            "id": 945,
+            "name": "Estelí Department",
+            "state_code": "ES",
+            "cities": [
+                {
+                    "id": 77171,
+                    "name": "Condega",
+                    "latitude": "13.36502000",
+                    "longitude": "-86.39846000"
+                },
+                {
+                    "id": 77191,
+                    "name": "Estelí",
+                    "latitude": "13.09185000",
+                    "longitude": "-86.35384000"
+                },
+                {
+                    "id": 77207,
+                    "name": "La Trinidad",
+                    "latitude": "12.96881000",
+                    "longitude": "-86.23534000"
+                },
+                {
+                    "id": 77249,
+                    "name": "Pueblo Nuevo",
+                    "latitude": "13.37984000",
+                    "longitude": "-86.48075000"
+                },
+                {
+                    "id": 77261,
+                    "name": "San Juan de Limay",
+                    "latitude": "13.17603000",
+                    "longitude": "-86.61234000"
+                }
+            ]
+        },
+        {
+            "id": 943,
+            "name": "Granada Department",
+            "state_code": "GR",
+            "cities": [
+                {
+                    "id": 77178,
+                    "name": "Diriá",
+                    "latitude": "11.88420000",
+                    "longitude": "-86.05508000"
+                },
+                {
+                    "id": 77177,
+                    "name": "Diriomo",
+                    "latitude": "11.87631000",
+                    "longitude": "-86.05184000"
+                },
+                {
+                    "id": 77192,
+                    "name": "Granada",
+                    "latitude": "11.92988000",
+                    "longitude": "-85.95602000"
+                },
+                {
+                    "id": 77240,
+                    "name": "Nandaime",
+                    "latitude": "11.75696000",
+                    "longitude": "-86.05286000"
+                }
+            ]
+        },
+        {
+            "id": 955,
+            "name": "Jinotega Department",
+            "state_code": "JI",
+            "cities": [
+                {
+                    "id": 77183,
+                    "name": "El Cuá",
+                    "latitude": "13.41667000",
+                    "longitude": "-85.75000000"
+                },
+                {
+                    "id": 77194,
+                    "name": "Jinotega",
+                    "latitude": "13.09103000",
+                    "longitude": "-86.00234000"
+                },
+                {
+                    "id": 77201,
+                    "name": "La Concordia",
+                    "latitude": "13.19528000",
+                    "longitude": "-86.16659000"
+                },
+                {
+                    "id": 77210,
+                    "name": "Las Praderas",
+                    "latitude": "13.17000000",
+                    "longitude": "-85.85000000"
+                },
+                {
+                    "id": 77199,
+                    "name": "LLano de La Cruz",
+                    "latitude": "13.12449000",
+                    "longitude": "-86.00833000"
+                },
+                {
+                    "id": 77258,
+                    "name": "San José de Bocay",
+                    "latitude": "13.54204000",
+                    "longitude": "-85.53942000"
+                },
+                {
+                    "id": 77269,
+                    "name": "San Rafael del Norte",
+                    "latitude": "13.21248000",
+                    "longitude": "-86.11089000"
+                },
+                {
+                    "id": 77272,
+                    "name": "San Sebastián de Yalí",
+                    "latitude": "13.30540000",
+                    "longitude": "-86.18641000"
+                }
+            ]
+        },
+        {
+            "id": 944,
+            "name": "León Department",
+            "state_code": "LE",
+            "cities": [
+                {
+                    "id": 77154,
+                    "name": "Achuapa",
+                    "latitude": "13.05370000",
+                    "longitude": "-86.59004000"
+                },
+                {
+                    "id": 77184,
+                    "name": "El Jicaral",
+                    "latitude": "12.72676000",
+                    "longitude": "-86.38057000"
+                },
+                {
+                    "id": 77188,
+                    "name": "El Sauce",
+                    "latitude": "12.88687000",
+                    "longitude": "-86.53903000"
+                },
+                {
+                    "id": 77205,
+                    "name": "La Paz Centro",
+                    "latitude": "12.34000000",
+                    "longitude": "-86.67528000"
+                },
+                {
+                    "id": 77209,
+                    "name": "Larreynaga",
+                    "latitude": "12.67692000",
+                    "longitude": "-86.57193000"
+                },
+                {
+                    "id": 77212,
+                    "name": "León",
+                    "latitude": "12.43787000",
+                    "longitude": "-86.87804000"
+                },
+                {
+                    "id": 77239,
+                    "name": "Nagarote",
+                    "latitude": "12.26593000",
+                    "longitude": "-86.56474000"
+                },
+                {
+                    "id": 77252,
+                    "name": "Quezalguaque",
+                    "latitude": "12.50683000",
+                    "longitude": "-86.90292000"
+                },
+                {
+                    "id": 77274,
+                    "name": "Santa Rosa del Peñón",
+                    "latitude": "12.80116000",
+                    "longitude": "-86.36994000"
+                },
+                {
+                    "id": 77282,
+                    "name": "Telica",
+                    "latitude": "12.52200000",
+                    "longitude": "-86.85938000"
+                }
+            ]
+        },
+        {
+            "id": 948,
+            "name": "Madriz Department",
+            "state_code": "MD",
+            "cities": [
+                {
+                    "id": 77211,
+                    "name": "Las Sabanas",
+                    "latitude": "13.34302000",
+                    "longitude": "-86.62184000"
+                },
+                {
+                    "id": 77245,
+                    "name": "Palacagüina",
+                    "latitude": "13.45566000",
+                    "longitude": "-86.40622000"
+                },
+                {
+                    "id": 77259,
+                    "name": "San José de Cusmapa",
+                    "latitude": "13.28841000",
+                    "longitude": "-86.65539000"
+                },
+                {
+                    "id": 77263,
+                    "name": "San Juan de Río Coco",
+                    "latitude": "13.54476000",
+                    "longitude": "-86.16499000"
+                },
+                {
+                    "id": 77266,
+                    "name": "San Lucas",
+                    "latitude": "13.41380000",
+                    "longitude": "-86.61110000"
+                },
+                {
+                    "id": 77281,
+                    "name": "Somoto",
+                    "latitude": "13.48082000",
+                    "longitude": "-86.58208000"
+                },
+                {
+                    "id": 77283,
+                    "name": "Telpaneca",
+                    "latitude": "13.53151000",
+                    "longitude": "-86.28710000"
+                },
+                {
+                    "id": 77290,
+                    "name": "Totogalpa",
+                    "latitude": "13.56284000",
+                    "longitude": "-86.49254000"
+                },
+                {
+                    "id": 77296,
+                    "name": "Yalagüina",
+                    "latitude": "13.48383000",
+                    "longitude": "-86.49305000"
+                }
+            ]
+        },
+        {
+            "id": 941,
+            "name": "Managua Department",
+            "state_code": "MN",
+            "cities": [
+                {
+                    "id": 77169,
+                    "name": "Ciudad Sandino",
+                    "latitude": "12.15889000",
+                    "longitude": "-86.34417000"
+                },
+                {
+                    "id": 77182,
+                    "name": "El Crucero",
+                    "latitude": "11.99008000",
+                    "longitude": "-86.30954000"
+                },
+                {
+                    "id": 77213,
+                    "name": "Managua",
+                    "latitude": "12.13282000",
+                    "longitude": "-86.25040000"
+                },
+                {
+                    "id": 77214,
+                    "name": "Masachapa",
+                    "latitude": "11.78687000",
+                    "longitude": "-86.51416000"
+                },
+                {
+                    "id": 77270,
+                    "name": "San Rafael del Sur",
+                    "latitude": "11.84854000",
+                    "longitude": "-86.43839000"
+                },
+                {
+                    "id": 77286,
+                    "name": "Ticuantepe",
+                    "latitude": "12.02263000",
+                    "longitude": "-86.20493000"
+                },
+                {
+                    "id": 77287,
+                    "name": "Tipitapa",
+                    "latitude": "12.19732000",
+                    "longitude": "-86.09706000"
+                },
+                {
+                    "id": 77291,
+                    "name": "Valle San Francisco",
+                    "latitude": "12.51667000",
+                    "longitude": "-86.28333000"
+                },
+                {
+                    "id": 77292,
+                    "name": "Villa El Carmen",
+                    "latitude": "11.98009000",
+                    "longitude": "-86.50571000"
+                }
+            ]
+        },
+        {
+            "id": 953,
+            "name": "Masaya Department",
+            "state_code": "MS",
+            "cities": [
+                {
+                    "id": 77164,
+                    "name": "Catarina",
+                    "latitude": "11.91197000",
+                    "longitude": "-86.07383000"
+                },
+                {
+                    "id": 77200,
+                    "name": "La Concepción",
+                    "latitude": "11.93711000",
+                    "longitude": "-86.18976000"
+                },
+                {
+                    "id": 77215,
+                    "name": "Masatepe",
+                    "latitude": "11.91445000",
+                    "longitude": "-86.14458000"
+                },
+                {
+                    "id": 77216,
+                    "name": "Masaya",
+                    "latitude": "11.97444000",
+                    "longitude": "-86.09417000"
+                },
+                {
+                    "id": 77226,
+                    "name": "Municipio de Masatepe",
+                    "latitude": "11.90567000",
+                    "longitude": "-86.14946000"
+                },
+                {
+                    "id": 77228,
+                    "name": "Municipio de Nandasmo",
+                    "latitude": "11.93333000",
+                    "longitude": "-86.11667000"
+                },
+                {
+                    "id": 77229,
+                    "name": "Municipio de Niquinohomo",
+                    "latitude": "11.88228000",
+                    "longitude": "-86.10035000"
+                },
+                {
+                    "id": 77234,
+                    "name": "Municipio de San Juan de Oriente",
+                    "latitude": "11.90517000",
+                    "longitude": "-86.07460000"
+                },
+                {
+                    "id": 77241,
+                    "name": "Nandasmo",
+                    "latitude": "11.92411000",
+                    "longitude": "-86.12072000"
+                },
+                {
+                    "id": 77242,
+                    "name": "Nindirí",
+                    "latitude": "12.00386000",
+                    "longitude": "-86.12128000"
+                },
+                {
+                    "id": 77243,
+                    "name": "Niquinohomo",
+                    "latitude": "11.90518000",
+                    "longitude": "-86.09446000"
+                },
+                {
+                    "id": 77262,
+                    "name": "San Juan de Oriente",
+                    "latitude": "11.90624000",
+                    "longitude": "-86.07343000"
+                },
+                {
+                    "id": 77288,
+                    "name": "Tisma",
+                    "latitude": "12.08194000",
+                    "longitude": "-86.01739000"
+                }
+            ]
+        },
+        {
+            "id": 947,
+            "name": "Matagalpa Department",
+            "state_code": "MT",
+            "cities": [
+                {
+                    "id": 77168,
+                    "name": "Ciudad Darío",
+                    "latitude": "12.73143000",
+                    "longitude": "-86.12402000"
+                },
+                {
+                    "id": 77217,
+                    "name": "Matagalpa",
+                    "latitude": "12.92559000",
+                    "longitude": "-85.91747000"
+                },
+                {
+                    "id": 77218,
+                    "name": "Matiguás",
+                    "latitude": "12.83734000",
+                    "longitude": "-85.46218000"
+                },
+                {
+                    "id": 77238,
+                    "name": "Muy Muy",
+                    "latitude": "12.76224000",
+                    "longitude": "-85.62915000"
+                },
+                {
+                    "id": 77254,
+                    "name": "Río Blanco",
+                    "latitude": "12.93435000",
+                    "longitude": "-85.22354000"
+                },
+                {
+                    "id": 77256,
+                    "name": "San Dionisio",
+                    "latitude": "12.76023000",
+                    "longitude": "-85.85018000"
+                },
+                {
+                    "id": 77271,
+                    "name": "San Ramón",
+                    "latitude": "12.92344000",
+                    "longitude": "-85.83898000"
+                },
+                {
+                    "id": 77284,
+                    "name": "Terrabona",
+                    "latitude": "12.73028000",
+                    "longitude": "-85.96474000"
+                }
+            ]
+        },
+        {
+            "id": 951,
+            "name": "North Caribbean Coast Autonomous Region",
+            "state_code": "AN",
+            "cities": [
+                {
+                    "id": 77161,
+                    "name": "Bonanza",
+                    "latitude": "14.02885000",
+                    "longitude": "-84.59103000"
+                },
+                {
+                    "id": 77248,
+                    "name": "Prinzapolka",
+                    "latitude": "13.40708000",
+                    "longitude": "-83.56452000"
+                },
+                {
+                    "id": 77250,
+                    "name": "Puerto Cabezas",
+                    "latitude": "14.03507000",
+                    "longitude": "-83.38882000"
+                },
+                {
+                    "id": 77279,
+                    "name": "Siuna",
+                    "latitude": "13.73321000",
+                    "longitude": "-84.77725000"
+                },
+                {
+                    "id": 77294,
+                    "name": "Waslala",
+                    "latitude": "13.23333000",
+                    "longitude": "-85.38333000"
+                },
+                {
+                    "id": 77295,
+                    "name": "Waspán",
+                    "latitude": "14.74189000",
+                    "longitude": "-83.97170000"
+                }
+            ]
+        },
+        {
+            "id": 949,
+            "name": "Río San Juan Department",
+            "state_code": "SJ",
+            "cities": [
+                {
+                    "id": 77180,
+                    "name": "El Almendro",
+                    "latitude": "11.67859000",
+                    "longitude": "-84.70269000"
+                },
+                {
+                    "id": 77193,
+                    "name": "Greytown",
+                    "latitude": "10.94684000",
+                    "longitude": "-83.73467000"
+                },
+                {
+                    "id": 77219,
+                    "name": "Morrito",
+                    "latitude": "11.62118000",
+                    "longitude": "-85.08052000"
+                },
+                {
+                    "id": 77255,
+                    "name": "San Carlos",
+                    "latitude": "11.12360000",
+                    "longitude": "-84.77795000"
+                },
+                {
+                    "id": 77268,
+                    "name": "San Miguelito",
+                    "latitude": "11.40255000",
+                    "longitude": "-84.89991000"
+                }
+            ]
+        },
+        {
+            "id": 942,
+            "name": "Rivas Department",
+            "state_code": "RI",
+            "cities": [
+                {
+                    "id": 77156,
+                    "name": "Altagracia",
+                    "latitude": "11.56615000",
+                    "longitude": "-85.57840000"
+                },
+                {
+                    "id": 77157,
+                    "name": "Belén",
+                    "latitude": "11.50299000",
+                    "longitude": "-85.88935000"
+                },
+                {
+                    "id": 77162,
+                    "name": "Buenos Aires",
+                    "latitude": "11.46916000",
+                    "longitude": "-85.81661000"
+                },
+                {
+                    "id": 77175,
+                    "name": "Cárdenas",
+                    "latitude": "11.19639000",
+                    "longitude": "-85.50890000"
+                },
+                {
+                    "id": 77220,
+                    "name": "Moyogalpa",
+                    "latitude": "11.54006000",
+                    "longitude": "-85.69795000"
+                },
+                {
+                    "id": 77222,
+                    "name": "Municipio de Altagracia",
+                    "latitude": "11.47983000",
+                    "longitude": "-85.54166000"
+                },
+                {
+                    "id": 77223,
+                    "name": "Municipio de Belén",
+                    "latitude": "11.57193000",
+                    "longitude": "-85.96316000"
+                },
+                {
+                    "id": 77224,
+                    "name": "Municipio de Buenos Aires",
+                    "latitude": "11.51760000",
+                    "longitude": "-85.78333000"
+                },
+                {
+                    "id": 77225,
+                    "name": "Municipio de Cárdenas",
+                    "latitude": "11.14912000",
+                    "longitude": "-85.42323000"
+                },
+                {
+                    "id": 77227,
+                    "name": "Municipio de Moyogalpa",
+                    "latitude": "11.52632000",
+                    "longitude": "-85.67329000"
+                },
+                {
+                    "id": 77230,
+                    "name": "Municipio de Potosí",
+                    "latitude": "11.57854000",
+                    "longitude": "-85.87764000"
+                },
+                {
+                    "id": 77231,
+                    "name": "Municipio de Rivas",
+                    "latitude": "11.43931000",
+                    "longitude": "-85.82700000"
+                },
+                {
+                    "id": 77233,
+                    "name": "Municipio de San Jorge",
+                    "latitude": "11.42703000",
+                    "longitude": "-85.78904000"
+                },
+                {
+                    "id": 77235,
+                    "name": "Municipio de San Juan del Sur",
+                    "latitude": "11.22368000",
+                    "longitude": "-85.78289000"
+                },
+                {
+                    "id": 77237,
+                    "name": "Municipio de Tola",
+                    "latitude": "11.46009000",
+                    "longitude": "-86.00789000"
+                },
+                {
+                    "id": 77247,
+                    "name": "Potosí",
+                    "latitude": "11.49416000",
+                    "longitude": "-85.85680000"
+                },
+                {
+                    "id": 77253,
+                    "name": "Rivas",
+                    "latitude": "11.43716000",
+                    "longitude": "-85.82632000"
+                },
+                {
+                    "id": 77257,
+                    "name": "San Jorge",
+                    "latitude": "11.45584000",
+                    "longitude": "-85.80308000"
+                },
+                {
+                    "id": 77264,
+                    "name": "San Juan del Sur",
+                    "latitude": "11.25292000",
+                    "longitude": "-85.87049000"
+                },
+                {
+                    "id": 77289,
+                    "name": "Tola",
+                    "latitude": "11.43927000",
+                    "longitude": "-85.93891000"
+                }
+            ]
+        },
+        {
+            "id": 952,
+            "name": "South Caribbean Coast Autonomous Region",
+            "state_code": "AS",
+            "cities": [
+                {
+                    "id": 77158,
+                    "name": "Bluefields",
+                    "latitude": "12.01366000",
+                    "longitude": "-83.76353000"
+                },
+                {
+                    "id": 77160,
+                    "name": "Bocana de Paiwas",
+                    "latitude": "12.78571000",
+                    "longitude": "-85.12269000"
+                },
+                {
+                    "id": 77173,
+                    "name": "Corn Island",
+                    "latitude": "12.17575000",
+                    "longitude": "-83.06145000"
+                },
+                {
+                    "id": 77185,
+                    "name": "El Rama",
+                    "latitude": "12.15965000",
+                    "longitude": "-84.21952000"
+                },
+                {
+                    "id": 77189,
+                    "name": "El Tortuguero",
+                    "latitude": "12.82247000",
+                    "longitude": "-84.19629000"
+                },
+                {
+                    "id": 77198,
+                    "name": "Kukrahill",
+                    "latitude": "12.24096000",
+                    "longitude": "-83.74517000"
+                },
+                {
+                    "id": 77203,
+                    "name": "La Cruz de Río Grande",
+                    "latitude": "13.11290000",
+                    "longitude": "-84.18588000"
+                },
+                {
+                    "id": 77208,
+                    "name": "Laguna de Perlas",
+                    "latitude": "12.34294000",
+                    "longitude": "-83.67123000"
+                },
+                {
+                    "id": 77221,
+                    "name": "Muelle de los Bueyes",
+                    "latitude": "12.06999000",
+                    "longitude": "-84.53503000"
+                },
+                {
+                    "id": 77244,
+                    "name": "Nueva Guinea",
+                    "latitude": "11.68758000",
+                    "longitude": "-84.45616000"
+                }
+            ]
+        }
+    ],
+    "timezones": [
+        "UTC−06:00"
+    ],
+    "tld": [
+        ".ni"
+    ],
+    "translations": {
+        "de": "Nicaragua",
+        "es": "Nicaragua",
+        "fr": "Nicaragua",
+        "ja": "ニカラグア",
+        "it": "Nicaragua"
+    },
+    "wiki": "http://en.wikipedia.org/wiki/nicaragua"
+}

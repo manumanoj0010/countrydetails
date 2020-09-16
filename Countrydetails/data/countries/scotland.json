@@ -1,0 +1,20 @@
+{
+    "name": "Scotland",
+    "flag": "",
+    "geoJSON": {},
+    "ISO": {
+        "alpha2": "",
+        "alpha3": ""
+    },
+      "tld": [],
+    "continent": "Europe",
+    "government": null,
+    "symbol": "Other",
+    "dish": "Haggis",
+    "expectancy": null,
+    "location": null,
+    "density": 67.2,
+    "temperature": null,
+    "independence": null,
+    "wiki": "http://en.wikipedia.org/wiki/scotland"
+}

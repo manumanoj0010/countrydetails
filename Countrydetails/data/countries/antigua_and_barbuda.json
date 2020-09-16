@@ -1,0 +1,180 @@
+{
+    "name": "Antigua and Barbuda",
+    "altSpellings": [
+        "AG"
+    ],
+    "area": 442,
+    "borders": [],
+    "callingCodes": [
+        "1268"
+    ],
+    "capital": "Saint John's",
+    "capital_latlng": [
+        47.561701,
+        -52.715149
+    ],
+    "currencies": [
+        "XCD"
+    ],
+    "demonym": "Antiguan,Barbudan",
+    "flag": "http://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Antigua_and_Barbuda.svg",
+    "geoJSON": {},
+    "ISO": {
+        "alpha2": "AG",
+        "alpha3": "ATG"
+    },
+    "languages": [
+        "Creole English",
+        "English"
+    ],
+    "latlng": [
+        17.05,
+        -61.8
+    ],
+    "nativeName": "Antigua and Barbuda",
+    "population": 86295,
+    "provinces": [
+        "Barbuda",
+        "Redonda",
+        "Saint George",
+        "Saint John",
+        "Saint Mary",
+        "Saint Paul",
+        "Saint Peter",
+        "Saint Philip"
+    ],
+    "timezones": [
+        "UTC−04:00"
+    ],
+    "tld": [
+        ".ag"
+    ],
+    "translations": {
+        "de": "Antigua und Barbuda",
+        "es": "Antigua y Barbuda",
+        "fr": "Antigua-et-Barbuda",
+        "ja": "アンティグア・バーブーダ",
+        "it": "Antigua e Barbuda"
+    },
+    "states": [
+        {
+            "id": 3708,
+            "name": "Barbuda",
+            "state_code": "10",
+            "cities": [
+                {
+                    "id": 144,
+                    "name": "Codrington",
+                    "latitude": "17.63333000",
+                    "longitude": "-61.83333000"
+                }
+            ]
+        },
+        {
+            "id": 3703,
+            "name": "Redonda",
+            "state_code": "11",
+            "cities": []
+        },
+        {
+            "id": 3709,
+            "name": "Saint George Parish",
+            "state_code": "03",
+            "cities": [
+                {
+                    "id": 148,
+                    "name": "Piggotts",
+                    "latitude": "17.11667000",
+                    "longitude": "-61.80000000"
+                }
+            ]
+        },
+        {
+            "id": 3706,
+            "name": "Saint John Parish",
+            "state_code": "04",
+            "cities": [
+                {
+                    "id": 149,
+                    "name": "Potters Village",
+                    "latitude": "17.11337000",
+                    "longitude": "-61.81962000"
+                },
+                {
+                    "id": 150,
+                    "name": "Saint John’s",
+                    "latitude": "17.12096000",
+                    "longitude": "-61.84329000"
+                }
+            ]
+        },
+        {
+            "id": 3707,
+            "name": "Saint Mary Parish",
+            "state_code": "05",
+            "cities": [
+                {
+                    "id": 143,
+                    "name": "Bolands",
+                    "latitude": "17.06565000",
+                    "longitude": "-61.87466000"
+                }
+            ]
+        },
+        {
+            "id": 3705,
+            "name": "Saint Paul Parish",
+            "state_code": "06",
+            "cities": [
+                {
+                    "id": 145,
+                    "name": "Falmouth",
+                    "latitude": "17.02741000",
+                    "longitude": "-61.78136000"
+                },
+                {
+                    "id": 146,
+                    "name": "Liberta",
+                    "latitude": "17.04141000",
+                    "longitude": "-61.79052000"
+                }
+            ]
+        },
+        {
+            "id": 3704,
+            "name": "Saint Peter Parish",
+            "state_code": "07",
+            "cities": [
+                {
+                    "id": 142,
+                    "name": "All Saints",
+                    "latitude": "17.06671000",
+                    "longitude": "-61.79303000"
+                },
+                {
+                    "id": 147,
+                    "name": "Parham",
+                    "latitude": "17.09682000",
+                    "longitude": "-61.77046000"
+                }
+            ]
+        },
+        {
+            "id": 3710,
+            "name": "Saint Philip Parish",
+            "state_code": "08",
+            "cities": []
+        }
+    ],
+    "government": "Constitutional Monarchy",
+    "continent": "North America",
+    "independence": 1981,
+    "expectancy": 70.5,
+    "dish": "Pepperpot, Fungee",
+    "symbol": null,
+    "density": 218.8318182,
+    "location": "Caribbean",
+    "religion": "Christianity",
+    "temperature": 26,
+    "wiki": "http://en.wikipedia.org/wiki/antigua_and_barbuda"
+}

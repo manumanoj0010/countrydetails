@@ -1,0 +1,321 @@
+{
+    "name": "Equatorial Guinea",
+    "altSpellings": [
+        "GQ",
+        "Republic of Equatorial Guinea",
+        "República de Guinea Ecuatorial",
+        "République de Guinée équatoriale",
+        "República da Guiné Equatorial"
+    ],
+    "area": 28051,
+    "borders": [
+        "CMR",
+        "GAB"
+    ],
+    "callingCodes": [
+        "240"
+    ],
+    "capital": "Malabo",
+    "capital_latlng": [
+        3.752828,
+        8.780061
+    ],
+    "currencies": [
+        "XAF"
+    ],
+    "demonym": "Equatorial Guinean",
+    "flag": "",
+    "geoJSON": {
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "type": "Feature",
+                "id": "GNQ",
+                "properties": {
+                    "name": "Equatorial Guinea"
+                },
+                "geometry": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                9.492889,
+                                1.01012
+                            ],
+                            [
+                                9.305613,
+                                1.160911
+                            ],
+                            [
+                                9.649158,
+                                2.283866
+                            ],
+                            [
+                                11.276449,
+                                2.261051
+                            ],
+                            [
+                                11.285079,
+                                1.057662
+                            ],
+                            [
+                                9.830284,
+                                1.067894
+                            ],
+                            [
+                                9.492889,
+                                1.01012
+                            ]
+                        ]
+                    ]
+                }
+            }
+        ]
+    },
+    "ISO": {
+        "alpha2": "GQ",
+        "alpha3": "GNQ"
+    },
+    "states": [
+        {
+            "id": 3444,
+            "name": "Annobón Province",
+            "state_code": "AN",
+            "cities": [
+                {
+                    "id": 52397,
+                    "name": "San Antonio de Palé",
+                    "latitude": "-1.40680000",
+                    "longitude": "5.63178000"
+                }
+            ]
+        },
+        {
+            "id": 3446,
+            "name": "Bioko Norte Province",
+            "state_code": "BN",
+            "cities": [
+                {
+                    "id": 52387,
+                    "name": "Malabo",
+                    "latitude": "3.75578000",
+                    "longitude": "8.78166000"
+                },
+                {
+                    "id": 52395,
+                    "name": "Rebola",
+                    "latitude": "3.71667000",
+                    "longitude": "8.83333000"
+                },
+                {
+                    "id": 52398,
+                    "name": "Santiago de Baney",
+                    "latitude": "3.69920000",
+                    "longitude": "8.90840000"
+                }
+            ]
+        },
+        {
+            "id": 3443,
+            "name": "Bioko Sur Province",
+            "state_code": "BS",
+            "cities": [
+                {
+                    "id": 52385,
+                    "name": "Luba",
+                    "latitude": "3.45683000",
+                    "longitude": "8.55465000"
+                }
+            ]
+        },
+        {
+            "id": 3445,
+            "name": "Centro Sur Province",
+            "state_code": "CS",
+            "cities": [
+                {
+                    "id": 52376,
+                    "name": "Acurenam",
+                    "latitude": "1.03225000",
+                    "longitude": "10.64882000"
+                },
+                {
+                    "id": 52380,
+                    "name": "Bicurga",
+                    "latitude": "1.58113000",
+                    "longitude": "10.46716000"
+                },
+                {
+                    "id": 52384,
+                    "name": "Evinayong",
+                    "latitude": "1.43677000",
+                    "longitude": "10.55124000"
+                }
+            ]
+        },
+        {
+            "id": 3442,
+            "name": "Insular Region",
+            "state_code": "I",
+            "cities": []
+        },
+        {
+            "id": 3439,
+            "name": "Kié-Ntem Province",
+            "state_code": "KN",
+            "cities": [
+                {
+                    "id": 52383,
+                    "name": "Ebebiyin",
+                    "latitude": "2.15106000",
+                    "longitude": "11.33528000"
+                },
+                {
+                    "id": 52390,
+                    "name": "Mikomeseng",
+                    "latitude": "2.13609000",
+                    "longitude": "10.61322000"
+                },
+                {
+                    "id": 52392,
+                    "name": "Ncue",
+                    "latitude": "2.01643000",
+                    "longitude": "10.47066000"
+                },
+                {
+                    "id": 52393,
+                    "name": "Nsang",
+                    "latitude": "2.02475000",
+                    "longitude": "10.94599000"
+                }
+            ]
+        },
+        {
+            "id": 3441,
+            "name": "Litoral Province",
+            "state_code": "LI",
+            "cities": [
+                {
+                    "id": 52379,
+                    "name": "Bata",
+                    "latitude": "1.86391000",
+                    "longitude": "9.76582000"
+                },
+                {
+                    "id": 52381,
+                    "name": "Bitica",
+                    "latitude": "1.42610000",
+                    "longitude": "9.62316000"
+                },
+                {
+                    "id": 52382,
+                    "name": "Cogo",
+                    "latitude": "1.08425000",
+                    "longitude": "9.69300000"
+                },
+                {
+                    "id": 52386,
+                    "name": "Machinda",
+                    "latitude": "1.88262000",
+                    "longitude": "9.95133000"
+                },
+                {
+                    "id": 52388,
+                    "name": "Mbini",
+                    "latitude": "1.58267000",
+                    "longitude": "9.61478000"
+                },
+                {
+                    "id": 52396,
+                    "name": "Río Campo",
+                    "latitude": "2.33812000",
+                    "longitude": "9.82212000"
+                }
+            ]
+        },
+        {
+            "id": 3438,
+            "name": "Río Muni",
+            "state_code": "C",
+            "cities": []
+        },
+        {
+            "id": 3440,
+            "name": "Wele-Nzas Province",
+            "state_code": "WN",
+            "cities": [
+                {
+                    "id": 52375,
+                    "name": "Aconibe",
+                    "latitude": "1.29683000",
+                    "longitude": "10.93691000"
+                },
+                {
+                    "id": 52378,
+                    "name": "Añisoc",
+                    "latitude": "1.86580000",
+                    "longitude": "10.76892000"
+                },
+                {
+                    "id": 52377,
+                    "name": "Ayene",
+                    "latitude": "1.85592000",
+                    "longitude": "10.68994000"
+                },
+                {
+                    "id": 52389,
+                    "name": "Mengomeyén",
+                    "latitude": "1.69439000",
+                    "longitude": "11.03422000"
+                },
+                {
+                    "id": 52391,
+                    "name": "Mongomo",
+                    "latitude": "1.62742000",
+                    "longitude": "11.31346000"
+                },
+                {
+                    "id": 52394,
+                    "name": "Nsok",
+                    "latitude": "1.12985000",
+                    "longitude": "11.26603000"
+                }
+            ]
+        }
+    ],
+    "languages": [
+        "Bubi",
+            "Fang"
+    ],
+    "latlng": [
+        2,
+        10
+    ],
+    "nativeName": "Guinea Ecuatorial",
+    "population": 1430000,
+    "timezones": [
+        "UTC+01:00"
+    ],
+    "tld": [
+        ".gq"
+    ],
+    "translations": {
+        "de": "Äquatorial-Guinea",
+        "es": "Guinea Ecuatorial",
+        "fr": "Guinée-Équatoriale",
+        "ja": "赤道ギニア",
+        "it": "Guinea Equatoriale"
+    },
+    "continent": "Africa",
+    "independence": 1968,
+    "expectancy": 53.6,
+    "symbol": null,
+    "dish": null,
+    "religion": "Christianity"
+,
+    "temperature": 24.55,
+    "location": "Central Africa",
+    "density": 46.66573975,
+    "government": "Republic",
+    "wiki": "http://en.wikipedia.org/wiki/equatorial_guinea"
+}

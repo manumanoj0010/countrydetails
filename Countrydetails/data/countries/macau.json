@@ -1,0 +1,66 @@
+{
+    "name": "Macau",
+    "altSpellings": [
+        "MO",
+        "澳门",
+        "Macao Special Administrative Region of the People's Republic of China",
+        "中華人民共和國澳門特別行政區",
+        "Região Administrativa Especial de Macau da República Popular da China"
+    ],
+    "area": 30,
+    "borders": [
+        "CHN"
+    ],
+    "callingCodes": [
+        "853"
+    ],
+    "capital": "",
+    "currencies": [
+        "MOP"
+    ],
+    "demonym": "Chinese",
+    "flag": "",
+    "geoJSON": {},
+    "ISO": {
+        "alpha2": "MO",
+        "alpha3": "MAC"
+    },
+    "languages": [
+        "Canton Chinese",
+        "English",
+        "Mandarin Chinese",
+        "Portuguese"
+    ],
+    "latlng": [
+        22.16666666,
+        113.55
+    ],
+    "nativeName": "澳門",
+    "population": 631000,
+   
+    "timezones": [
+        "UTC+08:00"
+    ],
+    "tld": [
+        ".mo"
+    ],
+    "states": [],
+    "translations": {
+        "de": "Macao",
+        "es": "Macao",
+        "fr": "Macao",
+        "ja": "マカオ",
+        "it": "Macao"
+    },
+    "expectancy": 81.6,
+    "dish": null,
+    "symbol": null,
+    "density": 20777.50026,
+    "location": "Eastern Asia",
+    "religion": "Folk Religions",
+    "temperature": null,
+    "continent": "Asia",
+    "government": "Special Administrative Region of China",
+    "independence": null,
+    "wiki": "http://en.wikipedia.org/wiki/macau"
+}

@@ -1,0 +1,273 @@
+{
+    "name": "Palau",
+    "altSpellings": [
+        "PW",
+        "Republic of Palau",
+        "Beluu er a Belau"
+    ],
+    "area": 459,
+    "borders": [],
+    "callingCodes": [
+        "680"
+    ],
+    "capital": "Ngerulmud",
+    "capital_latlng": [
+        7.500619,
+        134.624301
+    ],
+    "currencies": [
+        "USD"
+    ],
+    "demonym": "Palauan",
+    "flag": "",
+    "geoJSON": {},
+    "ISO": {
+        "alpha2": "PW",
+        "alpha3": "PLW"
+    },
+    "states": [
+        {
+            "id": 4540,
+            "name": "Aimeliik",
+            "state_code": "002",
+            "cities": [
+                {
+                    "id": 89709,
+                    "name": "Ngchemiangel",
+                    "latitude": "7.44613000",
+                    "longitude": "134.47678000"
+                }
+            ]
+        },
+        {
+            "id": 4528,
+            "name": "Airai",
+            "state_code": "004",
+            "cities": [
+                {
+                    "id": 89712,
+                    "name": "Ngetkib",
+                    "latitude": "7.36451000",
+                    "longitude": "134.51484000"
+                }
+            ]
+        },
+        {
+            "id": 4538,
+            "name": "Angaur",
+            "state_code": "010",
+            "cities": [
+                {
+                    "id": 89700,
+                    "name": "Angaur State",
+                    "latitude": "6.90601000",
+                    "longitude": "134.12997000"
+                }
+            ]
+        },
+        {
+            "id": 4529,
+            "name": "Hatohobei",
+            "state_code": "050",
+            "cities": [
+                {
+                    "id": 89714,
+                    "name": "Tobi Village",
+                    "latitude": "3.00488000",
+                    "longitude": "131.12168000"
+                }
+            ]
+        },
+        {
+            "id": 4539,
+            "name": "Kayangel",
+            "state_code": "100",
+            "cities": [
+                {
+                    "id": 89702,
+                    "name": "Kayangel",
+                    "latitude": "8.08228000",
+                    "longitude": "134.71725000"
+                }
+            ]
+        },
+        {
+            "id": 4532,
+            "name": "Koror",
+            "state_code": "150",
+            "cities": [
+                {
+                    "id": 89704,
+                    "name": "Koror",
+                    "latitude": "7.33978000",
+                    "longitude": "134.47326000"
+                },
+                {
+                    "id": 89705,
+                    "name": "Koror Town",
+                    "latitude": "7.34257000",
+                    "longitude": "134.47888000"
+                }
+            ]
+        },
+        {
+            "id": 4530,
+            "name": "Melekeok",
+            "state_code": "212",
+            "cities": [
+                {
+                    "id": 89706,
+                    "name": "Melekeok Village",
+                    "latitude": "7.49567000",
+                    "longitude": "134.63671000"
+                }
+            ]
+        },
+        {
+            "id": 4537,
+            "name": "Ngaraard",
+            "state_code": "214",
+            "cities": [
+                {
+                    "id": 89715,
+                    "name": "Ulimang",
+                    "latitude": "7.62416000",
+                    "longitude": "134.64208000"
+                }
+            ]
+        },
+        {
+            "id": 4533,
+            "name": "Ngarchelong",
+            "state_code": "218",
+            "cities": [
+                {
+                    "id": 89707,
+                    "name": "Mengellang",
+                    "latitude": "7.69570000",
+                    "longitude": "134.63054000"
+                }
+            ]
+        },
+        {
+            "id": 4527,
+            "name": "Ngardmau",
+            "state_code": "222",
+            "cities": [
+                {
+                    "id": 89708,
+                    "name": "Ngardmau",
+                    "latitude": "7.60986000",
+                    "longitude": "134.57440000"
+                }
+            ]
+        },
+        {
+            "id": 4531,
+            "name": "Ngatpang",
+            "state_code": "224",
+            "cities": []
+        },
+        {
+            "id": 4536,
+            "name": "Ngchesar",
+            "state_code": "226",
+            "cities": [
+                {
+                    "id": 89710,
+                    "name": "Ngchesar Hamlet",
+                    "latitude": "7.46932000",
+                    "longitude": "134.60991000"
+                }
+            ]
+        },
+        {
+            "id": 4541,
+            "name": "Ngeremlengui",
+            "state_code": "227",
+            "cities": [
+                {
+                    "id": 89701,
+                    "name": "Imeong Hamlet",
+                    "latitude": "7.53134000",
+                    "longitude": "134.52713000"
+                }
+            ]
+        },
+        {
+            "id": 4534,
+            "name": "Ngiwal",
+            "state_code": "228",
+            "cities": [
+                {
+                    "id": 89711,
+                    "name": "Ngerkeai",
+                    "latitude": "7.55456000",
+                    "longitude": "134.63612000"
+                }
+            ]
+        },
+        {
+            "id": 4526,
+            "name": "Peleliu",
+            "state_code": "350",
+            "cities": [
+                {
+                    "id": 89703,
+                    "name": "Kloulklubed",
+                    "latitude": "7.04192000",
+                    "longitude": "134.25561000"
+                }
+            ]
+        },
+        {
+            "id": 4535,
+            "name": "Sonsorol",
+            "state_code": "370",
+            "cities": [
+                {
+                    "id": 89713,
+                    "name": "Sonsorol Village",
+                    "latitude": "5.32608000",
+                    "longitude": "132.21943000"
+                }
+            ]
+        }
+    ],
+    "languages": [
+        "Chinese",
+        "English",
+        "Palau",
+        "Philippene Languages"
+    ],
+    "latlng": [
+        7.5,
+        134.5
+    ],
+    "nativeName": "Palau",
+    "population": 20901,
+    "timezones": [
+        "UTC+09:00"
+    ],
+    "tld": [
+        ".pw"
+    ],
+    "translations": {
+        "de": "Palau",
+        "es": "Palau",
+        "fr": "Palaos",
+        "ja": "パラオ",
+        "it": "Palau"
+    },
+    "government": "Republic",
+    "continent": "Oceania",
+    "expectancy": 68.6,
+    "independence": 1994,
+    "symbol": null,
+    "density": 38.92826087,
+    "religion": "Christianity",
+    "dish": null,
+    "temperature": 27.6,
+    "location": "Micronesia",
+    "wiki": "http://en.wikipedia.org/wiki/palau"
+}

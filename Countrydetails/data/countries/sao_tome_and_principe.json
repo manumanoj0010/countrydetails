@@ -1,0 +1,108 @@
+{
+    "name": "São Tomé and Príncipe",
+    "altSpellings": [
+        "ST",
+        "Democratic Republic of São Tomé and Príncipe",
+        "República Democrática de São Tomé e Príncipe"
+    ],
+    "area": 964,
+    "borders": [],
+    "callingCodes": [
+        "239"
+    ],
+    "capital": "São Tomé",
+    "capital_latlng": [
+        0.338924,
+        6.731303
+    ],
+    "currencies": [
+        "STD"
+    ],
+    "demonym": "Sao Tomean",
+    "flag": "",
+    "geoJSON": {},
+    "ISO": {
+        "alpha2": "ST",
+        "alpha3": "STP"
+    },
+    "states": [
+        {
+            "id": 270,
+            "name": "Príncipe Province",
+            "state_code": "P",
+            "cities": [
+                {
+                    "id": 104837,
+                    "name": "Santo António",
+                    "latitude": "1.63943000",
+                    "longitude": "7.41951000"
+                }
+            ]
+        },
+        {
+            "id": 271,
+            "name": "São Tomé Province",
+            "state_code": "S",
+            "cities": [
+                {
+                    "id": 104835,
+                    "name": "Cantagalo District",
+                    "latitude": "0.21667000",
+                    "longitude": "6.70000000"
+                },
+                {
+                    "id": 104836,
+                    "name": "Caué District",
+                    "latitude": "0.13415000",
+                    "longitude": "6.63825000"
+                },
+                {
+                    "id": 104838,
+                    "name": "São Tomé",
+                    "latitude": "0.33654000",
+                    "longitude": "6.72732000"
+                },
+                {
+                    "id": 104839,
+                    "name": "Trindade",
+                    "latitude": "0.29667000",
+                    "longitude": "6.68139000"
+                }
+            ]
+        }
+    ],
+    "languages": [
+        "Crioulo",
+        "French"
+    ],
+    "latlng": [
+        1,
+        7
+    ],
+    "nativeName": "São Tomé e Príncipe",
+    "population": 187356,
+    "timezones": [
+        "UTC"
+    ],
+    "tld": [
+        ".st"
+    ],
+    "translations": {
+        "de": "São Tomé und Príncipe",
+        "es": "Santo Tomé y Príncipe",
+        "fr": "Sao Tomé-et-Principe",
+        "ja": "サントメ・プリンシペ",
+        "it": "São Tomé e Príncipe"
+    },
+    "continent": "Africa",
+    "dish": null,
+    "government": "Republic",
+    "religion": "Christianity",
+    "density": 219.8208333,
+    "location": "Central Africa",
+    "temperature": 23.75,
+    "expectancy": 65.3,
+    "symbol": null,
+    "independence": 1975,
+    "wiki": "http://en.wikipedia.org/wiki/sao_tome_and_principe"
+}

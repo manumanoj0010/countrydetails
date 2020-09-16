@@ -1,0 +1,47 @@
+{
+  "name": "French Polynesia",
+  "altSpellings": ["PF", "Polynésie française", "French Polynesia", "Pōrīnetia Farāni"],
+  "area": 4167,
+  "borders": [],
+  "callingCodes": ["689"],
+  "capital": "Papeetē",
+  "capital_latlng": [-17.537384, -149.565996],
+  "currencies": ["XPF"],
+  "demonym": "French Polynesian",
+  "flag": "",
+  "geoJSON": {},
+  "ISO": {
+    "alpha2": "PF",
+    "alpha3": "PYF"
+  },
+  "languages": [
+      "Chinese",
+      "French",
+      "Tahitian"
+  ],
+  "latlng": [-15, -140],
+  "nativeName": "Polynésie française",
+  "population": 268270,
+  "continent": "Oceania",
+        "government": "Nonmetropolitan Territory of France",
+        "independence": null,
+          "expectancy": 74.8,
+            "dish": null,
+            "symbol": null,
+              "density": 75.86857923,
+                "location": "Polynesia",
+                    "religion": "Christianity",
+                        "temperature": null,
+                          "states": [],
+
+  "timezones": null,
+  "tld": [".pf"],
+  "translations": {
+    "de": "Französisch-Polynesien",
+    "es": "Polinesia Francesa",
+    "fr": "Polynésie française",
+    "ja": "フランス領ポリネシア",
+    "it": "Polinesia Francese"
+  },
+  "wiki": "http://en.wikipedia.org/wiki/french_polynesia"
+}

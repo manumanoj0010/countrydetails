@@ -1,0 +1,766 @@
+{
+    "name": "Libya",
+    "altSpellings": [
+        "LY",
+        "State of Libya",
+        "Dawlat Libya"
+    ],
+    "area": 1759540,
+    "borders": [
+        "DZA",
+        "TCD",
+        "EGY",
+        "NER",
+        "SDN",
+        "TUN"
+    ],
+    "callingCodes": [
+        "218"
+    ],
+    "capital": "Tripoli",
+    "capital_latlng": [
+        32.896672,
+        13.177792
+    ],
+    "currencies": [
+        "LYD"
+    ],
+    "demonym": "Libyan",
+    "flag": "",
+    "geoJSON": {
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "type": "Feature",
+                "id": "LBY",
+                "properties": {
+                    "name": "Libya"
+                },
+                "geometry": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                14.8513,
+                                22.86295
+                            ],
+                            [
+                                14.143871,
+                                22.491289
+                            ],
+                            [
+                                13.581425,
+                                23.040506
+                            ],
+                            [
+                                11.999506,
+                                23.471668
+                            ],
+                            [
+                                11.560669,
+                                24.097909
+                            ],
+                            [
+                                10.771364,
+                                24.562532
+                            ],
+                            [
+                                10.303847,
+                                24.379313
+                            ],
+                            [
+                                9.948261,
+                                24.936954
+                            ],
+                            [
+                                9.910693,
+                                25.365455
+                            ],
+                            [
+                                9.319411,
+                                26.094325
+                            ],
+                            [
+                                9.716286,
+                                26.512206
+                            ],
+                            [
+                                9.629056,
+                                27.140953
+                            ],
+                            [
+                                9.756128,
+                                27.688259
+                            ],
+                            [
+                                9.683885,
+                                28.144174
+                            ],
+                            [
+                                9.859998,
+                                28.95999
+                            ],
+                            [
+                                9.805634,
+                                29.424638
+                            ],
+                            [
+                                9.48214,
+                                30.307556
+                            ],
+                            [
+                                9.970017,
+                                30.539325
+                            ],
+                            [
+                                10.056575,
+                                30.961831
+                            ],
+                            [
+                                9.950225,
+                                31.37607
+                            ],
+                            [
+                                10.636901,
+                                31.761421
+                            ],
+                            [
+                                10.94479,
+                                32.081815
+                            ],
+                            [
+                                11.432253,
+                                32.368903
+                            ],
+                            [
+                                11.488787,
+                                33.136996
+                            ],
+                            [
+                                12.66331,
+                                32.79278
+                            ],
+                            [
+                                13.08326,
+                                32.87882
+                            ],
+                            [
+                                13.91868,
+                                32.71196
+                            ],
+                            [
+                                15.24563,
+                                32.26508
+                            ],
+                            [
+                                15.71394,
+                                31.37626
+                            ],
+                            [
+                                16.61162,
+                                31.18218
+                            ],
+                            [
+                                18.02109,
+                                30.76357
+                            ],
+                            [
+                                19.08641,
+                                30.26639
+                            ],
+                            [
+                                19.57404,
+                                30.52582
+                            ],
+                            [
+                                20.05335,
+                                30.98576
+                            ],
+                            [
+                                19.82033,
+                                31.75179
+                            ],
+                            [
+                                20.13397,
+                                32.2382
+                            ],
+                            [
+                                20.85452,
+                                32.7068
+                            ],
+                            [
+                                21.54298,
+                                32.8432
+                            ],
+                            [
+                                22.89576,
+                                32.63858
+                            ],
+                            [
+                                23.2368,
+                                32.19149
+                            ],
+                            [
+                                23.60913,
+                                32.18726
+                            ],
+                            [
+                                23.9275,
+                                32.01667
+                            ],
+                            [
+                                24.92114,
+                                31.89936
+                            ],
+                            [
+                                25.16482,
+                                31.56915
+                            ],
+                            [
+                                24.80287,
+                                31.08929
+                            ],
+                            [
+                                24.95762,
+                                30.6616
+                            ],
+                            [
+                                24.70007,
+                                30.04419
+                            ],
+                            [
+                                25,
+                                29.238655
+                            ],
+                            [
+                                25,
+                                25.6825
+                            ],
+                            [
+                                25,
+                                22
+                            ],
+                            [
+                                25,
+                                20.00304
+                            ],
+                            [
+                                23.85,
+                                20
+                            ],
+                            [
+                                23.83766,
+                                19.58047
+                            ],
+                            [
+                                19.84926,
+                                21.49509
+                            ],
+                            [
+                                15.86085,
+                                23.40972
+                            ],
+                            [
+                                14.8513,
+                                22.86295
+                            ]
+                        ]
+                    ]
+                }
+            }
+        ]
+    },
+    "ISO": {
+        "alpha2": "LY",
+        "alpha3": "LBY"
+    },
+    "states": [
+        {
+            "id": 2964,
+            "name": "Al Wahat District",
+            "state_code": "WA",
+            "cities": [
+                {
+                    "id": 66993,
+                    "name": "Ajdabiya",
+                    "latitude": "30.75545000",
+                    "longitude": "20.22625000"
+                },
+                {
+                    "id": 66997,
+                    "name": "Al Burayqah",
+                    "latitude": "30.40624000",
+                    "longitude": "19.57386000"
+                },
+                {
+                    "id": 67006,
+                    "name": "Awjilah",
+                    "latitude": "29.10806000",
+                    "longitude": "21.28694000"
+                },
+                {
+                    "id": 67007,
+                    "name": "Az Zuwaytīnah",
+                    "latitude": "30.95220000",
+                    "longitude": "20.12022000"
+                },
+                {
+                    "id": 67017,
+                    "name": "Gialo",
+                    "latitude": "29.03333000",
+                    "longitude": "21.55000000"
+                },
+                {
+                    "id": 67020,
+                    "name": "Marādah",
+                    "latitude": "29.22054000",
+                    "longitude": "19.20454000"
+                }
+            ]
+        },
+        {
+            "id": 2981,
+            "name": "Benghazi",
+            "state_code": "BA",
+            "cities": [
+                {
+                    "id": 67010,
+                    "name": "Benghazi",
+                    "latitude": "32.11486000",
+                    "longitude": "20.06859000"
+                },
+                {
+                    "id": 67026,
+                    "name": "Qaryat Sulūq",
+                    "latitude": "31.66818000",
+                    "longitude": "20.25205000"
+                }
+            ]
+        },
+        {
+            "id": 2966,
+            "name": "Derna District",
+            "state_code": "DR",
+            "cities": [
+                {
+                    "id": 67003,
+                    "name": "Al Qubbah",
+                    "latitude": "32.75684000",
+                    "longitude": "22.24106000"
+                },
+                {
+                    "id": 67012,
+                    "name": "Darnah",
+                    "latitude": "32.76704000",
+                    "longitude": "22.63669000"
+                }
+            ]
+        },
+        {
+            "id": 2969,
+            "name": "Ghat District",
+            "state_code": "GT",
+            "cities": [
+                {
+                    "id": 67015,
+                    "name": "Ghat",
+                    "latitude": "24.96334000",
+                    "longitude": "10.18003000"
+                }
+            ]
+        },
+        {
+            "id": 2980,
+            "name": "Jabal al Akhdar",
+            "state_code": "JA",
+            "cities": [
+                {
+                    "id": 66996,
+                    "name": "Al Bayḑā’",
+                    "latitude": "32.76272000",
+                    "longitude": "21.75506000"
+                }
+            ]
+        },
+        {
+            "id": 2974,
+            "name": "Jabal al Gharbi District",
+            "state_code": "JG",
+            "cities": [
+                {
+                    "id": 67014,
+                    "name": "Gharyan",
+                    "latitude": "32.17222000",
+                    "longitude": "13.02028000"
+                },
+                {
+                    "id": 67016,
+                    "name": "Giado",
+                    "latitude": "31.95506000",
+                    "longitude": "12.02901000"
+                },
+                {
+                    "id": 67022,
+                    "name": "Mizdah",
+                    "latitude": "31.44934000",
+                    "longitude": "12.98530000"
+                },
+                {
+                    "id": 67036,
+                    "name": "Yafran",
+                    "latitude": "32.06329000",
+                    "longitude": "12.52859000"
+                },
+                {
+                    "id": 67039,
+                    "name": "Zintan",
+                    "latitude": "31.93155000",
+                    "longitude": "12.25291000"
+                }
+            ]
+        },
+        {
+            "id": 2979,
+            "name": "Jafara",
+            "state_code": "JI",
+            "cities": [
+                {
+                    "id": 67004,
+                    "name": "Al ‘Azīzīyah",
+                    "latitude": "32.53194000",
+                    "longitude": "13.01750000"
+                }
+            ]
+        },
+        {
+            "id": 2970,
+            "name": "Jufra",
+            "state_code": "JU",
+            "cities": [
+                {
+                    "id": 67018,
+                    "name": "Hūn",
+                    "latitude": "29.12684000",
+                    "longitude": "15.94772000"
+                },
+                {
+                    "id": 67035,
+                    "name": "Waddān",
+                    "latitude": "29.16140000",
+                    "longitude": "16.13904000"
+                }
+            ]
+        },
+        {
+            "id": 2972,
+            "name": "Kufra District",
+            "state_code": "KF",
+            "cities": [
+                {
+                    "id": 66999,
+                    "name": "Al Jawf",
+                    "latitude": "24.19890000",
+                    "longitude": "23.29093000"
+                },
+                {
+                    "id": 67005,
+                    "name": "At Tāj",
+                    "latitude": "24.20487000",
+                    "longitude": "23.28570000"
+                }
+            ]
+        },
+        {
+            "id": 2968,
+            "name": "Marj District",
+            "state_code": "MJ",
+            "cities": [
+                {
+                    "id": 66994,
+                    "name": "Al Abyār",
+                    "latitude": "32.19000000",
+                    "longitude": "20.59653000"
+                },
+                {
+                    "id": 67001,
+                    "name": "Al Marj",
+                    "latitude": "32.49257000",
+                    "longitude": "20.82909000"
+                },
+                {
+                    "id": 67033,
+                    "name": "Tūkrah",
+                    "latitude": "32.53414000",
+                    "longitude": "20.57911000"
+                }
+            ]
+        },
+        {
+            "id": 2978,
+            "name": "Misrata District",
+            "state_code": "MI",
+            "cities": [
+                {
+                    "id": 67009,
+                    "name": "Bani Walid",
+                    "latitude": "31.74554000",
+                    "longitude": "13.98354000"
+                },
+                {
+                    "id": 67023,
+                    "name": "Mişrātah",
+                    "latitude": "32.37535000",
+                    "longitude": "15.09254000"
+                },
+                {
+                    "id": 67040,
+                    "name": "Zliten",
+                    "latitude": "32.46739000",
+                    "longitude": "14.56874000"
+                }
+            ]
+        },
+        {
+            "id": 2961,
+            "name": "Murqub",
+            "state_code": "MB",
+            "cities": [
+                {
+                    "id": 67000,
+                    "name": "Al Khums",
+                    "latitude": "32.64861000",
+                    "longitude": "14.26191000"
+                },
+                {
+                    "id": 67021,
+                    "name": "Masallātah",
+                    "latitude": "32.61667000",
+                    "longitude": "14.00000000"
+                },
+                {
+                    "id": 67031,
+                    "name": "Tarhuna",
+                    "latitude": "32.43501000",
+                    "longitude": "13.63320000"
+                }
+            ]
+        },
+        {
+            "id": 2967,
+            "name": "Murzuq District",
+            "state_code": "MQ",
+            "cities": [
+                {
+                    "id": 67002,
+                    "name": "Al Qaţrūn",
+                    "latitude": "24.95139000",
+                    "longitude": "14.64861000"
+                },
+                {
+                    "id": 67024,
+                    "name": "Murzuq",
+                    "latitude": "25.91552000",
+                    "longitude": "13.91839000"
+                }
+            ]
+        },
+        {
+            "id": 2976,
+            "name": "Nalut District",
+            "state_code": "NL",
+            "cities": [
+                {
+                    "id": 67013,
+                    "name": "Ghadāmis",
+                    "latitude": "30.13366000",
+                    "longitude": "9.50072000"
+                },
+                {
+                    "id": 67025,
+                    "name": "Nālūt",
+                    "latitude": "31.86848000",
+                    "longitude": "10.98120000"
+                }
+            ]
+        },
+        {
+            "id": 2962,
+            "name": "Nuqat al Khams",
+            "state_code": "NQ",
+            "cities": [
+                {
+                    "id": 66995,
+                    "name": "Al Ajaylat",
+                    "latitude": "32.75718000",
+                    "longitude": "12.37633000"
+                },
+                {
+                    "id": 67037,
+                    "name": "Zalţan",
+                    "latitude": "32.94699000",
+                    "longitude": "11.86668000"
+                },
+                {
+                    "id": 67041,
+                    "name": "Zuwārah",
+                    "latitude": "32.93120000",
+                    "longitude": "12.08199000"
+                }
+            ]
+        },
+        {
+            "id": 2965,
+            "name": "Sabha District",
+            "state_code": "SB",
+            "cities": [
+                {
+                    "id": 66998,
+                    "name": "Al Jadīd",
+                    "latitude": "27.05000000",
+                    "longitude": "14.40000000"
+                },
+                {
+                    "id": 67028,
+                    "name": "Sabhā",
+                    "latitude": "27.03766000",
+                    "longitude": "14.42832000"
+                }
+            ]
+        },
+        {
+            "id": 2977,
+            "name": "Sirte District",
+            "state_code": "SR",
+            "cities": [
+                {
+                    "id": 67027,
+                    "name": "Qasr Abu Hadi",
+                    "latitude": "31.05926000",
+                    "longitude": "16.65905000"
+                },
+                {
+                    "id": 67029,
+                    "name": "Sirte",
+                    "latitude": "31.20892000",
+                    "longitude": "16.58866000"
+                }
+            ]
+        },
+        {
+            "id": 2971,
+            "name": "Tripoli District",
+            "state_code": "TB",
+            "cities": [
+                {
+                    "id": 67030,
+                    "name": "Tagiura",
+                    "latitude": "32.88167000",
+                    "longitude": "13.35056000"
+                },
+                {
+                    "id": 67032,
+                    "name": "Tripoli",
+                    "latitude": "32.88743000",
+                    "longitude": "13.18733000"
+                }
+            ]
+        },
+        {
+            "id": 2973,
+            "name": "Wadi al Hayaa District",
+            "state_code": "WD",
+            "cities": [
+                {
+                    "id": 67034,
+                    "name": "Ubari",
+                    "latitude": "26.59034000",
+                    "longitude": "12.77511000"
+                }
+            ]
+        },
+        {
+            "id": 2975,
+            "name": "Wadi al Shatii District",
+            "state_code": "WS",
+            "cities": [
+                {
+                    "id": 67011,
+                    "name": "Brak",
+                    "latitude": "27.54956000",
+                    "longitude": "14.27139000"
+                },
+                {
+                    "id": 67019,
+                    "name": "Idrī",
+                    "latitude": "27.44707000",
+                    "longitude": "13.05173000"
+                }
+            ]
+        },
+        {
+            "id": 2963,
+            "name": "Zawiya District",
+            "state_code": "ZA",
+            "cities": [
+                {
+                    "id": 67008,
+                    "name": "Az Zāwīyah",
+                    "latitude": "32.75710000",
+                    "longitude": "12.72764000"
+                },
+                {
+                    "id": 67042,
+                    "name": "Şabrātah",
+                    "latitude": "32.79335000",
+                    "longitude": "12.48845000"
+                },
+                {
+                    "id": 67043,
+                    "name": "Şurmān",
+                    "latitude": "32.75668000",
+                    "longitude": "12.57159000"
+                },
+                {
+                    "id": 67038,
+                    "name": "Zawiya",
+                    "latitude": "32.75222000",
+                    "longitude": "12.72778000"
+                }
+            ]
+        }
+    ],
+    "languages": [
+        "Arabic",
+        "Berberi"
+    ],
+    "latlng": [
+        25,
+        17
+    ],
+    "nativeName": "‏ليبيا",
+    "population": 6253000,
+    "timezones": [
+        "UTC+01:00"
+    ],
+    "tld": [
+        ".ly"
+    ],
+    "translations": {
+        "de": "Libyen",
+        "es": "Libia",
+        "fr": "Libye",
+        "ja": "リビア",
+        "it": "Libia"
+    },
+    "continent": "Africa",
+    "government": "Socialistic State",
+    "independence": 1951,
+    "expectancy": 75.5,
+    "dish": null,
+    "density": 3.795632381,
+    "temperature": null,
+    "religion": "Islam",
+    "location": "Northern Africa",
+    "symbol": null,
+    "wiki": "http://en.wikipedia.org/wiki/libya"
+}

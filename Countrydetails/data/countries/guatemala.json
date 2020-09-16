@@ -1,0 +1,2541 @@
+{
+  "name": "Guatemala",
+  "altSpellings": ["GT"],
+  "area": 108889,
+  "borders": ["BLZ", "SLV", "HND", "MEX"],
+  "callingCodes": ["502"],
+  "capital": "Guatemala City",
+  "capital_latlng": [14.622233, -90.518519],
+  "currencies": ["GTQ"],
+  "demonym": "Guatemalan",
+  "flag": "",
+  "geoJSON": {
+    "type": "FeatureCollection",
+    "features": [{
+      "type": "Feature",
+      "id": "GTM",
+      "properties": {
+        "name": "Guatemala"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-90.095555, 13.735338],
+            [-90.608624, 13.909771],
+            [-91.23241, 13.927832],
+            [-91.689747, 14.126218],
+            [-92.22775, 14.538829],
+            [-92.20323, 14.830103],
+            [-92.087216, 15.064585],
+            [-92.229249, 15.251447],
+            [-91.74796, 16.066565],
+            [-90.464473, 16.069562],
+            [-90.438867, 16.41011],
+            [-90.600847, 16.470778],
+            [-90.711822, 16.687483],
+            [-91.08167, 16.918477],
+            [-91.453921, 17.252177],
+            [-91.002269, 17.254658],
+            [-91.00152, 17.817595],
+            [-90.067934, 17.819326],
+            [-89.14308, 17.808319],
+            [-89.150806, 17.015577],
+            [-89.229122, 15.886938],
+            [-88.930613, 15.887273],
+            [-88.604586, 15.70638],
+            [-88.518364, 15.855389],
+            [-88.225023, 15.727722],
+            [-88.68068, 15.346247],
+            [-89.154811, 15.066419],
+            [-89.22522, 14.874286],
+            [-89.145535, 14.678019],
+            [-89.353326, 14.424133],
+            [-89.587343, 14.362586],
+            [-89.534219, 14.244816],
+            [-89.721934, 14.134228],
+            [-90.064678, 13.88197],
+            [-90.095555, 13.735338]
+          ]
+        ]
+      }
+    }]
+  },
+  "ISO": {
+    "alpha2": "GT",
+    "alpha3": "GTM"
+  },
+  "languages": ["es"],
+  "latlng": [15.5, -90.25],
+  "nativeName": "Guatemala",
+  "population": 15806675,
+  "independence": 1821,
+  "languages": [
+      "Cakchiquel",
+      "Kekch√≠",
+      "Mam",
+      "Quich√©",
+      "Spanish"
+  ],
+"expectancy": 66.2,
+"tld": ".gt",
+"government": "Republic",
+"dish": "Fiambre, Pepian (hearty meat stew)",
+"continent": "North America",
+"symbol": null,
+"density": 160.9537794,
+"location": "Central America",
+"religion": "Christianity",
+  "temperature": 23.45,
+  "states": [
+            {
+                "id": 3671,
+                "name": "Alta Verapaz Department",
+                "state_code": "AV",
+                "cities": [
+                    {
+                        "id": 53437,
+                        "name": "Cahabón",
+                        "latitude": "15.56667000",
+                        "longitude": "-89.81667000"
+                    },
+                    {
+                        "id": 53444,
+                        "name": "Chahal Guatemala",
+                        "latitude": "15.79122000",
+                        "longitude": "-89.60518000"
+                    },
+                    {
+                        "id": 53457,
+                        "name": "Chisec",
+                        "latitude": "15.81667000",
+                        "longitude": "-90.28333000"
+                    },
+                    {
+                        "id": 53462,
+                        "name": "Cobán",
+                        "latitude": "15.47083000",
+                        "longitude": "-90.37083000"
+                    },
+                    {
+                        "id": 53523,
+                        "name": "La Tinta",
+                        "latitude": "15.31667000",
+                        "longitude": "-89.88333000"
+                    },
+                    {
+                        "id": 53524,
+                        "name": "Lanquín",
+                        "latitude": "15.56667000",
+                        "longitude": "-89.96667000"
+                    },
+                    {
+                        "id": 53620,
+                        "name": "Panzós",
+                        "latitude": "15.40000000",
+                        "longitude": "-89.66667000"
+                    },
+                    {
+                        "id": 53671,
+                        "name": "San Cristóbal Verapaz",
+                        "latitude": "15.39632000",
+                        "longitude": "-90.56513000"
+                    },
+                    {
+                        "id": 53693,
+                        "name": "San Juan Chamelco",
+                        "latitude": "15.43333000",
+                        "longitude": "-90.33333000"
+                    },
+                    {
+                        "id": 53725,
+                        "name": "San Pedro Carchá",
+                        "latitude": "15.48333000",
+                        "longitude": "-90.26667000"
+                    },
+                    {
+                        "id": 53758,
+                        "name": "Santa Cruz Verapaz",
+                        "latitude": "15.36667000",
+                        "longitude": "-90.43333000"
+                    },
+                    {
+                        "id": 53777,
+                        "name": "Senahú",
+                        "latitude": "15.40000000",
+                        "longitude": "-89.83333000"
+                    },
+                    {
+                        "id": 53786,
+                        "name": "Tactic",
+                        "latitude": "15.32218000",
+                        "longitude": "-90.35448000"
+                    },
+                    {
+                        "id": 53788,
+                        "name": "Tamahú",
+                        "latitude": "15.30890000",
+                        "longitude": "-90.23599000"
+                    },
+                    {
+                        "id": 53796,
+                        "name": "Tucurú",
+                        "latitude": "15.30000000",
+                        "longitude": "-90.06667000"
+                    }
+                ]
+            },
+            {
+                "id": 3674,
+                "name": "Baja Verapaz Department",
+                "state_code": "BV",
+                "cities": [
+                    {
+                        "id": 53474,
+                        "name": "Cubulco",
+                        "latitude": "15.10452000",
+                        "longitude": "-90.62871000"
+                    },
+                    {
+                        "id": 53482,
+                        "name": "El Chol",
+                        "latitude": "14.96055000",
+                        "longitude": "-90.48799000"
+                    },
+                    {
+                        "id": 53497,
+                        "name": "Granados",
+                        "latitude": "14.91649000",
+                        "longitude": "-90.52292000"
+                    },
+                    {
+                        "id": 53636,
+                        "name": "Purulhá",
+                        "latitude": "15.26667000",
+                        "longitude": "-90.20000000"
+                    },
+                    {
+                        "id": 53640,
+                        "name": "Rabinal",
+                        "latitude": "15.08530000",
+                        "longitude": "-90.49255000"
+                    },
+                    {
+                        "id": 53645,
+                        "name": "Salamá",
+                        "latitude": "15.10278000",
+                        "longitude": "-90.31806000"
+                    },
+                    {
+                        "id": 53680,
+                        "name": "San Jerónimo",
+                        "latitude": "15.06032000",
+                        "longitude": "-90.24050000"
+                    },
+                    {
+                        "id": 53716,
+                        "name": "San Miguel Chicaj",
+                        "latitude": "15.09472000",
+                        "longitude": "-90.39442000"
+                    }
+                ]
+            },
+            {
+                "id": 3675,
+                "name": "Chimaltenango Department",
+                "state_code": "CM",
+                "cities": [
+                    {
+                        "id": 53425,
+                        "name": "Acatenango",
+                        "latitude": "14.55451000",
+                        "longitude": "-90.94368000"
+                    },
+                    {
+                        "id": 53452,
+                        "name": "Chimaltenango",
+                        "latitude": "14.66111000",
+                        "longitude": "-90.81944000"
+                    },
+                    {
+                        "id": 53465,
+                        "name": "Comalapa",
+                        "latitude": "14.74086000",
+                        "longitude": "-90.88761000"
+                    },
+                    {
+                        "id": 53489,
+                        "name": "El Tejar",
+                        "latitude": "14.64683000",
+                        "longitude": "-90.79122000"
+                    },
+                    {
+                        "id": 53621,
+                        "name": "Parramos",
+                        "latitude": "14.60891000",
+                        "longitude": "-90.80303000"
+                    },
+                    {
+                        "id": 53625,
+                        "name": "Patzicía",
+                        "latitude": "14.63194000",
+                        "longitude": "-90.92659000"
+                    },
+                    {
+                        "id": 53627,
+                        "name": "Patzún",
+                        "latitude": "14.68189000",
+                        "longitude": "-91.01397000"
+                    },
+                    {
+                        "id": 53630,
+                        "name": "Pochuta",
+                        "latitude": "14.54450000",
+                        "longitude": "-91.08904000"
+                    },
+                    {
+                        "id": 53650,
+                        "name": "San Andrés Itzapa",
+                        "latitude": "14.62222000",
+                        "longitude": "-90.84314000"
+                    },
+                    {
+                        "id": 53689,
+                        "name": "San José Poaquil",
+                        "latitude": "14.81808000",
+                        "longitude": "-90.91248000"
+                    },
+                    {
+                        "id": 53710,
+                        "name": "San Martín Jilotepeque",
+                        "latitude": "14.78008000",
+                        "longitude": "-90.79259000"
+                    },
+                    {
+                        "id": 53745,
+                        "name": "Santa Apolonia",
+                        "latitude": "14.79049000",
+                        "longitude": "-90.97267000"
+                    },
+                    {
+                        "id": 53754,
+                        "name": "Santa Cruz Balanyá",
+                        "latitude": "14.68522000",
+                        "longitude": "-90.91906000"
+                    },
+                    {
+                        "id": 53790,
+                        "name": "Tecpán Guatemala",
+                        "latitude": "14.76181000",
+                        "longitude": "-90.99247000"
+                    },
+                    {
+                        "id": 53800,
+                        "name": "Yepocapa",
+                        "latitude": "14.50195000",
+                        "longitude": "-90.95396000"
+                    },
+                    {
+                        "id": 53804,
+                        "name": "Zaragoza",
+                        "latitude": "14.64968000",
+                        "longitude": "-90.89034000"
+                    }
+                ]
+            },
+            {
+                "id": 3666,
+                "name": "Chiquimula Department",
+                "state_code": "CQ",
+                "cities": [
+                    {
+                        "id": 53439,
+                        "name": "Camotán",
+                        "latitude": "14.82017000",
+                        "longitude": "-89.37224000"
+                    },
+                    {
+                        "id": 53455,
+                        "name": "Chiquimula",
+                        "latitude": "14.80000000",
+                        "longitude": "-89.54583000"
+                    },
+                    {
+                        "id": 53471,
+                        "name": "Concepción Las Minas",
+                        "latitude": "14.52173000",
+                        "longitude": "-89.45717000"
+                    },
+                    {
+                        "id": 53492,
+                        "name": "Esquipulas",
+                        "latitude": "14.56571000",
+                        "longitude": "-89.35166000"
+                    },
+                    {
+                        "id": 53505,
+                        "name": "Ipala",
+                        "latitude": "14.61667000",
+                        "longitude": "-89.61667000"
+                    },
+                    {
+                        "id": 53514,
+                        "name": "Jocotán",
+                        "latitude": "14.82072000",
+                        "longitude": "-89.38991000"
+                    },
+                    {
+                        "id": 53611,
+                        "name": "Olopa",
+                        "latitude": "14.69229000",
+                        "longitude": "-89.35003000"
+                    },
+                    {
+                        "id": 53639,
+                        "name": "Quezaltepeque",
+                        "latitude": "14.63553000",
+                        "longitude": "-89.44241000"
+                    },
+                    {
+                        "id": 53679,
+                        "name": "San Jacinto",
+                        "latitude": "14.66667000",
+                        "longitude": "-89.50000000"
+                    },
+                    {
+                        "id": 53685,
+                        "name": "San José La Arada",
+                        "latitude": "14.71667000",
+                        "longitude": "-89.58333000"
+                    },
+                    {
+                        "id": 53695,
+                        "name": "San Juan Ermita",
+                        "latitude": "14.76471000",
+                        "longitude": "-89.43014000"
+                    }
+                ]
+            },
+            {
+                "id": 3662,
+                "name": "El Progreso Department",
+                "state_code": "PR",
+                "cities": [
+                    {
+                        "id": 53484,
+                        "name": "El Jícaro",
+                        "latitude": "14.91667000",
+                        "longitude": "-89.90000000"
+                    },
+                    {
+                        "id": 53499,
+                        "name": "Guastatoya",
+                        "latitude": "14.85417000",
+                        "longitude": "-90.06944000"
+                    },
+                    {
+                        "id": 53538,
+                        "name": "Morazán",
+                        "latitude": "14.93278000",
+                        "longitude": "-90.14306000"
+                    },
+                    {
+                        "id": 53648,
+                        "name": "San Agustín Acasaguastlán",
+                        "latitude": "14.95000000",
+                        "longitude": "-89.96667000"
+                    },
+                    {
+                        "id": 53658,
+                        "name": "San Antonio La Paz",
+                        "latitude": "14.75888000",
+                        "longitude": "-90.28485000"
+                    },
+                    {
+                        "id": 53668,
+                        "name": "San Cristóbal Acasaguastlán",
+                        "latitude": "14.91667000",
+                        "longitude": "-89.88333000"
+                    },
+                    {
+                        "id": 53741,
+                        "name": "Sanarate",
+                        "latitude": "14.78828000",
+                        "longitude": "-90.19876000"
+                    },
+                    {
+                        "id": 53742,
+                        "name": "Sansare",
+                        "latitude": "14.74572000",
+                        "longitude": "-90.11615000"
+                    }
+                ]
+            },
+            {
+                "id": 3677,
+                "name": "Escuintla Department",
+                "state_code": "ES",
+                "cities": [
+                    {
+                        "id": 53491,
+                        "name": "Escuintla",
+                        "latitude": "14.30500000",
+                        "longitude": "-90.78500000"
+                    },
+                    {
+                        "id": 53498,
+                        "name": "Guanagazapa",
+                        "latitude": "14.22528000",
+                        "longitude": "-90.64333000"
+                    },
+                    {
+                        "id": 53508,
+                        "name": "Iztapa",
+                        "latitude": "13.93333000",
+                        "longitude": "-90.70750000"
+                    },
+                    {
+                        "id": 53517,
+                        "name": "La Democracia",
+                        "latitude": "14.23083000",
+                        "longitude": "-90.94722000"
+                    },
+                    {
+                        "id": 53519,
+                        "name": "La Gomera",
+                        "latitude": "14.08213000",
+                        "longitude": "-91.05383000"
+                    },
+                    {
+                        "id": 53530,
+                        "name": "Masagua",
+                        "latitude": "14.20306000",
+                        "longitude": "-90.84806000"
+                    },
+                    {
+                        "id": 53605,
+                        "name": "Nueva Concepción",
+                        "latitude": "14.20000000",
+                        "longitude": "-91.30000000"
+                    },
+                    {
+                        "id": 53618,
+                        "name": "Palín",
+                        "latitude": "14.40358000",
+                        "longitude": "-90.69659000"
+                    },
+                    {
+                        "id": 53635,
+                        "name": "Puerto San José",
+                        "latitude": "13.92740000",
+                        "longitude": "-90.82166000"
+                    },
+                    {
+                        "id": 53740,
+                        "name": "San Vicente Pacaya",
+                        "latitude": "14.41466000",
+                        "longitude": "-90.63613000"
+                    },
+                    {
+                        "id": 53762,
+                        "name": "Santa Lucía Cotzumalguapa",
+                        "latitude": "14.33505000",
+                        "longitude": "-91.02339000"
+                    },
+                    {
+                        "id": 53781,
+                        "name": "Siquinalá",
+                        "latitude": "14.30611000",
+                        "longitude": "-90.96500000"
+                    },
+                    {
+                        "id": 53793,
+                        "name": "Tiquisate",
+                        "latitude": "14.28356000",
+                        "longitude": "-91.36063000"
+                    }
+                ]
+            },
+            {
+                "id": 3672,
+                "name": "Guatemala Department",
+                "state_code": "GU",
+                "cities": [
+                    {
+                        "id": 53430,
+                        "name": "Amatitlán",
+                        "latitude": "14.47740000",
+                        "longitude": "-90.63489000"
+                    },
+                    {
+                        "id": 53453,
+                        "name": "Chinautla",
+                        "latitude": "14.70289000",
+                        "longitude": "-90.49983000"
+                    },
+                    {
+                        "id": 53458,
+                        "name": "Chuarrancho",
+                        "latitude": "14.81794000",
+                        "longitude": "-90.51568000"
+                    },
+                    {
+                        "id": 53496,
+                        "name": "Fraijanes",
+                        "latitude": "14.46528000",
+                        "longitude": "-90.44083000"
+                    },
+                    {
+                        "id": 53500,
+                        "name": "Guatemala City",
+                        "latitude": "14.64072000",
+                        "longitude": "-90.51327000"
+                    },
+                    {
+                        "id": 53534,
+                        "name": "Mixco",
+                        "latitude": "14.63077000",
+                        "longitude": "-90.60711000"
+                    },
+                    {
+                        "id": 53616,
+                        "name": "Palencia",
+                        "latitude": "14.66715000",
+                        "longitude": "-90.35721000"
+                    },
+                    {
+                        "id": 53628,
+                        "name": "Petapa",
+                        "latitude": "14.50189000",
+                        "longitude": "-90.56196000"
+                    },
+                    {
+                        "id": 53690,
+                        "name": "San José del Golfo",
+                        "latitude": "14.76414000",
+                        "longitude": "-90.37228000"
+                    },
+                    {
+                        "id": 53688,
+                        "name": "San José Pinula",
+                        "latitude": "14.54600000",
+                        "longitude": "-90.41288000"
+                    },
+                    {
+                        "id": 53698,
+                        "name": "San Juan Sacatepéquez",
+                        "latitude": "14.71889000",
+                        "longitude": "-90.64417000"
+                    },
+                    {
+                        "id": 53724,
+                        "name": "San Pedro Ayampuc",
+                        "latitude": "14.77943000",
+                        "longitude": "-90.45318000"
+                    },
+                    {
+                        "id": 53730,
+                        "name": "San Pedro Sacatepéquez",
+                        "latitude": "14.68612000",
+                        "longitude": "-90.64253000"
+                    },
+                    {
+                        "id": 53736,
+                        "name": "San Raimundo",
+                        "latitude": "14.76462000",
+                        "longitude": "-90.59493000"
+                    },
+                    {
+                        "id": 53752,
+                        "name": "Santa Catarina Pinula",
+                        "latitude": "14.57047000",
+                        "longitude": "-90.49925000"
+                    },
+                    {
+                        "id": 53798,
+                        "name": "Villa Canales",
+                        "latitude": "14.48285000",
+                        "longitude": "-90.53425000"
+                    },
+                    {
+                        "id": 53799,
+                        "name": "Villa Nueva",
+                        "latitude": "14.52512000",
+                        "longitude": "-90.58544000"
+                    }
+                ]
+            },
+            {
+                "id": 3670,
+                "name": "Huehuetenango Department",
+                "state_code": "HU",
+                "cities": [
+                    {
+                        "id": 53427,
+                        "name": "Aguacatán",
+                        "latitude": "15.34222000",
+                        "longitude": "-91.31141000"
+                    },
+                    {
+                        "id": 53435,
+                        "name": "Barillas",
+                        "latitude": "15.80361000",
+                        "longitude": "-91.31583000"
+                    },
+                    {
+                        "id": 53447,
+                        "name": "Chiantla",
+                        "latitude": "15.35484000",
+                        "longitude": "-91.45807000"
+                    },
+                    {
+                        "id": 53464,
+                        "name": "Colotenango",
+                        "latitude": "15.40602000",
+                        "longitude": "-91.71267000"
+                    },
+                    {
+                        "id": 53470,
+                        "name": "Concepción Huista",
+                        "latitude": "15.62378000",
+                        "longitude": "-91.66521000"
+                    },
+                    {
+                        "id": 53476,
+                        "name": "Cuilco",
+                        "latitude": "15.40719000",
+                        "longitude": "-91.94667000"
+                    },
+                    {
+                        "id": 53503,
+                        "name": "Huehuetenango",
+                        "latitude": "15.31918000",
+                        "longitude": "-91.47241000"
+                    },
+                    {
+                        "id": 53507,
+                        "name": "Ixtahuacán",
+                        "latitude": "15.41688000",
+                        "longitude": "-91.76927000"
+                    },
+                    {
+                        "id": 53509,
+                        "name": "Jacaltenango",
+                        "latitude": "15.66662000",
+                        "longitude": "-91.71177000"
+                    },
+                    {
+                        "id": 53521,
+                        "name": "La Libertad",
+                        "latitude": "15.51421000",
+                        "longitude": "-91.86944000"
+                    },
+                    {
+                        "id": 53528,
+                        "name": "Malacatancito",
+                        "latitude": "15.24457000",
+                        "longitude": "-91.49901000"
+                    },
+                    {
+                        "id": 53604,
+                        "name": "Nentón",
+                        "latitude": "15.80070000",
+                        "longitude": "-91.75464000"
+                    },
+                    {
+                        "id": 53656,
+                        "name": "San Antonio Huista",
+                        "latitude": "15.65010000",
+                        "longitude": "-91.77163000"
+                    },
+                    {
+                        "id": 53678,
+                        "name": "San Gaspar Ixchil",
+                        "latitude": "15.38796000",
+                        "longitude": "-91.72564000"
+                    },
+                    {
+                        "id": 53691,
+                        "name": "San Juan Atitán",
+                        "latitude": "15.42886000",
+                        "longitude": "-91.62398000"
+                    },
+                    {
+                        "id": 53696,
+                        "name": "San Juan Ixcoy",
+                        "latitude": "15.60022000",
+                        "longitude": "-91.44639000"
+                    },
+                    {
+                        "id": 53714,
+                        "name": "San Mateo Ixtatán",
+                        "latitude": "15.83194000",
+                        "longitude": "-91.47806000"
+                    },
+                    {
+                        "id": 53715,
+                        "name": "San Miguel Acatán",
+                        "latitude": "15.70401000",
+                        "longitude": "-91.59771000"
+                    },
+                    {
+                        "id": 53727,
+                        "name": "San Pedro Necta",
+                        "latitude": "15.49142000",
+                        "longitude": "-91.76551000"
+                    },
+                    {
+                        "id": 53732,
+                        "name": "San Rafael La Independencia",
+                        "latitude": "15.70150000",
+                        "longitude": "-91.53553000"
+                    },
+                    {
+                        "id": 53734,
+                        "name": "San Rafael Petzal",
+                        "latitude": "15.40487000",
+                        "longitude": "-91.66451000"
+                    },
+                    {
+                        "id": 53738,
+                        "name": "San Sebastián Coatán",
+                        "latitude": "15.73584000",
+                        "longitude": "-91.56285000"
+                    },
+                    {
+                        "id": 53739,
+                        "name": "San Sebastián Huehuetenango",
+                        "latitude": "15.38768000",
+                        "longitude": "-91.61530000"
+                    },
+                    {
+                        "id": 53744,
+                        "name": "Santa Ana Huista",
+                        "latitude": "15.68085000",
+                        "longitude": "-91.82005000"
+                    },
+                    {
+                        "id": 53747,
+                        "name": "Santa Bárbara",
+                        "latitude": "15.31617000",
+                        "longitude": "-91.63279000"
+                    },
+                    {
+                        "id": 53760,
+                        "name": "Santa Eulalia",
+                        "latitude": "15.73060000",
+                        "longitude": "-91.45846000"
+                    },
+                    {
+                        "id": 53771,
+                        "name": "Santiago Chimaltenango",
+                        "latitude": "15.47658000",
+                        "longitude": "-91.69656000"
+                    },
+                    {
+                        "id": 53783,
+                        "name": "Soloma",
+                        "latitude": "15.65841000",
+                        "longitude": "-91.42994000"
+                    },
+                    {
+                        "id": 53791,
+                        "name": "Tectitán",
+                        "latitude": "15.30630000",
+                        "longitude": "-92.06051000"
+                    },
+                    {
+                        "id": 53794,
+                        "name": "Todos Santos Cuchumatán",
+                        "latitude": "15.50846000",
+                        "longitude": "-91.60382000"
+                    }
+                ]
+            },
+            {
+                "id": 3659,
+                "name": "Izabal Department",
+                "state_code": "IZ",
+                "cities": [
+                    {
+                        "id": 53483,
+                        "name": "El Estor",
+                        "latitude": "15.53333000",
+                        "longitude": "-89.35000000"
+                    },
+                    {
+                        "id": 53526,
+                        "name": "Lívingston",
+                        "latitude": "15.82826000",
+                        "longitude": "-88.75039000"
+                    },
+                    {
+                        "id": 53525,
+                        "name": "Los Amates",
+                        "latitude": "15.25645000",
+                        "longitude": "-89.09723000"
+                    },
+                    {
+                        "id": 53537,
+                        "name": "Morales",
+                        "latitude": "15.48333000",
+                        "longitude": "-88.81667000"
+                    },
+                    {
+                        "id": 53571,
+                        "name": "Municipio de Morales",
+                        "latitude": "15.44494000",
+                        "longitude": "-88.76646000"
+                    },
+                    {
+                        "id": 53577,
+                        "name": "Municipio de Puerto Barrios",
+                        "latitude": "15.71754000",
+                        "longitude": "-88.58517000"
+                    },
+                    {
+                        "id": 53634,
+                        "name": "Puerto Barrios",
+                        "latitude": "15.72778000",
+                        "longitude": "-88.59444000"
+                    }
+                ]
+            },
+            {
+                "id": 3658,
+                "name": "Jalapa Department",
+                "state_code": "JA",
+                "cities": [
+                    {
+                        "id": 53510,
+                        "name": "Jalapa",
+                        "latitude": "14.63472000",
+                        "longitude": "-89.98889000"
+                    },
+                    {
+                        "id": 53531,
+                        "name": "Mataquescuintla",
+                        "latitude": "14.52917000",
+                        "longitude": "-90.18417000"
+                    },
+                    {
+                        "id": 53536,
+                        "name": "Monjas",
+                        "latitude": "14.50000000",
+                        "longitude": "-89.86667000"
+                    },
+                    {
+                        "id": 53564,
+                        "name": "Municipio de Jalapa",
+                        "latitude": "14.63275000",
+                        "longitude": "-90.03301000"
+                    },
+                    {
+                        "id": 53569,
+                        "name": "Municipio de Mataquescuintla",
+                        "latitude": "14.54777000",
+                        "longitude": "-90.20008000"
+                    },
+                    {
+                        "id": 53706,
+                        "name": "San Luis Jilotepeque",
+                        "latitude": "14.65000000",
+                        "longitude": "-89.73333000"
+                    },
+                    {
+                        "id": 53707,
+                        "name": "San Manuel Chaparrón",
+                        "latitude": "14.51667000",
+                        "longitude": "-89.76667000"
+                    },
+                    {
+                        "id": 53728,
+                        "name": "San Pedro Pinula",
+                        "latitude": "14.66667000",
+                        "longitude": "-89.85000000"
+                    }
+                ]
+            },
+            {
+                "id": 3673,
+                "name": "Jutiapa Department",
+                "state_code": "JU",
+                "cities": [
+                    {
+                        "id": 53426,
+                        "name": "Agua Blanca",
+                        "latitude": "14.50000000",
+                        "longitude": "-89.65000000"
+                    },
+                    {
+                        "id": 53432,
+                        "name": "Asunción Mita",
+                        "latitude": "14.33083000",
+                        "longitude": "-89.71083000"
+                    },
+                    {
+                        "id": 53433,
+                        "name": "Atescatempa",
+                        "latitude": "14.17444000",
+                        "longitude": "-89.74250000"
+                    },
+                    {
+                        "id": 53466,
+                        "name": "Comapa",
+                        "latitude": "14.11667000",
+                        "longitude": "-89.91667000"
+                    },
+                    {
+                        "id": 53473,
+                        "name": "Conguaco",
+                        "latitude": "14.04417000",
+                        "longitude": "-90.03111000"
+                    },
+                    {
+                        "id": 53480,
+                        "name": "El Adelanto",
+                        "latitude": "14.16667000",
+                        "longitude": "-89.83333000"
+                    },
+                    {
+                        "id": 53486,
+                        "name": "El Progreso",
+                        "latitude": "14.35000000",
+                        "longitude": "-89.85000000"
+                    },
+                    {
+                        "id": 53511,
+                        "name": "Jalpatagua",
+                        "latitude": "14.14167000",
+                        "longitude": "-90.00861000"
+                    },
+                    {
+                        "id": 53512,
+                        "name": "Jerez",
+                        "latitude": "14.10000000",
+                        "longitude": "-89.75000000"
+                    },
+                    {
+                        "id": 53516,
+                        "name": "Jutiapa",
+                        "latitude": "14.29167000",
+                        "longitude": "-89.89583000"
+                    },
+                    {
+                        "id": 53539,
+                        "name": "Moyuta",
+                        "latitude": "14.03861000",
+                        "longitude": "-90.08083000"
+                    },
+                    {
+                        "id": 53543,
+                        "name": "Municipio de Asunción Mita",
+                        "latitude": "14.30330000",
+                        "longitude": "-89.67623000"
+                    },
+                    {
+                        "id": 53622,
+                        "name": "Pasaco",
+                        "latitude": "13.97722000",
+                        "longitude": "-90.20639000"
+                    },
+                    {
+                        "id": 53637,
+                        "name": "Quesada",
+                        "latitude": "14.27028000",
+                        "longitude": "-90.04028000"
+                    },
+                    {
+                        "id": 53682,
+                        "name": "San José Acatempa",
+                        "latitude": "14.26528000",
+                        "longitude": "-90.12694000"
+                    },
+                    {
+                        "id": 53750,
+                        "name": "Santa Catarina Mita",
+                        "latitude": "14.45000000",
+                        "longitude": "-89.75000000"
+                    },
+                    {
+                        "id": 53801,
+                        "name": "Yupiltepeque",
+                        "latitude": "14.20000000",
+                        "longitude": "-89.78333000"
+                    },
+                    {
+                        "id": 53803,
+                        "name": "Zapotitlán",
+                        "latitude": "14.13333000",
+                        "longitude": "-89.83333000"
+                    }
+                ]
+            },
+            {
+                "id": 3669,
+                "name": "Petén Department",
+                "state_code": "PE",
+                "cities": [
+                    {
+                        "id": 53479,
+                        "name": "Dolores",
+                        "latitude": "16.51178000",
+                        "longitude": "-89.41704000"
+                    },
+                    {
+                        "id": 53494,
+                        "name": "Flores",
+                        "latitude": "16.92258000",
+                        "longitude": "-89.89941000"
+                    },
+                    {
+                        "id": 53520,
+                        "name": "La Libertad",
+                        "latitude": "16.78850000",
+                        "longitude": "-90.11698000"
+                    },
+                    {
+                        "id": 53533,
+                        "name": "Melchor de Mencos",
+                        "latitude": "17.06606000",
+                        "longitude": "-89.15229000"
+                    },
+                    {
+                        "id": 53560,
+                        "name": "Municipio de Flores",
+                        "latitude": "16.92381000",
+                        "longitude": "-89.89709000"
+                    },
+                    {
+                        "id": 53576,
+                        "name": "Municipio de Poptún",
+                        "latitude": "16.35687000",
+                        "longitude": "-89.58912000"
+                    },
+                    {
+                        "id": 53578,
+                        "name": "Municipio de San Andrés",
+                        "latitude": "17.49541000",
+                        "longitude": "-90.39883000"
+                    },
+                    {
+                        "id": 53582,
+                        "name": "Municipio de San Benito",
+                        "latitude": "16.91289000",
+                        "longitude": "-89.90979000"
+                    },
+                    {
+                        "id": 53584,
+                        "name": "Municipio de San Francisco",
+                        "latitude": "16.72425000",
+                        "longitude": "-89.90877000"
+                    },
+                    {
+                        "id": 53589,
+                        "name": "Municipio de Santa Ana",
+                        "latitude": "16.77305000",
+                        "longitude": "-89.66878000"
+                    },
+                    {
+                        "id": 53596,
+                        "name": "Municipio de Sayaxché",
+                        "latitude": "16.33160000",
+                        "longitude": "-90.16339000"
+                    },
+                    {
+                        "id": 53631,
+                        "name": "Poptún",
+                        "latitude": "16.33111000",
+                        "longitude": "-89.41694000"
+                    },
+                    {
+                        "id": 53649,
+                        "name": "San Andrés",
+                        "latitude": "16.96667000",
+                        "longitude": "-89.91667000"
+                    },
+                    {
+                        "id": 53665,
+                        "name": "San Benito",
+                        "latitude": "16.91675000",
+                        "longitude": "-89.91898000"
+                    },
+                    {
+                        "id": 53673,
+                        "name": "San Francisco",
+                        "latitude": "16.80000000",
+                        "longitude": "-89.93333000"
+                    },
+                    {
+                        "id": 53681,
+                        "name": "San José",
+                        "latitude": "16.98333000",
+                        "longitude": "-89.90000000"
+                    },
+                    {
+                        "id": 53704,
+                        "name": "San Luis",
+                        "latitude": "16.19889000",
+                        "longitude": "-89.44028000"
+                    },
+                    {
+                        "id": 53743,
+                        "name": "Santa Ana",
+                        "latitude": "16.80000000",
+                        "longitude": "-89.83333000"
+                    },
+                    {
+                        "id": 53776,
+                        "name": "Sayaxché",
+                        "latitude": "16.52446000",
+                        "longitude": "-90.18801000"
+                    }
+                ]
+            },
+            {
+                "id": 3668,
+                "name": "Quetzaltenango Department",
+                "state_code": "QZ",
+                "cities": [
+                    {
+                        "id": 53428,
+                        "name": "Almolonga",
+                        "latitude": "14.81591000",
+                        "longitude": "-91.49464000"
+                    },
+                    {
+                        "id": 53436,
+                        "name": "Cabricán",
+                        "latitude": "15.07485000",
+                        "longitude": "-91.64800000"
+                    },
+                    {
+                        "id": 53438,
+                        "name": "Cajolá",
+                        "latitude": "14.92205000",
+                        "longitude": "-91.61478000"
+                    },
+                    {
+                        "id": 53441,
+                        "name": "Cantel",
+                        "latitude": "14.81154000",
+                        "longitude": "-91.45536000"
+                    },
+                    {
+                        "id": 53461,
+                        "name": "Coatepeque",
+                        "latitude": "14.70413000",
+                        "longitude": "-91.86426000"
+                    },
+                    {
+                        "id": 53463,
+                        "name": "Colomba",
+                        "latitude": "14.70730000",
+                        "longitude": "-91.73167000"
+                    },
+                    {
+                        "id": 53469,
+                        "name": "Concepción Chiquirichapa",
+                        "latitude": "14.85510000",
+                        "longitude": "-91.62360000"
+                    },
+                    {
+                        "id": 53485,
+                        "name": "El Palmar",
+                        "latitude": "14.65083000",
+                        "longitude": "-91.57800000"
+                    },
+                    {
+                        "id": 53495,
+                        "name": "Flores Costa Cuca",
+                        "latitude": "14.63238000",
+                        "longitude": "-91.86341000"
+                    },
+                    {
+                        "id": 53502,
+                        "name": "Génova",
+                        "latitude": "14.61667000",
+                        "longitude": "-91.83333000"
+                    },
+                    {
+                        "id": 53504,
+                        "name": "Huitán",
+                        "latitude": "15.04920000",
+                        "longitude": "-91.63944000"
+                    },
+                    {
+                        "id": 53518,
+                        "name": "La Esperanza",
+                        "latitude": "14.87169000",
+                        "longitude": "-91.56140000"
+                    },
+                    {
+                        "id": 53540,
+                        "name": "Municipio de Almolonga",
+                        "latitude": "14.81118000",
+                        "longitude": "-91.48354000"
+                    },
+                    {
+                        "id": 53544,
+                        "name": "Municipio de Cabricán",
+                        "latitude": "15.10305000",
+                        "longitude": "-91.64918000"
+                    },
+                    {
+                        "id": 53546,
+                        "name": "Municipio de Cantel",
+                        "latitude": "14.81659000",
+                        "longitude": "-91.43781000"
+                    },
+                    {
+                        "id": 53555,
+                        "name": "Municipio de Coatepeque",
+                        "latitude": "14.64309000",
+                        "longitude": "-91.97926000"
+                    },
+                    {
+                        "id": 53556,
+                        "name": "Municipio de Colomba",
+                        "latitude": "14.71002000",
+                        "longitude": "-91.74691000"
+                    },
+                    {
+                        "id": 53557,
+                        "name": "Municipio de Concepción Chiquirichapa",
+                        "latitude": "14.84624000",
+                        "longitude": "-91.61854000"
+                    },
+                    {
+                        "id": 53561,
+                        "name": "Municipio de Flores Costa Cuca",
+                        "latitude": "14.63238000",
+                        "longitude": "-91.86341000"
+                    },
+                    {
+                        "id": 53586,
+                        "name": "Municipio de San Juan Ostuncalco",
+                        "latitude": "14.87477000",
+                        "longitude": "-91.68842000"
+                    },
+                    {
+                        "id": 53610,
+                        "name": "Olintepeque",
+                        "latitude": "14.88605000",
+                        "longitude": "-91.51472000"
+                    },
+                    {
+                        "id": 53613,
+                        "name": "Ostuncalco",
+                        "latitude": "14.86899000",
+                        "longitude": "-91.62137000"
+                    },
+                    {
+                        "id": 53617,
+                        "name": "Palestina de los Altos",
+                        "latitude": "14.93338000",
+                        "longitude": "-91.69403000"
+                    },
+                    {
+                        "id": 53638,
+                        "name": "Quetzaltenango",
+                        "latitude": "14.83472000",
+                        "longitude": "-91.51806000"
+                    },
+                    {
+                        "id": 53646,
+                        "name": "Salcajá",
+                        "latitude": "14.87964000",
+                        "longitude": "-91.45699000"
+                    },
+                    {
+                        "id": 53647,
+                        "name": "Samayac",
+                        "latitude": "14.58084000",
+                        "longitude": "-91.46135000"
+                    },
+                    {
+                        "id": 53667,
+                        "name": "San Carlos Sija",
+                        "latitude": "14.98436000",
+                        "longitude": "-91.54912000"
+                    },
+                    {
+                        "id": 53676,
+                        "name": "San Francisco la Unión",
+                        "latitude": "14.92350000",
+                        "longitude": "-91.54157000"
+                    },
+                    {
+                        "id": 53711,
+                        "name": "San Martín Sacatepéquez",
+                        "latitude": "14.82443000",
+                        "longitude": "-91.64192000"
+                    },
+                    {
+                        "id": 53713,
+                        "name": "San Mateo",
+                        "latitude": "14.85800000",
+                        "longitude": "-91.59004000"
+                    },
+                    {
+                        "id": 53720,
+                        "name": "San Miguel Sigüilá",
+                        "latitude": "14.89547000",
+                        "longitude": "-91.61457000"
+                    },
+                    {
+                        "id": 53778,
+                        "name": "Sibilia",
+                        "latitude": "14.99391000",
+                        "longitude": "-91.62371000"
+                    },
+                    {
+                        "id": 53805,
+                        "name": "Zunil",
+                        "latitude": "14.78463000",
+                        "longitude": "-91.48345000"
+                    }
+                ]
+            },
+            {
+                "id": 3657,
+                "name": "Quiché Department",
+                "state_code": "QC",
+                "cities": [
+                    {
+                        "id": 53440,
+                        "name": "Canillá",
+                        "latitude": "15.16549000",
+                        "longitude": "-90.85256000"
+                    },
+                    {
+                        "id": 53445,
+                        "name": "Chajul",
+                        "latitude": "15.48523000",
+                        "longitude": "-91.03520000"
+                    },
+                    {
+                        "id": 53449,
+                        "name": "Chicamán",
+                        "latitude": "15.34786000",
+                        "longitude": "-90.79968000"
+                    },
+                    {
+                        "id": 53451,
+                        "name": "Chiché",
+                        "latitude": "15.00885000",
+                        "longitude": "-91.06379000"
+                    },
+                    {
+                        "id": 53450,
+                        "name": "Chichicastenango",
+                        "latitude": "14.94333000",
+                        "longitude": "-91.11116000"
+                    },
+                    {
+                        "id": 53454,
+                        "name": "Chinique",
+                        "latitude": "15.04147000",
+                        "longitude": "-91.02594000"
+                    },
+                    {
+                        "id": 53477,
+                        "name": "Cunén",
+                        "latitude": "15.33626000",
+                        "longitude": "-91.02776000"
+                    },
+                    {
+                        "id": 53515,
+                        "name": "Joyabaj",
+                        "latitude": "14.99311000",
+                        "longitude": "-90.80161000"
+                    },
+                    {
+                        "id": 53545,
+                        "name": "Municipio de Canillá",
+                        "latitude": "15.19546000",
+                        "longitude": "-90.85970000"
+                    },
+                    {
+                        "id": 53548,
+                        "name": "Municipio de Chajul",
+                        "latitude": "15.48710000",
+                        "longitude": "-91.03786000"
+                    },
+                    {
+                        "id": 53549,
+                        "name": "Municipio de Chicaman",
+                        "latitude": "15.34833000",
+                        "longitude": "-90.79944000"
+                    },
+                    {
+                        "id": 53551,
+                        "name": "Municipio de Chiché",
+                        "latitude": "15.01196000",
+                        "longitude": "-91.03836000"
+                    },
+                    {
+                        "id": 53550,
+                        "name": "Municipio de Chichicastenango",
+                        "latitude": "14.89203000",
+                        "longitude": "-91.08808000"
+                    },
+                    {
+                        "id": 53552,
+                        "name": "Municipio de Chinique",
+                        "latitude": "15.06947000",
+                        "longitude": "-91.01803000"
+                    },
+                    {
+                        "id": 53559,
+                        "name": "Municipio de Cunén",
+                        "latitude": "15.36312000",
+                        "longitude": "-91.01889000"
+                    },
+                    {
+                        "id": 53563,
+                        "name": "Municipio de Ixcan",
+                        "latitude": "15.98333000",
+                        "longitude": "-90.76667000"
+                    },
+                    {
+                        "id": 53566,
+                        "name": "Municipio de Joyabaj",
+                        "latitude": "14.98073000",
+                        "longitude": "-90.82079000"
+                    },
+                    {
+                        "id": 53573,
+                        "name": "Municipio de Pachalum",
+                        "latitude": "14.91798000",
+                        "longitude": "-90.65443000"
+                    },
+                    {
+                        "id": 53575,
+                        "name": "Municipio de Patzité",
+                        "latitude": "14.97097000",
+                        "longitude": "-91.19722000"
+                    },
+                    {
+                        "id": 53579,
+                        "name": "Municipio de San Andrés Sajcabajá",
+                        "latitude": "15.22527000",
+                        "longitude": "-90.93018000"
+                    },
+                    {
+                        "id": 53580,
+                        "name": "Municipio de San Antonio Ilotenango",
+                        "latitude": "15.04898000",
+                        "longitude": "-91.20872000"
+                    },
+                    {
+                        "id": 53585,
+                        "name": "Municipio de San Juan Cotzal",
+                        "latitude": "15.42699000",
+                        "longitude": "-91.02097000"
+                    },
+                    {
+                        "id": 53588,
+                        "name": "Municipio de San Pedro Jocopilas",
+                        "latitude": "15.15472000",
+                        "longitude": "-91.15610000"
+                    },
+                    {
+                        "id": 53600,
+                        "name": "Municipio de Uspantán",
+                        "latitude": "15.44393000",
+                        "longitude": "-90.84398000"
+                    },
+                    {
+                        "id": 53601,
+                        "name": "Municipio de Zacualpa",
+                        "latitude": "15.09239000",
+                        "longitude": "-90.88514000"
+                    },
+                    {
+                        "id": 53603,
+                        "name": "Nebaj",
+                        "latitude": "15.40614000",
+                        "longitude": "-91.14682000"
+                    },
+                    {
+                        "id": 53614,
+                        "name": "Pachalum",
+                        "latitude": "14.92472000",
+                        "longitude": "-90.66278000"
+                    },
+                    {
+                        "id": 53626,
+                        "name": "Patzité",
+                        "latitude": "14.96426000",
+                        "longitude": "-91.20788000"
+                    },
+                    {
+                        "id": 53629,
+                        "name": "Playa Grande",
+                        "latitude": "15.93333000",
+                        "longitude": "-90.73333000"
+                    },
+                    {
+                        "id": 53644,
+                        "name": "Sacapulas",
+                        "latitude": "15.28801000",
+                        "longitude": "-91.08914000"
+                    },
+                    {
+                        "id": 53651,
+                        "name": "San Andrés Sajcabajá",
+                        "latitude": "15.17603000",
+                        "longitude": "-90.94220000"
+                    },
+                    {
+                        "id": 53657,
+                        "name": "San Antonio Ilotenango",
+                        "latitude": "15.05472000",
+                        "longitude": "-91.22986000"
+                    },
+                    {
+                        "id": 53663,
+                        "name": "San Bartolomé Jocotenango",
+                        "latitude": "15.19153000",
+                        "longitude": "-91.07806000"
+                    },
+                    {
+                        "id": 53694,
+                        "name": "San Juan Cotzal",
+                        "latitude": "15.43368000",
+                        "longitude": "-91.03481000"
+                    },
+                    {
+                        "id": 53705,
+                        "name": "San Luis Ixcán",
+                        "latitude": "15.78722000",
+                        "longitude": "-91.09500000"
+                    },
+                    {
+                        "id": 53731,
+                        "name": "San Pédro Jocopilas",
+                        "latitude": "15.09525000",
+                        "longitude": "-91.15135000"
+                    },
+                    {
+                        "id": 53759,
+                        "name": "Santa Cruz del Quiché",
+                        "latitude": "15.03085000",
+                        "longitude": "-91.14871000"
+                    },
+                    {
+                        "id": 53797,
+                        "name": "Uspantán",
+                        "latitude": "15.34672000",
+                        "longitude": "-90.87050000"
+                    },
+                    {
+                        "id": 53802,
+                        "name": "Zacualpa",
+                        "latitude": "15.02681000",
+                        "longitude": "-90.87815000"
+                    }
+                ]
+            },
+            {
+                "id": 3664,
+                "name": "Retalhuleu Department",
+                "state_code": "RE",
+                "cities": [
+                    {
+                        "id": 53446,
+                        "name": "Champerico",
+                        "latitude": "14.29337000",
+                        "longitude": "-91.91214000"
+                    },
+                    {
+                        "id": 53481,
+                        "name": "El Asintal",
+                        "latitude": "14.59626000",
+                        "longitude": "-91.72744000"
+                    },
+                    {
+                        "id": 53583,
+                        "name": "Municipio de San Felipe",
+                        "latitude": "14.63009000",
+                        "longitude": "-91.60261000"
+                    },
+                    {
+                        "id": 53608,
+                        "name": "Nuevo San Carlos",
+                        "latitude": "14.59300000",
+                        "longitude": "-91.69390000"
+                    },
+                    {
+                        "id": 53641,
+                        "name": "Retalhuleu",
+                        "latitude": "14.53611000",
+                        "longitude": "-91.67778000"
+                    },
+                    {
+                        "id": 53653,
+                        "name": "San Andrés Villa Seca",
+                        "latitude": "14.57801000",
+                        "longitude": "-91.58539000"
+                    },
+                    {
+                        "id": 53672,
+                        "name": "San Felipe",
+                        "latitude": "14.62304000",
+                        "longitude": "-91.59500000"
+                    },
+                    {
+                        "id": 53712,
+                        "name": "San Martín Zapotitlán",
+                        "latitude": "14.60794000",
+                        "longitude": "-91.60613000"
+                    },
+                    {
+                        "id": 53737,
+                        "name": "San Sebastián",
+                        "latitude": "14.56177000",
+                        "longitude": "-91.64865000"
+                    },
+                    {
+                        "id": 53756,
+                        "name": "Santa Cruz Muluá",
+                        "latitude": "14.58153000",
+                        "longitude": "-91.62441000"
+                    }
+                ]
+            },
+            {
+                "id": 3676,
+                "name": "Sacatepéquez Department",
+                "state_code": "SA",
+                "cities": [
+                    {
+                        "id": 53429,
+                        "name": "Alotenango",
+                        "latitude": "14.48028000",
+                        "longitude": "-90.80750000"
+                    },
+                    {
+                        "id": 53431,
+                        "name": "Antigua Guatemala",
+                        "latitude": "14.56111000",
+                        "longitude": "-90.73444000"
+                    },
+                    {
+                        "id": 53460,
+                        "name": "Ciudad Vieja",
+                        "latitude": "14.52396000",
+                        "longitude": "-90.76308000"
+                    },
+                    {
+                        "id": 53513,
+                        "name": "Jocotenango",
+                        "latitude": "14.57814000",
+                        "longitude": "-90.73804000"
+                    },
+                    {
+                        "id": 53527,
+                        "name": "Magdalena Milpas Altas",
+                        "latitude": "14.54801000",
+                        "longitude": "-90.67477000"
+                    },
+                    {
+                        "id": 53541,
+                        "name": "Municipio de Alotenango",
+                        "latitude": "14.46485000",
+                        "longitude": "-90.82773000"
+                    },
+                    {
+                        "id": 53542,
+                        "name": "Municipio de Antigua Guatemala",
+                        "latitude": "14.54313000",
+                        "longitude": "-90.72683000"
+                    },
+                    {
+                        "id": 53554,
+                        "name": "Municipio de Ciudad Vieja",
+                        "latitude": "14.50800000",
+                        "longitude": "-90.77028000"
+                    },
+                    {
+                        "id": 53565,
+                        "name": "Municipio de Jocotenango",
+                        "latitude": "14.58658000",
+                        "longitude": "-90.73579000"
+                    },
+                    {
+                        "id": 53567,
+                        "name": "Municipio de Magdalena Milpas Altas",
+                        "latitude": "14.54206000",
+                        "longitude": "-90.67553000"
+                    },
+                    {
+                        "id": 53593,
+                        "name": "Municipio de Santa Lucía Milpas Altas",
+                        "latitude": "14.56753000",
+                        "longitude": "-90.67551000"
+                    },
+                    {
+                        "id": 53595,
+                        "name": "Municipio de Santa María de Jesús",
+                        "latitude": "14.47849000",
+                        "longitude": "-90.69989000"
+                    },
+                    {
+                        "id": 53623,
+                        "name": "Pastores",
+                        "latitude": "14.59433000",
+                        "longitude": "-90.75473000"
+                    },
+                    {
+                        "id": 53655,
+                        "name": "San Antonio Aguas Calientes",
+                        "latitude": "14.54676000",
+                        "longitude": "-90.78054000"
+                    },
+                    {
+                        "id": 53664,
+                        "name": "San Bartolomé Milpas Altas",
+                        "latitude": "14.60690000",
+                        "longitude": "-90.67807000"
+                    },
+                    {
+                        "id": 53702,
+                        "name": "San Lucas Sacatepéquez",
+                        "latitude": "14.61075000",
+                        "longitude": "-90.65681000"
+                    },
+                    {
+                        "id": 53717,
+                        "name": "San Miguel Dueñas",
+                        "latitude": "14.52241000",
+                        "longitude": "-90.79938000"
+                    },
+                    {
+                        "id": 53748,
+                        "name": "Santa Catarina Barahona",
+                        "latitude": "14.55135000",
+                        "longitude": "-90.78598000"
+                    },
+                    {
+                        "id": 53763,
+                        "name": "Santa Lucía Milpas Altas",
+                        "latitude": "14.57655000",
+                        "longitude": "-90.67632000"
+                    },
+                    {
+                        "id": 53768,
+                        "name": "Santa María de Jesús",
+                        "latitude": "14.49452000",
+                        "longitude": "-90.71036000"
+                    },
+                    {
+                        "id": 53772,
+                        "name": "Santiago Sacatepéquez",
+                        "latitude": "14.63510000",
+                        "longitude": "-90.67654000"
+                    },
+                    {
+                        "id": 53774,
+                        "name": "Santo Domingo Xenacoj",
+                        "latitude": "14.68057000",
+                        "longitude": "-90.70012000"
+                    },
+                    {
+                        "id": 53784,
+                        "name": "Sumpango",
+                        "latitude": "14.64623000",
+                        "longitude": "-90.73427000"
+                    }
+                ]
+            },
+            {
+                "id": 3667,
+                "name": "San Marcos Department",
+                "state_code": "SM",
+                "cities": [
+                    {
+                        "id": 53443,
+                        "name": "Catarina",
+                        "latitude": "14.85354000",
+                        "longitude": "-92.07682000"
+                    },
+                    {
+                        "id": 53459,
+                        "name": "Ciudad Tecún Umán",
+                        "latitude": "14.67737000",
+                        "longitude": "-92.14039000"
+                    },
+                    {
+                        "id": 53467,
+                        "name": "Comitancillo",
+                        "latitude": "15.08937000",
+                        "longitude": "-91.74971000"
+                    },
+                    {
+                        "id": 53472,
+                        "name": "Concepción Tutuapa",
+                        "latitude": "15.23940000",
+                        "longitude": "-91.84460000"
+                    },
+                    {
+                        "id": 53487,
+                        "name": "El Quetzal",
+                        "latitude": "14.76865000",
+                        "longitude": "-91.81757000"
+                    },
+                    {
+                        "id": 53488,
+                        "name": "El Rodeo",
+                        "latitude": "14.91447000",
+                        "longitude": "-91.97631000"
+                    },
+                    {
+                        "id": 53490,
+                        "name": "El Tumbador",
+                        "latitude": "14.86375000",
+                        "longitude": "-91.93416000"
+                    },
+                    {
+                        "id": 53493,
+                        "name": "Esquipulas Palo Gordo",
+                        "latitude": "14.94135000",
+                        "longitude": "-91.82564000"
+                    },
+                    {
+                        "id": 53506,
+                        "name": "Ixchiguán",
+                        "latitude": "15.16375000",
+                        "longitude": "-91.93256000"
+                    },
+                    {
+                        "id": 53522,
+                        "name": "La Reforma",
+                        "latitude": "14.80104000",
+                        "longitude": "-91.82233000"
+                    },
+                    {
+                        "id": 53529,
+                        "name": "Malacatán",
+                        "latitude": "14.91132000",
+                        "longitude": "-92.05788000"
+                    },
+                    {
+                        "id": 53558,
+                        "name": "Municipio de Concepción Tutuapa",
+                        "latitude": "15.28795000",
+                        "longitude": "-91.86738000"
+                    },
+                    {
+                        "id": 53568,
+                        "name": "Municipio de Malacatán",
+                        "latitude": "14.91829000",
+                        "longitude": "-92.10548000"
+                    },
+                    {
+                        "id": 53597,
+                        "name": "Municipio de Sipacapa",
+                        "latitude": "15.19243000",
+                        "longitude": "-91.65541000"
+                    },
+                    {
+                        "id": 53598,
+                        "name": "Municipio de Tejutla",
+                        "latitude": "15.15638000",
+                        "longitude": "-91.82457000"
+                    },
+                    {
+                        "id": 53607,
+                        "name": "Nuevo Progreso",
+                        "latitude": "14.79174000",
+                        "longitude": "-91.91946000"
+                    },
+                    {
+                        "id": 53609,
+                        "name": "Ocós",
+                        "latitude": "14.50998000",
+                        "longitude": "-92.19298000"
+                    },
+                    {
+                        "id": 53615,
+                        "name": "Pajapita",
+                        "latitude": "14.72152000",
+                        "longitude": "-92.03521000"
+                    },
+                    {
+                        "id": 53642,
+                        "name": "Río Blanco",
+                        "latitude": "15.03820000",
+                        "longitude": "-91.68463000"
+                    },
+                    {
+                        "id": 53660,
+                        "name": "San Antonio Sacatepéquez",
+                        "latitude": "14.96060000",
+                        "longitude": "-91.73154000"
+                    },
+                    {
+                        "id": 53669,
+                        "name": "San Cristóbal Cucho",
+                        "latitude": "14.90505000",
+                        "longitude": "-91.78123000"
+                    },
+                    {
+                        "id": 53686,
+                        "name": "San José Ojetenam",
+                        "latitude": "15.23443000",
+                        "longitude": "-91.97317000"
+                    },
+                    {
+                        "id": 53687,
+                        "name": "San José Ojetenán",
+                        "latitude": "15.21667000",
+                        "longitude": "-91.96667000"
+                    },
+                    {
+                        "id": 53700,
+                        "name": "San Lorenzo",
+                        "latitude": "15.03087000",
+                        "longitude": "-91.73534000"
+                    },
+                    {
+                        "id": 53708,
+                        "name": "San Marcos",
+                        "latitude": "14.96389000",
+                        "longitude": "-91.79444000"
+                    },
+                    {
+                        "id": 53718,
+                        "name": "San Miguel Ixtahuacán",
+                        "latitude": "15.27247000",
+                        "longitude": "-91.74785000"
+                    },
+                    {
+                        "id": 53721,
+                        "name": "San Pablo",
+                        "latitude": "14.93269000",
+                        "longitude": "-92.00415000"
+                    },
+                    {
+                        "id": 53729,
+                        "name": "San Pedro Sacatepéquez",
+                        "latitude": "14.96807000",
+                        "longitude": "-91.76172000"
+                    },
+                    {
+                        "id": 53735,
+                        "name": "San Rafael Pie de la Cuesta",
+                        "latitude": "14.93052000",
+                        "longitude": "-91.91388000"
+                    },
+                    {
+                        "id": 53779,
+                        "name": "Sibinal",
+                        "latitude": "15.14963000",
+                        "longitude": "-92.04892000"
+                    },
+                    {
+                        "id": 53780,
+                        "name": "Sipacapa",
+                        "latitude": "15.21246000",
+                        "longitude": "-91.63416000"
+                    },
+                    {
+                        "id": 53785,
+                        "name": "Tacaná",
+                        "latitude": "15.24058000",
+                        "longitude": "-92.06721000"
+                    },
+                    {
+                        "id": 53787,
+                        "name": "Tajumulco",
+                        "latitude": "15.08349000",
+                        "longitude": "-91.92225000"
+                    },
+                    {
+                        "id": 53792,
+                        "name": "Tejutla",
+                        "latitude": "15.12254000",
+                        "longitude": "-91.80635000"
+                    }
+                ]
+            },
+            {
+                "id": 3665,
+                "name": "Santa Rosa Department",
+                "state_code": "SR",
+                "cities": [
+                    {
+                        "id": 53434,
+                        "name": "Barberena",
+                        "latitude": "14.30739000",
+                        "longitude": "-90.36156000"
+                    },
+                    {
+                        "id": 53442,
+                        "name": "Casillas",
+                        "latitude": "14.42222000",
+                        "longitude": "-90.24417000"
+                    },
+                    {
+                        "id": 53456,
+                        "name": "Chiquimulilla",
+                        "latitude": "14.08380000",
+                        "longitude": "-90.38547000"
+                    },
+                    {
+                        "id": 53475,
+                        "name": "Cuilapa",
+                        "latitude": "14.27639000",
+                        "longitude": "-90.29889000"
+                    },
+                    {
+                        "id": 53501,
+                        "name": "Guazacapán",
+                        "latitude": "14.07417000",
+                        "longitude": "-90.41667000"
+                    },
+                    {
+                        "id": 53547,
+                        "name": "Municipio de Casillas",
+                        "latitude": "14.37854000",
+                        "longitude": "-90.17260000"
+                    },
+                    {
+                        "id": 53553,
+                        "name": "Municipio de Chiquimulilla",
+                        "latitude": "14.09716000",
+                        "longitude": "-90.37903000"
+                    },
+                    {
+                        "id": 53562,
+                        "name": "Municipio de Guazacapán",
+                        "latitude": "14.01786000",
+                        "longitude": "-90.43400000"
+                    },
+                    {
+                        "id": 53606,
+                        "name": "Nueva Santa Rosa",
+                        "latitude": "14.38111000",
+                        "longitude": "-90.27611000"
+                    },
+                    {
+                        "id": 53612,
+                        "name": "Oratorio",
+                        "latitude": "14.22806000",
+                        "longitude": "-90.17583000"
+                    },
+                    {
+                        "id": 53633,
+                        "name": "Pueblo Nuevo Viñas",
+                        "latitude": "14.22576000",
+                        "longitude": "-90.47613000"
+                    },
+                    {
+                        "id": 53699,
+                        "name": "San Juan Tecuaco",
+                        "latitude": "14.08361000",
+                        "longitude": "-90.26649000"
+                    },
+                    {
+                        "id": 53733,
+                        "name": "San Rafael Las Flores",
+                        "latitude": "14.48139000",
+                        "longitude": "-90.17333000"
+                    },
+                    {
+                        "id": 53757,
+                        "name": "Santa Cruz Naranjo",
+                        "latitude": "14.38806000",
+                        "longitude": "-90.36972000"
+                    },
+                    {
+                        "id": 53766,
+                        "name": "Santa María Ixhuatán",
+                        "latitude": "14.19000000",
+                        "longitude": "-90.27472000"
+                    },
+                    {
+                        "id": 53769,
+                        "name": "Santa Rosa de Lima",
+                        "latitude": "14.38806000",
+                        "longitude": "-90.29556000"
+                    },
+                    {
+                        "id": 53789,
+                        "name": "Taxisco",
+                        "latitude": "14.06719000",
+                        "longitude": "-90.46791000"
+                    }
+                ]
+            },
+            {
+                "id": 3661,
+                "name": "Sololá Department",
+                "state_code": "SO",
+                "cities": [
+                    {
+                        "id": 53468,
+                        "name": "Concepción",
+                        "latitude": "14.78417000",
+                        "longitude": "-91.14754000"
+                    },
+                    {
+                        "id": 53572,
+                        "name": "Municipio de Nahualá",
+                        "latitude": "14.77548000",
+                        "longitude": "-91.41616000"
+                    },
+                    {
+                        "id": 53574,
+                        "name": "Municipio de Panajachel",
+                        "latitude": "14.74676000",
+                        "longitude": "-91.14935000"
+                    },
+                    {
+                        "id": 53591,
+                        "name": "Municipio de Santa Catarina Palopó",
+                        "latitude": "14.71794000",
+                        "longitude": "-91.13060000"
+                    },
+                    {
+                        "id": 53592,
+                        "name": "Municipio de Santa Cruz La Laguna",
+                        "latitude": "14.74324000",
+                        "longitude": "-91.22178000"
+                    },
+                    {
+                        "id": 53602,
+                        "name": "Nahualá",
+                        "latitude": "14.84290000",
+                        "longitude": "-91.31799000"
+                    },
+                    {
+                        "id": 53619,
+                        "name": "Panajachel",
+                        "latitude": "14.74185000",
+                        "longitude": "-91.15676000"
+                    },
+                    {
+                        "id": 53652,
+                        "name": "San Andrés Semetabaj",
+                        "latitude": "14.74497000",
+                        "longitude": "-91.13344000"
+                    },
+                    {
+                        "id": 53659,
+                        "name": "San Antonio Palopó",
+                        "latitude": "14.69232000",
+                        "longitude": "-91.11638000"
+                    },
+                    {
+                        "id": 53683,
+                        "name": "San José Chacayá",
+                        "latitude": "14.77096000",
+                        "longitude": "-91.21564000"
+                    },
+                    {
+                        "id": 53697,
+                        "name": "San Juan La Laguna",
+                        "latitude": "14.69453000",
+                        "longitude": "-91.28666000"
+                    },
+                    {
+                        "id": 53703,
+                        "name": "San Lucas Tolimán",
+                        "latitude": "14.59471000",
+                        "longitude": "-91.14659000"
+                    },
+                    {
+                        "id": 53709,
+                        "name": "San Marcos La Laguna",
+                        "latitude": "14.72504000",
+                        "longitude": "-91.25844000"
+                    },
+                    {
+                        "id": 53723,
+                        "name": "San Pablo La Laguna",
+                        "latitude": "14.72092000",
+                        "longitude": "-91.27242000"
+                    },
+                    {
+                        "id": 53726,
+                        "name": "San Pedro La Laguna",
+                        "latitude": "14.69297000",
+                        "longitude": "-91.27201000"
+                    },
+                    {
+                        "id": 53749,
+                        "name": "Santa Catarina Ixtahuacán",
+                        "latitude": "14.79797000",
+                        "longitude": "-91.35866000"
+                    },
+                    {
+                        "id": 53751,
+                        "name": "Santa Catarina Palopó",
+                        "latitude": "14.72335000",
+                        "longitude": "-91.13428000"
+                    },
+                    {
+                        "id": 53753,
+                        "name": "Santa Clara La Laguna",
+                        "latitude": "14.71509000",
+                        "longitude": "-91.30355000"
+                    },
+                    {
+                        "id": 53755,
+                        "name": "Santa Cruz La Laguna",
+                        "latitude": "14.74421000",
+                        "longitude": "-91.20716000"
+                    },
+                    {
+                        "id": 53764,
+                        "name": "Santa Lucía Utatlán",
+                        "latitude": "14.77135000",
+                        "longitude": "-91.26700000"
+                    },
+                    {
+                        "id": 53767,
+                        "name": "Santa María Visitación",
+                        "latitude": "14.71717000",
+                        "longitude": "-91.30844000"
+                    },
+                    {
+                        "id": 53770,
+                        "name": "Santiago Atitlán",
+                        "latitude": "14.63823000",
+                        "longitude": "-91.22901000"
+                    },
+                    {
+                        "id": 53782,
+                        "name": "Sololá",
+                        "latitude": "14.77222000",
+                        "longitude": "-91.18333000"
+                    }
+                ]
+            },
+            {
+                "id": 3660,
+                "name": "Suchitepéquez Department",
+                "state_code": "SU",
+                "cities": [
+                    {
+                        "id": 53448,
+                        "name": "Chicacao",
+                        "latitude": "14.54295000",
+                        "longitude": "-91.32636000"
+                    },
+                    {
+                        "id": 53478,
+                        "name": "Cuyotenango",
+                        "latitude": "14.54006000",
+                        "longitude": "-91.57179000"
+                    },
+                    {
+                        "id": 53532,
+                        "name": "Mazatenango",
+                        "latitude": "14.53417000",
+                        "longitude": "-91.50333000"
+                    },
+                    {
+                        "id": 53581,
+                        "name": "Municipio de San Antonio Suchitepéquez",
+                        "latitude": "14.51839000",
+                        "longitude": "-91.40438000"
+                    },
+                    {
+                        "id": 53587,
+                        "name": "Municipio de San Miguel Panán",
+                        "latitude": "14.50525000",
+                        "longitude": "-91.35956000"
+                    },
+                    {
+                        "id": 53590,
+                        "name": "Municipio de Santa Bárbara",
+                        "latitude": "14.47317000",
+                        "longitude": "-91.24688000"
+                    },
+                    {
+                        "id": 53624,
+                        "name": "Patulul",
+                        "latitude": "14.42321000",
+                        "longitude": "-91.16049000"
+                    },
+                    {
+                        "id": 53632,
+                        "name": "Pueblo Nuevo",
+                        "latitude": "14.64709000",
+                        "longitude": "-91.53946000"
+                    },
+                    {
+                        "id": 53643,
+                        "name": "Río Bravo",
+                        "latitude": "14.40042000",
+                        "longitude": "-91.31713000"
+                    },
+                    {
+                        "id": 53661,
+                        "name": "San Antonio Suchitepéquez",
+                        "latitude": "14.53938000",
+                        "longitude": "-91.41442000"
+                    },
+                    {
+                        "id": 53666,
+                        "name": "San Bernardino",
+                        "latitude": "14.54240000",
+                        "longitude": "-91.45811000"
+                    },
+                    {
+                        "id": 53675,
+                        "name": "San Francisco Zapotitlán",
+                        "latitude": "14.58939000",
+                        "longitude": "-91.52144000"
+                    },
+                    {
+                        "id": 53677,
+                        "name": "San Gabriel",
+                        "latitude": "14.51076000",
+                        "longitude": "-91.50745000"
+                    },
+                    {
+                        "id": 53684,
+                        "name": "San José El Ídolo",
+                        "latitude": "14.45016000",
+                        "longitude": "-91.42222000"
+                    },
+                    {
+                        "id": 53692,
+                        "name": "San Juan Bautista",
+                        "latitude": "14.42274000",
+                        "longitude": "-91.17904000"
+                    },
+                    {
+                        "id": 53701,
+                        "name": "San Lorenzo",
+                        "latitude": "14.48606000",
+                        "longitude": "-91.51263000"
+                    },
+                    {
+                        "id": 53719,
+                        "name": "San Miguel Panán",
+                        "latitude": "14.52865000",
+                        "longitude": "-91.36733000"
+                    },
+                    {
+                        "id": 53722,
+                        "name": "San Pablo Jocopilas",
+                        "latitude": "14.58882000",
+                        "longitude": "-91.45188000"
+                    },
+                    {
+                        "id": 53746,
+                        "name": "Santa Bárbara",
+                        "latitude": "14.43563000",
+                        "longitude": "-91.22685000"
+                    },
+                    {
+                        "id": 53773,
+                        "name": "Santo Domingo Suchitepéquez",
+                        "latitude": "14.47901000",
+                        "longitude": "-91.48327000"
+                    },
+                    {
+                        "id": 53775,
+                        "name": "Santo Tomás La Unión",
+                        "latitude": "14.63219000",
+                        "longitude": "-91.41075000"
+                    },
+                    {
+                        "id": 53806,
+                        "name": "Zunilito",
+                        "latitude": "14.61264000",
+                        "longitude": "-91.50980000"
+                    }
+                ]
+            },
+            {
+                "id": 3663,
+                "name": "Totonicapán Department",
+                "state_code": "TO",
+                "cities": [
+                    {
+                        "id": 53535,
+                        "name": "Momostenango",
+                        "latitude": "15.04437000",
+                        "longitude": "-91.40864000"
+                    },
+                    {
+                        "id": 53570,
+                        "name": "Municipio de Momostenango",
+                        "latitude": "15.04726000",
+                        "longitude": "-91.40625000"
+                    },
+                    {
+                        "id": 53594,
+                        "name": "Municipio de Santa María Chiquimula",
+                        "latitude": "15.02886000",
+                        "longitude": "-91.32917000"
+                    },
+                    {
+                        "id": 53599,
+                        "name": "Municipio de Totonicapán",
+                        "latitude": "14.90193000",
+                        "longitude": "-91.31999000"
+                    },
+                    {
+                        "id": 53654,
+                        "name": "San Andrés Xecul",
+                        "latitude": "14.90482000",
+                        "longitude": "-91.48307000"
+                    },
+                    {
+                        "id": 53662,
+                        "name": "San Bartolo",
+                        "latitude": "15.08438000",
+                        "longitude": "-91.45606000"
+                    },
+                    {
+                        "id": 53670,
+                        "name": "San Cristóbal Totonicapán",
+                        "latitude": "14.91682000",
+                        "longitude": "-91.44060000"
+                    },
+                    {
+                        "id": 53674,
+                        "name": "San Francisco El Alto",
+                        "latitude": "14.94490000",
+                        "longitude": "-91.44310000"
+                    },
+                    {
+                        "id": 53761,
+                        "name": "Santa Lucia La Reforma",
+                        "latitude": "15.12819000",
+                        "longitude": "-91.23619000"
+                    },
+                    {
+                        "id": 53765,
+                        "name": "Santa María Chiquimula",
+                        "latitude": "15.02992000",
+                        "longitude": "-91.32920000"
+                    },
+                    {
+                        "id": 53795,
+                        "name": "Totonicapán",
+                        "latitude": "14.91167000",
+                        "longitude": "-91.36111000"
+                    }
+                ]
+            }
+        ],
+  "timezones": ["UTC−06:00"],
+  "tld": [".gt"],
+  "translations": {
+    "de": "Guatemala",
+    "es": "Guatemala",
+    "fr": "Guatemala",
+    "ja": "グアテマラ",
+    "it": "Guatemala"
+  },
+  "wiki": "http://en.wikipedia.org/wiki/guatemala"
+}

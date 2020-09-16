@@ -1,0 +1,182 @@
+{
+    "name": "San Marino",
+    "altSpellings": [
+        "SM",
+        "Republic of San Marino",
+        "Repubblica di San Marino"
+    ],
+    "area": 61,
+    "borders": [
+        "ITA"
+    ],
+    "callingCodes": [
+        "378"
+    ],
+    "capital": "City of San Marino",
+    "capital_latlng": [
+        43.9364,
+        12.446699
+    ],
+    "currencies": [
+        "EUR"
+    ],
+    "demonym": "Sammarinese",
+    "flag": "",
+    "geoJSON": {},
+    "ISO": {
+        "alpha2": "SM",
+        "alpha3": "SMR"
+    },
+    "states": [
+        {
+            "id": 59,
+            "name": "Acquaviva",
+            "state_code": "01",
+            "cities": [
+                {
+                    "id": 104693,
+                    "name": "Acquaviva",
+                    "latitude": "43.94593000",
+                    "longitude": "12.41850000"
+                }
+            ]
+        },
+        {
+            "id": 61,
+            "name": "Borgo Maggiore",
+            "state_code": "06",
+            "cities": [
+                {
+                    "id": 104694,
+                    "name": "Borgo Maggiore",
+                    "latitude": "43.94193000",
+                    "longitude": "12.44738000"
+                }
+            ]
+        },
+        {
+            "id": 60,
+            "name": "Chiesanuova",
+            "state_code": "02",
+            "cities": [
+                {
+                    "id": 104699,
+                    "name": "Poggio di Chiesanuova",
+                    "latitude": "43.90451000",
+                    "longitude": "12.42142000"
+                }
+            ]
+        },
+        {
+            "id": 64,
+            "name": "Domagnano",
+            "state_code": "03",
+            "cities": [
+                {
+                    "id": 104695,
+                    "name": "Domagnano",
+                    "latitude": "43.94961000",
+                    "longitude": "12.46828000"
+                }
+            ]
+        },
+        {
+            "id": 62,
+            "name": "Faetano",
+            "state_code": "04",
+            "cities": [
+                {
+                    "id": 104696,
+                    "name": "Faetano",
+                    "latitude": "43.92831000",
+                    "longitude": "12.49798000"
+                }
+            ]
+        },
+        {
+            "id": 66,
+            "name": "Fiorentino",
+            "state_code": "05",
+            "cities": [
+                {
+                    "id": 104697,
+                    "name": "Fiorentino",
+                    "latitude": "43.91001000",
+                    "longitude": "12.45738000"
+                }
+            ]
+        },
+        {
+            "id": 63,
+            "name": "Montegiardino",
+            "state_code": "08",
+            "cities": [
+                {
+                    "id": 104698,
+                    "name": "Monte Giardino",
+                    "latitude": "43.90878000",
+                    "longitude": "12.48201000"
+                }
+            ]
+        },
+        {
+            "id": 58,
+            "name": "San Marino",
+            "state_code": "07",
+            "cities": [
+                {
+                    "id": 104700,
+                    "name": "San Marino",
+                    "latitude": "43.93667000",
+                    "longitude": "12.44639000"
+                }
+            ]
+        },
+        {
+            "id": 65,
+            "name": "Serravalle",
+            "state_code": "09",
+            "cities": [
+                {
+                    "id": 104701,
+                    "name": "Serravalle",
+                    "latitude": "43.96897000",
+                    "longitude": "12.48167000"
+                }
+            ]
+        }
+    ],
+    "languages": [
+        "Italian"
+    ],
+    "latlng": [
+        43.76666666,
+        12.41666666
+    ],
+    "nativeName": "San Marino",
+    "population": 32743,
+    "timezones": [
+        "UTC+01:00"
+    ],
+    "tld": [
+        ".sm"
+    ],
+    "translations": {
+        "de": "San Marino",
+        "es": "San Marino",
+        "fr": "Saint-Marin",
+        "ja": "サンマリノ",
+        "it": "San Marino"
+    },
+    "continent": "Europe",
+    "government": "Republic",
+    "independence": 885,
+    "symbol": null,
+    "dish": "Torta Tre Monti",
+    "location": "Southern Europe",
+    "temperature": 11.85,
+    "religion": "Christianity",
+    "expectancy": 81.1,
+    "density": 563.0833333,
+    "wiki": "http://en.wikipedia.org/wiki/san_marino"
+}

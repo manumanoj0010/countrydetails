@@ -1,0 +1,265 @@
+{
+    "name": "Djibouti",
+    "altSpellings": [
+        "DJ",
+        "Jabuuti",
+        "Gabuuti",
+        "Republic of Djibouti",
+        "République de Djibouti",
+        "Gabuutih Ummuuno",
+        "Jamhuuriyadda Jabuuti"
+    ],
+    "area": 23200,
+    "borders": [
+        "ERI",
+        "ETH",
+        "SOM"
+    ],
+    "callingCodes": [
+        "253"
+    ],
+    "capital": "Djibouti",
+    "capital_latlng": [
+        11.814597,
+        42.845306
+    ],
+    "currencies": [
+        "DJF"
+    ],
+    "demonym": "Djibouti",
+    "flag": "",
+    "geoJSON": {
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "type": "Feature",
+                "id": "DJI",
+                "properties": {
+                    "name": "Djibouti"
+                },
+                "geometry": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                43.081226,
+                                12.699639
+                            ],
+                            [
+                                43.317852,
+                                12.390148
+                            ],
+                            [
+                                43.286381,
+                                11.974928
+                            ],
+                            [
+                                42.715874,
+                                11.735641
+                            ],
+                            [
+                                43.145305,
+                                11.46204
+                            ],
+                            [
+                                42.776852,
+                                10.926879
+                            ],
+                            [
+                                42.55493,
+                                11.10511
+                            ],
+                            [
+                                42.31414,
+                                11.0342
+                            ],
+                            [
+                                41.75557,
+                                11.05091
+                            ],
+                            [
+                                41.73959,
+                                11.35511
+                            ],
+                            [
+                                41.66176,
+                                11.6312
+                            ],
+                            [
+                                42,
+                                12.1
+                            ],
+                            [
+                                42.35156,
+                                12.54223
+                            ],
+                            [
+                                42.779642,
+                                12.455416
+                            ],
+                            [
+                                43.081226,
+                                12.699639
+                            ]
+                        ]
+                    ]
+                }
+            }
+        ]
+    },
+    "ISO": {
+        "alpha2": "DJ",
+        "alpha3": "DJI"
+    },
+    "languages": [
+        "Afar",
+            "Arabic",
+            "Somali"
+    ],
+    "latlng": [
+        11.5,
+        43
+    ],
+    "nativeName": "Djibouti",
+    "population": 886000,
+    "timezones": [
+        "UTC+03:00"
+    ],
+    "tld": [
+        ".dj"
+    ],
+    "states": [
+        {
+            "id": 2933,
+            "name": "Ali Sabieh Region",
+            "state_code": "AS",
+            "cities": [
+                {
+                    "id": 30561,
+                    "name": "'Ali Sabieh",
+                    "latitude": "11.15583000",
+                    "longitude": "42.71250000"
+                },
+                {
+                    "id": 30567,
+                    "name": "Goubétto",
+                    "latitude": "11.42389000",
+                    "longitude": "43.00028000"
+                },
+                {
+                    "id": 30569,
+                    "name": "Holhol",
+                    "latitude": "11.31028000",
+                    "longitude": "42.92944000"
+                }
+            ]
+        },
+        {
+            "id": 2932,
+            "name": "Arta Region",
+            "state_code": "AR",
+            "cities": [
+                {
+                    "id": 30563,
+                    "name": "Arta",
+                    "latitude": "11.52639000",
+                    "longitude": "42.85194000"
+                }
+            ]
+        },
+        {
+            "id": 2930,
+            "name": "Dikhil Region",
+            "state_code": "DI",
+            "cities": [
+                {
+                    "id": 30564,
+                    "name": "Dikhil",
+                    "latitude": "11.10454000",
+                    "longitude": "42.36971000"
+                },
+                {
+                    "id": 30568,
+                    "name": "Gâlâfi",
+                    "latitude": "11.71583000",
+                    "longitude": "41.83611000"
+                }
+            ]
+        },
+        {
+            "id": 2929,
+            "name": "Djibouti",
+            "state_code": "DJ",
+            "cities": [
+                {
+                    "id": 30565,
+                    "name": "Djibouti",
+                    "latitude": "11.58901000",
+                    "longitude": "43.14503000"
+                },
+                {
+                    "id": 30570,
+                    "name": "Loyada",
+                    "latitude": "11.46111000",
+                    "longitude": "43.25278000"
+                }
+            ]
+        },
+        {
+            "id": 2928,
+            "name": "Obock Region",
+            "state_code": "OB",
+            "cities": [
+                {
+                    "id": 30562,
+                    "name": "Alaïli Ḏaḏḏa‘",
+                    "latitude": "12.42167000",
+                    "longitude": "42.89556000"
+                },
+                {
+                    "id": 30571,
+                    "name": "Obock",
+                    "latitude": "11.96693000",
+                    "longitude": "43.28835000"
+                }
+            ]
+        },
+        {
+            "id": 2931,
+            "name": "Tadjourah Region",
+            "state_code": "TA",
+            "cities": [
+                {
+                    "id": 30566,
+                    "name": "Dorra",
+                    "latitude": "12.15028000",
+                    "longitude": "42.47624000"
+                },
+                {
+                    "id": 30572,
+                    "name": "Tadjourah",
+                    "latitude": "11.78778000",
+                    "longitude": "42.88222000"
+                }
+            ]
+        }
+    ],
+    "density": 41.36842105,
+    "symbol": null,
+    "temperature": 28,
+    "religion": "Islam",
+    "location": "Eastern Africa",
+    "expectancy": 50.8,
+    "dish": null,
+    "translations": {
+        "de": "Dschibuti",
+        "es": "Yibuti",
+        "fr": "Djibouti",
+        "ja": "ジブチ",
+        "it": "Gibuti"
+    },
+    "continent": "Africa",
+    "government": "Republic",
+    "independence": 1977,
+    "wiki": "http://en.wikipedia.org/wiki/djibouti"
+}

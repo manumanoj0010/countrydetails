@@ -1,0 +1,746 @@
+{
+    "name": "Sierra Leone",
+    "altSpellings": [
+        "SL",
+        "Republic of Sierra Leone"
+    ],
+    "area": 71740,
+    "borders": [
+        "GIN",
+        "LBR"
+    ],
+    "callingCodes": [
+        "232"
+    ],
+    "capital": "Freetown",
+    "capital_latlng": [
+        8.479004,
+        -13.26795
+    ],
+    "currencies": [
+        "SLL"
+    ],
+    "demonym": "Sierra Leonean",
+    "flag": "",
+    "geoJSON": {
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "type": "Feature",
+                "id": "SLE",
+                "properties": {
+                    "name": "Sierra Leone"
+                },
+                "geometry": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                -11.438779,
+                                6.785917
+                            ],
+                            [
+                                -11.708195,
+                                6.860098
+                            ],
+                            [
+                                -12.428099,
+                                7.262942
+                            ],
+                            [
+                                -12.949049,
+                                7.798646
+                            ],
+                            [
+                                -13.124025,
+                                8.163946
+                            ],
+                            [
+                                -13.24655,
+                                8.903049
+                            ],
+                            [
+                                -12.711958,
+                                9.342712
+                            ],
+                            [
+                                -12.596719,
+                                9.620188
+                            ],
+                            [
+                                -12.425929,
+                                9.835834
+                            ],
+                            [
+                                -12.150338,
+                                9.858572
+                            ],
+                            [
+                                -11.917277,
+                                10.046984
+                            ],
+                            [
+                                -11.117481,
+                                10.045873
+                            ],
+                            [
+                                -10.839152,
+                                9.688246
+                            ],
+                            [
+                                -10.622395,
+                                9.26791
+                            ],
+                            [
+                                -10.65477,
+                                8.977178
+                            ],
+                            [
+                                -10.494315,
+                                8.715541
+                            ],
+                            [
+                                -10.505477,
+                                8.348896
+                            ],
+                            [
+                                -10.230094,
+                                8.406206
+                            ],
+                            [
+                                -10.695595,
+                                7.939464
+                            ],
+                            [
+                                -11.146704,
+                                7.396706
+                            ],
+                            [
+                                -11.199802,
+                                7.105846
+                            ],
+                            [
+                                -11.438779,
+                                6.785917
+                            ]
+                        ]
+                    ]
+                }
+            }
+        ]
+    },
+    "ISO": {
+        "alpha2": "SL",
+        "alpha3": "SLE"
+    },
+    "states": [
+        {
+            "id": 914,
+            "name": "Eastern Province",
+            "state_code": "E",
+            "cities": [
+                {
+                    "id": 104606,
+                    "name": "Barma",
+                    "latitude": "8.34959000",
+                    "longitude": "-11.33059000"
+                },
+                {
+                    "id": 104609,
+                    "name": "Blama",
+                    "latitude": "7.87481000",
+                    "longitude": "-11.34548000"
+                },
+                {
+                    "id": 104612,
+                    "name": "Boajibu",
+                    "latitude": "8.18763000",
+                    "longitude": "-11.34026000"
+                },
+                {
+                    "id": 104617,
+                    "name": "Buedu",
+                    "latitude": "8.27960000",
+                    "longitude": "-10.37135000"
+                },
+                {
+                    "id": 104620,
+                    "name": "Bunumbu",
+                    "latitude": "8.17421000",
+                    "longitude": "-10.86432000"
+                },
+                {
+                    "id": 104621,
+                    "name": "Daru",
+                    "latitude": "7.98976000",
+                    "longitude": "-10.84223000"
+                },
+                {
+                    "id": 104627,
+                    "name": "Giehun",
+                    "latitude": "7.88405000",
+                    "longitude": "-11.04908000"
+                },
+                {
+                    "id": 104628,
+                    "name": "Gorahun",
+                    "latitude": "7.46439000",
+                    "longitude": "-11.23952000"
+                },
+                {
+                    "id": 104629,
+                    "name": "Hangha",
+                    "latitude": "7.93974000",
+                    "longitude": "-11.14132000"
+                },
+                {
+                    "id": 104631,
+                    "name": "Jojoima",
+                    "latitude": "7.87815000",
+                    "longitude": "-10.78976000"
+                },
+                {
+                    "id": 104633,
+                    "name": "Kailahun",
+                    "latitude": "8.27890000",
+                    "longitude": "-10.57300000"
+                },
+                {
+                    "id": 104634,
+                    "name": "Kailahun District",
+                    "latitude": "8.10768000",
+                    "longitude": "-10.75146000"
+                },
+                {
+                    "id": 104638,
+                    "name": "Kayima",
+                    "latitude": "8.88790000",
+                    "longitude": "-11.15932000"
+                },
+                {
+                    "id": 104639,
+                    "name": "Kenema",
+                    "latitude": "7.87687000",
+                    "longitude": "-11.19025000"
+                },
+                {
+                    "id": 104640,
+                    "name": "Kenema District",
+                    "latitude": "7.95171000",
+                    "longitude": "-11.19004000"
+                },
+                {
+                    "id": 104642,
+                    "name": "Koidu",
+                    "latitude": "8.64387000",
+                    "longitude": "-10.97140000"
+                },
+                {
+                    "id": 104645,
+                    "name": "Kono District",
+                    "latitude": "8.70687000",
+                    "longitude": "-10.93368000"
+                },
+                {
+                    "id": 104647,
+                    "name": "Koyima",
+                    "latitude": "8.70552000",
+                    "longitude": "-11.02241000"
+                },
+                {
+                    "id": 104658,
+                    "name": "Manowa",
+                    "latitude": "8.17392000",
+                    "longitude": "-10.74834000"
+                },
+                {
+                    "id": 104662,
+                    "name": "Mobai",
+                    "latitude": "7.99343000",
+                    "longitude": "-10.75355000"
+                },
+                {
+                    "id": 104664,
+                    "name": "Motema",
+                    "latitude": "8.61427000",
+                    "longitude": "-11.01252000"
+                },
+                {
+                    "id": 104668,
+                    "name": "Panguma",
+                    "latitude": "8.18507000",
+                    "longitude": "-11.13290000"
+                },
+                {
+                    "id": 104669,
+                    "name": "Pendembu",
+                    "latitude": "8.09807000",
+                    "longitude": "-10.69429000"
+                },
+                {
+                    "id": 104677,
+                    "name": "Segbwema",
+                    "latitude": "7.99471000",
+                    "longitude": "-10.95020000"
+                },
+                {
+                    "id": 104680,
+                    "name": "Simbakoro",
+                    "latitude": "8.61243000",
+                    "longitude": "-11.00755000"
+                },
+                {
+                    "id": 104682,
+                    "name": "Tefeya",
+                    "latitude": "8.70395000",
+                    "longitude": "-11.21260000"
+                },
+                {
+                    "id": 104684,
+                    "name": "Tombodu",
+                    "latitude": "8.13526000",
+                    "longitude": "-10.61960000"
+                },
+                {
+                    "id": 104685,
+                    "name": "Tombu",
+                    "latitude": "8.53991000",
+                    "longitude": "-10.73132000"
+                },
+                {
+                    "id": 104689,
+                    "name": "Wima",
+                    "latitude": "8.30052000",
+                    "longitude": "-11.20455000"
+                },
+                {
+                    "id": 104690,
+                    "name": "Yengema",
+                    "latitude": "8.71441000",
+                    "longitude": "-11.17057000"
+                }
+            ]
+        },
+        {
+            "id": 911,
+            "name": "Northern Province",
+            "state_code": "N",
+            "cities": [
+                {
+                    "id": 104603,
+                    "name": "Alikalia",
+                    "latitude": "9.15356000",
+                    "longitude": "-11.38712000"
+                },
+                {
+                    "id": 104607,
+                    "name": "Bindi",
+                    "latitude": "9.91376000",
+                    "longitude": "-11.44669000"
+                },
+                {
+                    "id": 104608,
+                    "name": "Binkolo",
+                    "latitude": "8.95225000",
+                    "longitude": "-11.98029000"
+                },
+                {
+                    "id": 104613,
+                    "name": "Bombali District",
+                    "latitude": "9.28444000",
+                    "longitude": "-12.16449000"
+                },
+                {
+                    "id": 104618,
+                    "name": "Bumbuna",
+                    "latitude": "9.04466000",
+                    "longitude": "-11.74576000"
+                },
+                {
+                    "id": 104625,
+                    "name": "Gberia Fotombu",
+                    "latitude": "9.87852000",
+                    "longitude": "-11.16548000"
+                },
+                {
+                    "id": 104632,
+                    "name": "Kabala",
+                    "latitude": "9.58893000",
+                    "longitude": "-11.55256000"
+                },
+                {
+                    "id": 104635,
+                    "name": "Kamakwie",
+                    "latitude": "9.49689000",
+                    "longitude": "-12.24061000"
+                },
+                {
+                    "id": 104636,
+                    "name": "Kambia",
+                    "latitude": "9.12504000",
+                    "longitude": "-12.91816000"
+                },
+                {
+                    "id": 104637,
+                    "name": "Kassiri",
+                    "latitude": "8.93814000",
+                    "longitude": "-13.11541000"
+                },
+                {
+                    "id": 104643,
+                    "name": "Koinadugu District",
+                    "latitude": "9.50991000",
+                    "longitude": "-11.34601000"
+                },
+                {
+                    "id": 104644,
+                    "name": "Konakridee",
+                    "latitude": "8.69778000",
+                    "longitude": "-13.23917000"
+                },
+                {
+                    "id": 104648,
+                    "name": "Kukuna",
+                    "latitude": "9.39841000",
+                    "longitude": "-12.66476000"
+                },
+                {
+                    "id": 104650,
+                    "name": "Loma",
+                    "latitude": "9.75931000",
+                    "longitude": "-12.03383000"
+                },
+                {
+                    "id": 104651,
+                    "name": "Lunsar",
+                    "latitude": "8.68439000",
+                    "longitude": "-12.53499000"
+                },
+                {
+                    "id": 104652,
+                    "name": "Magburaka",
+                    "latitude": "8.72306000",
+                    "longitude": "-11.94880000"
+                },
+                {
+                    "id": 104653,
+                    "name": "Makali",
+                    "latitude": "8.62964000",
+                    "longitude": "-11.66168000"
+                },
+                {
+                    "id": 104654,
+                    "name": "Makeni",
+                    "latitude": "8.88605000",
+                    "longitude": "-12.04417000"
+                },
+                {
+                    "id": 104655,
+                    "name": "Mambolo",
+                    "latitude": "8.91860000",
+                    "longitude": "-13.03674000"
+                },
+                {
+                    "id": 104657,
+                    "name": "Mange",
+                    "latitude": "8.92262000",
+                    "longitude": "-12.85688000"
+                },
+                {
+                    "id": 104659,
+                    "name": "Masaka",
+                    "latitude": "8.66492000",
+                    "longitude": "-11.80260000"
+                },
+                {
+                    "id": 104660,
+                    "name": "Masingbi",
+                    "latitude": "8.78197000",
+                    "longitude": "-11.95171000"
+                },
+                {
+                    "id": 104661,
+                    "name": "Masoyila",
+                    "latitude": "8.61119000",
+                    "longitude": "-13.19101000"
+                },
+                {
+                    "id": 104670,
+                    "name": "Pepel",
+                    "latitude": "8.58611000",
+                    "longitude": "-13.05444000"
+                },
+                {
+                    "id": 104674,
+                    "name": "Rokupr",
+                    "latitude": "8.67121000",
+                    "longitude": "-12.38497000"
+                },
+                {
+                    "id": 104676,
+                    "name": "Sawkta",
+                    "latitude": "8.63230000",
+                    "longitude": "-13.20250000"
+                },
+                {
+                    "id": 104678,
+                    "name": "Seidu",
+                    "latitude": "9.01801000",
+                    "longitude": "-10.59496000"
+                },
+                {
+                    "id": 104683,
+                    "name": "Tintafor",
+                    "latitude": "8.62667000",
+                    "longitude": "-13.21500000"
+                },
+                {
+                    "id": 104687,
+                    "name": "Tonkolili District",
+                    "latitude": "8.61885000",
+                    "longitude": "-11.84173000"
+                },
+                {
+                    "id": 104691,
+                    "name": "Yonibana",
+                    "latitude": "8.44347000",
+                    "longitude": "-12.23929000"
+                }
+            ]
+        },
+        {
+            "id": 912,
+            "name": "Southern Province",
+            "state_code": "S",
+            "cities": [
+                {
+                    "id": 104604,
+                    "name": "Baiima",
+                    "latitude": "8.10826000",
+                    "longitude": "-11.84772000"
+                },
+                {
+                    "id": 104605,
+                    "name": "Baoma",
+                    "latitude": "7.99344000",
+                    "longitude": "-11.71468000"
+                },
+                {
+                    "id": 104610,
+                    "name": "Bo",
+                    "latitude": "7.96472000",
+                    "longitude": "-11.73833000"
+                },
+                {
+                    "id": 104611,
+                    "name": "Bo District",
+                    "latitude": "7.98877000",
+                    "longitude": "-11.67340000"
+                },
+                {
+                    "id": 104614,
+                    "name": "Bomi",
+                    "latitude": "7.24611000",
+                    "longitude": "-11.52583000"
+                },
+                {
+                    "id": 104615,
+                    "name": "Bonthe",
+                    "latitude": "7.52639000",
+                    "longitude": "-12.50500000"
+                },
+                {
+                    "id": 104616,
+                    "name": "Bonthe District",
+                    "latitude": "7.51622000",
+                    "longitude": "-12.33591000"
+                },
+                {
+                    "id": 104619,
+                    "name": "Bumpe",
+                    "latitude": "7.89209000",
+                    "longitude": "-11.90541000"
+                },
+                {
+                    "id": 104622,
+                    "name": "Foindu",
+                    "latitude": "7.40906000",
+                    "longitude": "-11.54328000"
+                },
+                {
+                    "id": 104624,
+                    "name": "Gandorhun",
+                    "latitude": "7.55502000",
+                    "longitude": "-11.69260000"
+                },
+                {
+                    "id": 104626,
+                    "name": "Gbewebu",
+                    "latitude": "7.55091000",
+                    "longitude": "-11.60750000"
+                },
+                {
+                    "id": 104646,
+                    "name": "Koribundu",
+                    "latitude": "7.70952000",
+                    "longitude": "-11.69354000"
+                },
+                {
+                    "id": 104649,
+                    "name": "Largo",
+                    "latitude": "8.27903000",
+                    "longitude": "-12.15780000"
+                },
+                {
+                    "id": 104656,
+                    "name": "Mamboma",
+                    "latitude": "8.08742000",
+                    "longitude": "-11.68841000"
+                },
+                {
+                    "id": 104663,
+                    "name": "Mogbwemo",
+                    "latitude": "7.76237000",
+                    "longitude": "-12.30864000"
+                },
+                {
+                    "id": 104665,
+                    "name": "Moyamba",
+                    "latitude": "8.15898000",
+                    "longitude": "-12.43168000"
+                },
+                {
+                    "id": 104666,
+                    "name": "Moyamba District",
+                    "latitude": "8.06290000",
+                    "longitude": "-12.44401000"
+                },
+                {
+                    "id": 104667,
+                    "name": "Palima",
+                    "latitude": "8.11996000",
+                    "longitude": "-11.50702000"
+                },
+                {
+                    "id": 104671,
+                    "name": "Potoru",
+                    "latitude": "7.50596000",
+                    "longitude": "-11.47897000"
+                },
+                {
+                    "id": 104672,
+                    "name": "Pujehun",
+                    "latitude": "7.35806000",
+                    "longitude": "-11.72083000"
+                },
+                {
+                    "id": 104673,
+                    "name": "Pujehun District",
+                    "latitude": "7.31855000",
+                    "longitude": "-11.57920000"
+                },
+                {
+                    "id": 104675,
+                    "name": "Rotifunk",
+                    "latitude": "8.22591000",
+                    "longitude": "-12.67760000"
+                },
+                {
+                    "id": 104679,
+                    "name": "Serabu",
+                    "latitude": "7.79311000",
+                    "longitude": "-12.05294000"
+                },
+                {
+                    "id": 104681,
+                    "name": "Sumbuya",
+                    "latitude": "7.64789000",
+                    "longitude": "-11.96060000"
+                },
+                {
+                    "id": 104686,
+                    "name": "Tongole",
+                    "latitude": "7.45092000",
+                    "longitude": "-11.90071000"
+                },
+                {
+                    "id": 104692,
+                    "name": "Zimmi",
+                    "latitude": "7.31356000",
+                    "longitude": "-11.30818000"
+                }
+            ]
+        },
+        {
+            "id": 913,
+            "name": "Western Area",
+            "state_code": "W",
+            "cities": [
+                {
+                    "id": 104623,
+                    "name": "Freetown",
+                    "latitude": "8.48714000",
+                    "longitude": "-13.23560000"
+                },
+                {
+                    "id": 104630,
+                    "name": "Hastings",
+                    "latitude": "8.37994000",
+                    "longitude": "-13.13693000"
+                },
+                {
+                    "id": 104641,
+                    "name": "Kent",
+                    "latitude": "8.33333000",
+                    "longitude": "-13.06667000"
+                },
+                {
+                    "id": 104688,
+                    "name": "Waterloo",
+                    "latitude": "8.33890000",
+                    "longitude": "-13.07091000"
+                }
+            ]
+        }
+    ],
+    "languages": [
+        "Bullom-sherbro",
+        "Ful",
+        "Kono-vai",
+        "Kuranko",
+        "Limba",
+        "Mende",
+        "Temne",
+        "Yalunka"
+    ],
+    "latlng": [
+        8.5,
+        -11.5
+    ],
+    "nativeName": "Sierra Leone",
+    "population": 6205000,
+    "timezones": [
+        "UTC"
+    ],
+    "tld": [
+        ".sl"
+    ],
+    "translations": {
+        "de": "Sierra Leone",
+        "es": "Sierra Leone",
+        "fr": "Sierra Leone",
+        "ja": "シエラレオネ",
+        "it": "Sierra Leone"
+    },
+    "continent": "Africa",
+    "independence": 1961,
+    "symbol": "animal",
+    "government": "Republic",
+    "location": "Western Africa",
+    "religion": "Islam",
+    "dish": null,
+    "temperature": 26.05,
+    "density": 105.987171,
+    "expectancy": 45.3,
+    "wiki": "http://en.wikipedia.org/wiki/sierra_leone"
+}

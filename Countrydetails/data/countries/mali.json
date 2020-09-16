@@ -1,0 +1,763 @@
+{
+    "name": "Mali",
+    "altSpellings": [
+        "ML",
+        "Republic of Mali",
+        "République du Mali"
+    ],
+    "area": 1240192,
+    "borders": [
+        "DZA",
+        "BFA",
+        "GIN",
+        "CIV",
+        "MRT",
+        "NER",
+        "SEN"
+    ],
+    "callingCodes": [
+        "223"
+    ],
+    "capital": "Bamako",
+    "capital_latlng": [
+        12.605033,
+        -7.986514
+    ],
+    "currencies": [
+        "XOF"
+    ],
+    "demonym": "Malian",
+    "flag": "",
+    "geoJSON": {
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "type": "Feature",
+                "id": "MLI",
+                "properties": {
+                    "name": "Mali"
+                },
+                "geometry": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                -12.17075,
+                                14.616834
+                            ],
+                            [
+                                -11.834208,
+                                14.799097
+                            ],
+                            [
+                                -11.666078,
+                                15.388208
+                            ],
+                            [
+                                -11.349095,
+                                15.411256
+                            ],
+                            [
+                                -10.650791,
+                                15.132746
+                            ],
+                            [
+                                -10.086846,
+                                15.330486
+                            ],
+                            [
+                                -9.700255,
+                                15.264107
+                            ],
+                            [
+                                -9.550238,
+                                15.486497
+                            ],
+                            [
+                                -5.537744,
+                                15.50169
+                            ],
+                            [
+                                -5.315277,
+                                16.201854
+                            ],
+                            [
+                                -5.488523,
+                                16.325102
+                            ],
+                            [
+                                -5.971129,
+                                20.640833
+                            ],
+                            [
+                                -6.453787,
+                                24.956591
+                            ],
+                            [
+                                -4.923337,
+                                24.974574
+                            ],
+                            [
+                                -1.550055,
+                                22.792666
+                            ],
+                            [
+                                1.823228,
+                                20.610809
+                            ],
+                            [
+                                2.060991,
+                                20.142233
+                            ],
+                            [
+                                2.683588,
+                                19.85623
+                            ],
+                            [
+                                3.146661,
+                                19.693579
+                            ],
+                            [
+                                3.158133,
+                                19.057364
+                            ],
+                            [
+                                4.267419,
+                                19.155265
+                            ],
+                            [
+                                4.27021,
+                                16.852227
+                            ],
+                            [
+                                3.723422,
+                                16.184284
+                            ],
+                            [
+                                3.638259,
+                                15.56812
+                            ],
+                            [
+                                2.749993,
+                                15.409525
+                            ],
+                            [
+                                1.385528,
+                                15.323561
+                            ],
+                            [
+                                1.015783,
+                                14.968182
+                            ],
+                            [
+                                0.374892,
+                                14.928908
+                            ],
+                            [
+                                -0.266257,
+                                14.924309
+                            ],
+                            [
+                                -0.515854,
+                                15.116158
+                            ],
+                            [
+                                -1.066363,
+                                14.973815
+                            ],
+                            [
+                                -2.001035,
+                                14.559008
+                            ],
+                            [
+                                -2.191825,
+                                14.246418
+                            ],
+                            [
+                                -2.967694,
+                                13.79815
+                            ],
+                            [
+                                -3.103707,
+                                13.541267
+                            ],
+                            [
+                                -3.522803,
+                                13.337662
+                            ],
+                            [
+                                -4.006391,
+                                13.472485
+                            ],
+                            [
+                                -4.280405,
+                                13.228444
+                            ],
+                            [
+                                -4.427166,
+                                12.542646
+                            ],
+                            [
+                                -5.220942,
+                                11.713859
+                            ],
+                            [
+                                -5.197843,
+                                11.375146
+                            ],
+                            [
+                                -5.470565,
+                                10.95127
+                            ],
+                            [
+                                -5.404342,
+                                10.370737
+                            ],
+                            [
+                                -5.816926,
+                                10.222555
+                            ],
+                            [
+                                -6.050452,
+                                10.096361
+                            ],
+                            [
+                                -6.205223,
+                                10.524061
+                            ],
+                            [
+                                -6.493965,
+                                10.411303
+                            ],
+                            [
+                                -6.666461,
+                                10.430811
+                            ],
+                            [
+                                -6.850507,
+                                10.138994
+                            ],
+                            [
+                                -7.622759,
+                                10.147236
+                            ],
+                            [
+                                -7.89959,
+                                10.297382
+                            ],
+                            [
+                                -8.029944,
+                                10.206535
+                            ],
+                            [
+                                -8.335377,
+                                10.494812
+                            ],
+                            [
+                                -8.282357,
+                                10.792597
+                            ],
+                            [
+                                -8.407311,
+                                10.909257
+                            ],
+                            [
+                                -8.620321,
+                                10.810891
+                            ],
+                            [
+                                -8.581305,
+                                11.136246
+                            ],
+                            [
+                                -8.376305,
+                                11.393646
+                            ],
+                            [
+                                -8.786099,
+                                11.812561
+                            ],
+                            [
+                                -8.905265,
+                                12.088358
+                            ],
+                            [
+                                -9.127474,
+                                12.30806
+                            ],
+                            [
+                                -9.327616,
+                                12.334286
+                            ],
+                            [
+                                -9.567912,
+                                12.194243
+                            ],
+                            [
+                                -9.890993,
+                                12.060479
+                            ],
+                            [
+                                -10.165214,
+                                11.844084
+                            ],
+                            [
+                                -10.593224,
+                                11.923975
+                            ],
+                            [
+                                -10.87083,
+                                12.177887
+                            ],
+                            [
+                                -11.036556,
+                                12.211245
+                            ],
+                            [
+                                -11.297574,
+                                12.077971
+                            ],
+                            [
+                                -11.456169,
+                                12.076834
+                            ],
+                            [
+                                -11.513943,
+                                12.442988
+                            ],
+                            [
+                                -11.467899,
+                                12.754519
+                            ],
+                            [
+                                -11.553398,
+                                13.141214
+                            ],
+                            [
+                                -11.927716,
+                                13.422075
+                            ],
+                            [
+                                -12.124887,
+                                13.994727
+                            ],
+                            [
+                                -12.17075,
+                                14.616834
+                            ]
+                        ]
+                    ]
+                }
+            }
+        ]
+    },
+    "ISO": {
+        "alpha2": "ML",
+        "alpha3": "MLI"
+    },
+    "languages": [
+        "Bambara",
+        "Ful",
+        "Senufo and Minianka",
+        "Songhai",
+        "Soninke",
+        "Tamashek"
+    ],
+    "states": [
+        {
+            "id": 253,
+            "name": "Bamako",
+            "state_code": "BKO",
+            "cities": [
+                {
+                    "id": 67587,
+                    "name": "Bamako",
+                    "latitude": "12.65000000",
+                    "longitude": "-8.00000000"
+                }
+            ]
+        },
+        {
+            "id": 258,
+            "name": "Gao Region",
+            "state_code": "7",
+            "cities": [
+                {
+                    "id": 67584,
+                    "name": "Ansongo",
+                    "latitude": "15.65970000",
+                    "longitude": "0.50220000"
+                },
+                {
+                    "id": 67592,
+                    "name": "Cercle de Bourem",
+                    "latitude": "17.71192000",
+                    "longitude": "-0.34284000"
+                },
+                {
+                    "id": 67601,
+                    "name": "Gao",
+                    "latitude": "16.27167000",
+                    "longitude": "-0.04472000"
+                },
+                {
+                    "id": 67602,
+                    "name": "Gao Cercle",
+                    "latitude": "16.72237000",
+                    "longitude": "0.43984000"
+                },
+                {
+                    "id": 67605,
+                    "name": "Inékar",
+                    "latitude": "15.95944000",
+                    "longitude": "3.14111000"
+                }
+            ]
+        },
+        {
+            "id": 252,
+            "name": "Kayes Region",
+            "state_code": "1",
+            "cities": [
+                {
+                    "id": 67586,
+                    "name": "Bafoulabé",
+                    "latitude": "13.80650000",
+                    "longitude": "-10.83210000"
+                },
+                {
+                    "id": 67608,
+                    "name": "Kayes",
+                    "latitude": "14.44693000",
+                    "longitude": "-11.44448000"
+                },
+                {
+                    "id": 67611,
+                    "name": "Kita",
+                    "latitude": "13.03490000",
+                    "longitude": "-9.48950000"
+                },
+                {
+                    "id": 67612,
+                    "name": "Kokofata",
+                    "latitude": "12.88333000",
+                    "longitude": "-9.95000000"
+                },
+                {
+                    "id": 67623,
+                    "name": "Sagalo",
+                    "latitude": "12.20000000",
+                    "longitude": "-10.70000000"
+                }
+            ]
+        },
+        {
+            "id": 257,
+            "name": "Kidal Region",
+            "state_code": "8",
+            "cities": [
+                {
+                    "id": 67583,
+                    "name": "Abeïbara",
+                    "latitude": "19.11667000",
+                    "longitude": "1.75000000"
+                },
+                {
+                    "id": 67595,
+                    "name": "Cercle d’Abeïbara",
+                    "latitude": "19.48878000",
+                    "longitude": "2.20025000"
+                },
+                {
+                    "id": 67609,
+                    "name": "Kidal",
+                    "latitude": "18.44111000",
+                    "longitude": "1.40778000"
+                }
+            ]
+        },
+        {
+            "id": 250,
+            "name": "Koulikoro Region",
+            "state_code": "2",
+            "cities": [
+                {
+                    "id": 67588,
+                    "name": "Banamba",
+                    "latitude": "13.54773000",
+                    "longitude": "-7.44808000"
+                },
+                {
+                    "id": 67606,
+                    "name": "Kangaba",
+                    "latitude": "11.93333000",
+                    "longitude": "-8.41667000"
+                },
+                {
+                    "id": 67607,
+                    "name": "Kati",
+                    "latitude": "12.74409000",
+                    "longitude": "-8.07257000"
+                },
+                {
+                    "id": 67613,
+                    "name": "Kolokani",
+                    "latitude": "13.57280000",
+                    "longitude": "-8.03390000"
+                },
+                {
+                    "id": 67615,
+                    "name": "Koulikoro",
+                    "latitude": "12.86273000",
+                    "longitude": "-7.55985000"
+                }
+            ]
+        },
+        {
+            "id": 251,
+            "name": "Ménaka Region",
+            "state_code": "9",
+            "cities": []
+        },
+        {
+            "id": 255,
+            "name": "Mopti Region",
+            "state_code": "5",
+            "cities": [
+                {
+                    "id": 67589,
+                    "name": "Bandiagara",
+                    "latitude": "14.35005000",
+                    "longitude": "-3.61038000"
+                },
+                {
+                    "id": 67598,
+                    "name": "Djénné",
+                    "latitude": "13.90608000",
+                    "longitude": "-4.55332000"
+                },
+                {
+                    "id": 67599,
+                    "name": "Douentza",
+                    "latitude": "15.00155000",
+                    "longitude": "-2.94978000"
+                },
+                {
+                    "id": 67600,
+                    "name": "Douentza Cercle",
+                    "latitude": "15.06947000",
+                    "longitude": "-2.40875000"
+                },
+                {
+                    "id": 67620,
+                    "name": "Mopti",
+                    "latitude": "14.48430000",
+                    "longitude": "-4.18296000"
+                },
+                {
+                    "id": 67629,
+                    "name": "Ténenkou",
+                    "latitude": "14.45722000",
+                    "longitude": "-4.91690000"
+                }
+            ]
+        },
+        {
+            "id": 249,
+            "name": "Ségou Region",
+            "state_code": "4",
+            "cities": [
+                {
+                    "id": 67590,
+                    "name": "Baroueli",
+                    "latitude": "13.07489000",
+                    "longitude": "-6.57171000"
+                },
+                {
+                    "id": 67594,
+                    "name": "Cercle de San",
+                    "latitude": "13.17895000",
+                    "longitude": "-5.01617000"
+                },
+                {
+                    "id": 67618,
+                    "name": "Ké-Macina",
+                    "latitude": "13.96410000",
+                    "longitude": "-5.35791000"
+                },
+                {
+                    "id": 67610,
+                    "name": "Kinmparana",
+                    "latitude": "12.84217000",
+                    "longitude": "-4.92450000"
+                },
+                {
+                    "id": 67619,
+                    "name": "Markala",
+                    "latitude": "13.70210000",
+                    "longitude": "-6.06590000"
+                },
+                {
+                    "id": 67624,
+                    "name": "San",
+                    "latitude": "13.30335000",
+                    "longitude": "-4.89562000"
+                },
+                {
+                    "id": 67627,
+                    "name": "Ségou",
+                    "latitude": "13.43170000",
+                    "longitude": "-6.21570000"
+                },
+                {
+                    "id": 67626,
+                    "name": "Sokolo",
+                    "latitude": "14.73280000",
+                    "longitude": "-6.12190000"
+                }
+            ]
+        },
+        {
+            "id": 254,
+            "name": "Sikasso Region",
+            "state_code": "3",
+            "cities": [
+                {
+                    "id": 67591,
+                    "name": "Bougouni",
+                    "latitude": "11.41769000",
+                    "longitude": "-7.48323000"
+                },
+                {
+                    "id": 67614,
+                    "name": "Kolondiéba",
+                    "latitude": "11.08943000",
+                    "longitude": "-6.89290000"
+                },
+                {
+                    "id": 67616,
+                    "name": "Koutiala",
+                    "latitude": "12.39173000",
+                    "longitude": "-5.46421000"
+                },
+                {
+                    "id": 67617,
+                    "name": "Koutiala Cercle",
+                    "latitude": "12.35311000",
+                    "longitude": "-5.58390000"
+                },
+                {
+                    "id": 67622,
+                    "name": "Ntossoni",
+                    "latitude": "12.53040000",
+                    "longitude": "-5.77003000"
+                },
+                {
+                    "id": 67625,
+                    "name": "Sikasso",
+                    "latitude": "11.31755000",
+                    "longitude": "-5.66654000"
+                },
+                {
+                    "id": 67630,
+                    "name": "Yorosso",
+                    "latitude": "12.35811000",
+                    "longitude": "-4.77688000"
+                }
+            ]
+        },
+        {
+            "id": 256,
+            "name": "Taoudénit Region",
+            "state_code": "10",
+            "cities": []
+        },
+        {
+            "id": 248,
+            "name": "Tombouctou Region",
+            "state_code": "6",
+            "cities": [
+                {
+                    "id": 67585,
+                    "name": "Araouane",
+                    "latitude": "18.90476000",
+                    "longitude": "-3.52649000"
+                },
+                {
+                    "id": 67593,
+                    "name": "Cercle de Goundam",
+                    "latitude": "18.60035000",
+                    "longitude": "-4.99306000"
+                },
+                {
+                    "id": 67596,
+                    "name": "Dire",
+                    "latitude": "16.28017000",
+                    "longitude": "-3.31302000"
+                },
+                {
+                    "id": 67597,
+                    "name": "Diré",
+                    "latitude": "12.28333000",
+                    "longitude": "-10.96667000"
+                },
+                {
+                    "id": 67603,
+                    "name": "Goundam",
+                    "latitude": "16.41453000",
+                    "longitude": "-3.67075000"
+                },
+                {
+                    "id": 67604,
+                    "name": "Gourma-Rharous Cercle",
+                    "latitude": "16.07979000",
+                    "longitude": "-1.76981000"
+                },
+                {
+                    "id": 67621,
+                    "name": "Niafunké",
+                    "latitude": "15.93220000",
+                    "longitude": "-3.99060000"
+                },
+                {
+                    "id": 67628,
+                    "name": "Timbuktu",
+                    "latitude": "16.77348000",
+                    "longitude": "-3.00742000"
+                }
+            ]
+        }
+    ],
+    "latlng": [
+        17,
+        -4
+    ],
+    "nativeName": "Mali",
+    "population": 15768000,
+    
+    "timezones": [
+        "UTC"
+    ],
+    "tld": [
+        ".ml"
+    ],
+    "translations": {
+        "de": "Mali",
+        "es": "Mali",
+        "fr": "Mali",
+        "ja": "マリ",
+        "it": "Mali"
+    },
+    "expectancy": 46.7,
+    "dish": null,
+    "symbol": null,
+    "density": 15.63501586,
+    "location": "Western Africa",
+    "religion": "Islam",
+    "temperature": 28.25,
+    "continent": "Africa",
+    "government": "Republic",
+    "independence": 1960,
+
+    "wiki": "http://en.wikipedia.org/wiki/mali"
+}

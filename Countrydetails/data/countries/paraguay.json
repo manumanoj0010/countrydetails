@@ -1,0 +1,1180 @@
+{
+    "name": "Paraguay",
+    "altSpellings": [
+        "PY",
+        "Republic of Paraguay",
+        "República del Paraguay",
+        "Tetã Paraguái"
+    ],
+    "area": 406752,
+    "borders": [
+        "ARG",
+        "BOL",
+        "BRA"
+    ],
+    "callingCodes": [
+        "595"
+    ],
+    "capital": "Asunción",
+    "capital_latlng": [
+        -25.280046,
+        -57.634381
+    ],
+    "currencies": [
+        "PYG"
+    ],
+    "demonym": "Paraguayan",
+    "flag": "",
+    "geoJSON": {
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "type": "Feature",
+                "id": "PRY",
+                "properties": {
+                    "name": "Paraguay"
+                },
+                "geometry": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                -62.685057,
+                                -22.249029
+                            ],
+                            [
+                                -62.291179,
+                                -21.051635
+                            ],
+                            [
+                                -62.265961,
+                                -20.513735
+                            ],
+                            [
+                                -61.786326,
+                                -19.633737
+                            ],
+                            [
+                                -60.043565,
+                                -19.342747
+                            ],
+                            [
+                                -59.115042,
+                                -19.356906
+                            ],
+                            [
+                                -58.183471,
+                                -19.868399
+                            ],
+                            [
+                                -58.166392,
+                                -20.176701
+                            ],
+                            [
+                                -57.870674,
+                                -20.732688
+                            ],
+                            [
+                                -57.937156,
+                                -22.090176
+                            ],
+                            [
+                                -56.88151,
+                                -22.282154
+                            ],
+                            [
+                                -56.473317,
+                                -22.0863
+                            ],
+                            [
+                                -55.797958,
+                                -22.35693
+                            ],
+                            [
+                                -55.610683,
+                                -22.655619
+                            ],
+                            [
+                                -55.517639,
+                                -23.571998
+                            ],
+                            [
+                                -55.400747,
+                                -23.956935
+                            ],
+                            [
+                                -55.027902,
+                                -24.001274
+                            ],
+                            [
+                                -54.652834,
+                                -23.839578
+                            ],
+                            [
+                                -54.29296,
+                                -24.021014
+                            ],
+                            [
+                                -54.293476,
+                                -24.5708
+                            ],
+                            [
+                                -54.428946,
+                                -25.162185
+                            ],
+                            [
+                                -54.625291,
+                                -25.739255
+                            ],
+                            [
+                                -54.788795,
+                                -26.621786
+                            ],
+                            [
+                                -55.695846,
+                                -27.387837
+                            ],
+                            [
+                                -56.486702,
+                                -27.548499
+                            ],
+                            [
+                                -57.60976,
+                                -27.395899
+                            ],
+                            [
+                                -58.618174,
+                                -27.123719
+                            ],
+                            [
+                                -57.63366,
+                                -25.603657
+                            ],
+                            [
+                                -57.777217,
+                                -25.16234
+                            ],
+                            [
+                                -58.807128,
+                                -24.771459
+                            ],
+                            [
+                                -60.028966,
+                                -24.032796
+                            ],
+                            [
+                                -60.846565,
+                                -23.880713
+                            ],
+                            [
+                                -62.685057,
+                                -22.249029
+                            ]
+                        ]
+                    ]
+                }
+            }
+        ]
+    },
+    "ISO": {
+        "alpha2": "PY",
+        "alpha3": "PRY"
+    },
+    "states": [
+        {
+            "id": 2785,
+            "name": "Alto Paraguay Department",
+            "state_code": "16",
+            "cities": [
+                {
+                    "id": 89736,
+                    "name": "Capitán Pablo Lagerenza",
+                    "latitude": "-19.91667000",
+                    "longitude": "-60.78333000"
+                },
+                {
+                    "id": 89768,
+                    "name": "Fuerte Olimpo",
+                    "latitude": "-21.04153000",
+                    "longitude": "-57.87377000"
+                }
+            ]
+        },
+        {
+            "id": 2784,
+            "name": "Alto Paraná Department",
+            "state_code": "10",
+            "cities": [
+                {
+                    "id": 89743,
+                    "name": "Cedrales",
+                    "latitude": "-25.65668000",
+                    "longitude": "-54.72272000"
+                },
+                {
+                    "id": 89745,
+                    "name": "Ciudad del Este",
+                    "latitude": "-25.50972000",
+                    "longitude": "-54.61111000"
+                },
+                {
+                    "id": 89751,
+                    "name": "Colonia Minga Porá",
+                    "latitude": "-24.86667000",
+                    "longitude": "-54.90000000"
+                },
+                {
+                    "id": 89759,
+                    "name": "Doctor Juan León Mallorquín",
+                    "latitude": "-25.43053000",
+                    "longitude": "-55.25412000"
+                },
+                {
+                    "id": 89782,
+                    "name": "Itakyry",
+                    "latitude": "-24.98611000",
+                    "longitude": "-55.14963000"
+                },
+                {
+                    "id": 89799,
+                    "name": "Naranjal",
+                    "latitude": "-25.96667000",
+                    "longitude": "-55.18333000"
+                },
+                {
+                    "id": 89812,
+                    "name": "Presidente Franco",
+                    "latitude": "-25.56384000",
+                    "longitude": "-54.61097000"
+                },
+                {
+                    "id": 89818,
+                    "name": "San Alberto",
+                    "latitude": "-24.96667000",
+                    "longitude": "-54.90000000"
+                },
+                {
+                    "id": 89835,
+                    "name": "Santa Rita",
+                    "latitude": "-25.78333000",
+                    "longitude": "-55.06667000"
+                },
+                {
+                    "id": 89852,
+                    "name": "Yguazú",
+                    "latitude": "-25.46187000",
+                    "longitude": "-55.00007000"
+                }
+            ]
+        },
+        {
+            "id": 2782,
+            "name": "Amambay Department",
+            "state_code": "13",
+            "cities": [
+                {
+                    "id": 89725,
+                    "name": "Bella Vista",
+                    "latitude": "-22.13333000",
+                    "longitude": "-56.51667000"
+                },
+                {
+                    "id": 89734,
+                    "name": "Capitán Bado",
+                    "latitude": "-23.26667000",
+                    "longitude": "-55.53333000"
+                },
+                {
+                    "id": 89807,
+                    "name": "Pedro Juan Caballero",
+                    "latitude": "-22.54722000",
+                    "longitude": "-55.73333000"
+                }
+            ]
+        },
+        {
+            "id": 2780,
+            "name": "Boquerón Department",
+            "state_code": "19",
+            "cities": [
+                {
+                    "id": 89750,
+                    "name": "Colonia Menno",
+                    "latitude": "-22.36667000",
+                    "longitude": "-59.81667000"
+                },
+                {
+                    "id": 89752,
+                    "name": "Colonia Neuland",
+                    "latitude": "-22.66667000",
+                    "longitude": "-60.11667000"
+                },
+                {
+                    "id": 89766,
+                    "name": "Filadelfia",
+                    "latitude": "-22.33936000",
+                    "longitude": "-60.03157000"
+                }
+            ]
+        },
+        {
+            "id": 2773,
+            "name": "Caaguazú",
+            "state_code": "5",
+            "cities": [
+                {
+                    "id": 89730,
+                    "name": "Caaguazú",
+                    "latitude": "-25.47104000",
+                    "longitude": "-56.01603000"
+                },
+                {
+                    "id": 89740,
+                    "name": "Carayaó",
+                    "latitude": "-25.19750000",
+                    "longitude": "-56.39878000"
+                },
+                {
+                    "id": 89742,
+                    "name": "Cecilio Baez",
+                    "latitude": "-25.07158000",
+                    "longitude": "-56.24386000"
+                },
+                {
+                    "id": 89748,
+                    "name": "Colonia General Alfredo Stroessner",
+                    "latitude": "-25.36395000",
+                    "longitude": "-55.70690000"
+                },
+                {
+                    "id": 89757,
+                    "name": "Coronel Oviedo",
+                    "latitude": "-25.44444000",
+                    "longitude": "-56.44028000"
+                },
+                {
+                    "id": 89760,
+                    "name": "Doctor Juan Manuel Frutos",
+                    "latitude": "-25.38380000",
+                    "longitude": "-55.83215000"
+                },
+                {
+                    "id": 89796,
+                    "name": "Mbutuý",
+                    "latitude": "-24.97518000",
+                    "longitude": "-56.30927000"
+                },
+                {
+                    "id": 89816,
+                    "name": "Repatriación",
+                    "latitude": "-25.53333000",
+                    "longitude": "-55.95000000"
+                },
+                {
+                    "id": 89823,
+                    "name": "San Joaquín",
+                    "latitude": "-25.02853000",
+                    "longitude": "-56.04280000"
+                },
+                {
+                    "id": 89824,
+                    "name": "San José",
+                    "latitude": "-25.53333000",
+                    "longitude": "-56.73333000"
+                },
+                {
+                    "id": 89853,
+                    "name": "Yhú",
+                    "latitude": "-25.05784000",
+                    "longitude": "-55.92267000"
+                }
+            ]
+        },
+        {
+            "id": 2775,
+            "name": "Caazapá",
+            "state_code": "6",
+            "cities": [
+                {
+                    "id": 89716,
+                    "name": "Abaí",
+                    "latitude": "-26.03333000",
+                    "longitude": "-55.93333000"
+                },
+                {
+                    "id": 89728,
+                    "name": "Buena Vista",
+                    "latitude": "-26.18387000",
+                    "longitude": "-56.08171000"
+                },
+                {
+                    "id": 89732,
+                    "name": "Caazapá",
+                    "latitude": "-26.19583000",
+                    "longitude": "-56.36806000"
+                },
+                {
+                    "id": 89772,
+                    "name": "General Higinio Morínigo",
+                    "latitude": "-25.95000000",
+                    "longitude": "-55.91667000"
+                },
+                {
+                    "id": 89826,
+                    "name": "San Juan Nepomuceno",
+                    "latitude": "-26.11229000",
+                    "longitude": "-55.93861000"
+                },
+                {
+                    "id": 89850,
+                    "name": "Yegros",
+                    "latitude": "-26.45000000",
+                    "longitude": "-56.40000000"
+                },
+                {
+                    "id": 89855,
+                    "name": "Yuty",
+                    "latitude": "-26.61471000",
+                    "longitude": "-56.24607000"
+                }
+            ]
+        },
+        {
+            "id": 2771,
+            "name": "Canindeyú",
+            "state_code": "14",
+            "cities": [
+                {
+                    "id": 89747,
+                    "name": "Colonia Catuete",
+                    "latitude": "-24.13333000",
+                    "longitude": "-54.61667000"
+                },
+                {
+                    "id": 89758,
+                    "name": "Corpus Christi",
+                    "latitude": "-24.08040000",
+                    "longitude": "-54.93933000"
+                },
+                {
+                    "id": 89790,
+                    "name": "La Paloma",
+                    "latitude": "-24.12957000",
+                    "longitude": "-54.61376000"
+                },
+                {
+                    "id": 89803,
+                    "name": "Nueva Esperanza",
+                    "latitude": "-24.50760000",
+                    "longitude": "-54.85510000"
+                },
+                {
+                    "id": 89817,
+                    "name": "Salto del Guairá",
+                    "latitude": "-24.06250000",
+                    "longitude": "-54.30694000"
+                },
+                {
+                    "id": 89822,
+                    "name": "San Isidro de Curuguaty",
+                    "latitude": "-24.47184000",
+                    "longitude": "-55.69227000"
+                },
+                {
+                    "id": 89851,
+                    "name": "Ygatimi",
+                    "latitude": "-24.12371000",
+                    "longitude": "-55.64418000"
+                }
+            ]
+        },
+        {
+            "id": 2777,
+            "name": "Central Department",
+            "state_code": "11",
+            "cities": [
+                {
+                    "id": 89720,
+                    "name": "Areguá",
+                    "latitude": "-25.31250000",
+                    "longitude": "-57.38472000"
+                },
+                {
+                    "id": 89733,
+                    "name": "Capiatá",
+                    "latitude": "-25.35520000",
+                    "longitude": "-57.44545000"
+                },
+                {
+                    "id": 89765,
+                    "name": "Fernando de la Mora",
+                    "latitude": "-25.33860000",
+                    "longitude": "-57.52167000"
+                },
+                {
+                    "id": 89774,
+                    "name": "Guarambaré",
+                    "latitude": "-25.49096000",
+                    "longitude": "-57.45567000"
+                },
+                {
+                    "id": 89786,
+                    "name": "Itá",
+                    "latitude": "-25.50054000",
+                    "longitude": "-57.36717000"
+                },
+                {
+                    "id": 89784,
+                    "name": "Itauguá",
+                    "latitude": "-25.39258000",
+                    "longitude": "-57.35421000"
+                },
+                {
+                    "id": 89791,
+                    "name": "Lambaré",
+                    "latitude": "-25.34682000",
+                    "longitude": "-57.60647000"
+                },
+                {
+                    "id": 89793,
+                    "name": "Limpio",
+                    "latitude": "-25.16611000",
+                    "longitude": "-57.48562000"
+                },
+                {
+                    "id": 89794,
+                    "name": "Mariano Roque Alonso",
+                    "latitude": "-25.20791000",
+                    "longitude": "-57.53202000"
+                },
+                {
+                    "id": 89802,
+                    "name": "Nemby",
+                    "latitude": "-25.39490000",
+                    "longitude": "-57.53574000"
+                },
+                {
+                    "id": 89804,
+                    "name": "Nueva Italia",
+                    "latitude": "-25.61080000",
+                    "longitude": "-57.46563000"
+                },
+                {
+                    "id": 89819,
+                    "name": "San Antonio",
+                    "latitude": "-25.42126000",
+                    "longitude": "-57.54725000"
+                },
+                {
+                    "id": 89828,
+                    "name": "San Lorenzo",
+                    "latitude": "-25.33968000",
+                    "longitude": "-57.50879000"
+                },
+                {
+                    "id": 89843,
+                    "name": "Villa Elisa",
+                    "latitude": "-25.36760000",
+                    "longitude": "-57.59274000"
+                },
+                {
+                    "id": 89854,
+                    "name": "Ypacarai",
+                    "latitude": "-25.40777000",
+                    "longitude": "-57.28889000"
+                }
+            ]
+        },
+        {
+            "id": 2779,
+            "name": "Concepción Department",
+            "state_code": "1",
+            "cities": [
+                {
+                    "id": 89726,
+                    "name": "Belén",
+                    "latitude": "-23.46611000",
+                    "longitude": "-57.26194000"
+                },
+                {
+                    "id": 89755,
+                    "name": "Concepción",
+                    "latitude": "-23.39985000",
+                    "longitude": "-57.43236000"
+                },
+                {
+                    "id": 89777,
+                    "name": "Horqueta",
+                    "latitude": "-23.34278000",
+                    "longitude": "-57.05972000"
+                }
+            ]
+        },
+        {
+            "id": 2783,
+            "name": "Cordillera Department",
+            "state_code": "3",
+            "cities": [
+                {
+                    "id": 89718,
+                    "name": "Altos",
+                    "latitude": "-25.26263000",
+                    "longitude": "-57.25443000"
+                },
+                {
+                    "id": 89722,
+                    "name": "Arroyos y Esteros",
+                    "latitude": "-25.05478000",
+                    "longitude": "-57.09873000"
+                },
+                {
+                    "id": 89723,
+                    "name": "Atyrá",
+                    "latitude": "-25.27876000",
+                    "longitude": "-57.17192000"
+                },
+                {
+                    "id": 89729,
+                    "name": "Caacupé",
+                    "latitude": "-25.38575000",
+                    "longitude": "-57.14217000"
+                },
+                {
+                    "id": 89738,
+                    "name": "Caraguatay",
+                    "latitude": "-25.23844000",
+                    "longitude": "-56.82693000"
+                },
+                {
+                    "id": 89762,
+                    "name": "Emboscada",
+                    "latitude": "-25.15000000",
+                    "longitude": "-57.35000000"
+                },
+                {
+                    "id": 89764,
+                    "name": "Eusebio Ayala",
+                    "latitude": "-25.38276000",
+                    "longitude": "-56.96088000"
+                },
+                {
+                    "id": 89779,
+                    "name": "Isla Pucú",
+                    "latitude": "-25.30853000",
+                    "longitude": "-56.89986000"
+                },
+                {
+                    "id": 89780,
+                    "name": "Itacurubí de la Cordillera",
+                    "latitude": "-25.46158000",
+                    "longitude": "-56.85333000"
+                },
+                {
+                    "id": 89811,
+                    "name": "Piribebuy",
+                    "latitude": "-25.46498000",
+                    "longitude": "-57.04183000"
+                },
+                {
+                    "id": 89820,
+                    "name": "San Bernardino",
+                    "latitude": "-25.31067000",
+                    "longitude": "-57.29628000"
+                },
+                {
+                    "id": 89833,
+                    "name": "Santa Elena",
+                    "latitude": "-25.41327000",
+                    "longitude": "-56.79708000"
+                },
+                {
+                    "id": 89840,
+                    "name": "Tobatí",
+                    "latitude": "-25.26111000",
+                    "longitude": "-57.08329000"
+                }
+            ]
+        },
+        {
+            "id": 2772,
+            "name": "Guairá Department",
+            "state_code": "4",
+            "cities": [
+                {
+                    "id": 89749,
+                    "name": "Colonia Mauricio José Troche",
+                    "latitude": "-25.56667000",
+                    "longitude": "-56.28333000"
+                },
+                {
+                    "id": 89756,
+                    "name": "Coronel Martínez",
+                    "latitude": "-25.75862000",
+                    "longitude": "-56.61677000"
+                },
+                {
+                    "id": 89778,
+                    "name": "Independencia",
+                    "latitude": "-25.69100000",
+                    "longitude": "-56.26781000"
+                },
+                {
+                    "id": 89783,
+                    "name": "Itapé",
+                    "latitude": "-25.85172000",
+                    "longitude": "-56.61385000"
+                },
+                {
+                    "id": 89785,
+                    "name": "Iturbe",
+                    "latitude": "-26.05508000",
+                    "longitude": "-56.48463000"
+                },
+                {
+                    "id": 89795,
+                    "name": "Mbocayaty",
+                    "latitude": "-25.71938000",
+                    "longitude": "-56.42179000"
+                },
+                {
+                    "id": 89800,
+                    "name": "Natalicio Talavera",
+                    "latitude": "-25.63333000",
+                    "longitude": "-56.30000000"
+                },
+                {
+                    "id": 89846,
+                    "name": "Villarrica",
+                    "latitude": "-25.74946000",
+                    "longitude": "-56.43518000"
+                }
+            ]
+        },
+        {
+            "id": 2778,
+            "name": "Itapúa",
+            "state_code": "7",
+            "cities": [
+                {
+                    "id": 89721,
+                    "name": "Arquitecto Tomás Romero Pereira",
+                    "latitude": "-26.48333000",
+                    "longitude": "-55.25000000"
+                },
+                {
+                    "id": 89724,
+                    "name": "Bella Vista",
+                    "latitude": "-27.05000000",
+                    "longitude": "-55.55000000"
+                },
+                {
+                    "id": 89735,
+                    "name": "Capitán Miranda",
+                    "latitude": "-27.20000000",
+                    "longitude": "-55.80000000"
+                },
+                {
+                    "id": 89741,
+                    "name": "Carmen del Paraná",
+                    "latitude": "-27.22232000",
+                    "longitude": "-56.15243000"
+                },
+                {
+                    "id": 89746,
+                    "name": "Colonia Carlos Antonio López",
+                    "latitude": "-26.39853000",
+                    "longitude": "-54.75690000"
+                },
+                {
+                    "id": 89754,
+                    "name": "Colonia San Lorenzo",
+                    "latitude": "-26.49324000",
+                    "longitude": "-54.79989000"
+                },
+                {
+                    "id": 89761,
+                    "name": "Edelira",
+                    "latitude": "-26.76734000",
+                    "longitude": "-55.27872000"
+                },
+                {
+                    "id": 89763,
+                    "name": "Encarnación",
+                    "latitude": "-27.33056000",
+                    "longitude": "-55.86667000"
+                },
+                {
+                    "id": 89767,
+                    "name": "Fram",
+                    "latitude": "-26.98333000",
+                    "longitude": "-55.88333000"
+                },
+                {
+                    "id": 89769,
+                    "name": "General Artigas",
+                    "latitude": "-26.93522000",
+                    "longitude": "-56.22168000"
+                },
+                {
+                    "id": 89770,
+                    "name": "General Delgado",
+                    "latitude": "-27.09046000",
+                    "longitude": "-56.52474000"
+                },
+                {
+                    "id": 89776,
+                    "name": "Hohenau",
+                    "latitude": "-27.07315000",
+                    "longitude": "-55.64247000"
+                },
+                {
+                    "id": 89787,
+                    "name": "Jesús",
+                    "latitude": "-27.05598000",
+                    "longitude": "-55.74130000"
+                },
+                {
+                    "id": 89801,
+                    "name": "Natalio",
+                    "latitude": "-26.75702000",
+                    "longitude": "-55.13777000"
+                },
+                {
+                    "id": 89805,
+                    "name": "Obligado",
+                    "latitude": "-27.03333000",
+                    "longitude": "-55.63333000"
+                },
+                {
+                    "id": 89809,
+                    "name": "Pirapó",
+                    "latitude": "-26.86012000",
+                    "longitude": "-55.54357000"
+                },
+                {
+                    "id": 89813,
+                    "name": "Puerto Mayor Otaño",
+                    "latitude": "-26.40000000",
+                    "longitude": "-54.70000000"
+                },
+                {
+                    "id": 89821,
+                    "name": "San Cosme y Damián",
+                    "latitude": "-27.31741000",
+                    "longitude": "-56.33087000"
+                },
+                {
+                    "id": 89827,
+                    "name": "San Juan del Paraná",
+                    "latitude": "-27.30168000",
+                    "longitude": "-55.96509000"
+                },
+                {
+                    "id": 89832,
+                    "name": "San Pedro del Paraná",
+                    "latitude": "-26.83268000",
+                    "longitude": "-56.20575000"
+                },
+                {
+                    "id": 89841,
+                    "name": "Trinidad",
+                    "latitude": "-27.11667000",
+                    "longitude": "-55.78333000"
+                }
+            ]
+        },
+        {
+            "id": 2786,
+            "name": "Misiones Department",
+            "state_code": "8",
+            "cities": [
+                {
+                    "id": 89788,
+                    "name": "Juan de Ayolas",
+                    "latitude": "-27.38662000",
+                    "longitude": "-56.84724000"
+                },
+                {
+                    "id": 89825,
+                    "name": "San Juan Bautista",
+                    "latitude": "-26.66944000",
+                    "longitude": "-57.14583000"
+                },
+                {
+                    "id": 89829,
+                    "name": "San Miguel",
+                    "latitude": "-26.50000000",
+                    "longitude": "-57.05000000"
+                },
+                {
+                    "id": 89830,
+                    "name": "San Patricio",
+                    "latitude": "-26.96667000",
+                    "longitude": "-56.81667000"
+                },
+                {
+                    "id": 89834,
+                    "name": "Santa María",
+                    "latitude": "-26.78333000",
+                    "longitude": "-56.93333000"
+                },
+                {
+                    "id": 89836,
+                    "name": "Santa Rosa Misiones",
+                    "latitude": "-26.88730000",
+                    "longitude": "-56.84905000"
+                },
+                {
+                    "id": 89837,
+                    "name": "Santiago",
+                    "latitude": "-27.14310000",
+                    "longitude": "-56.76803000"
+                },
+                {
+                    "id": 89844,
+                    "name": "Villa Florida",
+                    "latitude": "-26.38333000",
+                    "longitude": "-57.15000000"
+                }
+            ]
+        },
+        {
+            "id": 2781,
+            "name": "Ñeembucú Department",
+            "state_code": "12",
+            "cities": [
+                {
+                    "id": 89744,
+                    "name": "Cerrito",
+                    "latitude": "-27.34215000",
+                    "longitude": "-57.64119000"
+                },
+                {
+                    "id": 89773,
+                    "name": "General José Eduvigis Díaz",
+                    "latitude": "-27.20136000",
+                    "longitude": "-58.36740000"
+                },
+                {
+                    "id": 89808,
+                    "name": "Pilar",
+                    "latitude": "-26.85874000",
+                    "longitude": "-58.30639000"
+                }
+            ]
+        },
+        {
+            "id": 2774,
+            "name": "Paraguarí Department",
+            "state_code": "9",
+            "cities": [
+                {
+                    "id": 89717,
+                    "name": "Acahay",
+                    "latitude": "-25.91667000",
+                    "longitude": "-57.15000000"
+                },
+                {
+                    "id": 89731,
+                    "name": "Caapucú",
+                    "latitude": "-26.23523000",
+                    "longitude": "-57.18212000"
+                },
+                {
+                    "id": 89739,
+                    "name": "Carapeguá",
+                    "latitude": "-25.80000000",
+                    "longitude": "-57.23333000"
+                },
+                {
+                    "id": 89789,
+                    "name": "La Colmena",
+                    "latitude": "-25.88627000",
+                    "longitude": "-56.84084000"
+                },
+                {
+                    "id": 89797,
+                    "name": "Mbuyapey",
+                    "latitude": "-26.21921000",
+                    "longitude": "-56.75777000"
+                },
+                {
+                    "id": 89806,
+                    "name": "Paraguarí",
+                    "latitude": "-25.62083000",
+                    "longitude": "-57.14722000"
+                },
+                {
+                    "id": 89810,
+                    "name": "Pirayú",
+                    "latitude": "-25.48406000",
+                    "longitude": "-57.23490000"
+                },
+                {
+                    "id": 89815,
+                    "name": "Quiindy",
+                    "latitude": "-25.97606000",
+                    "longitude": "-57.23353000"
+                },
+                {
+                    "id": 89838,
+                    "name": "Sapucaí",
+                    "latitude": "-25.66652000",
+                    "longitude": "-56.95215000"
+                },
+                {
+                    "id": 89847,
+                    "name": "Yaguarón",
+                    "latitude": "-25.56139000",
+                    "longitude": "-57.28343000"
+                },
+                {
+                    "id": 89849,
+                    "name": "Ybycuí",
+                    "latitude": "-26.01667000",
+                    "longitude": "-57.05000000"
+                }
+            ]
+        },
+        {
+            "id": 2770,
+            "name": "Presidente Hayes Department",
+            "state_code": "15",
+            "cities": [
+                {
+                    "id": 89727,
+                    "name": "Benjamín Aceval",
+                    "latitude": "-24.96667000",
+                    "longitude": "-57.56667000"
+                },
+                {
+                    "id": 89798,
+                    "name": "Nanawua",
+                    "latitude": "-25.27930000",
+                    "longitude": "-57.70307000"
+                },
+                {
+                    "id": 89845,
+                    "name": "Villa Hayes",
+                    "latitude": "-25.09306000",
+                    "longitude": "-57.52361000"
+                }
+            ]
+        },
+        {
+            "id": 2776,
+            "name": "San Pedro Department",
+            "state_code": "2",
+            "cities": [
+                {
+                    "id": 89719,
+                    "name": "Antequera",
+                    "latitude": "-24.08526000",
+                    "longitude": "-57.20221000"
+                },
+                {
+                    "id": 89737,
+                    "name": "Capiíbary",
+                    "latitude": "-24.80000000",
+                    "longitude": "-56.03333000"
+                },
+                {
+                    "id": 89753,
+                    "name": "Colonia Nueva Germania",
+                    "latitude": "-23.91137000",
+                    "longitude": "-56.70091000"
+                },
+                {
+                    "id": 89771,
+                    "name": "General Elizardo Aquino",
+                    "latitude": "-24.44417000",
+                    "longitude": "-56.90061000"
+                },
+                {
+                    "id": 89775,
+                    "name": "Guayaybi",
+                    "latitude": "-24.53333000",
+                    "longitude": "-56.43333000"
+                },
+                {
+                    "id": 89781,
+                    "name": "Itacurubí del Rosario",
+                    "latitude": "-24.53541000",
+                    "longitude": "-56.82352000"
+                },
+                {
+                    "id": 89792,
+                    "name": "Lima",
+                    "latitude": "-23.88327000",
+                    "longitude": "-56.48217000"
+                },
+                {
+                    "id": 89814,
+                    "name": "Puerto Rosario",
+                    "latitude": "-24.44127000",
+                    "longitude": "-57.14272000"
+                },
+                {
+                    "id": 89831,
+                    "name": "San Pedro de Ycuamandiyú",
+                    "latitude": "-24.08534000",
+                    "longitude": "-57.08745000"
+                },
+                {
+                    "id": 89839,
+                    "name": "Tacuatí",
+                    "latitude": "-23.45000000",
+                    "longitude": "-56.58333000"
+                },
+                {
+                    "id": 89842,
+                    "name": "Unión",
+                    "latitude": "-24.80790000",
+                    "longitude": "-56.52148000"
+                },
+                {
+                    "id": 89848,
+                    "name": "Yataity del Norte",
+                    "latitude": "-24.83333000",
+                    "longitude": "-56.35000000"
+                }
+            ]
+        }
+    ],
+    "languages": [
+        "German",
+        "Guaran√≠",
+        "Portuguese",
+        "Spanish"
+    ],
+    "latlng": [
+        -23,
+        -58
+    ],
+    "nativeName": "Paraguay",
+    "population": 6893727,
+    "timezones": [
+        "UTC−04:00"
+    ],
+    "tld": [
+        ".py"
+    ],
+    "translations": {
+        "de": "Paraguay",
+        "es": "Paraguay",
+        "fr": "Paraguay",
+        "ja": "パラグアイ",
+        "it": "Paraguay"
+    },
+    "continent": "South America",
+    "government": "Republic",
+    "dish": "Sopa paraguaya",
+    "independence": 1811,
+    "symbol": null,
+    "temperature": 23.55,
+    "location": "South America",
+    "religion": "Christianity",
+    "density": 17.50835892,
+    "expectancy": 73.7,
+    "wiki": "http://en.wikipedia.org/wiki/paraguay"
+}

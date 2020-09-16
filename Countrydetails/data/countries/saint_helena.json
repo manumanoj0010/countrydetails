@@ -1,0 +1,59 @@
+{
+    "name": "Saint Helena",
+    "altSpellings": [
+        "SH"
+    ],
+    "area": null,
+    "borders": [],
+    "callingCodes": [
+        "290"
+    ],
+    "capital": "Jamestown",
+    "capital_latlng": [
+        37.210443,
+        -76.773893
+    ],
+    "currencies": [
+        "SHP"
+    ],
+    "demonym": "Saint Helenian",
+    "flag": "",
+    "geoJSON": {},
+    "ISO": {
+        "alpha2": "SH",
+        "alpha3": "SHN"
+    },
+    "languages": [
+        "English"
+    ],
+    "latlng": [
+        -15.95,
+        -5.7
+    ],
+    "nativeName": "Saint Helena",
+    "population": 4255,
+    "timezones": null,
+    "tld": [
+        ".sh"
+    ],
+    "translations": {
+        "de": "Sankt Helena",
+        "es": "Santa Helena",
+        "fr": "Sainte-Hélène",
+        "ja": "セントヘレナ・アセンションおよびトリスタンダクーニャ",
+        "it": "Sant'Elena"
+    },
+    "states": [],
+    "continent": "Africa",
+    "government": "Dependent Territory of the UK",
+    "independence": null,
+    "symbol": null,
+    "expectancy": 76.8,
+    "dish": null,
+    "temperature": null,
+    "religion": "Christianity",
+    "location": "Western Africa",
+    "density": 37.3,
+    "wiki": "http://en.wikipedia.org/wiki/saint_helena"
+}
+

@@ -1,0 +1,3409 @@
+{
+    "name": "Bulgaria",
+    "altSpellings": [
+        "BG",
+        "Republic of Bulgaria",
+        "Република България"
+    ],
+    "area": 110879,
+    "borders": [
+        "GRC",
+        "MKD",
+        "ROU",
+        "SRB",
+        "TUR"
+    ],
+    "callingCodes": [
+        "359"
+    ],
+    "capital": "Sofia",
+    "capital_latlng": [
+        -15.25384,
+        48.256216
+    ],
+    "currencies": [
+        "BGN"
+    ],
+    "demonym": "Bulgarian",
+    "flag": "",
+    "geoJSON": {
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "type": "Feature",
+                "id": "BGR",
+                "properties": {
+                    "name": "Bulgaria"
+                },
+                "geometry": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                22.65715,
+                                44.234923
+                            ],
+                            [
+                                22.944832,
+                                43.823785
+                            ],
+                            [
+                                23.332302,
+                                43.897011
+                            ],
+                            [
+                                24.100679,
+                                43.741051
+                            ],
+                            [
+                                25.569272,
+                                43.688445
+                            ],
+                            [
+                                26.065159,
+                                43.943494
+                            ],
+                            [
+                                27.2424,
+                                44.175986
+                            ],
+                            [
+                                27.970107,
+                                43.812468
+                            ],
+                            [
+                                28.558081,
+                                43.707462
+                            ],
+                            [
+                                28.039095,
+                                43.293172
+                            ],
+                            [
+                                27.673898,
+                                42.577892
+                            ],
+                            [
+                                27.99672,
+                                42.007359
+                            ],
+                            [
+                                27.135739,
+                                42.141485
+                            ],
+                            [
+                                26.117042,
+                                41.826905
+                            ],
+                            [
+                                26.106138,
+                                41.328899
+                            ],
+                            [
+                                25.197201,
+                                41.234486
+                            ],
+                            [
+                                24.492645,
+                                41.583896
+                            ],
+                            [
+                                23.692074,
+                                41.309081
+                            ],
+                            [
+                                22.952377,
+                                41.337994
+                            ],
+                            [
+                                22.881374,
+                                41.999297
+                            ],
+                            [
+                                22.380526,
+                                42.32026
+                            ],
+                            [
+                                22.545012,
+                                42.461362
+                            ],
+                            [
+                                22.436595,
+                                42.580321
+                            ],
+                            [
+                                22.604801,
+                                42.898519
+                            ],
+                            [
+                                22.986019,
+                                43.211161
+                            ],
+                            [
+                                22.500157,
+                                43.642814
+                            ],
+                            [
+                                22.410446,
+                                44.008063
+                            ],
+                            [
+                                22.65715,
+                                44.234923
+                            ]
+                        ]
+                    ]
+                }
+            }
+        ]
+    },
+    "ISO": {
+        "alpha2": "BG",
+        "alpha3": "BGR"
+    },
+    "languages": [
+        "Bulgariana",
+            "Macedonian",
+            "Romani",
+            "Turkish"
+    ],
+    "latlng": [
+        43,
+        25
+    ],
+    "nativeName": "България",
+    "population": 7245677,
+    "timezones": [
+        "UTC+02:00"
+    ],
+    "tld": [
+        ".bg"
+    ],
+    "states": [
+        {
+            "id": 4699,
+            "name": "Blagoevgrad Province",
+            "state_code": "01",
+            "cities": [
+                {
+                    "id": 9265,
+                    "name": "Bansko",
+                    "latitude": "41.83830000",
+                    "longitude": "23.48851000"
+                },
+                {
+                    "id": 9270,
+                    "name": "Belitsa",
+                    "latitude": "41.95694000",
+                    "longitude": "23.57250000"
+                },
+                {
+                    "id": 9275,
+                    "name": "Blagoevgrad",
+                    "latitude": "42.01667000",
+                    "longitude": "23.10000000"
+                },
+                {
+                    "id": 9329,
+                    "name": "Garmen",
+                    "latitude": "41.60000000",
+                    "longitude": "23.81667000"
+                },
+                {
+                    "id": 9335,
+                    "name": "Gotse Delchev",
+                    "latitude": "41.56667000",
+                    "longitude": "23.73333000"
+                },
+                {
+                    "id": 9341,
+                    "name": "Hadzhidimovo",
+                    "latitude": "41.52222000",
+                    "longitude": "23.86861000"
+                },
+                {
+                    "id": 9368,
+                    "name": "Kolarovo",
+                    "latitude": "41.36385000",
+                    "longitude": "23.10669000"
+                },
+                {
+                    "id": 9374,
+                    "name": "Kresna",
+                    "latitude": "41.73333000",
+                    "longitude": "23.15000000"
+                },
+                {
+                    "id": 9422,
+                    "name": "Obshtina Bansko",
+                    "latitude": "41.80000000",
+                    "longitude": "23.60000000"
+                },
+                {
+                    "id": 9425,
+                    "name": "Obshtina Belitsa",
+                    "latitude": "42.01667000",
+                    "longitude": "23.58333000"
+                },
+                {
+                    "id": 9429,
+                    "name": "Obshtina Blagoevgrad",
+                    "latitude": "42.01667000",
+                    "longitude": "23.16667000"
+                },
+                {
+                    "id": 9476,
+                    "name": "Obshtina Garmen",
+                    "latitude": "41.70000000",
+                    "longitude": "23.85000000"
+                },
+                {
+                    "id": 9482,
+                    "name": "Obshtina Gotse Delchev",
+                    "latitude": "41.63333000",
+                    "longitude": "23.68333000"
+                },
+                {
+                    "id": 9511,
+                    "name": "Obshtina Kresna",
+                    "latitude": "41.76667000",
+                    "longitude": "23.23333000"
+                },
+                {
+                    "id": 9555,
+                    "name": "Obshtina Petrich",
+                    "latitude": "41.45000000",
+                    "longitude": "23.16667000"
+                },
+                {
+                    "id": 9571,
+                    "name": "Obshtina Razlog",
+                    "latitude": "41.95000000",
+                    "longitude": "23.46667000"
+                },
+                {
+                    "id": 9582,
+                    "name": "Obshtina Sandanski",
+                    "latitude": "41.56667000",
+                    "longitude": "23.45000000"
+                },
+                {
+                    "id": 9584,
+                    "name": "Obshtina Satovcha",
+                    "latitude": "41.59848000",
+                    "longitude": "24.00781000"
+                },
+                {
+                    "id": 9589,
+                    "name": "Obshtina Simitli",
+                    "latitude": "41.88333000",
+                    "longitude": "23.16667000"
+                },
+                {
+                    "id": 9603,
+                    "name": "Obshtina Strumyani",
+                    "latitude": "41.63333000",
+                    "longitude": "23.20000000"
+                },
+                {
+                    "id": 9633,
+                    "name": "Obshtina Yakoruda",
+                    "latitude": "42.08333000",
+                    "longitude": "23.70000000"
+                },
+                {
+                    "id": 9653,
+                    "name": "Petrich",
+                    "latitude": "41.39846000",
+                    "longitude": "23.20702000"
+                },
+                {
+                    "id": 9670,
+                    "name": "Razlog",
+                    "latitude": "41.88630000",
+                    "longitude": "23.46714000"
+                },
+                {
+                    "id": 9681,
+                    "name": "Sandanski",
+                    "latitude": "41.56667000",
+                    "longitude": "23.28333000"
+                },
+                {
+                    "id": 9686,
+                    "name": "Satovcha",
+                    "latitude": "41.61667000",
+                    "longitude": "23.98333000"
+                },
+                {
+                    "id": 9694,
+                    "name": "Simitli",
+                    "latitude": "41.88333000",
+                    "longitude": "23.11667000"
+                },
+                {
+                    "id": 9705,
+                    "name": "Stara Kresna",
+                    "latitude": "41.80000000",
+                    "longitude": "23.18333000"
+                },
+                {
+                    "id": 9711,
+                    "name": "Strumyani",
+                    "latitude": "41.63333000",
+                    "longitude": "23.20000000"
+                },
+                {
+                    "id": 9745,
+                    "name": "Yakoruda",
+                    "latitude": "42.02528000",
+                    "longitude": "23.68417000"
+                }
+            ]
+        },
+        {
+            "id": 4715,
+            "name": "Burgas Province",
+            "state_code": "02",
+            "cities": [
+                {
+                    "id": 9250,
+                    "name": "Aheloy",
+                    "latitude": "42.64987000",
+                    "longitude": "27.64838000"
+                },
+                {
+                    "id": 9251,
+                    "name": "Ahtopol",
+                    "latitude": "42.09768000",
+                    "longitude": "27.93961000"
+                },
+                {
+                    "id": 9261,
+                    "name": "Aytos",
+                    "latitude": "42.70000000",
+                    "longitude": "27.25000000"
+                },
+                {
+                    "id": 9266,
+                    "name": "Bata",
+                    "latitude": "42.73802000",
+                    "longitude": "27.49643000"
+                },
+                {
+                    "id": 9292,
+                    "name": "Burgas",
+                    "latitude": "42.50606000",
+                    "longitude": "27.46781000"
+                },
+                {
+                    "id": 9299,
+                    "name": "Chernomorets",
+                    "latitude": "42.44408000",
+                    "longitude": "27.63902000"
+                },
+                {
+                    "id": 9353,
+                    "name": "Kameno",
+                    "latitude": "42.57084000",
+                    "longitude": "27.29875000"
+                },
+                {
+                    "id": 9356,
+                    "name": "Karnobat",
+                    "latitude": "42.65000000",
+                    "longitude": "26.98333000"
+                },
+                {
+                    "id": 9363,
+                    "name": "Kiten",
+                    "latitude": "42.23424000",
+                    "longitude": "27.77490000"
+                },
+                {
+                    "id": 9397,
+                    "name": "Malko Tarnovo",
+                    "latitude": "41.97958000",
+                    "longitude": "27.52477000"
+                },
+                {
+                    "id": 9406,
+                    "name": "Nesebar",
+                    "latitude": "42.65921000",
+                    "longitude": "27.73602000"
+                },
+                {
+                    "id": 9419,
+                    "name": "Obshtina Aytos",
+                    "latitude": "42.70000000",
+                    "longitude": "27.25000000"
+                },
+                {
+                    "id": 9442,
+                    "name": "Obshtina Burgas",
+                    "latitude": "42.50000000",
+                    "longitude": "27.46667000"
+                },
+                {
+                    "id": 9495,
+                    "name": "Obshtina Kameno",
+                    "latitude": "42.51667000",
+                    "longitude": "27.18333000"
+                },
+                {
+                    "id": 9498,
+                    "name": "Obshtina Karnobat",
+                    "latitude": "42.65000000",
+                    "longitude": "26.98333000"
+                },
+                {
+                    "id": 9529,
+                    "name": "Obshtina Malko Tarnovo",
+                    "latitude": "42.08333000",
+                    "longitude": "27.53333000"
+                },
+                {
+                    "id": 9538,
+                    "name": "Obshtina Nesebar",
+                    "latitude": "42.78333000",
+                    "longitude": "27.73333000"
+                },
+                {
+                    "id": 9560,
+                    "name": "Obshtina Pomorie",
+                    "latitude": "42.73333000",
+                    "longitude": "27.55000000"
+                },
+                {
+                    "id": 9564,
+                    "name": "Obshtina Primorsko",
+                    "latitude": "42.25000000",
+                    "longitude": "27.63333000"
+                },
+                {
+                    "id": 9596,
+                    "name": "Obshtina Sozopol",
+                    "latitude": "42.31123000",
+                    "longitude": "27.51733000"
+                },
+                {
+                    "id": 9605,
+                    "name": "Obshtina Sungurlare",
+                    "latitude": "42.83333000",
+                    "longitude": "26.83333000"
+                },
+                {
+                    "id": 9640,
+                    "name": "Obzor",
+                    "latitude": "42.81998000",
+                    "longitude": "27.88007000"
+                },
+                {
+                    "id": 9658,
+                    "name": "Pomorie",
+                    "latitude": "42.56326000",
+                    "longitude": "27.62986000"
+                },
+                {
+                    "id": 9662,
+                    "name": "Primorsko",
+                    "latitude": "42.26791000",
+                    "longitude": "27.75611000"
+                },
+                {
+                    "id": 9668,
+                    "name": "Ravda",
+                    "latitude": "42.64185000",
+                    "longitude": "27.67713000"
+                },
+                {
+                    "id": 9674,
+                    "name": "Ruen",
+                    "latitude": "42.80000000",
+                    "longitude": "27.28333000"
+                },
+                {
+                    "id": 9683,
+                    "name": "Sarafovo",
+                    "latitude": "42.56079000",
+                    "longitude": "27.52195000"
+                },
+                {
+                    "id": 9702,
+                    "name": "Sozopol",
+                    "latitude": "42.41801000",
+                    "longitude": "27.69560000"
+                },
+                {
+                    "id": 9703,
+                    "name": "Sredets",
+                    "latitude": "42.34747000",
+                    "longitude": "27.17898000"
+                },
+                {
+                    "id": 9713,
+                    "name": "Sungurlare",
+                    "latitude": "42.76667000",
+                    "longitude": "26.78333000"
+                },
+                {
+                    "id": 9715,
+                    "name": "Sveti Vlas",
+                    "latitude": "42.71360000",
+                    "longitude": "27.75867000"
+                },
+                {
+                    "id": 9728,
+                    "name": "Tsarevo",
+                    "latitude": "42.16955000",
+                    "longitude": "27.84541000"
+                }
+            ]
+        },
+        {
+            "id": 4718,
+            "name": "Dobrich Province",
+            "state_code": "08",
+            "cities": [
+                {
+                    "id": 9262,
+                    "name": "Balchik",
+                    "latitude": "43.42166000",
+                    "longitude": "28.15848000"
+                },
+                {
+                    "id": 9310,
+                    "name": "Dobrich",
+                    "latitude": "43.56667000",
+                    "longitude": "27.83333000"
+                },
+                {
+                    "id": 9330,
+                    "name": "General Toshevo",
+                    "latitude": "43.70123000",
+                    "longitude": "28.03787000"
+                },
+                {
+                    "id": 9357,
+                    "name": "Kavarna",
+                    "latitude": "43.43601000",
+                    "longitude": "28.33953000"
+                },
+                {
+                    "id": 9378,
+                    "name": "Krushari",
+                    "latitude": "43.81675000",
+                    "longitude": "27.75552000"
+                },
+                {
+                    "id": 9420,
+                    "name": "Obshtina Balchik",
+                    "latitude": "43.50000000",
+                    "longitude": "28.13333000"
+                },
+                {
+                    "id": 9457,
+                    "name": "Obshtina Dobrich",
+                    "latitude": "43.57763000",
+                    "longitude": "27.80628000"
+                },
+                {
+                    "id": 9458,
+                    "name": "Obshtina Dobrich-Selska",
+                    "latitude": "43.63333000",
+                    "longitude": "27.73333000"
+                },
+                {
+                    "id": 9477,
+                    "name": "Obshtina General Toshevo",
+                    "latitude": "43.73333000",
+                    "longitude": "28.08333000"
+                },
+                {
+                    "id": 9499,
+                    "name": "Obshtina Kavarna",
+                    "latitude": "43.50000000",
+                    "longitude": "28.38333000"
+                },
+                {
+                    "id": 9514,
+                    "name": "Obshtina Krushari",
+                    "latitude": "43.88333000",
+                    "longitude": "27.75000000"
+                },
+                {
+                    "id": 9587,
+                    "name": "Obshtina Shabla",
+                    "latitude": "43.61667000",
+                    "longitude": "28.51667000"
+                },
+                {
+                    "id": 9611,
+                    "name": "Obshtina Tervel",
+                    "latitude": "43.75000000",
+                    "longitude": "27.40000000"
+                },
+                {
+                    "id": 9690,
+                    "name": "Shabla",
+                    "latitude": "43.53983000",
+                    "longitude": "28.53429000"
+                },
+                {
+                    "id": 9720,
+                    "name": "Tervel",
+                    "latitude": "43.74789000",
+                    "longitude": "27.40911000"
+                }
+            ]
+        },
+        {
+            "id": 4693,
+            "name": "Gabrovo Province",
+            "state_code": "07",
+            "cities": [
+                {
+                    "id": 9318,
+                    "name": "Dryanovo",
+                    "latitude": "42.97897000",
+                    "longitude": "25.47850000"
+                },
+                {
+                    "id": 9328,
+                    "name": "Gabrovo",
+                    "latitude": "42.87472000",
+                    "longitude": "25.33417000"
+                },
+                {
+                    "id": 9465,
+                    "name": "Obshtina Dryanovo",
+                    "latitude": "43.00000000",
+                    "longitude": "25.46667000"
+                },
+                {
+                    "id": 9474,
+                    "name": "Obshtina Gabrovo",
+                    "latitude": "42.90000000",
+                    "longitude": "25.30000000"
+                },
+                {
+                    "id": 9586,
+                    "name": "Obshtina Sevlievo",
+                    "latitude": "43.01667000",
+                    "longitude": "25.10000000"
+                },
+                {
+                    "id": 9615,
+                    "name": "Obshtina Tryavna",
+                    "latitude": "42.85000000",
+                    "longitude": "25.55000000"
+                },
+                {
+                    "id": 9689,
+                    "name": "Sevlievo",
+                    "latitude": "43.02583000",
+                    "longitude": "25.11361000"
+                },
+                {
+                    "id": 9726,
+                    "name": "Tryavna",
+                    "latitude": "42.86667000",
+                    "longitude": "25.50000000"
+                }
+            ]
+        },
+        {
+            "id": 4704,
+            "name": "Haskovo Province",
+            "state_code": "26",
+            "cities": [
+                {
+                    "id": 9308,
+                    "name": "Dimitrovgrad",
+                    "latitude": "42.05000000",
+                    "longitude": "25.60000000"
+                },
+                {
+                    "id": 9342,
+                    "name": "Harmanli",
+                    "latitude": "41.93333000",
+                    "longitude": "25.90000000"
+                },
+                {
+                    "id": 9343,
+                    "name": "Haskovo",
+                    "latitude": "41.93415000",
+                    "longitude": "25.55557000"
+                },
+                {
+                    "id": 9350,
+                    "name": "Ivaylovgrad",
+                    "latitude": "41.52672000",
+                    "longitude": "26.12490000"
+                },
+                {
+                    "id": 9392,
+                    "name": "Lyubimets",
+                    "latitude": "41.83333000",
+                    "longitude": "26.08333000"
+                },
+                {
+                    "id": 9394,
+                    "name": "Madzharovo",
+                    "latitude": "41.63461000",
+                    "longitude": "25.86439000"
+                },
+                {
+                    "id": 9401,
+                    "name": "Mineralni Bani",
+                    "latitude": "41.91667000",
+                    "longitude": "25.35000000"
+                },
+                {
+                    "id": 9455,
+                    "name": "Obshtina Dimitrovgrad",
+                    "latitude": "42.05000000",
+                    "longitude": "25.60000000"
+                },
+                {
+                    "id": 9486,
+                    "name": "Obshtina Harmanli",
+                    "latitude": "41.93333000",
+                    "longitude": "25.98333000"
+                },
+                {
+                    "id": 9487,
+                    "name": "Obshtina Haskovo",
+                    "latitude": "41.88333000",
+                    "longitude": "25.61667000"
+                },
+                {
+                    "id": 9493,
+                    "name": "Obshtina Ivaylovgrad",
+                    "latitude": "41.48333000",
+                    "longitude": "26.00000000"
+                },
+                {
+                    "id": 9527,
+                    "name": "Obshtina Madzharovo",
+                    "latitude": "41.68333000",
+                    "longitude": "25.90000000"
+                },
+                {
+                    "id": 9532,
+                    "name": "Obshtina Mineralni Bani",
+                    "latitude": "41.90000000",
+                    "longitude": "25.33333000"
+                },
+                {
+                    "id": 9598,
+                    "name": "Obshtina Stambolovo",
+                    "latitude": "41.73333000",
+                    "longitude": "25.70000000"
+                },
+                {
+                    "id": 9607,
+                    "name": "Obshtina Svilengrad",
+                    "latitude": "41.86667000",
+                    "longitude": "26.31667000"
+                },
+                {
+                    "id": 9613,
+                    "name": "Obshtina Topolovgrad",
+                    "latitude": "42.08333000",
+                    "longitude": "26.33333000"
+                },
+                {
+                    "id": 9693,
+                    "name": "Simeonovgrad",
+                    "latitude": "42.03333000",
+                    "longitude": "25.83333000"
+                },
+                {
+                    "id": 9716,
+                    "name": "Svilengrad",
+                    "latitude": "41.76667000",
+                    "longitude": "26.20000000"
+                },
+                {
+                    "id": 9722,
+                    "name": "Topolovgrad",
+                    "latitude": "42.08333000",
+                    "longitude": "26.33333000"
+                }
+            ]
+        },
+        {
+            "id": 4702,
+            "name": "Kardzhali Province",
+            "state_code": "09",
+            "cities": [
+                {
+                    "id": 9257,
+                    "name": "Ardino",
+                    "latitude": "41.58333000",
+                    "longitude": "25.13333000"
+                },
+                {
+                    "id": 9323,
+                    "name": "Dzhebel",
+                    "latitude": "41.49566000",
+                    "longitude": "25.30363000"
+                },
+                {
+                    "id": 9354,
+                    "name": "Kardzhali",
+                    "latitude": "41.65000000",
+                    "longitude": "25.36667000"
+                },
+                {
+                    "id": 9362,
+                    "name": "Kirkovo",
+                    "latitude": "41.32715000",
+                    "longitude": "25.36379000"
+                },
+                {
+                    "id": 9377,
+                    "name": "Krumovgrad",
+                    "latitude": "41.47127000",
+                    "longitude": "25.65485000"
+                },
+                {
+                    "id": 9416,
+                    "name": "Obshtina Ardino",
+                    "latitude": "41.60000000",
+                    "longitude": "25.15000000"
+                },
+                {
+                    "id": 9448,
+                    "name": "Obshtina Chernoochene",
+                    "latitude": "41.78333000",
+                    "longitude": "25.25000000"
+                },
+                {
+                    "id": 9469,
+                    "name": "Obshtina Dzhebel",
+                    "latitude": "41.50000000",
+                    "longitude": "25.26667000"
+                },
+                {
+                    "id": 9496,
+                    "name": "Obshtina Kardzhali",
+                    "latitude": "41.68333000",
+                    "longitude": "25.43333000"
+                },
+                {
+                    "id": 9502,
+                    "name": "Obshtina Kirkovo",
+                    "latitude": "41.35816000",
+                    "longitude": "25.33731000"
+                },
+                {
+                    "id": 9535,
+                    "name": "Obshtina Momchilgrad",
+                    "latitude": "41.53333000",
+                    "longitude": "25.50000000"
+                }
+            ]
+        },
+        {
+            "id": 4703,
+            "name": "Kyustendil Province",
+            "state_code": "10",
+            "cities": [
+                {
+                    "id": 9276,
+                    "name": "Boboshevo",
+                    "latitude": "42.15296000",
+                    "longitude": "23.00146000"
+                },
+                {
+                    "id": 9277,
+                    "name": "Bobov Dol",
+                    "latitude": "42.36256000",
+                    "longitude": "23.00324000"
+                },
+                {
+                    "id": 9321,
+                    "name": "Dupnitsa",
+                    "latitude": "42.26667000",
+                    "longitude": "23.11667000"
+                },
+                {
+                    "id": 9367,
+                    "name": "Kocherinovo",
+                    "latitude": "42.08439000",
+                    "longitude": "23.05710000"
+                },
+                {
+                    "id": 9381,
+                    "name": "Kyustendil",
+                    "latitude": "42.28389000",
+                    "longitude": "22.69111000"
+                },
+                {
+                    "id": 9407,
+                    "name": "Nevestino",
+                    "latitude": "42.25551000",
+                    "longitude": "22.85175000"
+                },
+                {
+                    "id": 9430,
+                    "name": "Obshtina Boboshevo",
+                    "latitude": "42.18333000",
+                    "longitude": "23.02731000"
+                },
+                {
+                    "id": 9431,
+                    "name": "Obshtina Bobov Dol",
+                    "latitude": "42.31667000",
+                    "longitude": "22.98333000"
+                },
+                {
+                    "id": 9467,
+                    "name": "Obshtina Dupnitsa",
+                    "latitude": "42.28333000",
+                    "longitude": "23.15000000"
+                },
+                {
+                    "id": 9504,
+                    "name": "Obshtina Kocherinovo",
+                    "latitude": "42.09909000",
+                    "longitude": "23.02942000"
+                },
+                {
+                    "id": 9518,
+                    "name": "Obshtina Kyustendil",
+                    "latitude": "42.28333000",
+                    "longitude": "22.68333000"
+                },
+                {
+                    "id": 9539,
+                    "name": "Obshtina Nevestino",
+                    "latitude": "42.16667000",
+                    "longitude": "22.83333000"
+                },
+                {
+                    "id": 9572,
+                    "name": "Obshtina Rila",
+                    "latitude": "42.15000000",
+                    "longitude": "23.31667000"
+                },
+                {
+                    "id": 9583,
+                    "name": "Obshtina Sapareva Banya",
+                    "latitude": "42.28333000",
+                    "longitude": "23.31667000"
+                },
+                {
+                    "id": 9614,
+                    "name": "Obshtina Treklyano",
+                    "latitude": "42.55000000",
+                    "longitude": "22.60000000"
+                },
+                {
+                    "id": 9671,
+                    "name": "Rila",
+                    "latitude": "42.13333000",
+                    "longitude": "23.13333000"
+                },
+                {
+                    "id": 9682,
+                    "name": "Sapareva Banya",
+                    "latitude": "42.28333000",
+                    "longitude": "23.26667000"
+                }
+            ]
+        },
+        {
+            "id": 4710,
+            "name": "Lovech Province",
+            "state_code": "11",
+            "cities": [
+                {
+                    "id": 9256,
+                    "name": "Apriltsi",
+                    "latitude": "42.84142000",
+                    "longitude": "24.91759000"
+                },
+                {
+                    "id": 9385,
+                    "name": "Letnitsa",
+                    "latitude": "43.31167000",
+                    "longitude": "25.07333000"
+                },
+                {
+                    "id": 9388,
+                    "name": "Lovech",
+                    "latitude": "43.13333000",
+                    "longitude": "24.71667000"
+                },
+                {
+                    "id": 9390,
+                    "name": "Lukovit",
+                    "latitude": "43.20000000",
+                    "longitude": "24.16667000"
+                },
+                {
+                    "id": 9523,
+                    "name": "Obshtina Lovech",
+                    "latitude": "43.16667000",
+                    "longitude": "24.80000000"
+                },
+                {
+                    "id": 9612,
+                    "name": "Obshtina Teteven",
+                    "latitude": "42.91667000",
+                    "longitude": "24.26667000"
+                },
+                {
+                    "id": 9621,
+                    "name": "Obshtina Ugarchin",
+                    "latitude": "43.10000000",
+                    "longitude": "24.41667000"
+                },
+                {
+                    "id": 9721,
+                    "name": "Teteven",
+                    "latitude": "42.91667000",
+                    "longitude": "24.26667000"
+                },
+                {
+                    "id": 9725,
+                    "name": "Troyan",
+                    "latitude": "42.89427000",
+                    "longitude": "24.71589000"
+                },
+                {
+                    "id": 9732,
+                    "name": "Ugarchin",
+                    "latitude": "43.10000000",
+                    "longitude": "24.41667000"
+                },
+                {
+                    "id": 9743,
+                    "name": "Yablanitsa",
+                    "latitude": "43.03139000",
+                    "longitude": "24.11278000"
+                }
+            ]
+        },
+        {
+            "id": 4696,
+            "name": "Montana Province",
+            "state_code": "12",
+            "cities": [
+                {
+                    "id": 9274,
+                    "name": "Berkovitsa",
+                    "latitude": "43.23581000",
+                    "longitude": "23.12738000"
+                },
+                {
+                    "id": 9283,
+                    "name": "Boychinovtsi",
+                    "latitude": "43.47222000",
+                    "longitude": "23.33583000"
+                },
+                {
+                    "id": 9290,
+                    "name": "Brusartsi",
+                    "latitude": "43.66075000",
+                    "longitude": "23.06732000"
+                },
+                {
+                    "id": 9301,
+                    "name": "Chiprovtsi",
+                    "latitude": "43.38417000",
+                    "longitude": "22.88083000"
+                },
+                {
+                    "id": 9387,
+                    "name": "Lom",
+                    "latitude": "43.82106000",
+                    "longitude": "23.23677000"
+                },
+                {
+                    "id": 9398,
+                    "name": "Medkovets",
+                    "latitude": "43.62403000",
+                    "longitude": "23.16876000"
+                },
+                {
+                    "id": 9404,
+                    "name": "Montana",
+                    "latitude": "43.41250000",
+                    "longitude": "23.22500000"
+                },
+                {
+                    "id": 9437,
+                    "name": "Obshtina Boychinovtsi",
+                    "latitude": "43.53333000",
+                    "longitude": "23.43333000"
+                },
+                {
+                    "id": 9450,
+                    "name": "Obshtina Chiprovtsi",
+                    "latitude": "43.41667000",
+                    "longitude": "22.90000000"
+                },
+                {
+                    "id": 9478,
+                    "name": "Obshtina Georgi Damyanovo",
+                    "latitude": "43.35000000",
+                    "longitude": "23.00000000"
+                },
+                {
+                    "id": 9522,
+                    "name": "Obshtina Lom",
+                    "latitude": "43.81667000",
+                    "longitude": "23.23333000"
+                },
+                {
+                    "id": 9536,
+                    "name": "Obshtina Montana",
+                    "latitude": "43.46667000",
+                    "longitude": "23.20000000"
+                },
+                {
+                    "id": 9622,
+                    "name": "Obshtina Valchedram",
+                    "latitude": "43.71667000",
+                    "longitude": "23.51667000"
+                },
+                {
+                    "id": 9625,
+                    "name": "Obshtina Varshets",
+                    "latitude": "43.21667000",
+                    "longitude": "23.33333000"
+                },
+                {
+                    "id": 9632,
+                    "name": "Obshtina Yakimovo",
+                    "latitude": "43.63333000",
+                    "longitude": "23.33333000"
+                },
+                {
+                    "id": 9733,
+                    "name": "Valchedram",
+                    "latitude": "43.69281000",
+                    "longitude": "23.44518000"
+                },
+                {
+                    "id": 9736,
+                    "name": "Varshets",
+                    "latitude": "43.19356000",
+                    "longitude": "23.28680000"
+                },
+                {
+                    "id": 9744,
+                    "name": "Yakimovo",
+                    "latitude": "43.63472000",
+                    "longitude": "23.35350000"
+                }
+            ]
+        },
+        {
+            "id": 4712,
+            "name": "Pazardzhik Province",
+            "state_code": "13",
+            "cities": [
+                {
+                    "id": 9267,
+                    "name": "Batak",
+                    "latitude": "41.94225000",
+                    "longitude": "24.21843000"
+                },
+                {
+                    "id": 9273,
+                    "name": "Belovo",
+                    "latitude": "42.21239000",
+                    "longitude": "24.02081000"
+                },
+                {
+                    "id": 9286,
+                    "name": "Bratsigovo",
+                    "latitude": "42.01667000",
+                    "longitude": "24.36667000"
+                },
+                {
+                    "id": 9384,
+                    "name": "Lesichovo",
+                    "latitude": "42.35626000",
+                    "longitude": "24.11190000"
+                },
+                {
+                    "id": 9423,
+                    "name": "Obshtina Batak",
+                    "latitude": "41.86667000",
+                    "longitude": "24.21667000"
+                },
+                {
+                    "id": 9428,
+                    "name": "Obshtina Belovo",
+                    "latitude": "42.20000000",
+                    "longitude": "23.93333000"
+                },
+                {
+                    "id": 9440,
+                    "name": "Obshtina Bratsigovo",
+                    "latitude": "42.00000000",
+                    "longitude": "24.40000000"
+                },
+                {
+                    "id": 9520,
+                    "name": "Obshtina Lesichovo",
+                    "latitude": "42.36667000",
+                    "longitude": "24.15000000"
+                },
+                {
+                    "id": 9547,
+                    "name": "Obshtina Panagyurishte",
+                    "latitude": "42.50000000",
+                    "longitude": "24.16667000"
+                },
+                {
+                    "id": 9551,
+                    "name": "Obshtina Pazardzhik",
+                    "latitude": "42.20000000",
+                    "longitude": "24.33333000"
+                },
+                {
+                    "id": 9554,
+                    "name": "Obshtina Peshtera",
+                    "latitude": "42.03333000",
+                    "longitude": "24.30000000"
+                },
+                {
+                    "id": 9568,
+                    "name": "Obshtina Rakitovo",
+                    "latitude": "41.99965000",
+                    "longitude": "24.10877000"
+                },
+                {
+                    "id": 9585,
+                    "name": "Obshtina Septemvri",
+                    "latitude": "42.26667000",
+                    "longitude": "24.13333000"
+                },
+                {
+                    "id": 9602,
+                    "name": "Obshtina Strelcha",
+                    "latitude": "42.46667000",
+                    "longitude": "24.36667000"
+                },
+                {
+                    "id": 9627,
+                    "name": "Obshtina Velingrad",
+                    "latitude": "41.96667000",
+                    "longitude": "23.93333000"
+                },
+                {
+                    "id": 9644,
+                    "name": "Panagyurishte",
+                    "latitude": "42.49518000",
+                    "longitude": "24.19021000"
+                },
+                {
+                    "id": 9649,
+                    "name": "Pazardzhik",
+                    "latitude": "42.20000000",
+                    "longitude": "24.33333000"
+                },
+                {
+                    "id": 9652,
+                    "name": "Peshtera",
+                    "latitude": "42.03372000",
+                    "longitude": "24.29995000"
+                },
+                {
+                    "id": 9666,
+                    "name": "Rakitovo",
+                    "latitude": "41.99012000",
+                    "longitude": "24.08730000"
+                },
+                {
+                    "id": 9684,
+                    "name": "Sarnitsa",
+                    "latitude": "41.73835000",
+                    "longitude": "24.02435000"
+                },
+                {
+                    "id": 9685,
+                    "name": "Sarnitsa Obshtina",
+                    "latitude": "41.73333000",
+                    "longitude": "24.03333000"
+                },
+                {
+                    "id": 9688,
+                    "name": "Septemvri",
+                    "latitude": "42.21138000",
+                    "longitude": "24.12946000"
+                },
+                {
+                    "id": 9710,
+                    "name": "Strelcha",
+                    "latitude": "42.50000000",
+                    "longitude": "24.31667000"
+                },
+                {
+                    "id": 9738,
+                    "name": "Velingrad",
+                    "latitude": "42.02754000",
+                    "longitude": "23.99155000"
+                }
+            ]
+        },
+        {
+            "id": 4695,
+            "name": "Pernik Province",
+            "state_code": "14",
+            "cities": [
+                {
+                    "id": 9268,
+                    "name": "Batanovtsi",
+                    "latitude": "42.59692000",
+                    "longitude": "22.95634000"
+                },
+                {
+                    "id": 9288,
+                    "name": "Breznik",
+                    "latitude": "42.74085000",
+                    "longitude": "22.90723000"
+                },
+                {
+                    "id": 9509,
+                    "name": "Obshtina Kovachevtsi",
+                    "latitude": "42.55000000",
+                    "longitude": "22.83333000"
+                },
+                {
+                    "id": 9552,
+                    "name": "Obshtina Pernik",
+                    "latitude": "42.61667000",
+                    "longitude": "23.08333000"
+                },
+                {
+                    "id": 9567,
+                    "name": "Obshtina Radomir",
+                    "latitude": "42.46667000",
+                    "longitude": "23.01667000"
+                },
+                {
+                    "id": 9636,
+                    "name": "Obshtina Zemen",
+                    "latitude": "42.55067000",
+                    "longitude": "22.71440000"
+                },
+                {
+                    "id": 9650,
+                    "name": "Pernik",
+                    "latitude": "42.60000000",
+                    "longitude": "23.03333000"
+                },
+                {
+                    "id": 9665,
+                    "name": "Radomir",
+                    "latitude": "42.54565000",
+                    "longitude": "22.96553000"
+                },
+                {
+                    "id": 9724,
+                    "name": "Tran",
+                    "latitude": "42.83528000",
+                    "longitude": "22.65167000"
+                },
+                {
+                    "id": 9748,
+                    "name": "Zemen",
+                    "latitude": "42.47889000",
+                    "longitude": "22.74917000"
+                }
+            ]
+        },
+        {
+            "id": 4706,
+            "name": "Pleven Province",
+            "state_code": "15",
+            "cities": [
+                {
+                    "id": 9269,
+                    "name": "Belene",
+                    "latitude": "43.64594000",
+                    "longitude": "25.12627000"
+                },
+                {
+                    "id": 9300,
+                    "name": "Cherven Bryag",
+                    "latitude": "43.26667000",
+                    "longitude": "24.10000000"
+                },
+                {
+                    "id": 9312,
+                    "name": "Dolna Mitropolia",
+                    "latitude": "43.46667000",
+                    "longitude": "24.53333000"
+                },
+                {
+                    "id": 9314,
+                    "name": "Dolni Dabnik",
+                    "latitude": "43.40000000",
+                    "longitude": "24.43333000"
+                },
+                {
+                    "id": 9337,
+                    "name": "Gulyantsi",
+                    "latitude": "43.64109000",
+                    "longitude": "24.69368000"
+                },
+                {
+                    "id": 9347,
+                    "name": "Iskar",
+                    "latitude": "43.45000000",
+                    "longitude": "24.26667000"
+                },
+                {
+                    "id": 9366,
+                    "name": "Knezha",
+                    "latitude": "43.50000000",
+                    "longitude": "24.08333000"
+                },
+                {
+                    "id": 9372,
+                    "name": "Koynare",
+                    "latitude": "43.35000000",
+                    "longitude": "24.13333000"
+                },
+                {
+                    "id": 9386,
+                    "name": "Levski",
+                    "latitude": "43.36667000",
+                    "longitude": "25.13333000"
+                },
+                {
+                    "id": 9409,
+                    "name": "Nikopol",
+                    "latitude": "43.70528000",
+                    "longitude": "24.89521000"
+                },
+                {
+                    "id": 9424,
+                    "name": "Obshtina Belene",
+                    "latitude": "43.63333000",
+                    "longitude": "25.13333000"
+                },
+                {
+                    "id": 9449,
+                    "name": "Obshtina Cherven Bryag",
+                    "latitude": "43.33333000",
+                    "longitude": "24.13333000"
+                },
+                {
+                    "id": 9460,
+                    "name": "Obshtina Dolna Mitropolia",
+                    "latitude": "43.58333000",
+                    "longitude": "24.41667000"
+                },
+                {
+                    "id": 9462,
+                    "name": "Obshtina Dolni Dabnik",
+                    "latitude": "43.36667000",
+                    "longitude": "24.41667000"
+                },
+                {
+                    "id": 9484,
+                    "name": "Obshtina Gulyantsi",
+                    "latitude": "43.68333000",
+                    "longitude": "24.65000000"
+                },
+                {
+                    "id": 9490,
+                    "name": "Obshtina Iskar",
+                    "latitude": "43.50000000",
+                    "longitude": "24.28333000"
+                },
+                {
+                    "id": 9503,
+                    "name": "Obshtina Knezha",
+                    "latitude": "43.50000000",
+                    "longitude": "24.11667000"
+                },
+                {
+                    "id": 9521,
+                    "name": "Obshtina Levski",
+                    "latitude": "43.43333000",
+                    "longitude": "25.10000000"
+                },
+                {
+                    "id": 9541,
+                    "name": "Obshtina Nikopol",
+                    "latitude": "43.60000000",
+                    "longitude": "24.93333000"
+                },
+                {
+                    "id": 9557,
+                    "name": "Obshtina Pleven",
+                    "latitude": "43.40000000",
+                    "longitude": "24.70000000"
+                },
+                {
+                    "id": 9562,
+                    "name": "Obshtina Pordim",
+                    "latitude": "43.38333000",
+                    "longitude": "24.90000000"
+                },
+                {
+                    "id": 9655,
+                    "name": "Pleven",
+                    "latitude": "43.41667000",
+                    "longitude": "24.61667000"
+                },
+                {
+                    "id": 9660,
+                    "name": "Pordim",
+                    "latitude": "43.38333000",
+                    "longitude": "24.85000000"
+                },
+                {
+                    "id": 9696,
+                    "name": "Slavyanovo",
+                    "latitude": "43.46667000",
+                    "longitude": "24.86667000"
+                }
+            ]
+        },
+        {
+            "id": 4701,
+            "name": "Plovdiv Province",
+            "state_code": "16",
+            "cities": [
+                {
+                    "id": 9259,
+                    "name": "Asenovgrad",
+                    "latitude": "42.01667000",
+                    "longitude": "24.86667000"
+                },
+                {
+                    "id": 9289,
+                    "name": "Brezovo",
+                    "latitude": "42.35000000",
+                    "longitude": "25.08333000"
+                },
+                {
+                    "id": 9345,
+                    "name": "Hisarya",
+                    "latitude": "42.50000000",
+                    "longitude": "24.70000000"
+                },
+                {
+                    "id": 9351,
+                    "name": "Kalofer",
+                    "latitude": "42.61667000",
+                    "longitude": "24.98333000"
+                },
+                {
+                    "id": 9352,
+                    "name": "Kaloyanovo",
+                    "latitude": "42.35000000",
+                    "longitude": "24.73333000"
+                },
+                {
+                    "id": 9355,
+                    "name": "Karlovo",
+                    "latitude": "42.63333000",
+                    "longitude": "24.80000000"
+                },
+                {
+                    "id": 9365,
+                    "name": "Klisura",
+                    "latitude": "42.70000000",
+                    "longitude": "24.45000000"
+                },
+                {
+                    "id": 9375,
+                    "name": "Krichim",
+                    "latitude": "42.05000000",
+                    "longitude": "24.46667000"
+                },
+                {
+                    "id": 9383,
+                    "name": "Laki",
+                    "latitude": "41.85000000",
+                    "longitude": "24.81667000"
+                },
+                {
+                    "id": 9417,
+                    "name": "Obshtina Asenovgrad",
+                    "latitude": "41.95000000",
+                    "longitude": "24.96667000"
+                },
+                {
+                    "id": 9489,
+                    "name": "Obshtina Hisarya",
+                    "latitude": "42.50000000",
+                    "longitude": "24.60000000"
+                },
+                {
+                    "id": 9494,
+                    "name": "Obshtina Kaloyanovo",
+                    "latitude": "42.38333000",
+                    "longitude": "24.81667000"
+                },
+                {
+                    "id": 9497,
+                    "name": "Obshtina Karlovo",
+                    "latitude": "42.68333000",
+                    "longitude": "24.66667000"
+                },
+                {
+                    "id": 9512,
+                    "name": "Obshtina Krichim",
+                    "latitude": "42.00439000",
+                    "longitude": "24.47235000"
+                },
+                {
+                    "id": 9516,
+                    "name": "Obshtina Kuklen",
+                    "latitude": "42.03725000",
+                    "longitude": "24.77949000"
+                },
+                {
+                    "id": 9519,
+                    "name": "Obshtina Laki",
+                    "latitude": "41.81667000",
+                    "longitude": "24.85000000"
+                },
+                {
+                    "id": 9530,
+                    "name": "Obshtina Maritsa",
+                    "latitude": "42.23333000",
+                    "longitude": "24.80000000"
+                },
+                {
+                    "id": 9548,
+                    "name": "Obshtina Parvomay",
+                    "latitude": "42.03333000",
+                    "longitude": "25.20000000"
+                },
+                {
+                    "id": 9553,
+                    "name": "Obshtina Perushtitsa",
+                    "latitude": "42.06667000",
+                    "longitude": "24.55000000"
+                },
+                {
+                    "id": 9558,
+                    "name": "Obshtina Plovdiv",
+                    "latitude": "42.15000000",
+                    "longitude": "24.75000000"
+                },
+                {
+                    "id": 9569,
+                    "name": "Obshtina Rakovski",
+                    "latitude": "42.26667000",
+                    "longitude": "24.98333000"
+                },
+                {
+                    "id": 9573,
+                    "name": "Obshtina Rodopi",
+                    "latitude": "42.03333000",
+                    "longitude": "24.68333000"
+                },
+                {
+                    "id": 9578,
+                    "name": "Obshtina Sadovo",
+                    "latitude": "42.13333000",
+                    "longitude": "25.00000000"
+                },
+                {
+                    "id": 9579,
+                    "name": "Obshtina Saedinenie",
+                    "latitude": "42.31667000",
+                    "longitude": "24.58333000"
+                },
+                {
+                    "id": 9595,
+                    "name": "Obshtina Sopot",
+                    "latitude": "42.65214000",
+                    "longitude": "24.74310000"
+                },
+                {
+                    "id": 9597,
+                    "name": "Obshtina Stamboliyski",
+                    "latitude": "42.11667000",
+                    "longitude": "24.51667000"
+                },
+                {
+                    "id": 9645,
+                    "name": "Parvomay",
+                    "latitude": "42.10000000",
+                    "longitude": "25.21667000"
+                },
+                {
+                    "id": 9651,
+                    "name": "Perushtitsa",
+                    "latitude": "42.05000000",
+                    "longitude": "24.55000000"
+                },
+                {
+                    "id": 9656,
+                    "name": "Plovdiv",
+                    "latitude": "42.15000000",
+                    "longitude": "24.75000000"
+                },
+                {
+                    "id": 9667,
+                    "name": "Rakovski",
+                    "latitude": "42.27408000",
+                    "longitude": "24.94083000"
+                },
+                {
+                    "id": 9677,
+                    "name": "Sadovo",
+                    "latitude": "42.13178000",
+                    "longitude": "24.93999000"
+                },
+                {
+                    "id": 9678,
+                    "name": "Saedinenie",
+                    "latitude": "42.26667000",
+                    "longitude": "24.55000000"
+                },
+                {
+                    "id": 9704,
+                    "name": "Stamboliyski",
+                    "latitude": "42.13333000",
+                    "longitude": "24.53333000"
+                },
+                {
+                    "id": 9723,
+                    "name": "Topolovo",
+                    "latitude": "41.90000000",
+                    "longitude": "25.00000000"
+                }
+            ]
+        },
+        {
+            "id": 4698,
+            "name": "Razgrad Province",
+            "state_code": "17",
+            "cities": [
+                {
+                    "id": 9348,
+                    "name": "Isperih",
+                    "latitude": "43.71667000",
+                    "longitude": "26.83333000"
+                },
+                {
+                    "id": 9379,
+                    "name": "Kubrat",
+                    "latitude": "43.79658000",
+                    "longitude": "26.50063000"
+                },
+                {
+                    "id": 9389,
+                    "name": "Loznitsa",
+                    "latitude": "43.36667000",
+                    "longitude": "26.60000000"
+                },
+                {
+                    "id": 9399,
+                    "name": "Medovene",
+                    "latitude": "43.76667000",
+                    "longitude": "26.51667000"
+                },
+                {
+                    "id": 9491,
+                    "name": "Obshtina Isperih",
+                    "latitude": "43.71667000",
+                    "longitude": "26.83333000"
+                },
+                {
+                    "id": 9515,
+                    "name": "Obshtina Kubrat",
+                    "latitude": "43.86667000",
+                    "longitude": "26.48333000"
+                },
+                {
+                    "id": 9524,
+                    "name": "Obshtina Loznitsa",
+                    "latitude": "43.41667000",
+                    "longitude": "26.58333000"
+                },
+                {
+                    "id": 9570,
+                    "name": "Obshtina Razgrad",
+                    "latitude": "43.53333000",
+                    "longitude": "26.51667000"
+                },
+                {
+                    "id": 9581,
+                    "name": "Obshtina Samuil",
+                    "latitude": "43.60000000",
+                    "longitude": "26.80000000"
+                },
+                {
+                    "id": 9616,
+                    "name": "Obshtina Tsar Kaloyan",
+                    "latitude": "43.60000000",
+                    "longitude": "26.21667000"
+                },
+                {
+                    "id": 9635,
+                    "name": "Obshtina Zavet",
+                    "latitude": "43.76667000",
+                    "longitude": "26.68333000"
+                },
+                {
+                    "id": 9669,
+                    "name": "Razgrad",
+                    "latitude": "43.53333000",
+                    "longitude": "26.51667000"
+                },
+                {
+                    "id": 9680,
+                    "name": "Samuil",
+                    "latitude": "43.51667000",
+                    "longitude": "26.75000000"
+                },
+                {
+                    "id": 9727,
+                    "name": "Tsar Kaloyan",
+                    "latitude": "43.61667000",
+                    "longitude": "26.25000000"
+                },
+                {
+                    "id": 9747,
+                    "name": "Zavet",
+                    "latitude": "43.76036000",
+                    "longitude": "26.68063000"
+                }
+            ]
+        },
+        {
+            "id": 4713,
+            "name": "Ruse Province",
+            "state_code": "18",
+            "cities": [
+                {
+                    "id": 9281,
+                    "name": "Borovo",
+                    "latitude": "43.50086000",
+                    "longitude": "25.80992000"
+                },
+                {
+                    "id": 9322,
+                    "name": "Dve Mogili",
+                    "latitude": "43.59258000",
+                    "longitude": "25.87486000"
+                },
+                {
+                    "id": 9349,
+                    "name": "Ivanovo",
+                    "latitude": "43.68568000",
+                    "longitude": "25.95565000"
+                },
+                {
+                    "id": 9435,
+                    "name": "Obshtina Borovo",
+                    "latitude": "43.60000000",
+                    "longitude": "25.80000000"
+                },
+                {
+                    "id": 9443,
+                    "name": "Obshtina Byala",
+                    "latitude": "43.41667000",
+                    "longitude": "25.83333000"
+                },
+                {
+                    "id": 9468,
+                    "name": "Obshtina Dve Mogili",
+                    "latitude": "43.51667000",
+                    "longitude": "25.96667000"
+                },
+                {
+                    "id": 9492,
+                    "name": "Obshtina Ivanovo",
+                    "latitude": "43.70000000",
+                    "longitude": "25.98333000"
+                },
+                {
+                    "id": 9576,
+                    "name": "Obshtina Ruse",
+                    "latitude": "43.85000000",
+                    "longitude": "26.08333000"
+                },
+                {
+                    "id": 9593,
+                    "name": "Obshtina Slivo Pole",
+                    "latitude": "43.96667000",
+                    "longitude": "26.30000000"
+                },
+                {
+                    "id": 9617,
+                    "name": "Obshtina Tsenovo",
+                    "latitude": "43.58333000",
+                    "longitude": "25.61667000"
+                },
+                {
+                    "id": 9628,
+                    "name": "Obshtina Vetovo",
+                    "latitude": "43.71667000",
+                    "longitude": "26.33333000"
+                },
+                {
+                    "id": 9675,
+                    "name": "Ruse",
+                    "latitude": "43.84872000",
+                    "longitude": "25.95340000"
+                },
+                {
+                    "id": 9687,
+                    "name": "Senovo",
+                    "latitude": "43.65000000",
+                    "longitude": "26.36667000"
+                },
+                {
+                    "id": 9699,
+                    "name": "Slivo Pole",
+                    "latitude": "43.94248000",
+                    "longitude": "26.20464000"
+                },
+                {
+                    "id": 9729,
+                    "name": "Tsenovo",
+                    "latitude": "43.53588000",
+                    "longitude": "25.65764000"
+                },
+                {
+                    "id": 9739,
+                    "name": "Vetovo",
+                    "latitude": "43.70000000",
+                    "longitude": "26.26667000"
+                }
+            ]
+        },
+        {
+            "id": 4708,
+            "name": "Silistra Province",
+            "state_code": "19",
+            "cities": [
+                {
+                    "id": 9253,
+                    "name": "Alfatar",
+                    "latitude": "43.94525000",
+                    "longitude": "27.28751000"
+                },
+                {
+                    "id": 9319,
+                    "name": "Dulovo",
+                    "latitude": "43.81667000",
+                    "longitude": "27.15000000"
+                },
+                {
+                    "id": 9331,
+                    "name": "Glavinitsa",
+                    "latitude": "43.91667000",
+                    "longitude": "26.83333000"
+                },
+                {
+                    "id": 9358,
+                    "name": "Kaynardzha",
+                    "latitude": "43.99278000",
+                    "longitude": "27.50713000"
+                },
+                {
+                    "id": 9413,
+                    "name": "Obshtina Alfatar",
+                    "latitude": "43.90000000",
+                    "longitude": "27.33333000"
+                },
+                {
+                    "id": 9466,
+                    "name": "Obshtina Dulovo",
+                    "latitude": "43.81667000",
+                    "longitude": "27.08333000"
+                },
+                {
+                    "id": 9479,
+                    "name": "Obshtina Glavinitsa",
+                    "latitude": "43.95000000",
+                    "longitude": "26.85000000"
+                },
+                {
+                    "id": 9500,
+                    "name": "Obshtina Kaynardzha",
+                    "latitude": "43.95000000",
+                    "longitude": "27.53333000"
+                },
+                {
+                    "id": 9588,
+                    "name": "Obshtina Silistra",
+                    "latitude": "44.03333000",
+                    "longitude": "27.20000000"
+                },
+                {
+                    "id": 9590,
+                    "name": "Obshtina Sitovo",
+                    "latitude": "44.01667000",
+                    "longitude": "27.00000000"
+                },
+                {
+                    "id": 9619,
+                    "name": "Obshtina Tutrakan",
+                    "latitude": "44.00000000",
+                    "longitude": "26.60000000"
+                },
+                {
+                    "id": 9692,
+                    "name": "Silistra",
+                    "latitude": "44.11710000",
+                    "longitude": "27.26056000"
+                },
+                {
+                    "id": 9695,
+                    "name": "Sitovo",
+                    "latitude": "44.02730000",
+                    "longitude": "27.01982000"
+                },
+                {
+                    "id": 9730,
+                    "name": "Tutrakan",
+                    "latitude": "44.04906000",
+                    "longitude": "26.61206000"
+                }
+            ]
+        },
+        {
+            "id": 4700,
+            "name": "Sliven Province",
+            "state_code": "20",
+            "cities": [
+                {
+                    "id": 9360,
+                    "name": "Kermen",
+                    "latitude": "42.50000000",
+                    "longitude": "26.25000000"
+                },
+                {
+                    "id": 9371,
+                    "name": "Kotel",
+                    "latitude": "42.88333000",
+                    "longitude": "26.45000000"
+                },
+                {
+                    "id": 9410,
+                    "name": "Nova Zagora",
+                    "latitude": "42.48333000",
+                    "longitude": "26.01667000"
+                },
+                {
+                    "id": 9508,
+                    "name": "Obshtina Kotel",
+                    "latitude": "42.88333000",
+                    "longitude": "26.45000000"
+                },
+                {
+                    "id": 9542,
+                    "name": "Obshtina Nova Zagora",
+                    "latitude": "42.45000000",
+                    "longitude": "26.05000000"
+                },
+                {
+                    "id": 9591,
+                    "name": "Obshtina Sliven",
+                    "latitude": "42.66667000",
+                    "longitude": "26.31667000"
+                },
+                {
+                    "id": 9620,
+                    "name": "Obshtina Tvarditsa",
+                    "latitude": "42.73333000",
+                    "longitude": "26.00000000"
+                },
+                {
+                    "id": 9697,
+                    "name": "Sliven",
+                    "latitude": "42.68583000",
+                    "longitude": "26.32917000"
+                },
+                {
+                    "id": 9731,
+                    "name": "Tvarditsa",
+                    "latitude": "42.70000000",
+                    "longitude": "25.90000000"
+                }
+            ]
+        },
+        {
+            "id": 4694,
+            "name": "Smolyan Province",
+            "state_code": "21",
+            "cities": [
+                {
+                    "id": 9264,
+                    "name": "Banite",
+                    "latitude": "41.61667000",
+                    "longitude": "25.01667000"
+                },
+                {
+                    "id": 9279,
+                    "name": "Borino",
+                    "latitude": "41.68408000",
+                    "longitude": "24.29300000"
+                },
+                {
+                    "id": 9298,
+                    "name": "Chepelare",
+                    "latitude": "41.73333000",
+                    "longitude": "24.68333000"
+                },
+                {
+                    "id": 9306,
+                    "name": "Devin",
+                    "latitude": "41.74327000",
+                    "longitude": "24.40003000"
+                },
+                {
+                    "id": 9315,
+                    "name": "Dospat",
+                    "latitude": "41.64462000",
+                    "longitude": "24.15857000"
+                },
+                {
+                    "id": 9339,
+                    "name": "Gyovren",
+                    "latitude": "41.66326000",
+                    "longitude": "24.37557000"
+                },
+                {
+                    "id": 9393,
+                    "name": "Madan",
+                    "latitude": "41.49869000",
+                    "longitude": "24.93973000"
+                },
+                {
+                    "id": 9405,
+                    "name": "Nedelino",
+                    "latitude": "41.45602000",
+                    "longitude": "25.08008000"
+                },
+                {
+                    "id": 9421,
+                    "name": "Obshtina Banite",
+                    "latitude": "41.70000000",
+                    "longitude": "25.00000000"
+                },
+                {
+                    "id": 9433,
+                    "name": "Obshtina Borino",
+                    "latitude": "41.64834000",
+                    "longitude": "24.31694000"
+                },
+                {
+                    "id": 9447,
+                    "name": "Obshtina Chepelare",
+                    "latitude": "41.80000000",
+                    "longitude": "24.68333000"
+                },
+                {
+                    "id": 9453,
+                    "name": "Obshtina Devin",
+                    "latitude": "41.74346000",
+                    "longitude": "24.40192000"
+                },
+                {
+                    "id": 9463,
+                    "name": "Obshtina Dospat",
+                    "latitude": "41.63228000",
+                    "longitude": "24.18765000"
+                },
+                {
+                    "id": 9526,
+                    "name": "Obshtina Madan",
+                    "latitude": "41.53333000",
+                    "longitude": "24.96667000"
+                },
+                {
+                    "id": 9537,
+                    "name": "Obshtina Nedelino",
+                    "latitude": "41.46894000",
+                    "longitude": "25.09481000"
+                },
+                {
+                    "id": 9575,
+                    "name": "Obshtina Rudozem",
+                    "latitude": "41.45439000",
+                    "longitude": "24.83690000"
+                },
+                {
+                    "id": 9594,
+                    "name": "Obshtina Smolyan",
+                    "latitude": "41.57516000",
+                    "longitude": "24.71302000"
+                },
+                {
+                    "id": 9639,
+                    "name": "Obshtina Zlatograd",
+                    "latitude": "41.40028000",
+                    "longitude": "25.04591000"
+                },
+                {
+                    "id": 9673,
+                    "name": "Rudozem",
+                    "latitude": "41.48751000",
+                    "longitude": "24.84945000"
+                },
+                {
+                    "id": 9700,
+                    "name": "Smolyan",
+                    "latitude": "41.57439000",
+                    "longitude": "24.71204000"
+                },
+                {
+                    "id": 9752,
+                    "name": "Zlatograd",
+                    "latitude": "41.37950000",
+                    "longitude": "25.09605000"
+                }
+            ]
+        },
+        {
+            "id": 4705,
+            "name": "Sofia City Province",
+            "state_code": "22",
+            "cities": [
+                {
+                    "id": 9291,
+                    "name": "Buhovo",
+                    "latitude": "42.76667000",
+                    "longitude": "23.56667000"
+                },
+                {
+                    "id": 9701,
+                    "name": "Sofia",
+                    "latitude": "42.69751000",
+                    "longitude": "23.32415000"
+                },
+                {
+                    "id": 9707,
+                    "name": "Stolichna Obshtina",
+                    "latitude": "42.68647000",
+                    "longitude": "23.30561000"
+                }
+            ]
+        },
+        {
+            "id": 4719,
+            "name": "Sofia Province",
+            "state_code": "23",
+            "cities": [
+                {
+                    "id": 9254,
+                    "name": "Anton",
+                    "latitude": "42.75000000",
+                    "longitude": "24.28333000"
+                },
+                {
+                    "id": 9282,
+                    "name": "Botevgrad",
+                    "latitude": "42.90000000",
+                    "longitude": "23.78333000"
+                },
+                {
+                    "id": 9285,
+                    "name": "Bozhurishte",
+                    "latitude": "42.75000000",
+                    "longitude": "23.20000000"
+                },
+                {
+                    "id": 9296,
+                    "name": "Chavdar",
+                    "latitude": "42.65000000",
+                    "longitude": "24.05000000"
+                },
+                {
+                    "id": 9297,
+                    "name": "Chelopech",
+                    "latitude": "42.70000000",
+                    "longitude": "24.08333000"
+                },
+                {
+                    "id": 9311,
+                    "name": "Dolna Banya",
+                    "latitude": "42.30000000",
+                    "longitude": "23.76667000"
+                },
+                {
+                    "id": 9316,
+                    "name": "Dragoman",
+                    "latitude": "42.92191000",
+                    "longitude": "22.93109000"
+                },
+                {
+                    "id": 9326,
+                    "name": "Elin Pelin",
+                    "latitude": "42.66667000",
+                    "longitude": "23.60000000"
+                },
+                {
+                    "id": 9327,
+                    "name": "Etropole",
+                    "latitude": "42.83333000",
+                    "longitude": "24.00000000"
+                },
+                {
+                    "id": 9332,
+                    "name": "Godech",
+                    "latitude": "43.01682000",
+                    "longitude": "23.04852000"
+                },
+                {
+                    "id": 9333,
+                    "name": "Gorna Malina",
+                    "latitude": "42.68333000",
+                    "longitude": "23.70000000"
+                },
+                {
+                    "id": 9346,
+                    "name": "Ihtiman",
+                    "latitude": "42.43333000",
+                    "longitude": "23.81667000"
+                },
+                {
+                    "id": 9369,
+                    "name": "Koprivshtitsa",
+                    "latitude": "42.63333000",
+                    "longitude": "24.35000000"
+                },
+                {
+                    "id": 9370,
+                    "name": "Kostinbrod",
+                    "latitude": "42.81667000",
+                    "longitude": "23.21667000"
+                },
+                {
+                    "id": 9382,
+                    "name": "Lakatnik",
+                    "latitude": "43.05000000",
+                    "longitude": "23.40000000"
+                },
+                {
+                    "id": 9402,
+                    "name": "Mirkovo",
+                    "latitude": "42.70000000",
+                    "longitude": "23.98333000"
+                },
+                {
+                    "id": 9414,
+                    "name": "Obshtina Anton",
+                    "latitude": "42.76667000",
+                    "longitude": "24.30000000"
+                },
+                {
+                    "id": 9436,
+                    "name": "Obshtina Botevgrad",
+                    "latitude": "42.95000000",
+                    "longitude": "23.75000000"
+                },
+                {
+                    "id": 9439,
+                    "name": "Obshtina Bozhurishte",
+                    "latitude": "42.78333000",
+                    "longitude": "23.11667000"
+                },
+                {
+                    "id": 9445,
+                    "name": "Obshtina Chavdar",
+                    "latitude": "42.61667000",
+                    "longitude": "24.08333000"
+                },
+                {
+                    "id": 9446,
+                    "name": "Obshtina Chelopech",
+                    "latitude": "42.71667000",
+                    "longitude": "24.06667000"
+                },
+                {
+                    "id": 9459,
+                    "name": "Obshtina Dolna Banya",
+                    "latitude": "42.30000000",
+                    "longitude": "23.76667000"
+                },
+                {
+                    "id": 9464,
+                    "name": "Obshtina Dragoman",
+                    "latitude": "42.93333000",
+                    "longitude": "22.93333000"
+                },
+                {
+                    "id": 9472,
+                    "name": "Obshtina Elin Pelin",
+                    "latitude": "42.66667000",
+                    "longitude": "23.60000000"
+                },
+                {
+                    "id": 9473,
+                    "name": "Obshtina Etropole",
+                    "latitude": "42.85000000",
+                    "longitude": "24.03333000"
+                },
+                {
+                    "id": 9480,
+                    "name": "Obshtina Gorna Malina",
+                    "latitude": "42.71667000",
+                    "longitude": "23.80000000"
+                },
+                {
+                    "id": 9505,
+                    "name": "Obshtina Koprivshtitsa",
+                    "latitude": "42.61667000",
+                    "longitude": "24.38333000"
+                },
+                {
+                    "id": 9506,
+                    "name": "Obshtina Kostenets",
+                    "latitude": "42.30000000",
+                    "longitude": "23.86667000"
+                },
+                {
+                    "id": 9507,
+                    "name": "Obshtina Kostinbrod",
+                    "latitude": "42.88333000",
+                    "longitude": "23.20000000"
+                },
+                {
+                    "id": 9533,
+                    "name": "Obshtina Mirkovo",
+                    "latitude": "42.66667000",
+                    "longitude": "23.96667000"
+                },
+                {
+                    "id": 9556,
+                    "name": "Obshtina Pirdop",
+                    "latitude": "42.70000000",
+                    "longitude": "24.23333000"
+                },
+                {
+                    "id": 9563,
+                    "name": "Obshtina Pravets",
+                    "latitude": "42.96667000",
+                    "longitude": "23.98333000"
+                },
+                {
+                    "id": 9580,
+                    "name": "Obshtina Samokov",
+                    "latitude": "42.33333000",
+                    "longitude": "23.55000000"
+                },
+                {
+                    "id": 9592,
+                    "name": "Obshtina Slivnitsa",
+                    "latitude": "42.85000000",
+                    "longitude": "22.98333000"
+                },
+                {
+                    "id": 9609,
+                    "name": "Obshtina Svoge",
+                    "latitude": "43.00000000",
+                    "longitude": "23.40000000"
+                },
+                {
+                    "id": 9638,
+                    "name": "Obshtina Zlatitsa",
+                    "latitude": "42.70000000",
+                    "longitude": "24.13333000"
+                },
+                {
+                    "id": 9654,
+                    "name": "Pirdop",
+                    "latitude": "42.70000000",
+                    "longitude": "24.18333000"
+                },
+                {
+                    "id": 9661,
+                    "name": "Pravets",
+                    "latitude": "42.88333000",
+                    "longitude": "23.91667000"
+                },
+                {
+                    "id": 9679,
+                    "name": "Samokov",
+                    "latitude": "42.33700000",
+                    "longitude": "23.55280000"
+                },
+                {
+                    "id": 9698,
+                    "name": "Slivnitsa",
+                    "latitude": "42.85182000",
+                    "longitude": "23.03792000"
+                },
+                {
+                    "id": 9718,
+                    "name": "Svoge",
+                    "latitude": "42.96667000",
+                    "longitude": "23.35000000"
+                },
+                {
+                    "id": 9750,
+                    "name": "Zlatitsa",
+                    "latitude": "42.71667000",
+                    "longitude": "24.13333000"
+                }
+            ]
+        },
+        {
+            "id": 4707,
+            "name": "Stara Zagora Province",
+            "state_code": "24",
+            "cities": [
+                {
+                    "id": 9258,
+                    "name": "Asen",
+                    "latitude": "42.65000000",
+                    "longitude": "25.20000000"
+                },
+                {
+                    "id": 9302,
+                    "name": "Chirpan",
+                    "latitude": "42.20000000",
+                    "longitude": "25.33333000"
+                },
+                {
+                    "id": 9340,
+                    "name": "Gŭlŭbovo",
+                    "latitude": "42.13333000",
+                    "longitude": "25.85000000"
+                },
+                {
+                    "id": 9338,
+                    "name": "Gurkovo",
+                    "latitude": "42.66667000",
+                    "longitude": "25.80000000"
+                },
+                {
+                    "id": 9359,
+                    "name": "Kazanlak",
+                    "latitude": "42.61667000",
+                    "longitude": "25.40000000"
+                },
+                {
+                    "id": 9395,
+                    "name": "Maglizh",
+                    "latitude": "42.60000000",
+                    "longitude": "25.55000000"
+                },
+                {
+                    "id": 9408,
+                    "name": "Nikolaevo",
+                    "latitude": "42.63333000",
+                    "longitude": "25.80000000"
+                },
+                {
+                    "id": 9441,
+                    "name": "Obshtina Bratya Daskalovi",
+                    "latitude": "42.30000000",
+                    "longitude": "25.21667000"
+                },
+                {
+                    "id": 9451,
+                    "name": "Obshtina Chirpan",
+                    "latitude": "42.23333000",
+                    "longitude": "25.38333000"
+                },
+                {
+                    "id": 9475,
+                    "name": "Obshtina Galabovo",
+                    "latitude": "42.15000000",
+                    "longitude": "25.96667000"
+                },
+                {
+                    "id": 9485,
+                    "name": "Obshtina Gurkovo",
+                    "latitude": "42.71667000",
+                    "longitude": "25.80000000"
+                },
+                {
+                    "id": 9501,
+                    "name": "Obshtina Kazanlŭk",
+                    "latitude": "42.61943000",
+                    "longitude": "25.39885000"
+                },
+                {
+                    "id": 9528,
+                    "name": "Obshtina Maglizh",
+                    "latitude": "42.63333000",
+                    "longitude": "25.61667000"
+                },
+                {
+                    "id": 9540,
+                    "name": "Obshtina Nikolaevo",
+                    "latitude": "42.60000000",
+                    "longitude": "25.78333000"
+                },
+                {
+                    "id": 9545,
+                    "name": "Obshtina Opan",
+                    "latitude": "42.21667000",
+                    "longitude": "25.70000000"
+                },
+                {
+                    "id": 9549,
+                    "name": "Obshtina Pavel Banya",
+                    "latitude": "42.63333000",
+                    "longitude": "25.13333000"
+                },
+                {
+                    "id": 9566,
+                    "name": "Obshtina Radnevo",
+                    "latitude": "42.30000000",
+                    "longitude": "25.93333000"
+                },
+                {
+                    "id": 9599,
+                    "name": "Obshtina Stara Zagora",
+                    "latitude": "42.41667000",
+                    "longitude": "25.63333000"
+                },
+                {
+                    "id": 9647,
+                    "name": "Pavel Banya",
+                    "latitude": "42.60000000",
+                    "longitude": "25.20000000"
+                },
+                {
+                    "id": 9664,
+                    "name": "Radnevo",
+                    "latitude": "42.30000000",
+                    "longitude": "25.93333000"
+                },
+                {
+                    "id": 9691,
+                    "name": "Shipka",
+                    "latitude": "42.71667000",
+                    "longitude": "25.33333000"
+                },
+                {
+                    "id": 9706,
+                    "name": "Stara Zagora",
+                    "latitude": "42.43278000",
+                    "longitude": "25.64194000"
+                }
+            ]
+        },
+        {
+            "id": 4714,
+            "name": "Targovishte Province",
+            "state_code": "25",
+            "cities": [
+                {
+                    "id": 9255,
+                    "name": "Antonovo",
+                    "latitude": "43.15000000",
+                    "longitude": "26.16667000"
+                },
+                {
+                    "id": 9415,
+                    "name": "Obshtina Antonovo",
+                    "latitude": "43.11667000",
+                    "longitude": "26.20000000"
+                },
+                {
+                    "id": 9543,
+                    "name": "Obshtina Omurtag",
+                    "latitude": "43.08333000",
+                    "longitude": "26.48333000"
+                },
+                {
+                    "id": 9544,
+                    "name": "Obshtina Opaka",
+                    "latitude": "43.46667000",
+                    "longitude": "26.15000000"
+                },
+                {
+                    "id": 9561,
+                    "name": "Obshtina Popovo",
+                    "latitude": "43.35000000",
+                    "longitude": "26.23333000"
+                },
+                {
+                    "id": 9610,
+                    "name": "Obshtina Targovishte",
+                    "latitude": "43.25000000",
+                    "longitude": "26.56667000"
+                },
+                {
+                    "id": 9641,
+                    "name": "Omurtag",
+                    "latitude": "43.10000000",
+                    "longitude": "26.41667000"
+                },
+                {
+                    "id": 9642,
+                    "name": "Opaka",
+                    "latitude": "43.45000000",
+                    "longitude": "26.16667000"
+                },
+                {
+                    "id": 9659,
+                    "name": "Popovo",
+                    "latitude": "43.35000000",
+                    "longitude": "26.23333000"
+                },
+                {
+                    "id": 9719,
+                    "name": "Targovishte",
+                    "latitude": "43.25120000",
+                    "longitude": "26.57215000"
+                }
+            ]
+        },
+        {
+            "id": 4717,
+            "name": "Varna Province",
+            "state_code": "03",
+            "cities": [
+                {
+                    "id": 9252,
+                    "name": "Aksakovo",
+                    "latitude": "43.25615000",
+                    "longitude": "27.82105000"
+                },
+                {
+                    "id": 9260,
+                    "name": "Asparuhovo",
+                    "latitude": "43.18067000",
+                    "longitude": "27.88823000"
+                },
+                {
+                    "id": 9263,
+                    "name": "Balgarevo",
+                    "latitude": "43.40296000",
+                    "longitude": "28.41189000"
+                },
+                {
+                    "id": 9272,
+                    "name": "Beloslav",
+                    "latitude": "43.18960000",
+                    "longitude": "27.70429000"
+                },
+                {
+                    "id": 9293,
+                    "name": "Byala",
+                    "latitude": "42.87426000",
+                    "longitude": "27.88865000"
+                },
+                {
+                    "id": 9304,
+                    "name": "Dalgopol",
+                    "latitude": "43.05000000",
+                    "longitude": "27.35000000"
+                },
+                {
+                    "id": 9307,
+                    "name": "Devnya",
+                    "latitude": "43.22222000",
+                    "longitude": "27.56944000"
+                },
+                {
+                    "id": 9313,
+                    "name": "Dolni Chiflik",
+                    "latitude": "42.99296000",
+                    "longitude": "27.71596000"
+                },
+                {
+                    "id": 9364,
+                    "name": "Kiten",
+                    "latitude": "43.08333000",
+                    "longitude": "27.31667000"
+                },
+                {
+                    "id": 9412,
+                    "name": "Obshtina Aksakovo",
+                    "latitude": "43.31667000",
+                    "longitude": "27.85000000"
+                },
+                {
+                    "id": 9418,
+                    "name": "Obshtina Avren",
+                    "latitude": "43.10000000",
+                    "longitude": "27.71667000"
+                },
+                {
+                    "id": 9427,
+                    "name": "Obshtina Beloslav",
+                    "latitude": "43.20000000",
+                    "longitude": "27.73333000"
+                },
+                {
+                    "id": 9444,
+                    "name": "Obshtina Byala",
+                    "latitude": "42.88333000",
+                    "longitude": "27.81667000"
+                },
+                {
+                    "id": 9452,
+                    "name": "Obshtina Dalgopol",
+                    "latitude": "43.05000000",
+                    "longitude": "27.35000000"
+                },
+                {
+                    "id": 9454,
+                    "name": "Obshtina Devnya",
+                    "latitude": "43.22056000",
+                    "longitude": "27.60052000"
+                },
+                {
+                    "id": 9461,
+                    "name": "Obshtina Dolni Chiflik",
+                    "latitude": "42.96667000",
+                    "longitude": "27.68333000"
+                },
+                {
+                    "id": 9565,
+                    "name": "Obshtina Provadia",
+                    "latitude": "43.18333000",
+                    "longitude": "27.40000000"
+                },
+                {
+                    "id": 9606,
+                    "name": "Obshtina Suvorovo",
+                    "latitude": "43.33333000",
+                    "longitude": "27.65000000"
+                },
+                {
+                    "id": 9623,
+                    "name": "Obshtina Valchidol",
+                    "latitude": "43.45000000",
+                    "longitude": "27.50000000"
+                },
+                {
+                    "id": 9624,
+                    "name": "Obshtina Varna",
+                    "latitude": "43.21667000",
+                    "longitude": "27.91667000"
+                },
+                {
+                    "id": 9629,
+                    "name": "Obshtina Vetrino",
+                    "latitude": "43.31667000",
+                    "longitude": "27.43333000"
+                },
+                {
+                    "id": 9663,
+                    "name": "Provadia",
+                    "latitude": "43.18333000",
+                    "longitude": "27.43333000"
+                },
+                {
+                    "id": 9714,
+                    "name": "Suvorovo",
+                    "latitude": "43.33058000",
+                    "longitude": "27.59908000"
+                },
+                {
+                    "id": 9734,
+                    "name": "Valchidol",
+                    "latitude": "43.40000000",
+                    "longitude": "27.55000000"
+                },
+                {
+                    "id": 9735,
+                    "name": "Varna",
+                    "latitude": "43.21667000",
+                    "longitude": "27.91667000"
+                },
+                {
+                    "id": 9740,
+                    "name": "Vetrino",
+                    "latitude": "43.31667000",
+                    "longitude": "27.43333000"
+                },
+                {
+                    "id": 9751,
+                    "name": "Zlatni Pyasatsi",
+                    "latitude": "43.28500000",
+                    "longitude": "28.04180000"
+                }
+            ]
+        },
+        {
+            "id": 4709,
+            "name": "Veliko Tarnovo Province",
+            "state_code": "04",
+            "cities": [
+                {
+                    "id": 9294,
+                    "name": "Byala Cherkva",
+                    "latitude": "43.20000000",
+                    "longitude": "25.30000000"
+                },
+                {
+                    "id": 9305,
+                    "name": "Debelets",
+                    "latitude": "43.03333000",
+                    "longitude": "25.61667000"
+                },
+                {
+                    "id": 9324,
+                    "name": "Elena",
+                    "latitude": "42.93333000",
+                    "longitude": "25.88333000"
+                },
+                {
+                    "id": 9334,
+                    "name": "Gorna Oryahovitsa",
+                    "latitude": "43.12778000",
+                    "longitude": "25.70167000"
+                },
+                {
+                    "id": 9361,
+                    "name": "Kilifarevo",
+                    "latitude": "42.98333000",
+                    "longitude": "25.63333000"
+                },
+                {
+                    "id": 9391,
+                    "name": "Lyaskovets",
+                    "latitude": "43.11111000",
+                    "longitude": "25.72833000"
+                },
+                {
+                    "id": 9470,
+                    "name": "Obshtina Elena",
+                    "latitude": "42.91667000",
+                    "longitude": "25.95000000"
+                },
+                {
+                    "id": 9481,
+                    "name": "Obshtina Gorna Oryahovitsa",
+                    "latitude": "43.21667000",
+                    "longitude": "25.75000000"
+                },
+                {
+                    "id": 9525,
+                    "name": "Obshtina Lyaskovets",
+                    "latitude": "43.13333000",
+                    "longitude": "25.85000000"
+                },
+                {
+                    "id": 9550,
+                    "name": "Obshtina Pavlikeni",
+                    "latitude": "43.28333000",
+                    "longitude": "25.35000000"
+                },
+                {
+                    "id": 9559,
+                    "name": "Obshtina Polski Trambesh",
+                    "latitude": "43.35000000",
+                    "longitude": "25.58333000"
+                },
+                {
+                    "id": 9601,
+                    "name": "Obshtina Strazhitsa",
+                    "latitude": "43.26667000",
+                    "longitude": "25.98333000"
+                },
+                {
+                    "id": 9604,
+                    "name": "Obshtina Suhindol",
+                    "latitude": "43.16667000",
+                    "longitude": "25.20000000"
+                },
+                {
+                    "id": 9608,
+                    "name": "Obshtina Svishtov",
+                    "latitude": "43.53333000",
+                    "longitude": "25.35000000"
+                },
+                {
+                    "id": 9626,
+                    "name": "Obshtina Veliko Tŭrnovo",
+                    "latitude": "43.08241000",
+                    "longitude": "25.63202000"
+                },
+                {
+                    "id": 9637,
+                    "name": "Obshtina Zlataritsa",
+                    "latitude": "43.06667000",
+                    "longitude": "25.98333000"
+                },
+                {
+                    "id": 9646,
+                    "name": "Parvomaytsi",
+                    "latitude": "43.15000000",
+                    "longitude": "25.65000000"
+                },
+                {
+                    "id": 9648,
+                    "name": "Pavlikeni",
+                    "latitude": "43.24278000",
+                    "longitude": "25.32194000"
+                },
+                {
+                    "id": 9657,
+                    "name": "Polski Trambesh",
+                    "latitude": "43.37233000",
+                    "longitude": "25.63525000"
+                },
+                {
+                    "id": 9709,
+                    "name": "Strazhitsa",
+                    "latitude": "43.23333000",
+                    "longitude": "25.96667000"
+                },
+                {
+                    "id": 9712,
+                    "name": "Suhindol",
+                    "latitude": "43.19167000",
+                    "longitude": "25.18111000"
+                },
+                {
+                    "id": 9717,
+                    "name": "Svishtov",
+                    "latitude": "43.61875000",
+                    "longitude": "25.35033000"
+                },
+                {
+                    "id": 9737,
+                    "name": "Veliko Tŭrnovo",
+                    "latitude": "43.08124000",
+                    "longitude": "25.62904000"
+                },
+                {
+                    "id": 9749,
+                    "name": "Zlataritsa",
+                    "latitude": "43.05000000",
+                    "longitude": "25.90000000"
+                }
+            ]
+        },
+        {
+            "id": 4697,
+            "name": "Vidin Province",
+            "state_code": "05",
+            "cities": [
+                {
+                    "id": 9271,
+                    "name": "Belogradchik",
+                    "latitude": "43.62722000",
+                    "longitude": "22.68361000"
+                },
+                {
+                    "id": 9284,
+                    "name": "Boynitsa",
+                    "latitude": "43.95650000",
+                    "longitude": "22.53255000"
+                },
+                {
+                    "id": 9287,
+                    "name": "Bregovo",
+                    "latitude": "44.15167000",
+                    "longitude": "22.64250000"
+                },
+                {
+                    "id": 9303,
+                    "name": "Chuprene",
+                    "latitude": "43.51806000",
+                    "longitude": "22.66611000"
+                },
+                {
+                    "id": 9309,
+                    "name": "Dimovo",
+                    "latitude": "43.74167000",
+                    "longitude": "22.72694000"
+                },
+                {
+                    "id": 9317,
+                    "name": "Drenovets",
+                    "latitude": "43.69134000",
+                    "longitude": "22.97365000"
+                },
+                {
+                    "id": 9320,
+                    "name": "Dunavtsi",
+                    "latitude": "43.92111000",
+                    "longitude": "22.82111000"
+                },
+                {
+                    "id": 9336,
+                    "name": "Gramada",
+                    "latitude": "43.83738000",
+                    "longitude": "22.65279000"
+                },
+                {
+                    "id": 9380,
+                    "name": "Kula",
+                    "latitude": "43.88833000",
+                    "longitude": "22.52139000"
+                },
+                {
+                    "id": 9396,
+                    "name": "Makresh",
+                    "latitude": "43.76794000",
+                    "longitude": "22.66406000"
+                },
+                {
+                    "id": 9411,
+                    "name": "Novo Selo",
+                    "latitude": "44.16214000",
+                    "longitude": "22.78376000"
+                },
+                {
+                    "id": 9426,
+                    "name": "Obshtina Belogradchik",
+                    "latitude": "43.65000000",
+                    "longitude": "22.60000000"
+                },
+                {
+                    "id": 9438,
+                    "name": "Obshtina Boynitsa",
+                    "latitude": "44.00000000",
+                    "longitude": "22.55000000"
+                },
+                {
+                    "id": 9456,
+                    "name": "Obshtina Dimovo",
+                    "latitude": "43.75000000",
+                    "longitude": "22.81667000"
+                },
+                {
+                    "id": 9483,
+                    "name": "Obshtina Gramada",
+                    "latitude": "43.83333000",
+                    "longitude": "22.65000000"
+                },
+                {
+                    "id": 9517,
+                    "name": "Obshtina Kula",
+                    "latitude": "43.90000000",
+                    "longitude": "22.56667000"
+                },
+                {
+                    "id": 9577,
+                    "name": "Obshtina Ruzhintsi",
+                    "latitude": "43.65000000",
+                    "longitude": "22.90000000"
+                },
+                {
+                    "id": 9630,
+                    "name": "Obshtina Vidin",
+                    "latitude": "44.00000000",
+                    "longitude": "22.83333000"
+                },
+                {
+                    "id": 9676,
+                    "name": "Ruzhintsi",
+                    "latitude": "43.62179000",
+                    "longitude": "22.83286000"
+                },
+                {
+                    "id": 9741,
+                    "name": "Vidin",
+                    "latitude": "43.99159000",
+                    "longitude": "22.88236000"
+                }
+            ]
+        },
+        {
+            "id": 4711,
+            "name": "Vratsa Province",
+            "state_code": "06",
+            "cities": [
+                {
+                    "id": 9280,
+                    "name": "Borovan",
+                    "latitude": "43.43333000",
+                    "longitude": "23.75000000"
+                },
+                {
+                    "id": 9295,
+                    "name": "Byala Slatina",
+                    "latitude": "43.46667000",
+                    "longitude": "23.93333000"
+                },
+                {
+                    "id": 9344,
+                    "name": "Hayredin",
+                    "latitude": "43.60193000",
+                    "longitude": "23.66135000"
+                },
+                {
+                    "id": 9373,
+                    "name": "Kozloduy",
+                    "latitude": "43.77864000",
+                    "longitude": "23.72058000"
+                },
+                {
+                    "id": 9376,
+                    "name": "Krivodol",
+                    "latitude": "43.37444000",
+                    "longitude": "23.48444000"
+                },
+                {
+                    "id": 9400,
+                    "name": "Mezdra",
+                    "latitude": "43.15000000",
+                    "longitude": "23.70000000"
+                },
+                {
+                    "id": 9403,
+                    "name": "Mizia",
+                    "latitude": "43.68623000",
+                    "longitude": "23.85371000"
+                },
+                {
+                    "id": 9434,
+                    "name": "Obshtina Borovan",
+                    "latitude": "43.43333000",
+                    "longitude": "23.75000000"
+                },
+                {
+                    "id": 9488,
+                    "name": "Obshtina Hayredin",
+                    "latitude": "43.58333000",
+                    "longitude": "23.66667000"
+                },
+                {
+                    "id": 9510,
+                    "name": "Obshtina Kozloduy",
+                    "latitude": "43.71667000",
+                    "longitude": "23.73333000"
+                },
+                {
+                    "id": 9513,
+                    "name": "Obshtina Krivodol",
+                    "latitude": "43.38333000",
+                    "longitude": "23.48333000"
+                },
+                {
+                    "id": 9531,
+                    "name": "Obshtina Mezdra",
+                    "latitude": "43.13333000",
+                    "longitude": "23.73333000"
+                },
+                {
+                    "id": 9534,
+                    "name": "Obshtina Mizia",
+                    "latitude": "43.63333000",
+                    "longitude": "23.85000000"
+                },
+                {
+                    "id": 9546,
+                    "name": "Obshtina Oryahovo",
+                    "latitude": "43.69038000",
+                    "longitude": "23.98643000"
+                },
+                {
+                    "id": 9574,
+                    "name": "Obshtina Roman",
+                    "latitude": "43.15000000",
+                    "longitude": "23.91667000"
+                },
+                {
+                    "id": 9631,
+                    "name": "Obshtina Vratsa",
+                    "latitude": "43.28333000",
+                    "longitude": "23.60000000"
+                },
+                {
+                    "id": 9643,
+                    "name": "Oryahovo",
+                    "latitude": "43.73618000",
+                    "longitude": "23.96052000"
+                },
+                {
+                    "id": 9672,
+                    "name": "Roman",
+                    "latitude": "43.15000000",
+                    "longitude": "23.91667000"
+                },
+                {
+                    "id": 9742,
+                    "name": "Vratsa",
+                    "latitude": "43.21000000",
+                    "longitude": "23.56250000"
+                }
+            ]
+        },
+        {
+            "id": 4716,
+            "name": "Yambol Province",
+            "state_code": "28",
+            "cities": [
+                {
+                    "id": 9278,
+                    "name": "Bolyarovo",
+                    "latitude": "42.14962000",
+                    "longitude": "26.81116000"
+                },
+                {
+                    "id": 9325,
+                    "name": "Elhovo",
+                    "latitude": "42.16667000",
+                    "longitude": "26.56667000"
+                },
+                {
+                    "id": 9432,
+                    "name": "Obshtina Bolyarovo",
+                    "latitude": "42.15000000",
+                    "longitude": "26.85000000"
+                },
+                {
+                    "id": 9471,
+                    "name": "Obshtina Elhovo",
+                    "latitude": "42.11667000",
+                    "longitude": "26.61667000"
+                },
+                {
+                    "id": 9600,
+                    "name": "Obshtina Straldzha",
+                    "latitude": "42.48333000",
+                    "longitude": "26.78333000"
+                },
+                {
+                    "id": 9618,
+                    "name": "Obshtina Tundzha",
+                    "latitude": "42.35000000",
+                    "longitude": "26.45000000"
+                },
+                {
+                    "id": 9634,
+                    "name": "Obshtina Yambol",
+                    "latitude": "42.48333000",
+                    "longitude": "26.50000000"
+                },
+                {
+                    "id": 9708,
+                    "name": "Straldzha",
+                    "latitude": "42.60000000",
+                    "longitude": "26.68333000"
+                },
+                {
+                    "id": 9746,
+                    "name": "Yambol",
+                    "latitude": "42.48333000",
+                    "longitude": "26.50000000"
+                }
+            ]
+        }
+    ],
+    "translations": {
+        "de": "Bulgarien",
+        "es": "Bulgaria",
+        "fr": "Bulgarie",
+        "ja": "ブルガリア",
+        "it": "Bulgaria"
+    },
+    "expectancy": 70.9,
+    "government": "Republic",
+    "dish": "Banitsa, Bob chorba",
+    "symbol": null,
+    "density": 64.70353721,
+    "location": "Eastern Europe",
+    "religion": "Christianity",
+    "temperature": 10.55,
+    "continent": "Europe",
+    "independence": 1908,
+    "wiki": "http://en.wikipedia.org/wiki/bulgaria"
+}

@@ -1,0 +1,536 @@
+{
+    "name": "Oman",
+    "altSpellings": [
+        "OM",
+        "Sultanate of Oman",
+        "Salṭanat ʻUmān"
+    ],
+    "area": 309500,
+    "borders": [
+        "SAU",
+        "ARE",
+        "YEM"
+    ],
+    "callingCodes": [
+        "968"
+    ],
+    "capital": "Muscat",
+    "capital_latlng": [
+        23.599786,
+        58.54513
+    ],
+    "currencies": [
+        "OMR"
+    ],
+    "demonym": "Omani",
+    "flag": "",
+    "geoJSON": {
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "type": "Feature",
+                "id": "OMN",
+                "properties": {
+                    "name": "Oman"
+                },
+                "geometry": {
+                    "type": "MultiPolygon",
+                    "coordinates": [
+                        [
+                            [
+                                [
+                                    58.861141,
+                                    21.114035
+                                ],
+                                [
+                                    58.487986,
+                                    20.428986
+                                ],
+                                [
+                                    58.034318,
+                                    20.481437
+                                ],
+                                [
+                                    57.826373,
+                                    20.243002
+                                ],
+                                [
+                                    57.665762,
+                                    19.736005
+                                ],
+                                [
+                                    57.7887,
+                                    19.06757
+                                ],
+                                [
+                                    57.694391,
+                                    18.94471
+                                ],
+                                [
+                                    57.234264,
+                                    18.947991
+                                ],
+                                [
+                                    56.609651,
+                                    18.574267
+                                ],
+                                [
+                                    56.512189,
+                                    18.087113
+                                ],
+                                [
+                                    56.283521,
+                                    17.876067
+                                ],
+                                [
+                                    55.661492,
+                                    17.884128
+                                ],
+                                [
+                                    55.269939,
+                                    17.632309
+                                ],
+                                [
+                                    55.2749,
+                                    17.228354
+                                ],
+                                [
+                                    54.791002,
+                                    16.950697
+                                ],
+                                [
+                                    54.239253,
+                                    17.044981
+                                ],
+                                [
+                                    53.570508,
+                                    16.707663
+                                ],
+                                [
+                                    53.108573,
+                                    16.651051
+                                ],
+                                [
+                                    52.782184,
+                                    17.349742
+                                ],
+                                [
+                                    52.00001,
+                                    19.000003
+                                ],
+                                [
+                                    54.999982,
+                                    19.999994
+                                ],
+                                [
+                                    55.666659,
+                                    22.000001
+                                ],
+                                [
+                                    55.208341,
+                                    22.70833
+                                ],
+                                [
+                                    55.234489,
+                                    23.110993
+                                ],
+                                [
+                                    55.525841,
+                                    23.524869
+                                ],
+                                [
+                                    55.528632,
+                                    23.933604
+                                ],
+                                [
+                                    55.981214,
+                                    24.130543
+                                ],
+                                [
+                                    55.804119,
+                                    24.269604
+                                ],
+                                [
+                                    55.886233,
+                                    24.920831
+                                ],
+                                [
+                                    56.396847,
+                                    24.924732
+                                ],
+                                [
+                                    56.84514,
+                                    24.241673
+                                ],
+                                [
+                                    57.403453,
+                                    23.878594
+                                ],
+                                [
+                                    58.136948,
+                                    23.747931
+                                ],
+                                [
+                                    58.729211,
+                                    23.565668
+                                ],
+                                [
+                                    59.180502,
+                                    22.992395
+                                ],
+                                [
+                                    59.450098,
+                                    22.660271
+                                ],
+                                [
+                                    59.80806,
+                                    22.533612
+                                ],
+                                [
+                                    59.806148,
+                                    22.310525
+                                ],
+                                [
+                                    59.442191,
+                                    21.714541
+                                ],
+                                [
+                                    59.282408,
+                                    21.433886
+                                ],
+                                [
+                                    58.861141,
+                                    21.114035
+                                ]
+                            ]
+                        ],
+                        [
+                            [
+                                [
+                                    56.391421,
+                                    25.895991
+                                ],
+                                [
+                                    56.261042,
+                                    25.714606
+                                ],
+                                [
+                                    56.070821,
+                                    26.055464
+                                ],
+                                [
+                                    56.362017,
+                                    26.395934
+                                ],
+                                [
+                                    56.485679,
+                                    26.309118
+                                ],
+                                [
+                                    56.391421,
+                                    25.895991
+                                ]
+                            ]
+                        ]
+                    ]
+                }
+            }
+        ]
+    },
+    "ISO": {
+        "alpha2": "OM",
+        "alpha3": "OMN"
+    },
+    "states": [
+        {
+            "id": 3058,
+            "name": "Ad Dakhiliyah Governorate",
+            "state_code": "DA",
+            "cities": [
+                {
+                    "id": 79926,
+                    "name": "Adam",
+                    "latitude": "22.37934000",
+                    "longitude": "57.52718000"
+                },
+                {
+                    "id": 79930,
+                    "name": "Bahlā’",
+                    "latitude": "22.97886000",
+                    "longitude": "57.30470000"
+                },
+                {
+                    "id": 79934,
+                    "name": "Bidbid",
+                    "latitude": "23.40787000",
+                    "longitude": "58.12830000"
+                },
+                {
+                    "id": 79937,
+                    "name": "Izkī",
+                    "latitude": "22.93333000",
+                    "longitude": "57.76667000"
+                },
+                {
+                    "id": 79942,
+                    "name": "Nizwá",
+                    "latitude": "22.93333000",
+                    "longitude": "57.53333000"
+                },
+                {
+                    "id": 79948,
+                    "name": "Sufālat Samā’il",
+                    "latitude": "23.31667000",
+                    "longitude": "58.01667000"
+                }
+            ]
+        },
+        {
+            "id": 3047,
+            "name": "Ad Dhahirah Governorate",
+            "state_code": "ZA",
+            "cities": [
+                {
+                    "id": 79953,
+                    "name": "‘Ibrī",
+                    "latitude": "23.22573000",
+                    "longitude": "56.51572000"
+                },
+                {
+                    "id": 79950,
+                    "name": "Yanqul",
+                    "latitude": "23.58645000",
+                    "longitude": "56.53969000"
+                }
+            ]
+        },
+        {
+            "id": 3048,
+            "name": "Al Batinah North Governorate",
+            "state_code": "BS",
+            "cities": [
+                {
+                    "id": 79928,
+                    "name": "Al Khābūrah",
+                    "latitude": "23.97144000",
+                    "longitude": "57.09313000"
+                },
+                {
+                    "id": 79929,
+                    "name": "As Suwayq",
+                    "latitude": "23.84944000",
+                    "longitude": "57.43861000"
+                },
+                {
+                    "id": 79939,
+                    "name": "Liwá",
+                    "latitude": "24.53077000",
+                    "longitude": "56.56300000"
+                },
+                {
+                    "id": 79952,
+                    "name": "Şaḩam",
+                    "latitude": "24.17222000",
+                    "longitude": "56.88861000"
+                },
+                {
+                    "id": 79946,
+                    "name": "Shināş",
+                    "latitude": "24.74260000",
+                    "longitude": "56.46698000"
+                },
+                {
+                    "id": 79947,
+                    "name": "Sohar",
+                    "latitude": "24.34745000",
+                    "longitude": "56.70937000"
+                }
+            ]
+        },
+        {
+            "id": 3050,
+            "name": "Al Batinah Region",
+            "state_code": "BA",
+            "cities": [
+                {
+                    "id": 79931,
+                    "name": "Barkā’",
+                    "latitude": "23.67872000",
+                    "longitude": "57.88605000"
+                },
+                {
+                    "id": 79933,
+                    "name": "Bayt al ‘Awābī",
+                    "latitude": "23.30324000",
+                    "longitude": "57.52459000"
+                },
+                {
+                    "id": 79943,
+                    "name": "Oman Smart Future City",
+                    "latitude": "23.65270000",
+                    "longitude": "57.59926000"
+                },
+                {
+                    "id": 79944,
+                    "name": "Rustaq",
+                    "latitude": "23.39083000",
+                    "longitude": "57.42444000"
+                }
+            ]
+        },
+        {
+            "id": 3049,
+            "name": "Al Batinah South Governorate",
+            "state_code": "BJ",
+            "cities": []
+        },
+        {
+            "id": 3059,
+            "name": "Al Buraimi Governorate",
+            "state_code": "BU",
+            "cities": [
+                {
+                    "id": 79927,
+                    "name": "Al Buraymī",
+                    "latitude": "24.25088000",
+                    "longitude": "55.79312000"
+                }
+            ]
+        },
+        {
+            "id": 3056,
+            "name": "Al Wusta Governorate",
+            "state_code": "WU",
+            "cities": [
+                {
+                    "id": 79936,
+                    "name": "Haymā’",
+                    "latitude": "19.95931000",
+                    "longitude": "56.27575000"
+                }
+            ]
+        },
+        {
+            "id": 3053,
+            "name": "Ash Sharqiyah North Governorate",
+            "state_code": "SS",
+            "cities": []
+        },
+        {
+            "id": 3051,
+            "name": "Ash Sharqiyah Region",
+            "state_code": "SH",
+            "cities": [
+                {
+                    "id": 79949,
+                    "name": "Sur",
+                    "latitude": "22.56667000",
+                    "longitude": "59.52889000"
+                }
+            ]
+        },
+        {
+            "id": 3054,
+            "name": "Ash Sharqiyah South Governorate",
+            "state_code": "SJ",
+            "cities": []
+        },
+        {
+            "id": 3057,
+            "name": "Dhofar Governorate",
+            "state_code": "ZU",
+            "cities": [
+                {
+                    "id": 79951,
+                    "name": "Şalālah",
+                    "latitude": "17.01505000",
+                    "longitude": "54.09237000"
+                }
+            ]
+        },
+        {
+            "id": 3052,
+            "name": "Musandam Governorate",
+            "state_code": "MU",
+            "cities": [
+                {
+                    "id": 79935,
+                    "name": "Dib Dibba",
+                    "latitude": "26.19778000",
+                    "longitude": "56.25778000"
+                },
+                {
+                    "id": 79938,
+                    "name": "Khasab",
+                    "latitude": "26.17993000",
+                    "longitude": "56.24774000"
+                },
+                {
+                    "id": 79940,
+                    "name": "Madḩā’ al Jadīdah",
+                    "latitude": "25.28345000",
+                    "longitude": "56.33280000"
+                }
+            ]
+        },
+        {
+            "id": 3055,
+            "name": "Muscat Governorate",
+            "state_code": "MA",
+            "cities": [
+                {
+                    "id": 79932,
+                    "name": "Bawshar",
+                    "latitude": "23.57769000",
+                    "longitude": "58.39982000"
+                },
+                {
+                    "id": 79941,
+                    "name": "Muscat",
+                    "latitude": "23.58413000",
+                    "longitude": "58.40778000"
+                },
+                {
+                    "id": 79945,
+                    "name": "Seeb",
+                    "latitude": "23.67027000",
+                    "longitude": "58.18911000"
+                }
+            ]
+        }
+    ],
+    "languages": [
+        "Arabic",
+        "Balochi"
+    ],
+    "latlng": [
+        21,
+        57
+    ],
+    "nativeName": "عمان",
+    "population": 4089076,
+    "timezones": [
+        "UTC+04:00"
+    ],
+    "tld": [
+        ".om"
+    ],
+    "translations": {
+        "de": "Oman",
+        "es": "Omán",
+        "fr": "Oman",
+        "ja": "オマーン",
+        "it": "oman"
+    },
+    "continent": "Asia",
+    "government": "Monarchy (Sultanate)",
+    "independence": 1951,
+    "symbol": null,
+    "expectancy": 71.8,
+    "dish": null,
+    "density": 15.6041454,
+    "location": "Middle East",
+    "religion": "Islam",
+    "temperature": 25.6,
+    "wiki": "http://en.wikipedia.org/wiki/oman"
+}

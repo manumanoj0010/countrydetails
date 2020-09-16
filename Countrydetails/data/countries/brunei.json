@@ -1,0 +1,200 @@
+{
+    "name": "Brunei",
+    "altSpellings": [
+        "BN",
+        "Nation of Brunei",
+        " the Abode of Peace"
+    ],
+    "area": 5765,
+    "borders": [
+        "MYS"
+    ],
+    "callingCodes": [
+        "673"
+    ],
+    "capital": "Bandar Seri Begawan",
+    "capital_latlng": [
+        4.889545,
+        114.941757
+    ],
+    "currencies": [
+        "BND"
+    ],
+    "demonym": "Bruneian",
+    "flag": "",
+    "geoJSON": {
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "type": "Feature",
+                "id": "BRN",
+                "properties": {
+                    "name": "Brunei"
+                },
+                "geometry": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                114.204017,
+                                4.525874
+                            ],
+                            [
+                                114.599961,
+                                4.900011
+                            ],
+                            [
+                                115.45071,
+                                5.44773
+                            ],
+                            [
+                                115.4057,
+                                4.955228
+                            ],
+                            [
+                                115.347461,
+                                4.316636
+                            ],
+                            [
+                                114.869557,
+                                4.348314
+                            ],
+                            [
+                                114.659596,
+                                4.007637
+                            ],
+                            [
+                                114.204017,
+                                4.525874
+                            ]
+                        ]
+                    ]
+                }
+            }
+        ]
+    },
+    "ISO": {
+        "alpha2": "BN",
+        "alpha3": "BRN"
+    },
+    "languages": [
+        "Chinese",
+        "English",
+        "Malay",
+        "Malay-English"
+    ],
+    "latlng": [
+        4.5,
+        114.66666666
+    ],
+    "nativeName": "Negara Brunei Darussalam",
+    "population": 393372,
+    "timezones": [
+        "UTC+08:00"
+    ],
+    "tld": [
+        ".bn"
+    ],
+    "states": [
+        {
+            "id": 1217,
+            "name": "Belait District",
+            "state_code": "BE",
+            "cities": [
+                {
+                    "id": 9820,
+                    "name": "Kuala Belait",
+                    "latitude": "4.58361000",
+                    "longitude": "114.23120000"
+                },
+                {
+                    "id": 9823,
+                    "name": "Seria",
+                    "latitude": "4.60637000",
+                    "longitude": "114.32476000"
+                }
+            ]
+        },
+        {
+            "id": 1216,
+            "name": "Brunei-Muara District",
+            "state_code": "BM",
+            "cities": [
+                {
+                    "id": 9816,
+                    "name": "Bandar Seri Begawan",
+                    "latitude": "4.89035000",
+                    "longitude": "114.94006000"
+                },
+                {
+                    "id": 9818,
+                    "name": "Berakas A",
+                    "latitude": "4.97032000",
+                    "longitude": "114.92989000"
+                },
+                {
+                    "id": 9819,
+                    "name": "Kapok",
+                    "latitude": "5.02447000",
+                    "longitude": "115.04664000"
+                },
+                {
+                    "id": 9821,
+                    "name": "Mentiri",
+                    "latitude": "4.97058000",
+                    "longitude": "115.02078000"
+                },
+                {
+                    "id": 9822,
+                    "name": "Serasa",
+                    "latitude": "5.01718000",
+                    "longitude": "115.05841000"
+                }
+            ]
+        },
+        {
+            "id": 1218,
+            "name": "Temburong District",
+            "state_code": "TE",
+            "cities": [
+                {
+                    "id": 9817,
+                    "name": "Bangar",
+                    "latitude": "4.70861000",
+                    "longitude": "115.07167000"
+                }
+            ]
+        },
+        {
+            "id": 1219,
+            "name": "Tutong District",
+            "state_code": "TU",
+            "cities": [
+                {
+                    "id": 9824,
+                    "name": "Tutong",
+                    "latitude": "4.80278000",
+                    "longitude": "114.64917000"
+                }
+            ]
+        }
+    ],
+    "translations": {
+        "de": "Brunei",
+        "es": "Brunei",
+        "fr": "Brunei",
+        "ja": "ブルネイ・ダルサラーム",
+        "it": "Brunei"
+    },
+    "government": "Monarchy (Sultanate)",
+    "expectancy": 73.6,
+    "dish": "Ambuyat",
+    "symbol": null,
+    "density": 81.39696395,
+    "location": "Southeast Asia",
+    "religion": "Islam",
+    "temperature": 26.85,
+    "continent": "Asia",
+    "independence": 1984,
+    "wiki": "http://en.wikipedia.org/wiki/brunei"
+}

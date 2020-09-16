@@ -1,0 +1,455 @@
+{
+    "name": "United Arab Emirates",
+    "altSpellings": [
+        "AE",
+        "UAE"
+    ],
+    "area": 83600,
+    "borders": [
+        "OMN",
+        "SAU"
+    ],
+    "callingCodes": [
+        "971"
+    ],
+    "capital": "Abu Dhabi",
+    "capital_latlng": [
+        24.474796,
+        54.370576
+    ],
+    "currencies": [
+        "AED"
+    ],
+    "demonym": "Emirati",
+    "flag": "",
+    "geoJSON": {
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "type": "Feature",
+                "id": "ARE",
+                "properties": {
+                    "name": "United Arab Emirates"
+                },
+                "geometry": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                51.579519,
+                                24.245497
+                            ],
+                            [
+                                51.757441,
+                                24.294073
+                            ],
+                            [
+                                51.794389,
+                                24.019826
+                            ],
+                            [
+                                52.577081,
+                                24.177439
+                            ],
+                            [
+                                53.404007,
+                                24.151317
+                            ],
+                            [
+                                54.008001,
+                                24.121758
+                            ],
+                            [
+                                54.693024,
+                                24.797892
+                            ],
+                            [
+                                55.439025,
+                                25.439145
+                            ],
+                            [
+                                56.070821,
+                                26.055464
+                            ],
+                            [
+                                56.261042,
+                                25.714606
+                            ],
+                            [
+                                56.396847,
+                                24.924732
+                            ],
+                            [
+                                55.886233,
+                                24.920831
+                            ],
+                            [
+                                55.804119,
+                                24.269604
+                            ],
+                            [
+                                55.981214,
+                                24.130543
+                            ],
+                            [
+                                55.528632,
+                                23.933604
+                            ],
+                            [
+                                55.525841,
+                                23.524869
+                            ],
+                            [
+                                55.234489,
+                                23.110993
+                            ],
+                            [
+                                55.208341,
+                                22.70833
+                            ],
+                            [
+                                55.006803,
+                                22.496948
+                            ],
+                            [
+                                52.000733,
+                                23.001154
+                            ],
+                            [
+                                51.617708,
+                                24.014219
+                            ],
+                            [
+                                51.579519,
+                                24.245497
+                            ]
+                        ]
+                    ]
+                }
+            }
+        ]
+    },
+    "ISO": {
+        "alpha2": "AE",
+        "alpha3": "ARE"
+    },
+    "states": [
+        {
+            "id": 3396,
+            "name": "Abu Dhabi Emirate",
+            "state_code": "AZ",
+            "cities": [
+                {
+                    "id": 11,
+                    "name": "Abu Dhabi Island and Internal Islands City",
+                    "latitude": "24.45110000",
+                    "longitude": "54.39690000"
+                },
+                {
+                    "id": 12,
+                    "name": "Abu Dhabi Municipality",
+                    "latitude": "24.41361000",
+                    "longitude": "54.43295000"
+                },
+                {
+                    "id": 16,
+                    "name": "Al Ain City",
+                    "latitude": "24.19167000",
+                    "longitude": "55.76056000"
+                },
+                {
+                    "id": 17,
+                    "name": "Al Ain Municipality",
+                    "latitude": "24.15223000",
+                    "longitude": "55.82040000"
+                },
+                {
+                    "id": 19,
+                    "name": "Al Dhafra",
+                    "latitude": "23.65745000",
+                    "longitude": "53.72225000"
+                },
+                {
+                    "id": 24,
+                    "name": "Al Shamkhah City",
+                    "latitude": "24.39268000",
+                    "longitude": "54.70779000"
+                },
+                {
+                    "id": 25,
+                    "name": "Ar Ruways",
+                    "latitude": "24.11028000",
+                    "longitude": "52.73056000"
+                },
+                {
+                    "id": 26,
+                    "name": "Bani Yas City",
+                    "latitude": "24.30978000",
+                    "longitude": "54.62944000"
+                },
+                {
+                    "id": 34,
+                    "name": "Khalifah A City",
+                    "latitude": "24.42588000",
+                    "longitude": "54.60500000"
+                },
+                {
+                    "id": 41,
+                    "name": "Musaffah",
+                    "latitude": "24.35893000",
+                    "longitude": "54.48267000"
+                },
+                {
+                    "id": 42,
+                    "name": "Muzayri‘",
+                    "latitude": "23.14355000",
+                    "longitude": "53.78810000"
+                },
+                {
+                    "id": 49,
+                    "name": "Zayed City",
+                    "latitude": "23.65416000",
+                    "longitude": "53.70522000"
+                }
+            ]
+        },
+        {
+            "id": 3395,
+            "name": "Ajman Emirate",
+            "state_code": "AJ",
+            "cities": [
+                {
+                    "id": 14,
+                    "name": "Ajman",
+                    "latitude": "25.40328000",
+                    "longitude": "55.52341000"
+                },
+                {
+                    "id": 15,
+                    "name": "Ajman City",
+                    "latitude": "25.40177000",
+                    "longitude": "55.47878000"
+                },
+                {
+                    "id": 37,
+                    "name": "Manama",
+                    "latitude": "25.32568000",
+                    "longitude": "56.00259000"
+                },
+                {
+                    "id": 38,
+                    "name": "Masfout",
+                    "latitude": "24.83982000",
+                    "longitude": "56.05158000"
+                }
+            ]
+        },
+        {
+            "id": 3391,
+            "name": "Dubai",
+            "state_code": "DU",
+            "cities": [
+                {
+                    "id": 32,
+                    "name": "Dubai",
+                    "latitude": "25.06570000",
+                    "longitude": "55.17128000"
+                }
+            ]
+        },
+        {
+            "id": 3393,
+            "name": "Fujairah",
+            "state_code": "FU",
+            "cities": [
+                {
+                    "id": 20,
+                    "name": "Al Fujairah City",
+                    "latitude": "25.11641000",
+                    "longitude": "56.34141000"
+                },
+                {
+                    "id": 21,
+                    "name": "Al Fujairah Municipality",
+                    "latitude": "25.13557000",
+                    "longitude": "56.33279000"
+                },
+                {
+                    "id": 28,
+                    "name": "Dibba Al Fujairah Municipality",
+                    "latitude": "25.58580000",
+                    "longitude": "56.24792000"
+                },
+                {
+                    "id": 30,
+                    "name": "Dibba Al-Fujairah",
+                    "latitude": "25.59246000",
+                    "longitude": "56.26176000"
+                },
+                {
+                    "id": 31,
+                    "name": "Dibba Al-Hisn",
+                    "latitude": "25.61955000",
+                    "longitude": "56.27291000"
+                },
+                {
+                    "id": 45,
+                    "name": "Reef Al Fujairah City",
+                    "latitude": "25.14479000",
+                    "longitude": "56.24764000"
+                }
+            ]
+        },
+        {
+            "id": 3394,
+            "name": "Ras al-Khaimah",
+            "state_code": "RK",
+            "cities": [
+                {
+                    "id": 43,
+                    "name": "Ras Al Khaimah",
+                    "latitude": "25.46116000",
+                    "longitude": "56.04058000"
+                },
+                {
+                    "id": 44,
+                    "name": "Ras Al Khaimah City",
+                    "latitude": "25.78953000",
+                    "longitude": "55.94320000"
+                }
+            ]
+        },
+        {
+            "id": 3390,
+            "name": "Sharjah Emirate",
+            "state_code": "SH",
+            "cities": [
+                {
+                    "id": 13,
+                    "name": "Adh Dhayd",
+                    "latitude": "25.28812000",
+                    "longitude": "55.88157000"
+                },
+                {
+                    "id": 18,
+                    "name": "Al Batayih",
+                    "latitude": "25.22317000",
+                    "longitude": "55.74272000"
+                },
+                {
+                    "id": 22,
+                    "name": "Al Hamriyah",
+                    "latitude": "25.46121000",
+                    "longitude": "55.54813000"
+                },
+                {
+                    "id": 23,
+                    "name": "Al Madam",
+                    "latitude": "24.95536000",
+                    "longitude": "55.76820000"
+                },
+                {
+                    "id": 27,
+                    "name": "Dhaid",
+                    "latitude": "25.26951000",
+                    "longitude": "55.92024000"
+                },
+                {
+                    "id": 29,
+                    "name": "Dibba Al Hesn",
+                    "latitude": "25.61593000",
+                    "longitude": "56.26899000"
+                },
+                {
+                    "id": 33,
+                    "name": "Kalba",
+                    "latitude": "24.99816000",
+                    "longitude": "56.27207000"
+                },
+                {
+                    "id": 35,
+                    "name": "Khawr Fakkān",
+                    "latitude": "25.33132000",
+                    "longitude": "56.34199000"
+                },
+                {
+                    "id": 36,
+                    "name": "Khor Fakkan",
+                    "latitude": "25.33966000",
+                    "longitude": "56.30280000"
+                },
+                {
+                    "id": 39,
+                    "name": "Milehah",
+                    "latitude": "25.10097000",
+                    "longitude": "55.91282000"
+                },
+                {
+                    "id": 40,
+                    "name": "Murbaḩ",
+                    "latitude": "25.27623000",
+                    "longitude": "56.36256000"
+                },
+                {
+                    "id": 46,
+                    "name": "Sharjah",
+                    "latitude": "25.33737000",
+                    "longitude": "55.41206000"
+                }
+            ]
+        },
+        {
+            "id": 3392,
+            "name": "Umm al-Quwain",
+            "state_code": "UQ",
+            "cities": [
+                {
+                    "id": 47,
+                    "name": "Umm AL Quwain",
+                    "latitude": "25.49326000",
+                    "longitude": "55.73520000"
+                },
+                {
+                    "id": 48,
+                    "name": "Umm Al Quwain City",
+                    "latitude": "25.56473000",
+                    "longitude": "55.55517000"
+                }
+            ]
+        }
+    ],
+    "languages": [
+        "Arabic",
+            "Hindi"
+    ],
+    "latlng": [
+        24,
+        54
+    ],
+    "nativeName": "دولة الإمارات العربية المتحدة",
+    "population": 9446000,
+    "timezones": [
+        "UTC+04"
+    ],
+    "tld": [
+        ".ae"
+    ],
+    "translations": {
+        "de": "Vereinigte Arabische Emirate",
+        "es": "Emiratos Árabes Unidos",
+        "fr": "Émirats arabes unis",
+        "ja": "アラブ首長国連邦",
+        "it": "Emirati Arabi Uniti"
+    },
+    "continent": "Asia",
+    "government": "Emirate Federation",
+    "independence": 1971,
+    "symbol": null,
+    "location": "Middle East",
+    "temperature": 27,
+    "religion": "Islam",
+    "density": 135.6091101,
+    "dish": null,
+    "expectancy": 74.1,
+    "wiki": "http://en.wikipedia.org/wiki/united_arab_emirates"
+}

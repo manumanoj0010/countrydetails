@@ -1,0 +1,259 @@
+{
+    "name": "Samoa",
+    "altSpellings": [
+        "WS",
+        "Independent State of Samoa",
+        "Malo Saʻoloto Tutoʻatasi o Sāmoa"
+    ],
+    "area": 2842,
+    "borders": [],
+    "callingCodes": [
+        "685"
+    ],
+    "capital": "Apia",
+    "capital_latlng": [
+        -13.834369,
+        -171.769279
+    ],
+    "currencies": [
+        "WST"
+    ],
+    "demonym": "Samoan",
+    "flag": "",
+    "geoJSON": {},
+    "ISO": {
+        "alpha2": "WS",
+        "alpha3": "WSM"
+    },
+    "states": [
+        {
+            "id": 4763,
+            "name": "A'ana",
+            "state_code": "AA",
+            "cities": [
+                {
+                    "id": 130647,
+                    "name": "Fasito‘outa",
+                    "latitude": "-13.81163000",
+                    "longitude": "-171.94063000"
+                },
+                {
+                    "id": 130649,
+                    "name": "Leulumoega",
+                    "latitude": "-13.82297000",
+                    "longitude": "-171.96127000"
+                },
+                {
+                    "id": 130655,
+                    "name": "Nofoali‘i",
+                    "latitude": "-13.82170000",
+                    "longitude": "-171.95873000"
+                },
+                {
+                    "id": 130658,
+                    "name": "Satapuala",
+                    "latitude": "-13.83535000",
+                    "longitude": "-171.97963000"
+                }
+            ]
+        },
+        {
+            "id": 4761,
+            "name": "Aiga-i-le-Tai",
+            "state_code": "AL",
+            "cities": [
+                {
+                    "id": 130654,
+                    "name": "Mulifanua",
+                    "latitude": "-13.83183000",
+                    "longitude": "-172.03602000"
+                }
+            ]
+        },
+        {
+            "id": 4765,
+            "name": "Atua",
+            "state_code": "AT",
+            "cities": [
+                {
+                    "id": 130646,
+                    "name": "Falefa",
+                    "latitude": "-13.88695000",
+                    "longitude": "-171.58805000"
+                },
+                {
+                    "id": 130650,
+                    "name": "Lotofagā",
+                    "latitude": "-13.97643000",
+                    "longitude": "-171.85781000"
+                },
+                {
+                    "id": 130651,
+                    "name": "Lufilufi",
+                    "latitude": "-13.87449000",
+                    "longitude": "-171.59857000"
+                },
+                {
+                    "id": 130659,
+                    "name": "Solosolo",
+                    "latitude": "-13.87504000",
+                    "longitude": "-171.64181000"
+                }
+            ]
+        },
+        {
+            "id": 4764,
+            "name": "Fa'asaleleaga",
+            "state_code": "FA",
+            "cities": []
+        },
+        {
+            "id": 4769,
+            "name": "Gaga'emauga",
+            "state_code": "GE",
+            "cities": []
+        },
+        {
+            "id": 4771,
+            "name": "Gaga'ifomauga",
+            "state_code": "GI",
+            "cities": [
+                {
+                    "id": 130653,
+                    "name": "Matavai",
+                    "latitude": "-14.03208000",
+                    "longitude": "-171.64768000"
+                },
+                {
+                    "id": 130656,
+                    "name": "Safotu",
+                    "latitude": "-13.45132000",
+                    "longitude": "-172.40177000"
+                }
+            ]
+        },
+        {
+            "id": 4767,
+            "name": "Palauli",
+            "state_code": "PA",
+            "cities": [
+                {
+                    "id": 130648,
+                    "name": "Gataivai",
+                    "latitude": "-13.77360000",
+                    "longitude": "-172.38802000"
+                },
+                {
+                    "id": 130661,
+                    "name": "Vailoa",
+                    "latitude": "-13.75551000",
+                    "longitude": "-172.30698000"
+                }
+            ]
+        },
+        {
+            "id": 4762,
+            "name": "Satupa'itea",
+            "state_code": "SA",
+            "cities": []
+        },
+        {
+            "id": 4770,
+            "name": "Tuamasaga",
+            "state_code": "TU",
+            "cities": [
+                {
+                    "id": 130643,
+                    "name": "Afega",
+                    "latitude": "-13.79726000",
+                    "longitude": "-171.85308000"
+                },
+                {
+                    "id": 130644,
+                    "name": "Apia",
+                    "latitude": "-13.83333000",
+                    "longitude": "-171.76666000"
+                },
+                {
+                    "id": 130652,
+                    "name": "Malie",
+                    "latitude": "-13.80044000",
+                    "longitude": "-171.84690000"
+                },
+                {
+                    "id": 130660,
+                    "name": "Vailima",
+                    "latitude": "-13.86417000",
+                    "longitude": "-171.76126000"
+                },
+                {
+                    "id": 130662,
+                    "name": "Vaiusu",
+                    "latitude": "-13.82678000",
+                    "longitude": "-171.79333000"
+                }
+            ]
+        },
+        {
+            "id": 4768,
+            "name": "Va'a-o-Fonoti",
+            "state_code": "VF",
+            "cities": [
+                {
+                    "id": 130657,
+                    "name": "Samamea",
+                    "latitude": "-13.93375000",
+                    "longitude": "-171.53122000"
+                }
+            ]
+        },
+        {
+            "id": 4766,
+            "name": "Vaisigano",
+            "state_code": "VS",
+            "cities": [
+                {
+                    "id": 130645,
+                    "name": "Asau",
+                    "latitude": "-13.51963000",
+                    "longitude": "-172.63784000"
+                }
+            ]
+        }
+    ],
+    "languages": [
+        "English",
+            "Samoan",
+            "Samoan-English"
+    ],
+    "latlng": [
+        -13.58333333,
+        -172.33333333
+    ],
+    "nativeName": "Samoa",
+    "population": 187820,
+    "timezones": [
+        "UTC+13:00"
+    ],
+    "tld": [
+        ".ws"
+    ],
+    "translations": {
+        "de": "Samoa",
+        "es": "Samoa",
+        "fr": "Samoa",
+        "ja": "サモア",
+        "it": "Samoa"
+    },
+    "continent": "Oceania",
+    "government": "Parlementary Monarchy",
+    "independence": 1962,
+    "symbol": null,
+    "expectancy": 69.2,
+    "dish": null,
+    "religion": "Christianity",
+    "location": "Polynesia",
+    "density": 69.30388693,
+    "temperature": 26.7,
+    "wiki": "http://en.wikipedia.org/wiki/samoa"
+}

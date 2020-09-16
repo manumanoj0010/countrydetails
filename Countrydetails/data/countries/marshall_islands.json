@@ -1,0 +1,76 @@
+{
+    "name": "Marshall Islands",
+    "altSpellings": [
+        "MH",
+        "Republic of the Marshall Islands",
+        "Aolepān Aorōkin M̧ajeļ"
+    ],
+    "area": 181,
+    "borders": [],
+    "callingCodes": [
+        "692"
+    ],
+    "capital": "Majuro",
+    "capital_latlng": [
+        7.090992,
+        171.381635
+    ],
+    "currencies": [
+        "USD"
+    ],
+    "demonym": "Marshallese",
+    "flag": "",
+    "geoJSON": {},
+    "ISO": {
+        "alpha2": "MH",
+        "alpha3": "MHL"
+    },
+    "languages": [
+        "English",
+        "Marshallese"
+    ],
+    "latlng": [
+        9,
+        168
+    ],
+    "nativeName": "M̧ajeļ",
+    "population": 56086,
+    "timezones": [
+        "UTC+12:00"
+    ],
+    "tld": [
+        ".mh"
+    ],
+    "translations": {
+        "de": "Marshallinseln",
+        "es": "Islas Marshall",
+        "fr": "Îles Marshall",
+        "ja": "マーシャル諸島",
+        "it": "Isole Marshall"
+    },
+    "states": [
+        {
+            "id": 2574,
+            "name": "Ralik Chain",
+            "state_code": "L",
+            "cities": []
+        },
+        {
+            "id": 2573,
+            "name": "Ratak Chain",
+            "state_code": "T",
+            "cities": []
+        }
+    ],
+    "independence": 1990,
+    "government": "Republic",
+    "continent": "Oceania",
+    "religion": "Christianity",
+    "location": "Micronesia",
+    "temperature": 27.4,
+    "density": 324.5166667,
+    "dish": null,
+    "symbol": null,
+    "expectancy": 65.5,
+    "wiki": "http://en.wikipedia.org/wiki/marshall_islands"
+}

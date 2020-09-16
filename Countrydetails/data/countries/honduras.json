@@ -1,0 +1,3516 @@
+{
+  "name": "Honduras",
+  "altSpellings": ["HN", "Republic of Honduras", "República de Honduras"],
+  "area": 112492,
+  "borders": ["GTM", "SLV", "NIC"],
+  "callingCodes": ["504"],
+  "capital": "Tegucigalpa",
+  "capital_latlng": [14.105686, -87.204676],
+  "currencies": ["HNL"],
+  "demonym": "Honduran",
+  "flag": "",
+  "geoJSON": {
+    "type": "FeatureCollection",
+    "features": [{
+      "type": "Feature",
+      "id": "HND",
+      "properties": {
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-87.316654, 12.984686],
+            [-87.489409, 13.297535],
+            [-87.793111, 13.38448],
+            [-87.723503, 13.78505],
+            [-87.859515, 13.893312],
+            [-88.065343, 13.964626],
+            [-88.503998, 13.845486],
+            [-88.541231, 13.980155],
+            [-88.843073, 14.140507],
+            [-89.058512, 14.340029],
+            [-89.353326, 14.424133],
+            [-89.145535, 14.678019],
+            [-89.22522, 14.874286],
+            [-89.154811, 15.066419],
+            [-88.68068, 15.346247],
+            [-88.225023, 15.727722],
+            [-88.121153, 15.688655],
+            [-87.901813, 15.864458],
+            [-87.61568, 15.878799],
+            [-87.522921, 15.797279],
+            [-87.367762, 15.84694],
+            [-86.903191, 15.756713],
+            [-86.440946, 15.782835],
+            [-86.119234, 15.893449],
+            [-86.001954, 16.005406],
+            [-85.683317, 15.953652],
+            [-85.444004, 15.885749],
+            [-85.182444, 15.909158],
+            [-84.983722, 15.995923],
+            [-84.52698, 15.857224],
+            [-84.368256, 15.835158],
+            [-84.063055, 15.648244],
+            [-83.773977, 15.424072],
+            [-83.410381, 15.270903],
+            [-83.147219, 14.995829],
+            [-83.489989, 15.016267],
+            [-83.628585, 14.880074],
+            [-83.975721, 14.749436],
+            [-84.228342, 14.748764],
+            [-84.449336, 14.621614],
+            [-84.649582, 14.666805],
+            [-84.820037, 14.819587],
+            [-84.924501, 14.790493],
+            [-85.052787, 14.551541],
+            [-85.148751, 14.560197],
+            [-85.165365, 14.35437],
+            [-85.514413, 14.079012],
+            [-85.698665, 13.960078],
+            [-85.801295, 13.836055],
+            [-86.096264, 14.038187],
+            [-86.312142, 13.771356],
+            [-86.520708, 13.778487],
+            [-86.755087, 13.754845],
+            [-86.733822, 13.263093],
+            [-86.880557, 13.254204],
+            [-87.005769, 13.025794],
+            [-87.316654, 12.984686]
+          ]
+        ]
+      }
+    }]
+  },
+  "ISO": {
+    "alpha2": "HN",
+    "alpha3": "HND"
+  },
+  "languages": [
+      "Creole English",
+      "Garifuna",
+      "Miskito",
+      "Spanish"
+  ],
+  "latlng": [15, -86.5],
+  "nativeName": "Honduras",
+  "population": 8725111,
+  "continent": "North America",
+  "government": "Republic",
+      "independence": 1838,
+"expectancy": 69.9,
+  "dish": "Baleada, Carne asada, Sopa de Caracol (Conch Soup)",
+    "symbol": null,
+        "density": 85.68703191,
+          "location": "Central America",
+          "religion": "Christianity",
+          "states": [
+              {
+                  "id": 4047,
+                  "name": "Atlántida Department",
+                  "state_code": "AT",
+                  "cities": [
+                      {
+                          "id": 53857,
+                          "name": "Arizona",
+                          "latitude": "15.63333000",
+                          "longitude": "-87.31667000"
+                      },
+                      {
+                          "id": 53860,
+                          "name": "Atenas de San Cristóbal",
+                          "latitude": "15.68333000",
+                          "longitude": "-87.31667000"
+                      },
+                      {
+                          "id": 53921,
+                          "name": "Corozal",
+                          "latitude": "15.80000000",
+                          "longitude": "-86.71667000"
+                      },
+                      {
+                          "id": 53974,
+                          "name": "El Pino",
+                          "latitude": "15.70000000",
+                          "longitude": "-86.93333000"
+                      },
+                      {
+                          "id": 53976,
+                          "name": "El Porvenir",
+                          "latitude": "15.75000000",
+                          "longitude": "-86.93333000"
+                      },
+                      {
+                          "id": 53995,
+                          "name": "El Triunfo de la Cruz",
+                          "latitude": "15.76667000",
+                          "longitude": "-87.43333000"
+                      },
+                      {
+                          "id": 54001,
+                          "name": "Esparta",
+                          "latitude": "15.66291000",
+                          "longitude": "-87.25622000"
+                      },
+                      {
+                          "id": 54041,
+                          "name": "Jutiapa",
+                          "latitude": "15.69586000",
+                          "longitude": "-86.50414000"
+                      },
+                      {
+                          "id": 54048,
+                          "name": "La Ceiba",
+                          "latitude": "15.75971000",
+                          "longitude": "-86.78221000"
+                      },
+                      {
+                          "id": 54071,
+                          "name": "La Masica",
+                          "latitude": "15.59865000",
+                          "longitude": "-87.13500000"
+                      },
+                      {
+                          "id": 54080,
+                          "name": "La Unión",
+                          "latitude": "15.71667000",
+                          "longitude": "-87.00000000"
+                      },
+                      {
+                          "id": 54127,
+                          "name": "Mezapa",
+                          "latitude": "15.58333000",
+                          "longitude": "-87.65000000"
+                      },
+                      {
+                          "id": 54145,
+                          "name": "Nueva Armenia",
+                          "latitude": "15.79556000",
+                          "longitude": "-86.49845000"
+                      },
+                      {
+                          "id": 54208,
+                          "name": "Sambo Creek",
+                          "latitude": "15.81667000",
+                          "longitude": "-86.68333000"
+                      },
+                      {
+                          "id": 54212,
+                          "name": "San Antonio",
+                          "latitude": "15.60000000",
+                          "longitude": "-87.15000000"
+                      },
+                      {
+                          "id": 54226,
+                          "name": "San Francisco",
+                          "latitude": "15.65246000",
+                          "longitude": "-87.01736000"
+                      },
+                      {
+                          "id": 54259,
+                          "name": "San Juan Pueblo",
+                          "latitude": "15.58333000",
+                          "longitude": "-87.23333000"
+                      },
+                      {
+                          "id": 54290,
+                          "name": "Santa Ana",
+                          "latitude": "15.65000000",
+                          "longitude": "-87.06667000"
+                      },
+                      {
+                          "id": 54334,
+                          "name": "Tela",
+                          "latitude": "15.77425000",
+                          "longitude": "-87.46731000"
+                      },
+                      {
+                          "id": 54341,
+                          "name": "Tornabé",
+                          "latitude": "15.75000000",
+                          "longitude": "-87.55000000"
+                      }
+                  ]
+              },
+              {
+                  "id": 4045,
+                  "name": "Bay Islands Department",
+                  "state_code": "IB",
+                  "cities": [
+                      {
+                          "id": 53925,
+                          "name": "Coxen Hole",
+                          "latitude": "16.31759000",
+                          "longitude": "-86.53793000"
+                      },
+                      {
+                          "id": 54008,
+                          "name": "French Harbor",
+                          "latitude": "16.35000000",
+                          "longitude": "-86.43333000"
+                      },
+                      {
+                          "id": 54019,
+                          "name": "Guanaja",
+                          "latitude": "16.44795000",
+                          "longitude": "-85.89431000"
+                      },
+                      {
+                          "id": 54038,
+                          "name": "José Santos Guardiola",
+                          "latitude": "16.41765000",
+                          "longitude": "-86.30631000"
+                      },
+                      {
+                          "id": 54197,
+                          "name": "Roatán",
+                          "latitude": "16.34098000",
+                          "longitude": "-86.53763000"
+                      },
+                      {
+                          "id": 54289,
+                          "name": "Sandy Bay",
+                          "latitude": "16.32923000",
+                          "longitude": "-86.56446000"
+                      },
+                      {
+                          "id": 54315,
+                          "name": "Savannah Bight",
+                          "latitude": "16.45000000",
+                          "longitude": "-85.85000000"
+                      },
+                      {
+                          "id": 54351,
+                          "name": "Utila",
+                          "latitude": "16.10026000",
+                          "longitude": "-86.93070000"
+                      }
+                  ]
+              },
+              {
+                  "id": 4041,
+                  "name": "Choluteca Department",
+                  "state_code": "CH",
+                  "cities": [
+                      {
+                          "id": 53851,
+                          "name": "Apacilagua",
+                          "latitude": "13.45821000",
+                          "longitude": "-87.01122000"
+                      },
+                      {
+                          "id": 53901,
+                          "name": "Choluteca",
+                          "latitude": "13.28261000",
+                          "longitude": "-87.20119000"
+                      },
+                      {
+                          "id": 53903,
+                          "name": "Ciudad Choluteca",
+                          "latitude": "13.30028000",
+                          "longitude": "-87.19083000"
+                      },
+                      {
+                          "id": 53913,
+                          "name": "Concepción de María",
+                          "latitude": "13.22363000",
+                          "longitude": "-86.96244000"
+                      },
+                      {
+                          "id": 53922,
+                          "name": "Corpus",
+                          "latitude": "13.28889000",
+                          "longitude": "-87.03472000"
+                      },
+                      {
+                          "id": 53939,
+                          "name": "Duyure",
+                          "latitude": "13.63333000",
+                          "longitude": "-86.81667000"
+                      },
+                      {
+                          "id": 53949,
+                          "name": "El Corpus",
+                          "latitude": "13.30464000",
+                          "longitude": "-87.00970000"
+                      },
+                      {
+                          "id": 53965,
+                          "name": "El Obraje",
+                          "latitude": "13.15417000",
+                          "longitude": "-87.13083000"
+                      },
+                      {
+                          "id": 53981,
+                          "name": "El Puente",
+                          "latitude": "13.28333000",
+                          "longitude": "-87.11667000"
+                      },
+                      {
+                          "id": 53994,
+                          "name": "El Triunfo",
+                          "latitude": "13.08024000",
+                          "longitude": "-87.01780000"
+                      },
+                      {
+                          "id": 54108,
+                          "name": "Los Llanitos",
+                          "latitude": "13.28694000",
+                          "longitude": "-87.33444000"
+                      },
+                      {
+                          "id": 54121,
+                          "name": "Marcovia",
+                          "latitude": "13.28806000",
+                          "longitude": "-87.30972000"
+                      },
+                      {
+                          "id": 54131,
+                          "name": "Monjarás",
+                          "latitude": "13.20056000",
+                          "longitude": "-87.37417000"
+                      },
+                      {
+                          "id": 54135,
+                          "name": "Morolica",
+                          "latitude": "13.56800000",
+                          "longitude": "-86.88821000"
+                      },
+                      {
+                          "id": 54141,
+                          "name": "Namasigüe",
+                          "latitude": "13.20472000",
+                          "longitude": "-87.13889000"
+                      },
+                      {
+                          "id": 54162,
+                          "name": "Orocuina",
+                          "latitude": "13.48167000",
+                          "longitude": "-87.10500000"
+                      },
+                      {
+                          "id": 54168,
+                          "name": "Pespire",
+                          "latitude": "13.59222000",
+                          "longitude": "-87.36167000"
+                      },
+                      {
+                          "id": 54216,
+                          "name": "San Antonio de Flores",
+                          "latitude": "13.64152000",
+                          "longitude": "-87.34075000"
+                      },
+                      {
+                          "id": 54237,
+                          "name": "San Isidro",
+                          "latitude": "13.64454000",
+                          "longitude": "-87.26093000"
+                      },
+                      {
+                          "id": 54239,
+                          "name": "San Jerónimo",
+                          "latitude": "13.17667000",
+                          "longitude": "-87.13639000"
+                      },
+                      {
+                          "id": 54247,
+                          "name": "San José",
+                          "latitude": "13.71415000",
+                          "longitude": "-87.42256000"
+                      },
+                      {
+                          "id": 54251,
+                          "name": "San José de Las Conchas",
+                          "latitude": "13.32528000",
+                          "longitude": "-87.39556000"
+                      },
+                      {
+                          "id": 54273,
+                          "name": "San Marcos de Colón",
+                          "latitude": "13.41512000",
+                          "longitude": "-86.82095000"
+                      },
+                      {
+                          "id": 54293,
+                          "name": "Santa Ana de Yusguare",
+                          "latitude": "13.30056000",
+                          "longitude": "-87.11389000"
+                      },
+                      {
+                          "id": 54295,
+                          "name": "Santa Cruz",
+                          "latitude": "13.25806000",
+                          "longitude": "-87.34833000"
+                      }
+                  ]
+              },
+              {
+                  "id": 4051,
+                  "name": "Colón Department",
+                  "state_code": "CL",
+                  "cities": [
+                      {
+                          "id": 53867,
+                          "name": "Balfate",
+                          "latitude": "15.75709000",
+                          "longitude": "-86.29048000"
+                      },
+                      {
+                          "id": 53874,
+                          "name": "Bonito Oriental",
+                          "latitude": "15.74641000",
+                          "longitude": "-85.73610000"
+                      },
+                      {
+                          "id": 53920,
+                          "name": "Corocito",
+                          "latitude": "15.75000000",
+                          "longitude": "-85.78333000"
+                      },
+                      {
+                          "id": 53929,
+                          "name": "Cusuna",
+                          "latitude": "15.85000000",
+                          "longitude": "-85.23333000"
+                      },
+                      {
+                          "id": 53999,
+                          "name": "Elíxir",
+                          "latitude": "15.48333000",
+                          "longitude": "-86.30000000"
+                      },
+                      {
+                          "id": 54006,
+                          "name": "Francia",
+                          "latitude": "15.85000000",
+                          "longitude": "-85.58333000"
+                      },
+                      {
+                          "id": 54029,
+                          "name": "Iriona",
+                          "latitude": "15.59079000",
+                          "longitude": "-85.20549000"
+                      },
+                      {
+                          "id": 54033,
+                          "name": "Jericó",
+                          "latitude": "15.95000000",
+                          "longitude": "-85.96667000"
+                      },
+                      {
+                          "id": 54046,
+                          "name": "La Brea",
+                          "latitude": "15.80000000",
+                          "longitude": "-85.96667000"
+                      },
+                      {
+                          "id": 54055,
+                          "name": "La Esperanza",
+                          "latitude": "15.63333000",
+                          "longitude": "-85.76667000"
+                      },
+                      {
+                          "id": 54103,
+                          "name": "Limón",
+                          "latitude": "15.79664000",
+                          "longitude": "-85.50805000"
+                      },
+                      {
+                          "id": 54136,
+                          "name": "Municipio de Sabá",
+                          "latitude": "15.48654000",
+                          "longitude": "-86.16322000"
+                      },
+                      {
+                          "id": 54178,
+                          "name": "Prieta",
+                          "latitude": "15.58060000",
+                          "longitude": "-86.13664000"
+                      },
+                      {
+                          "id": 54183,
+                          "name": "Puerto Castilla",
+                          "latitude": "16.01667000",
+                          "longitude": "-85.96667000"
+                      },
+                      {
+                          "id": 54188,
+                          "name": "Punta Piedra",
+                          "latitude": "15.90000000",
+                          "longitude": "-85.28333000"
+                      },
+                      {
+                          "id": 54192,
+                          "name": "Quebrada de Arena",
+                          "latitude": "15.76667000",
+                          "longitude": "-85.91667000"
+                      },
+                      {
+                          "id": 54202,
+                          "name": "Río Esteban",
+                          "latitude": "15.83333000",
+                          "longitude": "-86.30000000"
+                      },
+                      {
+                          "id": 54205,
+                          "name": "Sabá",
+                          "latitude": "15.46667000",
+                          "longitude": "-86.25000000"
+                      },
+                      {
+                          "id": 54206,
+                          "name": "Salamá",
+                          "latitude": "15.75000000",
+                          "longitude": "-85.96667000"
+                      },
+                      {
+                          "id": 54302,
+                          "name": "Santa Fe",
+                          "latitude": "15.85424000",
+                          "longitude": "-86.11083000"
+                      },
+                      {
+                          "id": 54312,
+                          "name": "Santa Rosa de Aguán",
+                          "latitude": "15.95000000",
+                          "longitude": "-85.71667000"
+                      },
+                      {
+                          "id": 54321,
+                          "name": "Sonaguera",
+                          "latitude": "15.64000000",
+                          "longitude": "-86.26000000"
+                      },
+                      {
+                          "id": 54330,
+                          "name": "Taujica",
+                          "latitude": "15.70000000",
+                          "longitude": "-85.91667000"
+                      },
+                      {
+                          "id": 54339,
+                          "name": "Tocoa",
+                          "latitude": "15.68333000",
+                          "longitude": "-86.00000000"
+                      },
+                      {
+                          "id": 54349,
+                          "name": "Trujillo",
+                          "latitude": "15.91667000",
+                          "longitude": "-85.95417000"
+                      },
+                      {
+                          "id": 54378,
+                          "name": "Zamora",
+                          "latitude": "15.63333000",
+                          "longitude": "-86.06667000"
+                      }
+                  ]
+              },
+              {
+                  "id": 4042,
+                  "name": "Comayagua Department",
+                  "state_code": "CM",
+                  "cities": [
+                      {
+                          "id": 53843,
+                          "name": "Aguas del Padre",
+                          "latitude": "14.56667000",
+                          "longitude": "-87.88333000"
+                      },
+                      {
+                          "id": 53845,
+                          "name": "Ajuterique",
+                          "latitude": "14.38333000",
+                          "longitude": "-87.70000000"
+                      },
+                      {
+                          "id": 53894,
+                          "name": "Cerro Blanco",
+                          "latitude": "14.66667000",
+                          "longitude": "-87.78333000"
+                      },
+                      {
+                          "id": 53908,
+                          "name": "Comayagua",
+                          "latitude": "14.48412000",
+                          "longitude": "-87.60060000"
+                      },
+                      {
+                          "id": 53912,
+                          "name": "Concepción de Guasistagua",
+                          "latitude": "14.60000000",
+                          "longitude": "-87.65000000"
+                      },
+                      {
+                          "id": 53941,
+                          "name": "El Agua Dulcita",
+                          "latitude": "14.70000000",
+                          "longitude": "-87.75000000"
+                      },
+                      {
+                          "id": 53978,
+                          "name": "El Porvenir",
+                          "latitude": "14.58333000",
+                          "longitude": "-87.88333000"
+                      },
+                      {
+                          "id": 53983,
+                          "name": "El Rancho",
+                          "latitude": "14.68333000",
+                          "longitude": "-87.50000000"
+                      },
+                      {
+                          "id": 53984,
+                          "name": "El Rincón",
+                          "latitude": "14.58333000",
+                          "longitude": "-87.93333000"
+                      },
+                      {
+                          "id": 53985,
+                          "name": "El Rosario",
+                          "latitude": "14.57500000",
+                          "longitude": "-87.74306000"
+                      },
+                      {
+                          "id": 53988,
+                          "name": "El Sauce",
+                          "latitude": "14.52850000",
+                          "longitude": "-87.66571000"
+                      },
+                      {
+                          "id": 53989,
+                          "name": "El Socorro",
+                          "latitude": "14.63333000",
+                          "longitude": "-87.91667000"
+                      },
+                      {
+                          "id": 54003,
+                          "name": "Esquías",
+                          "latitude": "14.73333000",
+                          "longitude": "-87.36667000"
+                      },
+                      {
+                          "id": 54004,
+                          "name": "Flores",
+                          "latitude": "14.28333000",
+                          "longitude": "-87.56667000"
+                      },
+                      {
+                          "id": 54025,
+                          "name": "Humuya",
+                          "latitude": "14.25000000",
+                          "longitude": "-87.66667000"
+                      },
+                      {
+                          "id": 54031,
+                          "name": "Jamalteca",
+                          "latitude": "14.70000000",
+                          "longitude": "-87.58333000"
+                      },
+                      {
+                          "id": 54068,
+                          "name": "La Libertad",
+                          "latitude": "14.88000000",
+                          "longitude": "-87.55000000"
+                      },
+                      {
+                          "id": 54079,
+                          "name": "La Trinidad",
+                          "latitude": "14.70000000",
+                          "longitude": "-87.66286000"
+                      },
+                      {
+                          "id": 54089,
+                          "name": "Lamaní",
+                          "latitude": "14.20000000",
+                          "longitude": "-87.61667000"
+                      },
+                      {
+                          "id": 54092,
+                          "name": "Las Lajas",
+                          "latitude": "14.90000000",
+                          "longitude": "-87.58333000"
+                      },
+                      {
+                          "id": 54100,
+                          "name": "Lejamaní",
+                          "latitude": "14.36667000",
+                          "longitude": "-87.70000000"
+                      },
+                      {
+                          "id": 54128,
+                          "name": "Meámbar",
+                          "latitude": "14.82047000",
+                          "longitude": "-87.78424000"
+                      },
+                      {
+                          "id": 54129,
+                          "name": "Minas de Oro",
+                          "latitude": "14.80000000",
+                          "longitude": "-87.35000000"
+                      },
+                      {
+                          "id": 54157,
+                          "name": "Ojos de Agua",
+                          "latitude": "14.79498000",
+                          "longitude": "-87.65010000"
+                      },
+                      {
+                          "id": 54175,
+                          "name": "Potrerillos",
+                          "latitude": "14.55000000",
+                          "longitude": "-87.86667000"
+                      },
+                      {
+                          "id": 54200,
+                          "name": "Río Bonito",
+                          "latitude": "14.76667000",
+                          "longitude": "-87.88333000"
+                      },
+                      {
+                          "id": 54219,
+                          "name": "San Antonio de la Cuesta",
+                          "latitude": "14.63333000",
+                          "longitude": "-87.60000000"
+                      },
+                      {
+                          "id": 54240,
+                          "name": "San Jerónimo",
+                          "latitude": "14.64043000",
+                          "longitude": "-87.56768000"
+                      },
+                      {
+                          "id": 54249,
+                          "name": "San José de Comayagua",
+                          "latitude": "14.73333000",
+                          "longitude": "-88.03333000"
+                      },
+                      {
+                          "id": 54255,
+                          "name": "San José del Potrero",
+                          "latitude": "14.86203000",
+                          "longitude": "-87.29049000"
+                      },
+                      {
+                          "id": 54266,
+                          "name": "San Luis",
+                          "latitude": "14.75000000",
+                          "longitude": "-87.41667000"
+                      },
+                      {
+                          "id": 54286,
+                          "name": "San Sebastián",
+                          "latitude": "14.23687000",
+                          "longitude": "-87.63215000"
+                      },
+                      {
+                          "id": 54317,
+                          "name": "Siguatepeque",
+                          "latitude": "14.60000000",
+                          "longitude": "-87.83333000"
+                      },
+                      {
+                          "id": 54331,
+                          "name": "Taulabé",
+                          "latitude": "14.67145000",
+                          "longitude": "-87.98693000"
+                      },
+                      {
+                          "id": 54355,
+                          "name": "Valle de Ángeles",
+                          "latitude": "14.50000000",
+                          "longitude": "-87.63333000"
+                      },
+                      {
+                          "id": 54360,
+                          "name": "Villa de San Antonio",
+                          "latitude": "14.31667000",
+                          "longitude": "-87.61667000"
+                      }
+                  ]
+              },
+              {
+                  "id": 4049,
+                  "name": "Copán Department",
+                  "state_code": "CP",
+                  "cities": [
+                      {
+                          "id": 53839,
+                          "name": "Agua Caliente",
+                          "latitude": "14.88333000",
+                          "longitude": "-88.81667000"
+                      },
+                      {
+                          "id": 53876,
+                          "name": "Buenos Aires",
+                          "latitude": "15.03333000",
+                          "longitude": "-88.96667000"
+                      },
+                      {
+                          "id": 53878,
+                          "name": "Cabañas",
+                          "latitude": "14.76000000",
+                          "longitude": "-89.06000000"
+                      },
+                      {
+                          "id": 53896,
+                          "name": "Chalmeca",
+                          "latitude": "15.10000000",
+                          "longitude": "-88.68333000"
+                      },
+                      {
+                          "id": 53911,
+                          "name": "Concepción",
+                          "latitude": "14.88077000",
+                          "longitude": "-88.87919000"
+                      },
+                      {
+                          "id": 53914,
+                          "name": "Concepción de la Barranca",
+                          "latitude": "15.16667000",
+                          "longitude": "-88.71667000"
+                      },
+                      {
+                          "id": 53918,
+                          "name": "Copán",
+                          "latitude": "14.83333000",
+                          "longitude": "-89.15000000"
+                      },
+                      {
+                          "id": 53919,
+                          "name": "Copán Ruinas",
+                          "latitude": "14.92000000",
+                          "longitude": "-89.15000000"
+                      },
+                      {
+                          "id": 53923,
+                          "name": "Corquín",
+                          "latitude": "14.56667000",
+                          "longitude": "-88.86667000"
+                      },
+                      {
+                          "id": 53927,
+                          "name": "Cucuyagua",
+                          "latitude": "14.65000000",
+                          "longitude": "-88.86667000"
+                      },
+                      {
+                          "id": 53934,
+                          "name": "Dolores",
+                          "latitude": "14.86667000",
+                          "longitude": "-88.83333000"
+                      },
+                      {
+                          "id": 53937,
+                          "name": "Dulce Nombre",
+                          "latitude": "14.85552000",
+                          "longitude": "-88.83856000"
+                      },
+                      {
+                          "id": 53948,
+                          "name": "El Corpus",
+                          "latitude": "14.70000000",
+                          "longitude": "-88.91667000"
+                      },
+                      {
+                          "id": 53968,
+                          "name": "El Ocotón",
+                          "latitude": "15.03333000",
+                          "longitude": "-88.88333000"
+                      },
+                      {
+                          "id": 53971,
+                          "name": "El Paraíso",
+                          "latitude": "15.04217000",
+                          "longitude": "-88.98045000"
+                      },
+                      {
+                          "id": 54005,
+                          "name": "Florida",
+                          "latitude": "15.03333000",
+                          "longitude": "-88.83333000"
+                      },
+                      {
+                          "id": 54052,
+                          "name": "La Entrada",
+                          "latitude": "15.05000000",
+                          "longitude": "-88.73333000"
+                      },
+                      {
+                          "id": 54064,
+                          "name": "La Jigua",
+                          "latitude": "15.10000000",
+                          "longitude": "-88.76000000"
+                      },
+                      {
+                          "id": 54074,
+                          "name": "La Playona",
+                          "latitude": "15.11667000",
+                          "longitude": "-88.98333000"
+                      },
+                      {
+                          "id": 54083,
+                          "name": "La Unión",
+                          "latitude": "14.69350000",
+                          "longitude": "-88.94734000"
+                      },
+                      {
+                          "id": 54086,
+                          "name": "La Zumbadora",
+                          "latitude": "15.01667000",
+                          "longitude": "-88.90000000"
+                      },
+                      {
+                          "id": 54111,
+                          "name": "Los Tangos",
+                          "latitude": "15.15000000",
+                          "longitude": "-88.68333000"
+                      },
+                      {
+                          "id": 54144,
+                          "name": "Nueva Arcadia",
+                          "latitude": "15.08000000",
+                          "longitude": "-88.69000000"
+                      },
+                      {
+                          "id": 54156,
+                          "name": "Ojos de Agua",
+                          "latitude": "14.70000000",
+                          "longitude": "-88.81667000"
+                      },
+                      {
+                          "id": 54181,
+                          "name": "Pueblo Nuevo",
+                          "latitude": "15.00000000",
+                          "longitude": "-88.75000000"
+                      },
+                      {
+                          "id": 54194,
+                          "name": "Quezailica",
+                          "latitude": "14.88333000",
+                          "longitude": "-88.73333000"
+                      },
+                      {
+                          "id": 54209,
+                          "name": "San Agustín",
+                          "latitude": "14.81973000",
+                          "longitude": "-88.93027000"
+                      },
+                      {
+                          "id": 54214,
+                          "name": "San Antonio",
+                          "latitude": "15.04000000",
+                          "longitude": "-88.88000000"
+                      },
+                      {
+                          "id": 54241,
+                          "name": "San Jerónimo",
+                          "latitude": "14.96207000",
+                          "longitude": "-88.90270000"
+                      },
+                      {
+                          "id": 54242,
+                          "name": "San Joaquín",
+                          "latitude": "15.05000000",
+                          "longitude": "-88.90000000"
+                      },
+                      {
+                          "id": 54245,
+                          "name": "San José",
+                          "latitude": "14.91184000",
+                          "longitude": "-88.71667000"
+                      },
+                      {
+                          "id": 54250,
+                          "name": "San José de Copán",
+                          "latitude": "14.90000000",
+                          "longitude": "-88.71667000"
+                      },
+                      {
+                          "id": 54261,
+                          "name": "San Juan de Opoa",
+                          "latitude": "14.78333000",
+                          "longitude": "-88.70000000"
+                      },
+                      {
+                          "id": 54262,
+                          "name": "San Juan de Planes",
+                          "latitude": "14.93333000",
+                          "longitude": "-88.78333000"
+                      },
+                      {
+                          "id": 54279,
+                          "name": "San Nicolás",
+                          "latitude": "14.98000000",
+                          "longitude": "-88.73000000"
+                      },
+                      {
+                          "id": 54283,
+                          "name": "San Pedro de Copán",
+                          "latitude": "14.61667000",
+                          "longitude": "-88.80000000"
+                      },
+                      {
+                          "id": 54310,
+                          "name": "Santa Rita",
+                          "latitude": "14.88000000",
+                          "longitude": "-89.01000000"
+                      },
+                      {
+                          "id": 54311,
+                          "name": "Santa Rita, Copan",
+                          "latitude": "14.86748000",
+                          "longitude": "-89.10000000"
+                      },
+                      {
+                          "id": 54313,
+                          "name": "Santa Rosa de Copán",
+                          "latitude": "14.76667000",
+                          "longitude": "-88.77917000"
+                      },
+                      {
+                          "id": 54346,
+                          "name": "Trinidad de Copán",
+                          "latitude": "14.95000000",
+                          "longitude": "-88.75000000"
+                      },
+                      {
+                          "id": 54357,
+                          "name": "Veracruz",
+                          "latitude": "14.88343000",
+                          "longitude": "-88.78570000"
+                      }
+                  ]
+              },
+              {
+                  "id": 4046,
+                  "name": "Cortés Department",
+                  "state_code": "CR",
+                  "cities": [
+                      {
+                          "id": 53836,
+                          "name": "Agua Azul",
+                          "latitude": "14.91667000",
+                          "longitude": "-87.96667000"
+                      },
+                      {
+                          "id": 53837,
+                          "name": "Agua Azul Rancho",
+                          "latitude": "14.90000000",
+                          "longitude": "-87.95000000"
+                      },
+                      {
+                          "id": 53859,
+                          "name": "Armenta",
+                          "latitude": "15.50000000",
+                          "longitude": "-88.05000000"
+                      },
+                      {
+                          "id": 53866,
+                          "name": "Baja Mar",
+                          "latitude": "15.88851000",
+                          "longitude": "-87.85547000"
+                      },
+                      {
+                          "id": 53868,
+                          "name": "Baracoa",
+                          "latitude": "15.76667000",
+                          "longitude": "-87.85000000"
+                      },
+                      {
+                          "id": 53870,
+                          "name": "Bejuco",
+                          "latitude": "15.13333000",
+                          "longitude": "-87.93333000"
+                      },
+                      {
+                          "id": 53891,
+                          "name": "Cañaveral",
+                          "latitude": "14.98333000",
+                          "longitude": "-88.01667000"
+                      },
+                      {
+                          "id": 53889,
+                          "name": "Casa Quemada",
+                          "latitude": "15.11667000",
+                          "longitude": "-88.08333000"
+                      },
+                      {
+                          "id": 53899,
+                          "name": "Chivana",
+                          "latitude": "15.75000000",
+                          "longitude": "-87.98333000"
+                      },
+                      {
+                          "id": 53900,
+                          "name": "Choloma",
+                          "latitude": "15.64000000",
+                          "longitude": "-87.92000000"
+                      },
+                      {
+                          "id": 53902,
+                          "name": "Chotepe",
+                          "latitude": "15.41667000",
+                          "longitude": "-87.98333000"
+                      },
+                      {
+                          "id": 53904,
+                          "name": "Cofradía",
+                          "latitude": "15.40000000",
+                          "longitude": "-88.15000000"
+                      },
+                      {
+                          "id": 53931,
+                          "name": "Cuyamel",
+                          "latitude": "15.66667000",
+                          "longitude": "-88.20000000"
+                      },
+                      {
+                          "id": 53958,
+                          "name": "El Llano",
+                          "latitude": "15.15000000",
+                          "longitude": "-87.88333000"
+                      },
+                      {
+                          "id": 53960,
+                          "name": "El Marañón",
+                          "latitude": "15.40000000",
+                          "longitude": "-88.05000000"
+                      },
+                      {
+                          "id": 53961,
+                          "name": "El Milagro",
+                          "latitude": "15.40000000",
+                          "longitude": "-87.96667000"
+                      },
+                      {
+                          "id": 53969,
+                          "name": "El Olivar",
+                          "latitude": "15.08333000",
+                          "longitude": "-87.88333000"
+                      },
+                      {
+                          "id": 53973,
+                          "name": "El Perico",
+                          "latitude": "15.08333000",
+                          "longitude": "-88.10000000"
+                      },
+                      {
+                          "id": 53975,
+                          "name": "El Plan",
+                          "latitude": "15.28333000",
+                          "longitude": "-87.96667000"
+                      },
+                      {
+                          "id": 53977,
+                          "name": "El Porvenir",
+                          "latitude": "15.83333000",
+                          "longitude": "-87.93333000"
+                      },
+                      {
+                          "id": 53982,
+                          "name": "El Rancho",
+                          "latitude": "15.66667000",
+                          "longitude": "-87.95000000"
+                      },
+                      {
+                          "id": 53993,
+                          "name": "El Tigre",
+                          "latitude": "14.93333000",
+                          "longitude": "-87.98333000"
+                      },
+                      {
+                          "id": 53998,
+                          "name": "El Zapotal del Norte",
+                          "latitude": "15.51667000",
+                          "longitude": "-88.05000000"
+                      },
+                      {
+                          "id": 54060,
+                          "name": "La Guama",
+                          "latitude": "14.88333000",
+                          "longitude": "-87.93333000"
+                      },
+                      {
+                          "id": 54062,
+                          "name": "La Huesa",
+                          "latitude": "15.58333000",
+                          "longitude": "-87.88333000"
+                      },
+                      {
+                          "id": 54065,
+                          "name": "La Jutosa",
+                          "latitude": "15.63333000",
+                          "longitude": "-88.00000000"
+                      },
+                      {
+                          "id": 54070,
+                          "name": "La Lima",
+                          "latitude": "15.43333000",
+                          "longitude": "-87.91667000"
+                      },
+                      {
+                          "id": 54076,
+                          "name": "La Sabana",
+                          "latitude": "15.36667000",
+                          "longitude": "-87.93333000"
+                      },
+                      {
+                          "id": 54107,
+                          "name": "Los Caminos",
+                          "latitude": "14.95000000",
+                          "longitude": "-87.96667000"
+                      },
+                      {
+                          "id": 54109,
+                          "name": "Los Naranjos",
+                          "latitude": "14.90000000",
+                          "longitude": "-88.05000000"
+                      },
+                      {
+                          "id": 54132,
+                          "name": "Monterrey",
+                          "latitude": "15.58333000",
+                          "longitude": "-87.88333000"
+                      },
+                      {
+                          "id": 54152,
+                          "name": "Nuevo Chamelecón",
+                          "latitude": "15.38333000",
+                          "longitude": "-88.01667000"
+                      },
+                      {
+                          "id": 54159,
+                          "name": "Omoa",
+                          "latitude": "15.76667000",
+                          "longitude": "-88.03333000"
+                      },
+                      {
+                          "id": 54164,
+                          "name": "Oropéndolas",
+                          "latitude": "15.01667000",
+                          "longitude": "-87.93333000"
+                      },
+                      {
+                          "id": 54170,
+                          "name": "Peña Blanca",
+                          "latitude": "15.53333000",
+                          "longitude": "-88.05000000"
+                      },
+                      {
+                          "id": 54171,
+                          "name": "Pimienta",
+                          "latitude": "15.26500000",
+                          "longitude": "-87.96667000"
+                      },
+                      {
+                          "id": 54172,
+                          "name": "Pimienta Vieja",
+                          "latitude": "15.23333000",
+                          "longitude": "-87.96667000"
+                      },
+                      {
+                          "id": 54176,
+                          "name": "Potrerillos",
+                          "latitude": "15.21000000",
+                          "longitude": "-87.95000000"
+                      },
+                      {
+                          "id": 54180,
+                          "name": "Pueblo Nuevo",
+                          "latitude": "15.28333000",
+                          "longitude": "-88.01667000"
+                      },
+                      {
+                          "id": 54182,
+                          "name": "Puerto Alto",
+                          "latitude": "15.70000000",
+                          "longitude": "-87.86667000"
+                      },
+                      {
+                          "id": 54185,
+                          "name": "Puerto Cortés",
+                          "latitude": "15.79000000",
+                          "longitude": "-87.84900000"
+                      },
+                      {
+                          "id": 54184,
+                          "name": "Puerto Cortez",
+                          "latitude": "15.82562000",
+                          "longitude": "-87.92968000"
+                      },
+                      {
+                          "id": 54191,
+                          "name": "Quebrada Seca",
+                          "latitude": "15.66667000",
+                          "longitude": "-87.95000000"
+                      },
+                      {
+                          "id": 54199,
+                          "name": "Río Blanquito",
+                          "latitude": "15.73333000",
+                          "longitude": "-87.90000000"
+                      },
+                      {
+                          "id": 54201,
+                          "name": "Río Chiquito",
+                          "latitude": "15.63333000",
+                          "longitude": "-88.25000000"
+                      },
+                      {
+                          "id": 54203,
+                          "name": "Río Lindo",
+                          "latitude": "15.03333000",
+                          "longitude": "-87.98333000"
+                      },
+                      {
+                          "id": 54215,
+                          "name": "San Antonio de Cortés",
+                          "latitude": "15.11667000",
+                          "longitude": "-88.03333000"
+                      },
+                      {
+                          "id": 54221,
+                          "name": "San Buenaventura",
+                          "latitude": "15.01667000",
+                          "longitude": "-88.00000000"
+                      },
+                      {
+                          "id": 54233,
+                          "name": "San Francisco de Yojoa",
+                          "latitude": "15.01667000",
+                          "longitude": "-87.96667000"
+                      },
+                      {
+                          "id": 54254,
+                          "name": "San José del Boquerón",
+                          "latitude": "15.48333000",
+                          "longitude": "-87.86667000"
+                      },
+                      {
+                          "id": 54268,
+                          "name": "San Manuel",
+                          "latitude": "15.37279000",
+                          "longitude": "-87.90167000"
+                      },
+                      {
+                          "id": 54281,
+                          "name": "San Pedro Sula",
+                          "latitude": "15.50417000",
+                          "longitude": "-88.02500000"
+                      },
+                      {
+                          "id": 54298,
+                          "name": "Santa Cruz de Yojoa",
+                          "latitude": "14.98333000",
+                          "longitude": "-87.90000000"
+                      },
+                      {
+                          "id": 54299,
+                          "name": "Santa Elena",
+                          "latitude": "15.38333000",
+                          "longitude": "-88.13333000"
+                      },
+                      {
+                          "id": 54344,
+                          "name": "Travesía",
+                          "latitude": "15.86667000",
+                          "longitude": "-87.90000000"
+                      },
+                      {
+                          "id": 54362,
+                          "name": "Villanueva",
+                          "latitude": "15.31667000",
+                          "longitude": "-88.00000000"
+                      }
+                  ]
+              },
+              {
+                  "id": 4043,
+                  "name": "El Paraíso Department",
+                  "state_code": "EP",
+                  "cities": [
+                      {
+                          "id": 53846,
+                          "name": "Alauca",
+                          "latitude": "13.84020000",
+                          "longitude": "-86.69526000"
+                      },
+                      {
+                          "id": 53854,
+                          "name": "Araulí",
+                          "latitude": "13.95000000",
+                          "longitude": "-86.55000000"
+                      },
+                      {
+                          "id": 53930,
+                          "name": "Cuyalí",
+                          "latitude": "13.88333000",
+                          "longitude": "-86.55000000"
+                      },
+                      {
+                          "id": 53932,
+                          "name": "Danlí",
+                          "latitude": "14.03333000",
+                          "longitude": "-86.58333000"
+                      },
+                      {
+                          "id": 53942,
+                          "name": "El Benque",
+                          "latitude": "14.03333000",
+                          "longitude": "-86.46667000"
+                      },
+                      {
+                          "id": 53944,
+                          "name": "El Chichicaste",
+                          "latitude": "14.06667000",
+                          "longitude": "-86.30000000"
+                      },
+                      {
+                          "id": 53966,
+                          "name": "El Obraje",
+                          "latitude": "14.00000000",
+                          "longitude": "-86.43333000"
+                      },
+                      {
+                          "id": 53970,
+                          "name": "El Paraíso",
+                          "latitude": "13.85381000",
+                          "longitude": "-86.53094000"
+                      },
+                      {
+                          "id": 54024,
+                          "name": "Güinope",
+                          "latitude": "13.88333000",
+                          "longitude": "-86.93333000"
+                      },
+                      {
+                          "id": 54030,
+                          "name": "Jacaleapa",
+                          "latitude": "14.01667000",
+                          "longitude": "-86.66667000"
+                      },
+                      {
+                          "id": 54040,
+                          "name": "Jutiapa",
+                          "latitude": "13.98333000",
+                          "longitude": "-86.40000000"
+                      },
+                      {
+                          "id": 54098,
+                          "name": "Las Ánimas",
+                          "latitude": "14.25000000",
+                          "longitude": "-86.56667000"
+                      },
+                      {
+                          "id": 54094,
+                          "name": "Las Trojes",
+                          "latitude": "14.06667000",
+                          "longitude": "-85.98333000"
+                      },
+                      {
+                          "id": 54104,
+                          "name": "Liure",
+                          "latitude": "13.53583000",
+                          "longitude": "-87.09194000"
+                      },
+                      {
+                          "id": 54134,
+                          "name": "Morocelí",
+                          "latitude": "14.11667000",
+                          "longitude": "-86.86667000"
+                      },
+                      {
+                          "id": 54138,
+                          "name": "Municipio de Texiguat",
+                          "latitude": "13.66372000",
+                          "longitude": "-87.03479000"
+                      },
+                      {
+                          "id": 54154,
+                          "name": "Ojo de Agua",
+                          "latitude": "14.01667000",
+                          "longitude": "-86.35000000"
+                      },
+                      {
+                          "id": 54163,
+                          "name": "Oropolí",
+                          "latitude": "13.81667000",
+                          "longitude": "-86.81667000"
+                      },
+                      {
+                          "id": 54177,
+                          "name": "Potrerillos",
+                          "latitude": "14.04478000",
+                          "longitude": "-86.76201000"
+                      },
+                      {
+                          "id": 54190,
+                          "name": "Quebrada Larga",
+                          "latitude": "14.10000000",
+                          "longitude": "-86.36667000"
+                      },
+                      {
+                          "id": 54217,
+                          "name": "San Antonio de Flores",
+                          "latitude": "13.71089000",
+                          "longitude": "-86.84226000"
+                      },
+                      {
+                          "id": 54223,
+                          "name": "San Diego",
+                          "latitude": "14.05000000",
+                          "longitude": "-86.46667000"
+                      },
+                      {
+                          "id": 54264,
+                          "name": "San Lucas",
+                          "latitude": "13.74586000",
+                          "longitude": "-86.95163000"
+                      },
+                      {
+                          "id": 54275,
+                          "name": "San Matías",
+                          "latitude": "13.95966000",
+                          "longitude": "-86.64032000"
+                      },
+                      {
+                          "id": 54296,
+                          "name": "Santa Cruz",
+                          "latitude": "13.86667000",
+                          "longitude": "-86.63333000"
+                      },
+                      {
+                          "id": 54320,
+                          "name": "Soledad",
+                          "latitude": "13.58333000",
+                          "longitude": "-87.11667000"
+                      },
+                      {
+                          "id": 54337,
+                          "name": "Teupasenti",
+                          "latitude": "14.21667000",
+                          "longitude": "-86.70000000"
+                      },
+                      {
+                          "id": 54338,
+                          "name": "Texíguat",
+                          "latitude": "13.64972000",
+                          "longitude": "-87.02250000"
+                      },
+                      {
+                          "id": 54348,
+                          "name": "Trojes",
+                          "latitude": "14.05966000",
+                          "longitude": "-86.00166000"
+                      },
+                      {
+                          "id": 54352,
+                          "name": "Vado Ancho",
+                          "latitude": "13.64355000",
+                          "longitude": "-86.95546000"
+                      },
+                      {
+                          "id": 54372,
+                          "name": "Yauyupe",
+                          "latitude": "13.74867000",
+                          "longitude": "-87.07610000"
+                      },
+                      {
+                          "id": 54376,
+                          "name": "Yuscarán",
+                          "latitude": "13.95708000",
+                          "longitude": "-86.83170000"
+                      }
+                  ]
+              },
+              {
+                  "id": 4052,
+                  "name": "Francisco Morazán Department",
+                  "state_code": "FM",
+                  "cities": [
+                      {
+                          "id": 53835,
+                          "name": "Agalteca",
+                          "latitude": "14.45000000",
+                          "longitude": "-87.26667000"
+                      },
+                      {
+                          "id": 53848,
+                          "name": "Alubarén",
+                          "latitude": "13.78226000",
+                          "longitude": "-87.46990000"
+                      },
+                      {
+                          "id": 53892,
+                          "name": "Cedros",
+                          "latitude": "14.50464000",
+                          "longitude": "-87.21680000"
+                      },
+                      {
+                          "id": 53895,
+                          "name": "Cerro Grande",
+                          "latitude": "13.81667000",
+                          "longitude": "-87.25000000"
+                      },
+                      {
+                          "id": 53905,
+                          "name": "Cofradía",
+                          "latitude": "14.21667000",
+                          "longitude": "-87.18333000"
+                      },
+                      {
+                          "id": 53928,
+                          "name": "Curarén",
+                          "latitude": "13.83000000",
+                          "longitude": "-87.57000000"
+                      },
+                      {
+                          "id": 53933,
+                          "name": "Distrito Central",
+                          "latitude": "14.14975000",
+                          "longitude": "-87.24806000"
+                      },
+                      {
+                          "id": 53945,
+                          "name": "El Chimbo",
+                          "latitude": "14.13333000",
+                          "longitude": "-87.11667000"
+                      },
+                      {
+                          "id": 53951,
+                          "name": "El Escanito",
+                          "latitude": "14.66667000",
+                          "longitude": "-87.10000000"
+                      },
+                      {
+                          "id": 53952,
+                          "name": "El Escaño de Tepale",
+                          "latitude": "14.75000000",
+                          "longitude": "-87.06667000"
+                      },
+                      {
+                          "id": 53953,
+                          "name": "El Guante",
+                          "latitude": "14.55000000",
+                          "longitude": "-87.10000000"
+                      },
+                      {
+                          "id": 53954,
+                          "name": "El Guantillo",
+                          "latitude": "14.60000000",
+                          "longitude": "-87.30000000"
+                      },
+                      {
+                          "id": 53955,
+                          "name": "El Guapinol",
+                          "latitude": "13.76667000",
+                          "longitude": "-87.46667000"
+                      },
+                      {
+                          "id": 53959,
+                          "name": "El Lolo",
+                          "latitude": "14.11667000",
+                          "longitude": "-87.26667000"
+                      },
+                      {
+                          "id": 53972,
+                          "name": "El Pedernal",
+                          "latitude": "14.70000000",
+                          "longitude": "-87.11667000"
+                      },
+                      {
+                          "id": 53979,
+                          "name": "El Porvenir",
+                          "latitude": "14.72009000",
+                          "longitude": "-87.21039000"
+                      },
+                      {
+                          "id": 53990,
+                          "name": "El Suyatal",
+                          "latitude": "14.51667000",
+                          "longitude": "-87.21667000"
+                      },
+                      {
+                          "id": 53991,
+                          "name": "El Tablón",
+                          "latitude": "14.03333000",
+                          "longitude": "-87.16667000"
+                      },
+                      {
+                          "id": 53992,
+                          "name": "El Terrero",
+                          "latitude": "14.06667000",
+                          "longitude": "-87.06667000"
+                      },
+                      {
+                          "id": 54012,
+                          "name": "Guaimaca",
+                          "latitude": "14.53333000",
+                          "longitude": "-86.81667000"
+                      },
+                      {
+                          "id": 54053,
+                          "name": "La Ermita",
+                          "latitude": "14.46667000",
+                          "longitude": "-87.06667000"
+                      },
+                      {
+                          "id": 54069,
+                          "name": "La Libertad",
+                          "latitude": "13.70662000",
+                          "longitude": "-87.50421000"
+                      },
+                      {
+                          "id": 54084,
+                          "name": "La Venta",
+                          "latitude": "13.73113000",
+                          "longitude": "-87.32874000"
+                      },
+                      {
+                          "id": 54102,
+                          "name": "Lepaterique",
+                          "latitude": "14.05590000",
+                          "longitude": "-87.47908000"
+                      },
+                      {
+                          "id": 54118,
+                          "name": "Maraita",
+                          "latitude": "13.87197000",
+                          "longitude": "-87.05633000"
+                      },
+                      {
+                          "id": 54119,
+                          "name": "Marale",
+                          "latitude": "14.94113000",
+                          "longitude": "-87.09892000"
+                      },
+                      {
+                          "id": 54123,
+                          "name": "Mata de Plátano",
+                          "latitude": "14.60000000",
+                          "longitude": "-87.28333000"
+                      },
+                      {
+                          "id": 54124,
+                          "name": "Mateo",
+                          "latitude": "14.08333000",
+                          "longitude": "-87.31667000"
+                      },
+                      {
+                          "id": 54146,
+                          "name": "Nueva Armenia",
+                          "latitude": "13.75000000",
+                          "longitude": "-87.15307000"
+                      },
+                      {
+                          "id": 54155,
+                          "name": "Ojojona",
+                          "latitude": "13.93389000",
+                          "longitude": "-87.29583000"
+                      },
+                      {
+                          "id": 54161,
+                          "name": "Orica",
+                          "latitude": "14.80645000",
+                          "longitude": "-86.95760000"
+                      },
+                      {
+                          "id": 54193,
+                          "name": "Quebradas",
+                          "latitude": "14.50000000",
+                          "longitude": "-87.35000000"
+                      },
+                      {
+                          "id": 54196,
+                          "name": "Reitoca",
+                          "latitude": "13.82583000",
+                          "longitude": "-87.46528000"
+                      },
+                      {
+                          "id": 54198,
+                          "name": "Río Abajo",
+                          "latitude": "14.16667000",
+                          "longitude": "-87.21667000"
+                      },
+                      {
+                          "id": 54204,
+                          "name": "Sabanagrande",
+                          "latitude": "13.80778000",
+                          "longitude": "-87.25917000"
+                      },
+                      {
+                          "id": 54218,
+                          "name": "San Antonio de Oriente",
+                          "latitude": "14.03859000",
+                          "longitude": "-86.98951000"
+                      },
+                      {
+                          "id": 54222,
+                          "name": "San Buenaventura",
+                          "latitude": "13.89100000",
+                          "longitude": "-87.18554000"
+                      },
+                      {
+                          "id": 54236,
+                          "name": "San Ignacio",
+                          "latitude": "14.73795000",
+                          "longitude": "-87.04759000"
+                      },
+                      {
+                          "id": 54260,
+                          "name": "San Juan de Flores",
+                          "latitude": "14.26667000",
+                          "longitude": "-87.03333000"
+                      },
+                      {
+                          "id": 54276,
+                          "name": "San Miguelito",
+                          "latitude": "13.74572000",
+                          "longitude": "-87.49233000"
+                      },
+                      {
+                          "id": 54291,
+                          "name": "Santa Ana",
+                          "latitude": "13.94000000",
+                          "longitude": "-87.21000000"
+                      },
+                      {
+                          "id": 54305,
+                          "name": "Santa Lucía",
+                          "latitude": "14.12595000",
+                          "longitude": "-87.09175000"
+                      },
+                      {
+                          "id": 54325,
+                          "name": "Talanga",
+                          "latitude": "14.41393000",
+                          "longitude": "-87.06941000"
+                      },
+                      {
+                          "id": 54350,
+                          "name": "Támara",
+                          "latitude": "14.15000000",
+                          "longitude": "-87.33333000"
+                      },
+                      {
+                          "id": 54329,
+                          "name": "Tatumbla",
+                          "latitude": "13.98467000",
+                          "longitude": "-87.06977000"
+                      },
+                      {
+                          "id": 54333,
+                          "name": "Tegucigalpa",
+                          "latitude": "14.08180000",
+                          "longitude": "-87.20681000"
+                      },
+                      {
+                          "id": 54354,
+                          "name": "Valle de Ángeles",
+                          "latitude": "14.15000000",
+                          "longitude": "-87.03333000"
+                      },
+                      {
+                          "id": 54356,
+                          "name": "Vallecillo",
+                          "latitude": "14.51313000",
+                          "longitude": "-87.40242000"
+                      },
+                      {
+                          "id": 54361,
+                          "name": "Villa de San Francisco",
+                          "latitude": "14.16667000",
+                          "longitude": "-86.96667000"
+                      },
+                      {
+                          "id": 54359,
+                          "name": "Villa Nueva",
+                          "latitude": "14.03333000",
+                          "longitude": "-87.13333000"
+                      },
+                      {
+                          "id": 54367,
+                          "name": "Yaguacire",
+                          "latitude": "14.01667000",
+                          "longitude": "-87.21667000"
+                      },
+                      {
+                          "id": 54377,
+                          "name": "Zambrano",
+                          "latitude": "14.26667000",
+                          "longitude": "-87.40000000"
+                      }
+                  ]
+              },
+              {
+                  "id": 4048,
+                  "name": "Gracias a Dios Department",
+                  "state_code": "GD",
+                  "cities": [
+                      {
+                          "id": 53844,
+                          "name": "Ahuas",
+                          "latitude": "15.46923000",
+                          "longitude": "-84.34479000"
+                      },
+                      {
+                          "id": 53862,
+                          "name": "Auas",
+                          "latitude": "15.48333000",
+                          "longitude": "-84.33333000"
+                      },
+                      {
+                          "id": 53863,
+                          "name": "Auka",
+                          "latitude": "14.94087000",
+                          "longitude": "-83.83229000"
+                      },
+                      {
+                          "id": 53869,
+                          "name": "Barra Patuca",
+                          "latitude": "15.80000000",
+                          "longitude": "-84.28333000"
+                      },
+                      {
+                          "id": 53875,
+                          "name": "Brus Laguna",
+                          "latitude": "15.75000000",
+                          "longitude": "-84.48333000"
+                      },
+                      {
+                          "id": 54028,
+                          "name": "Iralaya",
+                          "latitude": "15.00000000",
+                          "longitude": "-83.23333000"
+                      },
+                      {
+                          "id": 54039,
+                          "name": "Juan Francisco Bulnes",
+                          "latitude": "15.91676000",
+                          "longitude": "-84.90990000"
+                      },
+                      {
+                          "id": 54165,
+                          "name": "Paptalaya",
+                          "latitude": "15.50000000",
+                          "longitude": "-84.31667000"
+                      },
+                      {
+                          "id": 54186,
+                          "name": "Puerto Lempira",
+                          "latitude": "15.26667000",
+                          "longitude": "-83.77222000"
+                      },
+                      {
+                          "id": 54363,
+                          "name": "Villeda Morales",
+                          "latitude": "15.08472000",
+                          "longitude": "-83.35361000"
+                      },
+                      {
+                          "id": 54365,
+                          "name": "Wampusirpi",
+                          "latitude": "15.18333000",
+                          "longitude": "-84.61667000"
+                      },
+                      {
+                          "id": 54366,
+                          "name": "Wawina",
+                          "latitude": "15.41667000",
+                          "longitude": "-84.43333000"
+                      }
+                  ]
+              },
+              {
+                  "id": 4044,
+                  "name": "Intibucá Department",
+                  "state_code": "IN",
+                  "cities": [
+                      {
+                          "id": 53882,
+                          "name": "Camasca",
+                          "latitude": "14.00000000",
+                          "longitude": "-88.38333000"
+                      },
+                      {
+                          "id": 53907,
+                          "name": "Colomoncagua",
+                          "latitude": "13.97245000",
+                          "longitude": "-88.27673000"
+                      },
+                      {
+                          "id": 53910,
+                          "name": "Concepción",
+                          "latitude": "14.04725000",
+                          "longitude": "-88.31942000"
+                      },
+                      {
+                          "id": 53935,
+                          "name": "Dolores",
+                          "latitude": "14.26188000",
+                          "longitude": "-88.35787000"
+                      },
+                      {
+                          "id": 54027,
+                          "name": "Intibucá",
+                          "latitude": "14.43000000",
+                          "longitude": "-88.17000000"
+                      },
+                      {
+                          "id": 54034,
+                          "name": "Jesús de Otoro",
+                          "latitude": "14.48333000",
+                          "longitude": "-87.98333000"
+                      },
+                      {
+                          "id": 54035,
+                          "name": "Jiquinlaca",
+                          "latitude": "14.00000000",
+                          "longitude": "-88.35000000"
+                      },
+                      {
+                          "id": 54054,
+                          "name": "La Esperanza",
+                          "latitude": "14.31111000",
+                          "longitude": "-88.18056000"
+                      },
+                      {
+                          "id": 54114,
+                          "name": "Magdalena",
+                          "latitude": "13.92452000",
+                          "longitude": "-88.36675000"
+                      },
+                      {
+                          "id": 54122,
+                          "name": "Masaguara",
+                          "latitude": "14.40428000",
+                          "longitude": "-87.98247000"
+                      },
+                      {
+                          "id": 54213,
+                          "name": "San Antonio",
+                          "latitude": "13.95043000",
+                          "longitude": "-88.46493000"
+                      },
+                      {
+                          "id": 54232,
+                          "name": "San Francisco de Opalaca",
+                          "latitude": "14.58441000",
+                          "longitude": "-88.30253000"
+                      },
+                      {
+                          "id": 54238,
+                          "name": "San Isidro",
+                          "latitude": "14.56763000",
+                          "longitude": "-88.11743000"
+                      },
+                      {
+                          "id": 54256,
+                          "name": "San Juan",
+                          "latitude": "14.42127000",
+                          "longitude": "-88.41953000"
+                      },
+                      {
+                          "id": 54274,
+                          "name": "San Marcos de la Sierra",
+                          "latitude": "14.13236000",
+                          "longitude": "-88.24690000"
+                      },
+                      {
+                          "id": 54277,
+                          "name": "San Miguelito",
+                          "latitude": "14.34875000",
+                          "longitude": "-88.33983000"
+                      },
+                      {
+                          "id": 54304,
+                          "name": "Santa Lucía",
+                          "latitude": "13.90812000",
+                          "longitude": "-88.41566000"
+                      },
+                      {
+                          "id": 54368,
+                          "name": "Yamaranguila",
+                          "latitude": "14.26826000",
+                          "longitude": "-88.24652000"
+                      }
+                  ]
+              },
+              {
+                  "id": 4058,
+                  "name": "La Paz Department",
+                  "state_code": "LP",
+                  "cities": [
+                      {
+                          "id": 53842,
+                          "name": "Aguanqueterique",
+                          "latitude": "13.98606000",
+                          "longitude": "-87.64622000"
+                      },
+                      {
+                          "id": 53879,
+                          "name": "Cabañas",
+                          "latitude": "13.99419000",
+                          "longitude": "-88.02864000"
+                      },
+                      {
+                          "id": 53885,
+                          "name": "Cane",
+                          "latitude": "14.28333000",
+                          "longitude": "-87.66667000"
+                      },
+                      {
+                          "id": 53897,
+                          "name": "Chinacla",
+                          "latitude": "14.18289000",
+                          "longitude": "-87.95395000"
+                      },
+                      {
+                          "id": 54014,
+                          "name": "Guajiquiro",
+                          "latitude": "14.06982000",
+                          "longitude": "-87.77451000"
+                      },
+                      {
+                          "id": 54073,
+                          "name": "La Paz",
+                          "latitude": "14.31944000",
+                          "longitude": "-87.67917000"
+                      },
+                      {
+                          "id": 54099,
+                          "name": "Lauterique",
+                          "latitude": "13.86425000",
+                          "longitude": "-87.65792000"
+                      },
+                      {
+                          "id": 54110,
+                          "name": "Los Planes",
+                          "latitude": "14.05000000",
+                          "longitude": "-88.01667000"
+                      },
+                      {
+                          "id": 54120,
+                          "name": "Marcala",
+                          "latitude": "14.14845000",
+                          "longitude": "-88.02405000"
+                      },
+                      {
+                          "id": 54126,
+                          "name": "Mercedes de Oriente",
+                          "latitude": "13.90937000",
+                          "longitude": "-87.77795000"
+                      },
+                      {
+                          "id": 54160,
+                          "name": "Opatoro",
+                          "latitude": "14.02451000",
+                          "longitude": "-87.87982000"
+                      },
+                      {
+                          "id": 54220,
+                          "name": "San Antonio del Norte",
+                          "latitude": "13.88000000",
+                          "longitude": "-87.72000000"
+                      },
+                      {
+                          "id": 54246,
+                          "name": "San José",
+                          "latitude": "14.22642000",
+                          "longitude": "-87.96238000"
+                      },
+                      {
+                          "id": 54257,
+                          "name": "San Juan",
+                          "latitude": "13.95428000",
+                          "longitude": "-87.72948000"
+                      },
+                      {
+                          "id": 54284,
+                          "name": "San Pedro de Tutule",
+                          "latitude": "14.25000000",
+                          "longitude": "-87.85000000"
+                      },
+                      {
+                          "id": 54292,
+                          "name": "Santa Ana",
+                          "latitude": "14.00011000",
+                          "longitude": "-87.94107000"
+                      },
+                      {
+                          "id": 54300,
+                          "name": "Santa Elena",
+                          "latitude": "14.07149000",
+                          "longitude": "-88.15445000"
+                      },
+                      {
+                          "id": 54306,
+                          "name": "Santa María",
+                          "latitude": "14.26904000",
+                          "longitude": "-87.91164000"
+                      },
+                      {
+                          "id": 54314,
+                          "name": "Santiago Puringla",
+                          "latitude": "14.35000000",
+                          "longitude": "-87.90000000"
+                      },
+                      {
+                          "id": 54335,
+                          "name": "Tepanguare",
+                          "latitude": "14.33333000",
+                          "longitude": "-87.75000000"
+                      },
+                      {
+                          "id": 54370,
+                          "name": "Yarula",
+                          "latitude": "14.10000000",
+                          "longitude": "-88.08000000"
+                      },
+                      {
+                          "id": 54371,
+                          "name": "Yarumela",
+                          "latitude": "14.33333000",
+                          "longitude": "-87.63333000"
+                      }
+                  ]
+              },
+              {
+                  "id": 4054,
+                  "name": "Lempira Department",
+                  "state_code": "LE",
+                  "cities": [
+                      {
+                          "id": 53871,
+                          "name": "Belén",
+                          "latitude": "14.50834000",
+                          "longitude": "-88.42819000"
+                      },
+                      {
+                          "id": 53884,
+                          "name": "Candelaria",
+                          "latitude": "14.06072000",
+                          "longitude": "-88.55913000"
+                      },
+                      {
+                          "id": 53906,
+                          "name": "Cololaca",
+                          "latitude": "14.31189000",
+                          "longitude": "-88.87720000"
+                      },
+                      {
+                          "id": 53940,
+                          "name": "El Achiotal",
+                          "latitude": "14.08333000",
+                          "longitude": "-88.75000000"
+                      },
+                      {
+                          "id": 54000,
+                          "name": "Erandique",
+                          "latitude": "14.23333000",
+                          "longitude": "-88.46667000"
+                      },
+                      {
+                          "id": 54010,
+                          "name": "Gracias",
+                          "latitude": "14.59028000",
+                          "longitude": "-88.58194000"
+                      },
+                      {
+                          "id": 54017,
+                          "name": "Gualcince",
+                          "latitude": "14.12869000",
+                          "longitude": "-88.56812000"
+                      },
+                      {
+                          "id": 54020,
+                          "name": "Guarita",
+                          "latitude": "14.20784000",
+                          "longitude": "-88.85161000"
+                      },
+                      {
+                          "id": 54047,
+                          "name": "La Campa",
+                          "latitude": "14.47280000",
+                          "longitude": "-88.56090000"
+                      },
+                      {
+                          "id": 54063,
+                          "name": "La Iguala",
+                          "latitude": "14.66441000",
+                          "longitude": "-88.46360000"
+                      },
+                      {
+                          "id": 54067,
+                          "name": "La Libertad",
+                          "latitude": "14.80000000",
+                          "longitude": "-88.58333000"
+                      },
+                      {
+                          "id": 54081,
+                          "name": "La Unión",
+                          "latitude": "14.81667000",
+                          "longitude": "-88.40000000"
+                      },
+                      {
+                          "id": 54085,
+                          "name": "La Virtud",
+                          "latitude": "14.07156000",
+                          "longitude": "-88.68584000"
+                      },
+                      {
+                          "id": 54091,
+                          "name": "Las Flores",
+                          "latitude": "14.67930000",
+                          "longitude": "-88.65040000"
+                      },
+                      {
+                          "id": 54093,
+                          "name": "Las Tejeras",
+                          "latitude": "14.80000000",
+                          "longitude": "-88.60000000"
+                      },
+                      {
+                          "id": 54101,
+                          "name": "Lepaera",
+                          "latitude": "14.78333000",
+                          "longitude": "-88.58333000"
+                      },
+                      {
+                          "id": 54117,
+                          "name": "Mapulaca",
+                          "latitude": "14.04293000",
+                          "longitude": "-88.62440000"
+                      },
+                      {
+                          "id": 54174,
+                          "name": "Piraera",
+                          "latitude": "14.06261000",
+                          "longitude": "-88.46319000"
+                      },
+                      {
+                          "id": 54210,
+                          "name": "San Andrés",
+                          "latitude": "14.21968000",
+                          "longitude": "-88.54981000"
+                      },
+                      {
+                          "id": 54227,
+                          "name": "San Francisco",
+                          "latitude": "14.12435000",
+                          "longitude": "-88.37189000"
+                      },
+                      {
+                          "id": 54258,
+                          "name": "San Juan Guarita",
+                          "latitude": "14.15492000",
+                          "longitude": "-88.77477000"
+                      },
+                      {
+                          "id": 54269,
+                          "name": "San Manuel Colohete",
+                          "latitude": "14.44435000",
+                          "longitude": "-88.67050000"
+                      },
+                      {
+                          "id": 54272,
+                          "name": "San Marcos de Caiquin",
+                          "latitude": "14.41614000",
+                          "longitude": "-88.60126000"
+                      },
+                      {
+                          "id": 54285,
+                          "name": "San Rafael",
+                          "latitude": "14.73333000",
+                          "longitude": "-88.41667000"
+                      },
+                      {
+                          "id": 54287,
+                          "name": "San Sebastián",
+                          "latitude": "14.34594000",
+                          "longitude": "-88.73487000"
+                      },
+                      {
+                          "id": 54297,
+                          "name": "Santa Cruz",
+                          "latitude": "14.34427000",
+                          "longitude": "-88.52684000"
+                      },
+                      {
+                          "id": 54326,
+                          "name": "Talgua",
+                          "latitude": "14.68110000",
+                          "longitude": "-88.72800000"
+                      },
+                      {
+                          "id": 54327,
+                          "name": "Tambla",
+                          "latitude": "14.21276000",
+                          "longitude": "-88.76768000"
+                      },
+                      {
+                          "id": 54328,
+                          "name": "Taragual",
+                          "latitude": "14.75000000",
+                          "longitude": "-88.48333000"
+                      },
+                      {
+                          "id": 54340,
+                          "name": "Tomalá",
+                          "latitude": "14.24330000",
+                          "longitude": "-88.73140000"
+                      },
+                      {
+                          "id": 54353,
+                          "name": "Valladolid",
+                          "latitude": "14.14710000",
+                          "longitude": "-88.70840000"
+                      },
+                      {
+                          "id": 54364,
+                          "name": "Virginia",
+                          "latitude": "14.00522000",
+                          "longitude": "-88.56193000"
+                      }
+                  ]
+              },
+              {
+                  "id": 4056,
+                  "name": "Ocotepeque Department",
+                  "state_code": "OC",
+                  "cities": [
+                      {
+                          "id": 53850,
+                          "name": "Antigua Ocotepeque",
+                          "latitude": "14.40000000",
+                          "longitude": "-89.20000000"
+                      },
+                      {
+                          "id": 53872,
+                          "name": "Belén Gualcho",
+                          "latitude": "14.48333000",
+                          "longitude": "-88.80000000"
+                      },
+                      {
+                          "id": 53909,
+                          "name": "Concepción",
+                          "latitude": "14.52383000",
+                          "longitude": "-89.19371000"
+                      },
+                      {
+                          "id": 53936,
+                          "name": "Dolores Merendón",
+                          "latitude": "14.55095000",
+                          "longitude": "-89.12493000"
+                      },
+                      {
+                          "id": 53996,
+                          "name": "El Tránsito",
+                          "latitude": "14.38333000",
+                          "longitude": "-88.91667000"
+                      },
+                      {
+                          "id": 54007,
+                          "name": "Fraternidad",
+                          "latitude": "14.58087000",
+                          "longitude": "-89.07740000"
+                      },
+                      {
+                          "id": 54051,
+                          "name": "La Encarnación",
+                          "latitude": "14.66667000",
+                          "longitude": "-89.04742000"
+                      },
+                      {
+                          "id": 54066,
+                          "name": "La Labor",
+                          "latitude": "14.48333000",
+                          "longitude": "-89.00000000"
+                      },
+                      {
+                          "id": 54112,
+                          "name": "Lucerna",
+                          "latitude": "14.55000000",
+                          "longitude": "-88.93333000"
+                      },
+                      {
+                          "id": 54125,
+                          "name": "Mercedes",
+                          "latitude": "14.31667000",
+                          "longitude": "-88.98333000"
+                      },
+                      {
+                          "id": 54150,
+                          "name": "Nueva Ocotepeque",
+                          "latitude": "14.43333000",
+                          "longitude": "-89.18333000"
+                      },
+                      {
+                          "id": 54225,
+                          "name": "San Fernando",
+                          "latitude": "14.68793000",
+                          "longitude": "-89.10153000"
+                      },
+                      {
+                          "id": 54229,
+                          "name": "San Francisco de Cones",
+                          "latitude": "14.51667000",
+                          "longitude": "-88.90000000"
+                      },
+                      {
+                          "id": 54235,
+                          "name": "San Francisco del Valle",
+                          "latitude": "14.43333000",
+                          "longitude": "-88.95000000"
+                      },
+                      {
+                          "id": 54243,
+                          "name": "San Jorge",
+                          "latitude": "14.63697000",
+                          "longitude": "-89.11860000"
+                      },
+                      {
+                          "id": 54271,
+                          "name": "San Marcos",
+                          "latitude": "14.38000000",
+                          "longitude": "-88.92000000"
+                      },
+                      {
+                          "id": 54301,
+                          "name": "Santa Fe",
+                          "latitude": "14.50038000",
+                          "longitude": "-89.27320000"
+                      },
+                      {
+                          "id": 54303,
+                          "name": "Santa Lucía",
+                          "latitude": "14.41667000",
+                          "longitude": "-89.20000000"
+                      },
+                      {
+                          "id": 54316,
+                          "name": "Sensenti",
+                          "latitude": "14.48333000",
+                          "longitude": "-88.93333000"
+                      },
+                      {
+                          "id": 54319,
+                          "name": "Sinuapa",
+                          "latitude": "14.45000000",
+                          "longitude": "-89.18333000"
+                      },
+                      {
+                          "id": 54369,
+                          "name": "Yaruchel",
+                          "latitude": "14.53333000",
+                          "longitude": "-88.81667000"
+                      }
+                  ]
+              },
+              {
+                  "id": 4050,
+                  "name": "Olancho Department",
+                  "state_code": "OL",
+                  "cities": [
+                      {
+                          "id": 53856,
+                          "name": "Arimís",
+                          "latitude": "14.78333000",
+                          "longitude": "-86.00000000"
+                      },
+                      {
+                          "id": 53883,
+                          "name": "Campamento",
+                          "latitude": "14.55000000",
+                          "longitude": "-86.65000000"
+                      },
+                      {
+                          "id": 53890,
+                          "name": "Catacamas",
+                          "latitude": "14.60384000",
+                          "longitude": "-85.54261000"
+                      },
+                      {
+                          "id": 53917,
+                          "name": "Concordia",
+                          "latitude": "14.61667000",
+                          "longitude": "-86.65000000"
+                      },
+                      {
+                          "id": 53938,
+                          "name": "Dulce Nombre de Culmí",
+                          "latitude": "15.10000000",
+                          "longitude": "-85.53333000"
+                      },
+                      {
+                          "id": 53956,
+                          "name": "El Guayabito",
+                          "latitude": "14.83333000",
+                          "longitude": "-86.03333000"
+                      },
+                      {
+                          "id": 53986,
+                          "name": "El Rosario",
+                          "latitude": "14.88720000",
+                          "longitude": "-86.68764000"
+                      },
+                      {
+                          "id": 53987,
+                          "name": "El Rusio",
+                          "latitude": "14.46667000",
+                          "longitude": "-86.36667000"
+                      },
+                      {
+                          "id": 54002,
+                          "name": "Esquipulas del Norte",
+                          "latitude": "15.27763000",
+                          "longitude": "-86.55760000"
+                      },
+                      {
+                          "id": 54015,
+                          "name": "Gualaco",
+                          "latitude": "15.02521000",
+                          "longitude": "-86.07076000"
+                      },
+                      {
+                          "id": 54021,
+                          "name": "Guarizama",
+                          "latitude": "14.91667000",
+                          "longitude": "-86.33333000"
+                      },
+                      {
+                          "id": 54022,
+                          "name": "Guata",
+                          "latitude": "15.15133000",
+                          "longitude": "-86.37624000"
+                      },
+                      {
+                          "id": 54023,
+                          "name": "Guayape",
+                          "latitude": "14.71667000",
+                          "longitude": "-86.83333000"
+                      },
+                      {
+                          "id": 54032,
+                          "name": "Jano",
+                          "latitude": "15.07902000",
+                          "longitude": "-86.51521000"
+                      },
+                      {
+                          "id": 54042,
+                          "name": "Juticalpa",
+                          "latitude": "14.66667000",
+                          "longitude": "-86.21944000"
+                      },
+                      {
+                          "id": 54043,
+                          "name": "Jutiquile",
+                          "latitude": "14.71667000",
+                          "longitude": "-86.08333000"
+                      },
+                      {
+                          "id": 54049,
+                          "name": "La Concepción",
+                          "latitude": "14.70000000",
+                          "longitude": "-86.23333000"
+                      },
+                      {
+                          "id": 54057,
+                          "name": "La Estancia",
+                          "latitude": "15.05000000",
+                          "longitude": "-86.35000000"
+                      },
+                      {
+                          "id": 54061,
+                          "name": "La Guata",
+                          "latitude": "15.08333000",
+                          "longitude": "-86.38333000"
+                      },
+                      {
+                          "id": 54082,
+                          "name": "La Unión",
+                          "latitude": "15.09759000",
+                          "longitude": "-86.68910000"
+                      },
+                      {
+                          "id": 54087,
+                          "name": "Laguna Seca",
+                          "latitude": "14.70000000",
+                          "longitude": "-86.10000000"
+                      },
+                      {
+                          "id": 54115,
+                          "name": "Mangulile",
+                          "latitude": "15.06667000",
+                          "longitude": "-86.80000000"
+                      },
+                      {
+                          "id": 54116,
+                          "name": "Manto",
+                          "latitude": "14.91667000",
+                          "longitude": "-86.38333000"
+                      },
+                      {
+                          "id": 54137,
+                          "name": "Municipio de San Francisco de La Paz",
+                          "latitude": "14.84183000",
+                          "longitude": "-86.11819000"
+                      },
+                      {
+                          "id": 54166,
+                          "name": "Patuca",
+                          "latitude": "14.36000000",
+                          "longitude": "-85.97000000"
+                      },
+                      {
+                          "id": 54189,
+                          "name": "Punuare",
+                          "latitude": "14.73333000",
+                          "longitude": "-85.96667000"
+                      },
+                      {
+                          "id": 54207,
+                          "name": "Salamá",
+                          "latitude": "14.81052000",
+                          "longitude": "-86.61996000"
+                      },
+                      {
+                          "id": 54224,
+                          "name": "San Esteban",
+                          "latitude": "15.29467000",
+                          "longitude": "-85.69487000"
+                      },
+                      {
+                          "id": 54228,
+                          "name": "San Francisco de Becerra",
+                          "latitude": "14.63333000",
+                          "longitude": "-86.10000000"
+                      },
+                      {
+                          "id": 54234,
+                          "name": "San Francisco de la Paz",
+                          "latitude": "14.90000000",
+                          "longitude": "-86.20000000"
+                      },
+                      {
+                          "id": 54252,
+                          "name": "San José de Río Tinto",
+                          "latitude": "14.93333000",
+                          "longitude": "-85.70000000"
+                      },
+                      {
+                          "id": 54278,
+                          "name": "San Nicolás",
+                          "latitude": "14.55000000",
+                          "longitude": "-86.25000000"
+                      },
+                      {
+                          "id": 54307,
+                          "name": "Santa María del Real",
+                          "latitude": "14.76667000",
+                          "longitude": "-85.95000000"
+                      },
+                      {
+                          "id": 54318,
+                          "name": "Silca",
+                          "latitude": "14.76205000",
+                          "longitude": "-86.51521000"
+                      },
+                      {
+                          "id": 54373,
+                          "name": "Yocón",
+                          "latitude": "14.95000000",
+                          "longitude": "-86.82000000"
+                      },
+                      {
+                          "id": 54379,
+                          "name": "Zopilotepe",
+                          "latitude": "14.60000000",
+                          "longitude": "-86.26667000"
+                      }
+                  ]
+              },
+              {
+                  "id": 4053,
+                  "name": "Santa Bárbara Department",
+                  "state_code": "SB",
+                  "cities": [
+                      {
+                          "id": 53841,
+                          "name": "Agualote",
+                          "latitude": "15.33528000",
+                          "longitude": "-88.55306000"
+                      },
+                      {
+                          "id": 53852,
+                          "name": "Arada",
+                          "latitude": "14.85000000",
+                          "longitude": "-88.30000000"
+                      },
+                      {
+                          "id": 53861,
+                          "name": "Atima",
+                          "latitude": "14.93333000",
+                          "longitude": "-88.48333000"
+                      },
+                      {
+                          "id": 53865,
+                          "name": "Azacualpa",
+                          "latitude": "14.71667000",
+                          "longitude": "-88.10000000"
+                      },
+                      {
+                          "id": 53873,
+                          "name": "Berlín",
+                          "latitude": "14.83333000",
+                          "longitude": "-88.50000000"
+                      },
+                      {
+                          "id": 53880,
+                          "name": "Callejones",
+                          "latitude": "15.16667000",
+                          "longitude": "-88.65000000"
+                      },
+                      {
+                          "id": 53881,
+                          "name": "Camalote",
+                          "latitude": "15.33333000",
+                          "longitude": "-88.33333000"
+                      },
+                      {
+                          "id": 53888,
+                          "name": "Casa Quemada",
+                          "latitude": "15.26667000",
+                          "longitude": "-88.55000000"
+                      },
+                      {
+                          "id": 53893,
+                          "name": "Ceguaca",
+                          "latitude": "14.80000000",
+                          "longitude": "-88.20000000"
+                      },
+                      {
+                          "id": 53898,
+                          "name": "Chinda",
+                          "latitude": "15.11667000",
+                          "longitude": "-88.20000000"
+                      },
+                      {
+                          "id": 53915,
+                          "name": "Concepción del Norte",
+                          "latitude": "15.20227000",
+                          "longitude": "-88.13728000"
+                      },
+                      {
+                          "id": 53916,
+                          "name": "Concepción del Sur",
+                          "latitude": "14.81263000",
+                          "longitude": "-88.15316000"
+                      },
+                      {
+                          "id": 53924,
+                          "name": "Correderos",
+                          "latitude": "15.41667000",
+                          "longitude": "-88.45000000"
+                      },
+                      {
+                          "id": 53946,
+                          "name": "El Ciruelo",
+                          "latitude": "15.30000000",
+                          "longitude": "-88.50000000"
+                      },
+                      {
+                          "id": 53947,
+                          "name": "El Corozal",
+                          "latitude": "15.06667000",
+                          "longitude": "-88.61667000"
+                      },
+                      {
+                          "id": 53962,
+                          "name": "El Mochito",
+                          "latitude": "14.86667000",
+                          "longitude": "-88.08333000"
+                      },
+                      {
+                          "id": 53964,
+                          "name": "El Níspero",
+                          "latitude": "14.75957000",
+                          "longitude": "-88.34438000"
+                      },
+                      {
+                          "id": 54011,
+                          "name": "Guacamaya",
+                          "latitude": "15.01667000",
+                          "longitude": "-88.15000000"
+                      },
+                      {
+                          "id": 54016,
+                          "name": "Gualala",
+                          "latitude": "14.98000000",
+                          "longitude": "-88.17000000"
+                      },
+                      {
+                          "id": 54018,
+                          "name": "Gualjoco",
+                          "latitude": "14.95000000",
+                          "longitude": "-88.23333000"
+                      },
+                      {
+                          "id": 54026,
+                          "name": "Ilama",
+                          "latitude": "15.06667000",
+                          "longitude": "-88.21667000"
+                      },
+                      {
+                          "id": 54036,
+                          "name": "Joconal",
+                          "latitude": "15.35444000",
+                          "longitude": "-88.63556000"
+                      },
+                      {
+                          "id": 54058,
+                          "name": "La Flecha",
+                          "latitude": "15.28333000",
+                          "longitude": "-88.48333000"
+                      },
+                      {
+                          "id": 54088,
+                          "name": "Laguna Verde",
+                          "latitude": "15.20000000",
+                          "longitude": "-88.16667000"
+                      },
+                      {
+                          "id": 54096,
+                          "name": "Las Vegas",
+                          "latitude": "14.86636000",
+                          "longitude": "-88.07233000"
+                      },
+                      {
+                          "id": 54097,
+                          "name": "Las Vegas, Santa Barbara",
+                          "latitude": "14.87649000",
+                          "longitude": "-88.07473000"
+                      },
+                      {
+                          "id": 54105,
+                          "name": "Loma Alta",
+                          "latitude": "15.39667000",
+                          "longitude": "-88.55972000"
+                      },
+                      {
+                          "id": 54113,
+                          "name": "Macuelizo",
+                          "latitude": "15.26000000",
+                          "longitude": "-88.66000000"
+                      },
+                      {
+                          "id": 54140,
+                          "name": "Naco",
+                          "latitude": "15.38333000",
+                          "longitude": "-88.18333000"
+                      },
+                      {
+                          "id": 54142,
+                          "name": "Naranjito",
+                          "latitude": "14.95000000",
+                          "longitude": "-88.68333000"
+                      },
+                      {
+                          "id": 54148,
+                          "name": "Nueva Frontera",
+                          "latitude": "15.21000000",
+                          "longitude": "-88.56000000"
+                      },
+                      {
+                          "id": 54149,
+                          "name": "Nueva Jalapa",
+                          "latitude": "14.91667000",
+                          "longitude": "-88.33333000"
+                      },
+                      {
+                          "id": 54151,
+                          "name": "Nuevo Celilac",
+                          "latitude": "14.97554000",
+                          "longitude": "-88.36726000"
+                      },
+                      {
+                          "id": 54169,
+                          "name": "Petoa",
+                          "latitude": "15.26667000",
+                          "longitude": "-88.28333000"
+                      },
+                      {
+                          "id": 54173,
+                          "name": "Pinalejo",
+                          "latitude": "15.38333000",
+                          "longitude": "-88.40000000"
+                      },
+                      {
+                          "id": 54179,
+                          "name": "Protección",
+                          "latitude": "15.03333000",
+                          "longitude": "-88.65000000"
+                      },
+                      {
+                          "id": 54195,
+                          "name": "Quimistán",
+                          "latitude": "15.35000000",
+                          "longitude": "-88.40000000"
+                      },
+                      {
+                          "id": 54231,
+                          "name": "San Francisco de Ojuera",
+                          "latitude": "14.67000000",
+                          "longitude": "-88.21000000"
+                      },
+                      {
+                          "id": 54248,
+                          "name": "San José de Colinas",
+                          "latitude": "15.03333000",
+                          "longitude": "-88.30000000"
+                      },
+                      {
+                          "id": 54253,
+                          "name": "San José de Tarros",
+                          "latitude": "15.30000000",
+                          "longitude": "-88.70000000"
+                      },
+                      {
+                          "id": 54265,
+                          "name": "San Luis",
+                          "latitude": "15.08333000",
+                          "longitude": "-88.38333000"
+                      },
+                      {
+                          "id": 54267,
+                          "name": "San Luis de Planes",
+                          "latitude": "14.98333000",
+                          "longitude": "-88.13333000"
+                      },
+                      {
+                          "id": 54270,
+                          "name": "San Marcos",
+                          "latitude": "15.30000000",
+                          "longitude": "-88.41667000"
+                      },
+                      {
+                          "id": 54280,
+                          "name": "San Nicolás",
+                          "latitude": "14.91913000",
+                          "longitude": "-88.37910000"
+                      },
+                      {
+                          "id": 54282,
+                          "name": "San Pedro Zacapa",
+                          "latitude": "14.75000000",
+                          "longitude": "-88.11667000"
+                      },
+                      {
+                          "id": 54288,
+                          "name": "San Vicente Centenario",
+                          "latitude": "14.88333000",
+                          "longitude": "-88.28333000"
+                      },
+                      {
+                          "id": 54294,
+                          "name": "Santa Bárbara",
+                          "latitude": "14.91944000",
+                          "longitude": "-88.23611000"
+                      },
+                      {
+                          "id": 54309,
+                          "name": "Santa Rita",
+                          "latitude": "14.76015000",
+                          "longitude": "-88.26782000"
+                      },
+                      {
+                          "id": 54323,
+                          "name": "Sula",
+                          "latitude": "15.25000000",
+                          "longitude": "-88.56667000"
+                      },
+                      {
+                          "id": 54343,
+                          "name": "Tras Cerros",
+                          "latitude": "15.30000000",
+                          "longitude": "-88.66667000"
+                      },
+                      {
+                          "id": 54345,
+                          "name": "Trinidad",
+                          "latitude": "15.13333000",
+                          "longitude": "-88.23333000"
+                      }
+                  ]
+              },
+              {
+                  "id": 4055,
+                  "name": "Valle Department",
+                  "state_code": "VA",
+                  "cities": [
+                      {
+                          "id": 53840,
+                          "name": "Agua Fría",
+                          "latitude": "13.46889000",
+                          "longitude": "-87.55111000"
+                      },
+                      {
+                          "id": 53847,
+                          "name": "Alianza",
+                          "latitude": "13.44815000",
+                          "longitude": "-87.68643000"
+                      },
+                      {
+                          "id": 53849,
+                          "name": "Amapala",
+                          "latitude": "13.29222000",
+                          "longitude": "-87.65389000"
+                      },
+                      {
+                          "id": 53853,
+                          "name": "Aramecina",
+                          "latitude": "13.74222000",
+                          "longitude": "-87.71028000"
+                      },
+                      {
+                          "id": 53887,
+                          "name": "Caridad",
+                          "latitude": "13.81562000",
+                          "longitude": "-87.68121000"
+                      },
+                      {
+                          "id": 53950,
+                          "name": "El Cubolero",
+                          "latitude": "13.46667000",
+                          "longitude": "-87.66667000"
+                      },
+                      {
+                          "id": 53997,
+                          "name": "El Tular",
+                          "latitude": "13.46639000",
+                          "longitude": "-87.51528000"
+                      },
+                      {
+                          "id": 54009,
+                          "name": "Goascorán",
+                          "latitude": "13.58333000",
+                          "longitude": "-87.61667000"
+                      },
+                      {
+                          "id": 54044,
+                          "name": "Jícaro Galán",
+                          "latitude": "13.53167000",
+                          "longitude": "-87.43889000"
+                      },
+                      {
+                          "id": 54045,
+                          "name": "La Alianza",
+                          "latitude": "13.51222000",
+                          "longitude": "-87.72444000"
+                      },
+                      {
+                          "id": 54050,
+                          "name": "La Criba",
+                          "latitude": "13.45361000",
+                          "longitude": "-87.41333000"
+                      },
+                      {
+                          "id": 54090,
+                          "name": "Langue",
+                          "latitude": "13.62083000",
+                          "longitude": "-87.65250000"
+                      },
+                      {
+                          "id": 54139,
+                          "name": "Nacaome",
+                          "latitude": "13.52209000",
+                          "longitude": "-87.52477000"
+                      },
+                      {
+                          "id": 54230,
+                          "name": "San Francisco de Coray",
+                          "latitude": "13.66139000",
+                          "longitude": "-87.53278000"
+                      },
+                      {
+                          "id": 54263,
+                          "name": "San Lorenzo",
+                          "latitude": "13.45149000",
+                          "longitude": "-87.40743000"
+                      }
+                  ]
+              },
+              {
+                  "id": 4057,
+                  "name": "Yoro Department",
+                  "state_code": "YO",
+                  "cities": [
+                      {
+                          "id": 53838,
+                          "name": "Agua Blanca Sur",
+                          "latitude": "15.25000000",
+                          "longitude": "-87.88333000"
+                      },
+                      {
+                          "id": 53855,
+                          "name": "Arenal",
+                          "latitude": "15.35000000",
+                          "longitude": "-86.83333000"
+                      },
+                      {
+                          "id": 53858,
+                          "name": "Armenia",
+                          "latitude": "15.46667000",
+                          "longitude": "-86.36667000"
+                      },
+                      {
+                          "id": 53864,
+                          "name": "Ayapa",
+                          "latitude": "15.11174000",
+                          "longitude": "-87.17557000"
+                      },
+                      {
+                          "id": 53877,
+                          "name": "Bálsamo Oriental",
+                          "latitude": "15.48333000",
+                          "longitude": "-86.33333000"
+                      },
+                      {
+                          "id": 53886,
+                          "name": "Carbajales",
+                          "latitude": "15.51667000",
+                          "longitude": "-86.35000000"
+                      },
+                      {
+                          "id": 53926,
+                          "name": "Coyoles Central",
+                          "latitude": "15.40000000",
+                          "longitude": "-86.66667000"
+                      },
+                      {
+                          "id": 53943,
+                          "name": "El Bálsamo",
+                          "latitude": "15.06667000",
+                          "longitude": "-87.46667000"
+                      },
+                      {
+                          "id": 53957,
+                          "name": "El Juncal",
+                          "latitude": "15.45000000",
+                          "longitude": "-86.43333000"
+                      },
+                      {
+                          "id": 53963,
+                          "name": "El Negrito",
+                          "latitude": "15.31667000",
+                          "longitude": "-87.70000000"
+                      },
+                      {
+                          "id": 53967,
+                          "name": "El Ocote",
+                          "latitude": "15.41667000",
+                          "longitude": "-86.56667000"
+                      },
+                      {
+                          "id": 53980,
+                          "name": "El Progreso",
+                          "latitude": "15.42762000",
+                          "longitude": "-87.77396000"
+                      },
+                      {
+                          "id": 54013,
+                          "name": "Guaimitas",
+                          "latitude": "15.50000000",
+                          "longitude": "-87.71667000"
+                      },
+                      {
+                          "id": 54037,
+                          "name": "Jocón",
+                          "latitude": "15.28333000",
+                          "longitude": "-86.96667000"
+                      },
+                      {
+                          "id": 54056,
+                          "name": "La Estancia",
+                          "latitude": "15.28333000",
+                          "longitude": "-87.55000000"
+                      },
+                      {
+                          "id": 54059,
+                          "name": "La Guacamaya",
+                          "latitude": "15.25000000",
+                          "longitude": "-87.80000000"
+                      },
+                      {
+                          "id": 54072,
+                          "name": "La Mina",
+                          "latitude": "15.31667000",
+                          "longitude": "-87.83333000"
+                      },
+                      {
+                          "id": 54075,
+                          "name": "La Rosa",
+                          "latitude": "15.35000000",
+                          "longitude": "-87.06667000"
+                      },
+                      {
+                          "id": 54077,
+                          "name": "La Sarrosa",
+                          "latitude": "15.23333000",
+                          "longitude": "-87.83333000"
+                      },
+                      {
+                          "id": 54078,
+                          "name": "La Trinidad",
+                          "latitude": "15.10000000",
+                          "longitude": "-87.20000000"
+                      },
+                      {
+                          "id": 54095,
+                          "name": "Las Vegas",
+                          "latitude": "15.01667000",
+                          "longitude": "-87.45000000"
+                      },
+                      {
+                          "id": 54106,
+                          "name": "Lomitas",
+                          "latitude": "15.10000000",
+                          "longitude": "-87.21667000"
+                      },
+                      {
+                          "id": 54130,
+                          "name": "Mojimán",
+                          "latitude": "15.26667000",
+                          "longitude": "-87.60000000"
+                      },
+                      {
+                          "id": 54133,
+                          "name": "Morazán",
+                          "latitude": "15.31667000",
+                          "longitude": "-87.60000000"
+                      },
+                      {
+                          "id": 54143,
+                          "name": "Nombre de Jesús",
+                          "latitude": "15.35000000",
+                          "longitude": "-86.68333000"
+                      },
+                      {
+                          "id": 54147,
+                          "name": "Nueva Esperanza",
+                          "latitude": "15.26667000",
+                          "longitude": "-87.60000000"
+                      },
+                      {
+                          "id": 54153,
+                          "name": "Ocote Paulino",
+                          "latitude": "15.41667000",
+                          "longitude": "-87.60000000"
+                      },
+                      {
+                          "id": 54158,
+                          "name": "Olanchito",
+                          "latitude": "15.48131000",
+                          "longitude": "-86.57415000"
+                      },
+                      {
+                          "id": 54167,
+                          "name": "Paujiles",
+                          "latitude": "15.10000000",
+                          "longitude": "-87.35000000"
+                      },
+                      {
+                          "id": 54187,
+                          "name": "Punta Ocote",
+                          "latitude": "15.20000000",
+                          "longitude": "-87.28333000"
+                      },
+                      {
+                          "id": 54211,
+                          "name": "San Antonio",
+                          "latitude": "15.33333000",
+                          "longitude": "-87.15000000"
+                      },
+                      {
+                          "id": 54244,
+                          "name": "San José",
+                          "latitude": "15.31667000",
+                          "longitude": "-87.16667000"
+                      },
+                      {
+                          "id": 54308,
+                          "name": "Santa Rita",
+                          "latitude": "15.18000000",
+                          "longitude": "-87.81000000"
+                      },
+                      {
+                          "id": 54322,
+                          "name": "Subirana",
+                          "latitude": "15.20000000",
+                          "longitude": "-87.45000000"
+                      },
+                      {
+                          "id": 54324,
+                          "name": "Sulaco",
+                          "latitude": "14.91667000",
+                          "longitude": "-87.26667000"
+                      },
+                      {
+                          "id": 54332,
+                          "name": "Teguajinal",
+                          "latitude": "15.36667000",
+                          "longitude": "-86.60000000"
+                      },
+                      {
+                          "id": 54336,
+                          "name": "Tepusteca",
+                          "latitude": "15.41667000",
+                          "longitude": "-86.31667000"
+                      },
+                      {
+                          "id": 54342,
+                          "name": "Toyós",
+                          "latitude": "15.55000000",
+                          "longitude": "-87.65000000"
+                      },
+                      {
+                          "id": 54347,
+                          "name": "Trojas",
+                          "latitude": "15.35000000",
+                          "longitude": "-86.70000000"
+                      },
+                      {
+                          "id": 54358,
+                          "name": "Victoria",
+                          "latitude": "15.10012000",
+                          "longitude": "-87.53020000"
+                      },
+                      {
+                          "id": 54374,
+                          "name": "Yorito",
+                          "latitude": "15.06667000",
+                          "longitude": "-87.28333000"
+                      },
+                      {
+                          "id": 54375,
+                          "name": "Yoro",
+                          "latitude": "15.13750000",
+                          "longitude": "-87.12778000"
+                      }
+                  ]
+              }
+          ],
+  "timezones": ["UTC−06:00"],
+  "tld": [".hn"],
+  "translations": {
+    "de": "Honduras",
+    "es": "Honduras",
+    "fr": "Honduras",
+    "ja": "ホンジュラス",
+    "it": "Honduras"
+  },
+  "wiki": "http://en.wikipedia.org/wiki/honduras"
+}

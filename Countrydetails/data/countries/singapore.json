@@ -1,0 +1,110 @@
+{
+    "name": "Singapore",
+    "altSpellings": [
+        "SG",
+        "Singapura",
+        "Republik Singapura",
+        "新加坡共和国"
+    ],
+    "area": 710,
+    "borders": [],
+    "callingCodes": [
+        "65"
+    ],
+    "capital": "Singapore",
+    "capital_latlng": [
+        1.357107,
+        103.819499
+    ],
+    "currencies": [
+        "SGD"
+    ],
+    "demonym": "Singaporean",
+    "flag": "",
+    "geoJSON": {},
+    "ISO": {
+        "alpha2": "SG",
+        "alpha3": "SGP"
+    },
+    "states": [
+        {
+            "id": 4651,
+            "name": "Central Singapore Community Development Council",
+            "state_code": "01",
+            "cities": [
+                {
+                    "id": 104057,
+                    "name": "Singapore",
+                    "latitude": "1.28967000",
+                    "longitude": "103.85007000"
+                }
+            ]
+        },
+        {
+            "id": 4649,
+            "name": "North East Community Development Council",
+            "state_code": "02",
+            "cities": []
+        },
+        {
+            "id": 4653,
+            "name": "North West Community Development Council",
+            "state_code": "03",
+            "cities": [
+                {
+                    "id": 104058,
+                    "name": "Woodlands",
+                    "latitude": "1.43801000",
+                    "longitude": "103.78877000"
+                }
+            ]
+        },
+        {
+            "id": 4650,
+            "name": "South East Community Development Council",
+            "state_code": "04",
+            "cities": []
+        },
+        {
+            "id": 4652,
+            "name": "South West Community Development Council",
+            "state_code": "05",
+            "cities": []
+        }
+    ],
+    "languages": [
+        "Chinese",
+        "Malay",
+        "Tamil"
+    ],
+    "latlng": [
+        1.36666666,
+        103.8
+    ],
+    "nativeName": "Singapore",
+    "population": 5469700,
+    "timezones": [
+        "UTC+08:00"
+    ],
+    "tld": [
+        ".sg"
+    ],
+    "translations": {
+        "de": "Singapur",
+        "es": "Singapur",
+        "fr": "Singapour",
+        "ja": "シンガポール",
+        "it": "Singapore"
+    },
+    "continent": "Asia",
+    "independence": 1965,
+    "government": "Republic",
+    "symbol": null,
+    "dish": "Chilli crab,Hainanese Chicken Rice",
+    "expectancy": 80.1,
+    "density": 7952.998418,
+    "temperature": 26.45,
+    "religion": "Buddhism",
+    "location": "Southeast Asia",
+    "wiki": "http://en.wikipedia.org/wiki/singapore"
+}

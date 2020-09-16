@@ -1,0 +1,138 @@
+{
+  "name": "Grenada",
+  "altSpellings": ["GD"],
+  "area": 344,
+  "borders": [],
+  "callingCodes": ["1473"],
+  "capital": "St. George's",
+  "capital_latlng": [48.658138, 6.928099],
+  "currencies": ["XCD"],
+  "demonym": "Grenadian",
+  "flag": "",
+  "geoJSON": {},
+  "ISO": {
+    "alpha2": "GD",
+    "alpha3": "GRD"
+  },
+  "languages": ["en"],
+  "latlng": [12.11666666, -61.66666666],
+  "nativeName": "Grenada",
+  "population": 103328,
+  "independence": 1974,
+  "languages": [
+      "Creole English"
+  ],
+"expectancy": 64.5,
+  "tld": ".gd",
+  "government": "Constitutional Monarchy",
+"dish": "Oil Down",
+"continent": "North America",
+"symbol": null,
+"density": 327.8058824,
+"location": "Caribbean",
+"religion": "Christianity",
+  "temperature": 26.65,
+  "states": [
+            {
+                "id": 3867,
+                "name": "Carriacou and Petite Martinique",
+                "state_code": "10",
+                "cities": [
+                    {
+                        "id": 52030,
+                        "name": "Hillsborough",
+                        "latitude": "12.48292000",
+                        "longitude": "-61.45597000"
+                    }
+                ]
+            },
+            {
+                "id": 3865,
+                "name": "Saint Andrew Parish",
+                "state_code": "01",
+                "cities": [
+                    {
+                        "id": 52029,
+                        "name": "Grenville",
+                        "latitude": "12.12278000",
+                        "longitude": "-61.62498000"
+                    }
+                ]
+            },
+            {
+                "id": 3869,
+                "name": "Saint David Parish",
+                "state_code": "02",
+                "cities": [
+                    {
+                        "id": 52031,
+                        "name": "Saint David’s",
+                        "latitude": "12.04903000",
+                        "longitude": "-61.66875000"
+                    }
+                ]
+            },
+            {
+                "id": 3864,
+                "name": "Saint George Parish",
+                "state_code": "03",
+                "cities": [
+                    {
+                        "id": 52032,
+                        "name": "Saint George's",
+                        "latitude": "12.05288000",
+                        "longitude": "-61.75226000"
+                    }
+                ]
+            },
+            {
+                "id": 3868,
+                "name": "Saint John Parish",
+                "state_code": "04",
+                "cities": [
+                    {
+                        "id": 52028,
+                        "name": "Gouyave",
+                        "latitude": "12.16462000",
+                        "longitude": "-61.72965000"
+                    }
+                ]
+            },
+            {
+                "id": 3866,
+                "name": "Saint Mark Parish",
+                "state_code": "05",
+                "cities": [
+                    {
+                        "id": 52034,
+                        "name": "Victoria",
+                        "latitude": "12.19021000",
+                        "longitude": "-61.70677000"
+                    }
+                ]
+            },
+            {
+                "id": 3863,
+                "name": "Saint Patrick Parish",
+                "state_code": "06",
+                "cities": [
+                    {
+                        "id": 52033,
+                        "name": "Sauteurs",
+                        "latitude": "12.21833000",
+                        "longitude": "-61.63917000"
+                    }
+                ]
+            }
+        ],
+  "timezones": ["UTC−04:00"],
+  "tld": [".gd"],
+  "translations": {
+    "de": "Grenada",
+    "es": "Grenada",
+    "fr": "Grenade",
+    "ja": "グレナダ",
+    "it": "Grenada"
+  },
+  "wiki": "http://en.wikipedia.org/wiki/grenada"
+}

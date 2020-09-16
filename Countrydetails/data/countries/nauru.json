@@ -1,0 +1,202 @@
+{
+    "name": "Nauru",
+    "altSpellings": [
+        "NR",
+        "Naoero",
+        "Pleasant Island",
+        "Republic of Nauru",
+        "Ripublik Naoero"
+    ],
+    "area": 21,
+    "borders": [],
+    "callingCodes": [
+        "674"
+    ],
+    "capital": "Yaren",
+    "capital_latlng": [
+        -0.547101,
+        166.9164
+    ],
+    "currencies": [
+        "AUD"
+    ],
+    "demonym": "Nauruan",
+    "flag": "",
+    "geoJSON": {},
+    "ISO": {
+        "alpha2": "NR",
+        "alpha3": "NRU"
+    },
+    "languages": [
+        "Chinese",
+        "English",
+        "Kiribati",
+        "Nauru",
+        "Tuvalu"
+    ],
+    "latlng": [
+        -0.53333333,
+        166.91666666
+    ],
+    "nativeName": "Nauru",
+    "population": 10084,
+    "expectancy": 60.8,
+    "independence": 1968,
+    "government": "Republic",
+    "continent": "Oceania",
+    "temperature": null,
+    "location": "Micronesia",
+    "density": 635.2,
+    "symbol": null,
+    "religion": "Christianity",
+    "dish": null,
+    "states": [
+        {
+            "id": 4656,
+            "name": "Aiwo District",
+            "state_code": "01",
+            "cities": [
+                {
+                    "id": 79762,
+                    "name": "Arijejen",
+                    "latitude": "-0.52545000",
+                    "longitude": "166.91247000"
+                }
+            ]
+        },
+        {
+            "id": 4658,
+            "name": "Anabar District",
+            "state_code": "02",
+            "cities": [
+                {
+                    "id": 79761,
+                    "name": "Anabar",
+                    "latitude": "-0.50845000",
+                    "longitude": "166.95326000"
+                }
+            ]
+        },
+        {
+            "id": 4667,
+            "name": "Anetan District",
+            "state_code": "03",
+            "cities": []
+        },
+        {
+            "id": 4663,
+            "name": "Anibare District",
+            "state_code": "04",
+            "cities": []
+        },
+        {
+            "id": 4660,
+            "name": "Baiti District",
+            "state_code": "05",
+            "cities": [
+                {
+                    "id": 79763,
+                    "name": "Baiti",
+                    "latitude": "-0.50803000",
+                    "longitude": "166.92945000"
+                }
+            ]
+        },
+        {
+            "id": 4665,
+            "name": "Boe District",
+            "state_code": "06",
+            "cities": []
+        },
+        {
+            "id": 4662,
+            "name": "Buada District",
+            "state_code": "07",
+            "cities": []
+        },
+        {
+            "id": 4666,
+            "name": "Denigomodu District",
+            "state_code": "08",
+            "cities": []
+        },
+        {
+            "id": 4654,
+            "name": "Ewa District",
+            "state_code": "09",
+            "cities": []
+        },
+        {
+            "id": 4661,
+            "name": "Ijuw District",
+            "state_code": "10",
+            "cities": [
+                {
+                    "id": 79764,
+                    "name": "Ijuw",
+                    "latitude": "-0.52100000",
+                    "longitude": "166.95813000"
+                }
+            ]
+        },
+        {
+            "id": 4657,
+            "name": "Meneng District",
+            "state_code": "11",
+            "cities": [
+                {
+                    "id": 79765,
+                    "name": "Menen",
+                    "latitude": "-0.54539000",
+                    "longitude": "166.94871000"
+                }
+            ]
+        },
+        {
+            "id": 4659,
+            "name": "Nibok District",
+            "state_code": "12",
+            "cities": []
+        },
+        {
+            "id": 4655,
+            "name": "Uaboe District",
+            "state_code": "13",
+            "cities": [
+                {
+                    "id": 79766,
+                    "name": "Uaboe",
+                    "latitude": "-0.51393000",
+                    "longitude": "166.92384000"
+                }
+            ]
+        },
+        {
+            "id": 4664,
+            "name": "Yaren District",
+            "state_code": "14",
+            "cities": [
+                {
+                    "id": 79767,
+                    "name": "Yaren",
+                    "latitude": "-0.55085000",
+                    "longitude": "166.92520000"
+                }
+            ]
+        }
+    ],
+    "timezones": [
+        "UTC+12:00"
+    ],
+    "tld": [
+        ".nr"
+    ],
+    "translations": {
+        "de": "Nauru",
+        "es": "Nauru",
+        "fr": "Nauru",
+        "ja": "ナウル",
+        "it": "Nauru"
+    },
+    "wiki": "http://en.wikipedia.org/wiki/nauru"
+}

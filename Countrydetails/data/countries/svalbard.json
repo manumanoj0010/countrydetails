@@ -1,0 +1,59 @@
+{
+    "name": "Svalbard and Jan Mayen",
+    "altSpellings": [
+        "SJ",
+        "Svalbard and Jan Mayen Islands"
+    ],
+    "area": null,
+    "borders": [],
+    "callingCodes": [
+        "4779"
+    ],
+    "capital": "Longyearbyen",
+    "capital_latlng": [
+        78.223156,
+        15.646366
+    ],
+    "currencies": [
+        "NOK"
+    ],
+    "demonym": "Norwegian",
+    "flag": "",
+    "geoJSON": {},
+    "ISO": {
+        "alpha2": "SJ",
+        "alpha3": "SJM"
+    },
+    "states": [],
+    "languages": [
+        "Norwegian",
+        "Russian"
+    ],
+    "latlng": [
+        78,
+        20
+    ],
+    "nativeName": "Svalbard og Jan Mayen",
+    "population": 2562,
+    "timezones": null,
+    "tld": [
+        ".sj"
+    ],
+    "translations": {
+        "de": "Svalbard und Jan Mayen",
+        "es": "Islas Svalbard y Jan Mayen",
+        "fr": "Svalbard et Jan Mayen",
+        "ja": "スヴァールバル諸島およびヤンマイエン島",
+        "it": "Svalbard e Jan Mayen"
+    },
+    "continent": "Europe",
+    "government": "Dependent Territory of Norway",
+    "independence": null,
+    "dish": null,
+    "location": "Nordic Countries",
+    "expectancy": null,
+    "temperature": null,
+    "density": 0.044,
+    "symbol": null,
+    "wiki": "http://en.wikipedia.org/wiki/svalbard"
+}

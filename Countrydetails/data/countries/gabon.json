@@ -1,0 +1,446 @@
+{
+    "name": "Gabon",
+    "altSpellings": [
+        "GA",
+        "Gabonese Republic",
+        "République Gabonaise"
+    ],
+    "area": 267668,
+    "borders": [
+        "CMR",
+        "COG",
+        "GNQ"
+    ],
+    "callingCodes": [
+        "241"
+    ],
+    "capital": "Libreville",
+    "capital_latlng": [
+        0.390002,
+        9.454001
+    ],
+    "currencies": [
+        "XAF"
+    ],
+    "demonym": "Gabonese",
+    "flag": "",
+    "geoJSON": {
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "type": "Feature",
+                "id": "GAB",
+                "properties": {
+                    "name": "Gabon"
+                },
+                "geometry": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                11.093773,
+                                -3.978827
+                            ],
+                            [
+                                10.066135,
+                                -2.969483
+                            ],
+                            [
+                                9.405245,
+                                -2.144313
+                            ],
+                            [
+                                8.797996,
+                                -1.111301
+                            ],
+                            [
+                                8.830087,
+                                -0.779074
+                            ],
+                            [
+                                9.04842,
+                                -0.459351
+                            ],
+                            [
+                                9.291351,
+                                0.268666
+                            ],
+                            [
+                                9.492889,
+                                1.01012
+                            ],
+                            [
+                                9.830284,
+                                1.067894
+                            ],
+                            [
+                                11.285079,
+                                1.057662
+                            ],
+                            [
+                                11.276449,
+                                2.261051
+                            ],
+                            [
+                                11.751665,
+                                2.326758
+                            ],
+                            [
+                                12.35938,
+                                2.192812
+                            ],
+                            [
+                                12.951334,
+                                2.321616
+                            ],
+                            [
+                                13.075822,
+                                2.267097
+                            ],
+                            [
+                                13.003114,
+                                1.830896
+                            ],
+                            [
+                                13.282631,
+                                1.314184
+                            ],
+                            [
+                                14.026669,
+                                1.395677
+                            ],
+                            [
+                                14.276266,
+                                1.19693
+                            ],
+                            [
+                                13.843321,
+                                0.038758
+                            ],
+                            [
+                                14.316418,
+                                -0.552627
+                            ],
+                            [
+                                14.425456,
+                                -1.333407
+                            ],
+                            [
+                                14.29921,
+                                -1.998276
+                            ],
+                            [
+                                13.992407,
+                                -2.470805
+                            ],
+                            [
+                                13.109619,
+                                -2.42874
+                            ],
+                            [
+                                12.575284,
+                                -1.948511
+                            ],
+                            [
+                                12.495703,
+                                -2.391688
+                            ],
+                            [
+                                11.820964,
+                                -2.514161
+                            ],
+                            [
+                                11.478039,
+                                -2.765619
+                            ],
+                            [
+                                11.855122,
+                                -3.426871
+                            ],
+                            [
+                                11.093773,
+                                -3.978827
+                            ]
+                        ]
+                    ]
+                }
+            }
+        ]
+    },
+    "ISO": {
+        "alpha2": "GA",
+        "alpha3": "GAB"
+    },
+    "languages": [
+        "fr"
+    ],
+    "latlng": [
+        -1,
+        11.75
+    ],
+      "independence": 1960,
+      "languages": [
+          "Fang",
+          "Mbete",
+          "Mpongwe",
+          "Punu-sira-nzebi"
+      ],
+"expectancy": 50.1,
+"tld": ".ga",
+"government": "Republic",
+"dish": "Poulet Nyembwe",
+"continent": "Africa",
+"symbol": null,
+"density": 8.224764233,
+        "location": "Central Africa",
+  "religion": "Christianity",
+"temperature": 25.05,
+"states": [
+            {
+                "id": 2727,
+                "name": "Estuaire Province",
+                "state_code": "1",
+                "cities": [
+                    {
+                        "id": 48131,
+                        "name": "Cocobeach",
+                        "latitude": "1.00019000",
+                        "longitude": "9.58229000"
+                    },
+                    {
+                        "id": 48138,
+                        "name": "Libreville",
+                        "latitude": "0.39241000",
+                        "longitude": "9.45356000"
+                    },
+                    {
+                        "id": 48150,
+                        "name": "Ntoum",
+                        "latitude": "0.39051000",
+                        "longitude": "9.76096000"
+                    }
+                ]
+            },
+            {
+                "id": 2726,
+                "name": "Haut-Ogooué Province",
+                "state_code": "2",
+                "cities": [
+                    {
+                        "id": 48133,
+                        "name": "Franceville",
+                        "latitude": "-1.63333000",
+                        "longitude": "13.58357000"
+                    },
+                    {
+                        "id": 48139,
+                        "name": "Lékoni",
+                        "latitude": "-1.58431000",
+                        "longitude": "14.25905000"
+                    },
+                    {
+                        "id": 48145,
+                        "name": "Moanda",
+                        "latitude": "-1.56652000",
+                        "longitude": "13.19870000"
+                    },
+                    {
+                        "id": 48147,
+                        "name": "Mounana",
+                        "latitude": "-1.40850000",
+                        "longitude": "13.15857000"
+                    },
+                    {
+                        "id": 48151,
+                        "name": "Okondja",
+                        "latitude": "-0.65487000",
+                        "longitude": "13.67533000"
+                    }
+                ]
+            },
+            {
+                "id": 2730,
+                "name": "Moyen-Ogooué Province",
+                "state_code": "3",
+                "cities": [
+                    {
+                        "id": 48136,
+                        "name": "Lambaréné",
+                        "latitude": "-0.70010000",
+                        "longitude": "10.24055000"
+                    },
+                    {
+                        "id": 48149,
+                        "name": "Ndjolé",
+                        "latitude": "-0.17827000",
+                        "longitude": "10.76488000"
+                    }
+                ]
+            },
+            {
+                "id": 2731,
+                "name": "Ngounié Province",
+                "state_code": "4",
+                "cities": [
+                    {
+                        "id": 48132,
+                        "name": "Fougamou",
+                        "latitude": "-1.21544000",
+                        "longitude": "10.58378000"
+                    },
+                    {
+                        "id": 48142,
+                        "name": "Mbigou",
+                        "latitude": "-1.90046000",
+                        "longitude": "11.90600000"
+                    },
+                    {
+                        "id": 48143,
+                        "name": "Mimongo",
+                        "latitude": "-1.61952000",
+                        "longitude": "11.60675000"
+                    },
+                    {
+                        "id": 48146,
+                        "name": "Mouila",
+                        "latitude": "-1.86846000",
+                        "longitude": "11.05594000"
+                    },
+                    {
+                        "id": 48148,
+                        "name": "Ndendé",
+                        "latitude": "-2.40077000",
+                        "longitude": "11.35813000"
+                    }
+                ]
+            },
+            {
+                "id": 2725,
+                "name": "Nyanga Province",
+                "state_code": "5",
+                "cities": [
+                    {
+                        "id": 48141,
+                        "name": "Mayumba",
+                        "latitude": "-3.43198000",
+                        "longitude": "10.65540000"
+                    },
+                    {
+                        "id": 48155,
+                        "name": "Tchibanga",
+                        "latitude": "-2.93323000",
+                        "longitude": "10.98178000"
+                    }
+                ]
+            },
+            {
+                "id": 2724,
+                "name": "Ogooué-Ivindo Province",
+                "state_code": "6",
+                "cities": [
+                    {
+                        "id": 48130,
+                        "name": "Booué",
+                        "latitude": "-0.09207000",
+                        "longitude": "11.93846000"
+                    },
+                    {
+                        "id": 48140,
+                        "name": "Makokou",
+                        "latitude": "0.57381000",
+                        "longitude": "12.86419000"
+                    },
+                    {
+                        "id": 48156,
+                        "name": "Zadie",
+                        "latitude": "0.92582000",
+                        "longitude": "13.90813000"
+                    }
+                ]
+            },
+            {
+                "id": 2729,
+                "name": "Ogooué-Lolo Province",
+                "state_code": "7",
+                "cities": [
+                    {
+                        "id": 48135,
+                        "name": "Koulamoutou",
+                        "latitude": "-1.13667000",
+                        "longitude": "12.46399000"
+                    },
+                    {
+                        "id": 48137,
+                        "name": "Lastoursville",
+                        "latitude": "-0.81742000",
+                        "longitude": "12.70818000"
+                    }
+                ]
+            },
+            {
+                "id": 2728,
+                "name": "Ogooué-Maritime Province",
+                "state_code": "8",
+                "cities": [
+                    {
+                        "id": 48134,
+                        "name": "Gamba",
+                        "latitude": "-2.65000000",
+                        "longitude": "10.00000000"
+                    },
+                    {
+                        "id": 48152,
+                        "name": "Omboué",
+                        "latitude": "-1.57464000",
+                        "longitude": "9.26184000"
+                    },
+                    {
+                        "id": 48154,
+                        "name": "Port-Gentil",
+                        "latitude": "-0.71933000",
+                        "longitude": "8.78151000"
+                    }
+                ]
+            },
+            {
+                "id": 2723,
+                "name": "Woleu-Ntem Province",
+                "state_code": "9",
+                "cities": [
+                    {
+                        "id": 48129,
+                        "name": "Bitam",
+                        "latitude": "2.07597000",
+                        "longitude": "11.50065000"
+                    },
+                    {
+                        "id": 48144,
+                        "name": "Mitzic",
+                        "latitude": "0.78205000",
+                        "longitude": "11.54904000"
+                    },
+                    {
+                        "id": 48153,
+                        "name": "Oyem",
+                        "latitude": "1.59950000",
+                        "longitude": "11.57933000"
+                    }
+                ]
+            }
+        ],
+    "nativeName": "Gabon",
+    "timezones": [
+        "UTC+01:00"
+    ],
+    "tld": [
+        ".ga"
+    ],
+    "translations": {
+        "de": "Gabun",
+        "es": "Gabón",
+        "fr": "Gabon",
+        "ja": "ガボン",
+        "it": "Gabon"
+    },
+    "wiki": "http://en.wikipedia.org/wiki/gabon"
+}

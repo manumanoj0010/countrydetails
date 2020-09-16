@@ -1,0 +1,221 @@
+{
+    "name": "Vanuatu",
+    "altSpellings": [
+        "VU",
+        "Republic of Vanuatu",
+        "Ripablik blong Vanuatu",
+        "République de Vanuatu"
+    ],
+    "area": 12189,
+    "borders": [],
+    "callingCodes": [
+        "678"
+    ],
+    "capital": "Port Vila",
+    "capital_latlng": [
+        -17.741497,
+        168.315016
+    ],
+    "currencies": [
+        "VUV"
+    ],
+    "demonym": "Ni-Vanuatu",
+    "flag": "",
+    "geoJSON": {
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "type": "Feature",
+                "id": "VUT",
+                "properties": {
+                    "name": "Vanuatu"
+                },
+                "geometry": {
+                    "type": "MultiPolygon",
+                    "coordinates": [
+                        [
+                            [
+                                [
+                                    167.844877,
+                                    -16.466333
+                                ],
+                                [
+                                    167.515181,
+                                    -16.59785
+                                ],
+                                [
+                                    167.180008,
+                                    -16.159995
+                                ],
+                                [
+                                    167.216801,
+                                    -15.891846
+                                ],
+                                [
+                                    167.844877,
+                                    -16.466333
+                                ]
+                            ]
+                        ],
+                        [
+                            [
+                                [
+                                    167.107712,
+                                    -14.93392
+                                ],
+                                [
+                                    167.270028,
+                                    -15.740021
+                                ],
+                                [
+                                    167.001207,
+                                    -15.614602
+                                ],
+                                [
+                                    166.793158,
+                                    -15.668811
+                                ],
+                                [
+                                    166.649859,
+                                    -15.392704
+                                ],
+                                [
+                                    166.629137,
+                                    -14.626497
+                                ],
+                                [
+                                    167.107712,
+                                    -14.93392
+                                ]
+                            ]
+                        ]
+                    ]
+                }
+            }
+        ]
+    },
+    "ISO": {
+        "alpha2": "VU",
+        "alpha3": "VUT"
+    },
+    "states": [
+        {
+            "id": 4775,
+            "name": "Malampa",
+            "state_code": "MAP",
+            "cities": [
+                {
+                    "id": 130637,
+                    "name": "Lakatoro",
+                    "latitude": "-16.09992000",
+                    "longitude": "167.41636000"
+                },
+                {
+                    "id": 130639,
+                    "name": "Norsup",
+                    "latitude": "-16.06536000",
+                    "longitude": "167.39714000"
+                }
+            ]
+        },
+        {
+            "id": 4773,
+            "name": "Penama",
+            "state_code": "PAM",
+            "cities": []
+        },
+        {
+            "id": 4776,
+            "name": "Sanma",
+            "state_code": "SAM",
+            "cities": [
+                {
+                    "id": 130638,
+                    "name": "Luganville",
+                    "latitude": "-15.51989000",
+                    "longitude": "167.16235000"
+                },
+                {
+                    "id": 130640,
+                    "name": "Port-Olry",
+                    "latitude": "-15.04175000",
+                    "longitude": "167.07265000"
+                }
+            ]
+        },
+        {
+            "id": 4774,
+            "name": "Shefa",
+            "state_code": "SEE",
+            "cities": [
+                {
+                    "id": 130641,
+                    "name": "Port-Vila",
+                    "latitude": "-17.73648000",
+                    "longitude": "168.31366000"
+                }
+            ]
+        },
+        {
+            "id": 4777,
+            "name": "Tafea",
+            "state_code": "TAE",
+            "cities": [
+                {
+                    "id": 130636,
+                    "name": "Isangel",
+                    "latitude": "-19.54167000",
+                    "longitude": "169.28167000"
+                }
+            ]
+        },
+        {
+            "id": 4772,
+            "name": "Torba",
+            "state_code": "TOB",
+            "cities": [
+                {
+                    "id": 130642,
+                    "name": "Sola",
+                    "latitude": "-13.87611000",
+                    "longitude": "167.55167000"
+                }
+            ]
+        }
+    ],
+    "languages": [
+        "Bislama",
+        "English",
+        "French"
+    ],
+    "latlng": [
+        -16,
+        167
+    ],
+    "nativeName": "Vanuatu",
+    "population": 264652,
+    "timezones": [
+        "UTC+11:00"
+    ],
+    "tld": [
+        ".vu"
+    ],
+    "translations": {
+        "de": "Vanuatu",
+        "es": "Vanuatu",
+        "fr": "Vanuatu",
+        "ja": "バヌアツ",
+        "it": "Vanuatu"
+    },
+    "continent": "Oceania",
+    "independence": 1980,
+    "expectancy": 60.6,
+    "density": 24.00984413,
+    "location": "Melanesia",
+    "dish": "Lap lap",
+    "religion": "Christianity",
+    "temperature": 23.95,
+    "symbol": null,
+    "government": "Republic",
+    "wiki": "http://en.wikipedia.org/wiki/vanuatu"
+}

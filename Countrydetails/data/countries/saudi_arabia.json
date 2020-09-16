@@ -1,0 +1,1054 @@
+{
+    "name": "Saudi Arabia",
+    "altSpellings": [
+        "SA",
+        "Kingdom of Saudi Arabia",
+        "Al-Mamlakah al-‘Arabiyyah as-Su‘ūdiyyah"
+    ],
+    "area": 2149690,
+    "borders": [
+        "IRQ",
+        "JOR",
+        "KWT",
+        "OMN",
+        "QAT",
+        "ARE",
+        "YEM"
+    ],
+    "callingCodes": [
+        "966"
+    ],
+    "capital": "Riyadh",
+    "capital_latlng": [
+        24.631969,
+        46.715065
+    ],
+    "currencies": [
+        "SAR"
+    ],
+    "demonym": "Saudi Arabian",
+    "flag": "",
+    "geoJSON": {
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "type": "Feature",
+                "id": "SAU",
+                "properties": {
+                    "name": "Saudi Arabia"
+                },
+                "geometry": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                42.779332,
+                                16.347891
+                            ],
+                            [
+                                42.649573,
+                                16.774635
+                            ],
+                            [
+                                42.347989,
+                                17.075806
+                            ],
+                            [
+                                42.270888,
+                                17.474722
+                            ],
+                            [
+                                41.754382,
+                                17.833046
+                            ],
+                            [
+                                41.221391,
+                                18.6716
+                            ],
+                            [
+                                40.939341,
+                                19.486485
+                            ],
+                            [
+                                40.247652,
+                                20.174635
+                            ],
+                            [
+                                39.801685,
+                                20.338862
+                            ],
+                            [
+                                39.139399,
+                                21.291905
+                            ],
+                            [
+                                39.023696,
+                                21.986875
+                            ],
+                            [
+                                39.066329,
+                                22.579656
+                            ],
+                            [
+                                38.492772,
+                                23.688451
+                            ],
+                            [
+                                38.02386,
+                                24.078686
+                            ],
+                            [
+                                37.483635,
+                                24.285495
+                            ],
+                            [
+                                37.154818,
+                                24.858483
+                            ],
+                            [
+                                37.209491,
+                                25.084542
+                            ],
+                            [
+                                36.931627,
+                                25.602959
+                            ],
+                            [
+                                36.639604,
+                                25.826228
+                            ],
+                            [
+                                36.249137,
+                                26.570136
+                            ],
+                            [
+                                35.640182,
+                                27.37652
+                            ],
+                            [
+                                35.130187,
+                                28.063352
+                            ],
+                            [
+                                34.632336,
+                                28.058546
+                            ],
+                            [
+                                34.787779,
+                                28.607427
+                            ],
+                            [
+                                34.83222,
+                                28.957483
+                            ],
+                            [
+                                34.956037,
+                                29.356555
+                            ],
+                            [
+                                36.068941,
+                                29.197495
+                            ],
+                            [
+                                36.501214,
+                                29.505254
+                            ],
+                            [
+                                36.740528,
+                                29.865283
+                            ],
+                            [
+                                37.503582,
+                                30.003776
+                            ],
+                            [
+                                37.66812,
+                                30.338665
+                            ],
+                            [
+                                37.998849,
+                                30.5085
+                            ],
+                            [
+                                37.002166,
+                                31.508413
+                            ],
+                            [
+                                39.004886,
+                                32.010217
+                            ],
+                            [
+                                39.195468,
+                                32.161009
+                            ],
+                            [
+                                40.399994,
+                                31.889992
+                            ],
+                            [
+                                41.889981,
+                                31.190009
+                            ],
+                            [
+                                44.709499,
+                                29.178891
+                            ],
+                            [
+                                46.568713,
+                                29.099025
+                            ],
+                            [
+                                47.459822,
+                                29.002519
+                            ],
+                            [
+                                47.708851,
+                                28.526063
+                            ],
+                            [
+                                48.416094,
+                                28.552004
+                            ],
+                            [
+                                48.807595,
+                                27.689628
+                            ],
+                            [
+                                49.299554,
+                                27.461218
+                            ],
+                            [
+                                49.470914,
+                                27.109999
+                            ],
+                            [
+                                50.152422,
+                                26.689663
+                            ],
+                            [
+                                50.212935,
+                                26.277027
+                            ],
+                            [
+                                50.113303,
+                                25.943972
+                            ],
+                            [
+                                50.239859,
+                                25.60805
+                            ],
+                            [
+                                50.527387,
+                                25.327808
+                            ],
+                            [
+                                50.660557,
+                                24.999896
+                            ],
+                            [
+                                50.810108,
+                                24.754743
+                            ],
+                            [
+                                51.112415,
+                                24.556331
+                            ],
+                            [
+                                51.389608,
+                                24.627386
+                            ],
+                            [
+                                51.579519,
+                                24.245497
+                            ],
+                            [
+                                51.617708,
+                                24.014219
+                            ],
+                            [
+                                52.000733,
+                                23.001154
+                            ],
+                            [
+                                55.006803,
+                                22.496948
+                            ],
+                            [
+                                55.208341,
+                                22.70833
+                            ],
+                            [
+                                55.666659,
+                                22.000001
+                            ],
+                            [
+                                54.999982,
+                                19.999994
+                            ],
+                            [
+                                52.00001,
+                                19.000003
+                            ],
+                            [
+                                49.116672,
+                                18.616668
+                            ],
+                            [
+                                48.183344,
+                                18.166669
+                            ],
+                            [
+                                47.466695,
+                                17.116682
+                            ],
+                            [
+                                47.000005,
+                                16.949999
+                            ],
+                            [
+                                46.749994,
+                                17.283338
+                            ],
+                            [
+                                46.366659,
+                                17.233315
+                            ],
+                            [
+                                45.399999,
+                                17.333335
+                            ],
+                            [
+                                45.216651,
+                                17.433329
+                            ],
+                            [
+                                44.062613,
+                                17.410359
+                            ],
+                            [
+                                43.791519,
+                                17.319977
+                            ],
+                            [
+                                43.380794,
+                                17.579987
+                            ],
+                            [
+                                43.115798,
+                                17.08844
+                            ],
+                            [
+                                43.218375,
+                                16.66689
+                            ],
+                            [
+                                42.779332,
+                                16.347891
+                            ]
+                        ]
+                    ]
+                }
+            }
+        ]
+    },
+    "ISO": {
+        "alpha2": "SA",
+        "alpha3": "SAU"
+    },
+    "states": [
+        {
+            "id": 2853,
+            "name": "'Asir Region",
+            "state_code": "14",
+            "cities": [
+                {
+                    "id": 102804,
+                    "name": "Abha",
+                    "latitude": "18.21639000",
+                    "longitude": "42.50528000"
+                },
+                {
+                    "id": 102827,
+                    "name": "Al Majāridah",
+                    "latitude": "19.12361000",
+                    "longitude": "41.91111000"
+                },
+                {
+                    "id": 102840,
+                    "name": "An Nimāş",
+                    "latitude": "19.14547000",
+                    "longitude": "42.12009000"
+                },
+                {
+                    "id": 102861,
+                    "name": "Khamis Mushait",
+                    "latitude": "18.30000000",
+                    "longitude": "42.73333000"
+                },
+                {
+                    "id": 102871,
+                    "name": "Qal‘at Bīshah",
+                    "latitude": "20.00054000",
+                    "longitude": "42.60520000"
+                },
+                {
+                    "id": 102876,
+                    "name": "Sabt Al Alayah",
+                    "latitude": "19.70000000",
+                    "longitude": "41.91667000"
+                },
+                {
+                    "id": 102882,
+                    "name": "Tabālah",
+                    "latitude": "19.95000000",
+                    "longitude": "42.40000000"
+                }
+            ]
+        },
+        {
+            "id": 2859,
+            "name": "Al Bahah Region",
+            "state_code": "11",
+            "cities": [
+                {
+                    "id": 102815,
+                    "name": "Al Bahah",
+                    "latitude": "20.01288000",
+                    "longitude": "41.46767000"
+                },
+                {
+                    "id": 102829,
+                    "name": "Al Mindak",
+                    "latitude": "20.15880000",
+                    "longitude": "41.28337000"
+                }
+            ]
+        },
+        {
+            "id": 2857,
+            "name": "Al Jawf Region",
+            "state_code": "12",
+            "cities": [
+                {
+                    "id": 102872,
+                    "name": "Qurayyat",
+                    "latitude": "31.33176000",
+                    "longitude": "37.34282000"
+                },
+                {
+                    "id": 102877,
+                    "name": "Sakakah",
+                    "latitude": "29.96974000",
+                    "longitude": "40.20641000"
+                },
+                {
+                    "id": 102896,
+                    "name": "Şuwayr",
+                    "latitude": "30.11713000",
+                    "longitude": "40.38925000"
+                },
+                {
+                    "id": 102898,
+                    "name": "Ţubarjal",
+                    "latitude": "30.49987000",
+                    "longitude": "38.21603000"
+                }
+            ]
+        },
+        {
+            "id": 2851,
+            "name": "Al Madinah Region",
+            "state_code": "03",
+            "cities": [
+                {
+                    "id": 102839,
+                    "name": "Al-`Ula",
+                    "latitude": "26.60853000",
+                    "longitude": "37.92316000"
+                },
+                {
+                    "id": 102849,
+                    "name": "Badr Ḩunayn",
+                    "latitude": "23.78292000",
+                    "longitude": "38.79047000"
+                },
+                {
+                    "id": 102865,
+                    "name": "Medina",
+                    "latitude": "24.46861000",
+                    "longitude": "39.61417000"
+                },
+                {
+                    "id": 102879,
+                    "name": "Sulţānah",
+                    "latitude": "24.49258000",
+                    "longitude": "39.58572000"
+                },
+                {
+                    "id": 102892,
+                    "name": "Yanbu",
+                    "latitude": "24.08954000",
+                    "longitude": "38.06180000"
+                }
+            ]
+        },
+        {
+            "id": 2861,
+            "name": "Al-Qassim Region",
+            "state_code": "05",
+            "cities": [
+                {
+                    "id": 102810,
+                    "name": "Adh Dhibiyah",
+                    "latitude": "26.02700000",
+                    "longitude": "43.15700000"
+                },
+                {
+                    "id": 102817,
+                    "name": "Al Bukayrīyah",
+                    "latitude": "26.13915000",
+                    "longitude": "43.65782000"
+                },
+                {
+                    "id": 102818,
+                    "name": "Al Fuwayliq",
+                    "latitude": "26.44360000",
+                    "longitude": "43.25164000"
+                },
+                {
+                    "id": 102830,
+                    "name": "Al Mithnab",
+                    "latitude": "25.86012000",
+                    "longitude": "44.22228000"
+                },
+                {
+                    "id": 102841,
+                    "name": "Ar Rass",
+                    "latitude": "25.86944000",
+                    "longitude": "43.49730000"
+                },
+                {
+                    "id": 102850,
+                    "name": "Buraydah",
+                    "latitude": "26.32599000",
+                    "longitude": "43.97497000"
+                },
+                {
+                    "id": 102883,
+                    "name": "Tanūmah",
+                    "latitude": "27.10000000",
+                    "longitude": "44.13333000"
+                },
+                {
+                    "id": 102891,
+                    "name": "Wed Alnkil",
+                    "latitude": "25.42670000",
+                    "longitude": "42.83430000"
+                }
+            ]
+        },
+        {
+            "id": 2856,
+            "name": "Eastern Province",
+            "state_code": "04",
+            "cities": [
+                {
+                    "id": 102805,
+                    "name": "Abqaiq",
+                    "latitude": "25.93402000",
+                    "longitude": "49.66880000"
+                },
+                {
+                    "id": 102814,
+                    "name": "Al Awjām",
+                    "latitude": "26.56324000",
+                    "longitude": "49.94331000"
+                },
+                {
+                    "id": 102816,
+                    "name": "Al Baţţālīyah",
+                    "latitude": "25.43333000",
+                    "longitude": "49.63333000"
+                },
+                {
+                    "id": 102820,
+                    "name": "Al Hufūf",
+                    "latitude": "25.36467000",
+                    "longitude": "49.58764000"
+                },
+                {
+                    "id": 102821,
+                    "name": "Al Jafr",
+                    "latitude": "25.37736000",
+                    "longitude": "49.72154000"
+                },
+                {
+                    "id": 102823,
+                    "name": "Al Jubayl",
+                    "latitude": "27.01740000",
+                    "longitude": "49.62251000"
+                },
+                {
+                    "id": 102825,
+                    "name": "Al Khafjī",
+                    "latitude": "28.43905000",
+                    "longitude": "48.49132000"
+                },
+                {
+                    "id": 102828,
+                    "name": "Al Markaz",
+                    "latitude": "25.40000000",
+                    "longitude": "49.73333000"
+                },
+                {
+                    "id": 102831,
+                    "name": "Al Mubarraz",
+                    "latitude": "25.40768000",
+                    "longitude": "49.59028000"
+                },
+                {
+                    "id": 102832,
+                    "name": "Al Munayzilah",
+                    "latitude": "25.38333000",
+                    "longitude": "49.66667000"
+                },
+                {
+                    "id": 102834,
+                    "name": "Al Muţayrifī",
+                    "latitude": "25.47878000",
+                    "longitude": "49.55824000"
+                },
+                {
+                    "id": 102837,
+                    "name": "Al Qārah",
+                    "latitude": "25.41667000",
+                    "longitude": "49.66667000"
+                },
+                {
+                    "id": 102835,
+                    "name": "Al Qaţīf",
+                    "latitude": "26.56542000",
+                    "longitude": "50.00890000"
+                },
+                {
+                    "id": 102836,
+                    "name": "Al Qurayn",
+                    "latitude": "25.48333000",
+                    "longitude": "49.60000000"
+                },
+                {
+                    "id": 102843,
+                    "name": "As Saffānīyah",
+                    "latitude": "27.97083000",
+                    "longitude": "48.73000000"
+                },
+                {
+                    "id": 102848,
+                    "name": "Aţ Ţaraf",
+                    "latitude": "25.36232000",
+                    "longitude": "49.72757000"
+                },
+                {
+                    "id": 102846,
+                    "name": "At Tūbī",
+                    "latitude": "26.55778000",
+                    "longitude": "49.99167000"
+                },
+                {
+                    "id": 102851,
+                    "name": "Dammam",
+                    "latitude": "26.43442000",
+                    "longitude": "50.10326000"
+                },
+                {
+                    "id": 102852,
+                    "name": "Dhahran",
+                    "latitude": "26.28864000",
+                    "longitude": "50.11396000"
+                },
+                {
+                    "id": 102857,
+                    "name": "Hafar Al-Batin",
+                    "latitude": "28.43279000",
+                    "longitude": "45.97077000"
+                },
+                {
+                    "id": 102860,
+                    "name": "Julayjilah",
+                    "latitude": "25.50000000",
+                    "longitude": "49.60000000"
+                },
+                {
+                    "id": 102862,
+                    "name": "Khobar",
+                    "latitude": "26.27944000",
+                    "longitude": "50.20833000"
+                },
+                {
+                    "id": 102868,
+                    "name": "Mulayjah",
+                    "latitude": "27.27103000",
+                    "longitude": "48.42419000"
+                },
+                {
+                    "id": 102870,
+                    "name": "Qaisumah",
+                    "latitude": "28.31117000",
+                    "longitude": "46.12729000"
+                },
+                {
+                    "id": 102873,
+                    "name": "Raḩīmah",
+                    "latitude": "26.70791000",
+                    "longitude": "50.06194000"
+                },
+                {
+                    "id": 102895,
+                    "name": "Şafwá",
+                    "latitude": "26.64970000",
+                    "longitude": "49.95522000"
+                },
+                {
+                    "id": 102878,
+                    "name": "Sayhāt",
+                    "latitude": "26.48345000",
+                    "longitude": "50.04849000"
+                },
+                {
+                    "id": 102888,
+                    "name": "Tārūt",
+                    "latitude": "26.57330000",
+                    "longitude": "50.04028000"
+                },
+                {
+                    "id": 102890,
+                    "name": "Umm as Sāhik",
+                    "latitude": "26.65361000",
+                    "longitude": "49.91639000"
+                }
+            ]
+        },
+        {
+            "id": 2855,
+            "name": "Ha'il Region",
+            "state_code": "06",
+            "cities": [
+                {
+                    "id": 102856,
+                    "name": "Ha'il",
+                    "latitude": "27.52188000",
+                    "longitude": "41.69073000"
+                }
+            ]
+        },
+        {
+            "id": 2858,
+            "name": "Jizan Region",
+            "state_code": "09",
+            "cities": [
+                {
+                    "id": 102806,
+                    "name": "Abū ‘Arīsh",
+                    "latitude": "16.96887000",
+                    "longitude": "42.83251000"
+                },
+                {
+                    "id": 102807,
+                    "name": "Ad Darb",
+                    "latitude": "17.72285000",
+                    "longitude": "42.25261000"
+                },
+                {
+                    "id": 102822,
+                    "name": "Al Jarādīyah",
+                    "latitude": "16.57946000",
+                    "longitude": "42.91240000"
+                },
+                {
+                    "id": 102854,
+                    "name": "Farasān",
+                    "latitude": "16.70222000",
+                    "longitude": "42.11833000"
+                },
+                {
+                    "id": 102859,
+                    "name": "Jizan",
+                    "latitude": "16.88917000",
+                    "longitude": "42.55111000"
+                },
+                {
+                    "id": 102866,
+                    "name": "Mislīyah",
+                    "latitude": "17.45988000",
+                    "longitude": "42.55720000"
+                },
+                {
+                    "id": 102867,
+                    "name": "Mizhirah",
+                    "latitude": "16.82611000",
+                    "longitude": "42.73333000"
+                },
+                {
+                    "id": 102894,
+                    "name": "Şabyā",
+                    "latitude": "17.14950000",
+                    "longitude": "42.62537000"
+                },
+                {
+                    "id": 102897,
+                    "name": "Şāmitah",
+                    "latitude": "16.59601000",
+                    "longitude": "42.94435000"
+                }
+            ]
+        },
+        {
+            "id": 2850,
+            "name": "Makkah Region",
+            "state_code": "02",
+            "cities": [
+                {
+                    "id": 102819,
+                    "name": "Al Hadā",
+                    "latitude": "21.36753000",
+                    "longitude": "40.28694000"
+                },
+                {
+                    "id": 102824,
+                    "name": "Al Jumūm",
+                    "latitude": "21.61694000",
+                    "longitude": "39.69806000"
+                },
+                {
+                    "id": 102833,
+                    "name": "Al Muwayh",
+                    "latitude": "22.43333000",
+                    "longitude": "41.75829000"
+                },
+                {
+                    "id": 102845,
+                    "name": "Ash Shafā",
+                    "latitude": "21.07210000",
+                    "longitude": "40.31185000"
+                },
+                {
+                    "id": 102855,
+                    "name": "Ghran",
+                    "latitude": "21.98027000",
+                    "longitude": "39.36521000"
+                },
+                {
+                    "id": 102858,
+                    "name": "Jeddah",
+                    "latitude": "21.54238000",
+                    "longitude": "39.19797000"
+                },
+                {
+                    "id": 102864,
+                    "name": "Mecca",
+                    "latitude": "21.42664000",
+                    "longitude": "39.82563000"
+                },
+                {
+                    "id": 102875,
+                    "name": "Rābigh",
+                    "latitude": "22.79856000",
+                    "longitude": "39.03493000"
+                },
+                {
+                    "id": 102884,
+                    "name": "Ta’if",
+                    "latitude": "21.27028000",
+                    "longitude": "40.41583000"
+                },
+                {
+                    "id": 102886,
+                    "name": "Turabah",
+                    "latitude": "21.21406000",
+                    "longitude": "41.63310000"
+                }
+            ]
+        },
+        {
+            "id": 2860,
+            "name": "Najran Region",
+            "state_code": "10",
+            "cities": [
+                {
+                    "id": 102869,
+                    "name": "Najrān",
+                    "latitude": "17.49326000",
+                    "longitude": "44.12766000"
+                }
+            ]
+        },
+        {
+            "id": 2854,
+            "name": "Northern Borders Region",
+            "state_code": "08",
+            "cities": [
+                {
+                    "id": 102842,
+                    "name": "Arar",
+                    "latitude": "30.97531000",
+                    "longitude": "41.03808000"
+                },
+                {
+                    "id": 102887,
+                    "name": "Turaif",
+                    "latitude": "31.67252000",
+                    "longitude": "38.66374000"
+                }
+            ]
+        },
+        {
+            "id": 2849,
+            "name": "Riyadh Region",
+            "state_code": "01",
+            "cities": [
+                {
+                    "id": 102808,
+                    "name": "Ad Dawādimī",
+                    "latitude": "24.50772000",
+                    "longitude": "44.39237000"
+                },
+                {
+                    "id": 102809,
+                    "name": "Ad Dilam",
+                    "latitude": "23.99104000",
+                    "longitude": "47.16181000"
+                },
+                {
+                    "id": 102811,
+                    "name": "Afif",
+                    "latitude": "23.90650000",
+                    "longitude": "42.91724000"
+                },
+                {
+                    "id": 102812,
+                    "name": "Ain AlBaraha",
+                    "latitude": "24.75806000",
+                    "longitude": "43.77389000"
+                },
+                {
+                    "id": 102813,
+                    "name": "Al Arţāwīyah",
+                    "latitude": "26.50387000",
+                    "longitude": "45.34813000"
+                },
+                {
+                    "id": 102826,
+                    "name": "Al Kharj",
+                    "latitude": "24.15541000",
+                    "longitude": "47.33457000"
+                },
+                {
+                    "id": 102844,
+                    "name": "As Sulayyil",
+                    "latitude": "20.46067000",
+                    "longitude": "45.57792000"
+                },
+                {
+                    "id": 102847,
+                    "name": "Az Zulfī",
+                    "latitude": "26.29945000",
+                    "longitude": "44.81542000"
+                },
+                {
+                    "id": 102863,
+                    "name": "Marāt",
+                    "latitude": "25.07064000",
+                    "longitude": "45.45775000"
+                },
+                {
+                    "id": 102874,
+                    "name": "Riyadh",
+                    "latitude": "24.68773000",
+                    "longitude": "46.72185000"
+                },
+                {
+                    "id": 102880,
+                    "name": "Sājir",
+                    "latitude": "25.18251000",
+                    "longitude": "44.59964000"
+                },
+                {
+                    "id": 102893,
+                    "name": "shokhaibٍ",
+                    "latitude": "24.49023000",
+                    "longitude": "46.26871000"
+                },
+                {
+                    "id": 102885,
+                    "name": "Tumayr",
+                    "latitude": "25.70347000",
+                    "longitude": "45.86835000"
+                }
+            ]
+        },
+        {
+            "id": 2852,
+            "name": "Tabuk Region",
+            "state_code": "07",
+            "cities": [
+                {
+                    "id": 102838,
+                    "name": "Al Wajh",
+                    "latitude": "26.24551000",
+                    "longitude": "36.45249000"
+                },
+                {
+                    "id": 102853,
+                    "name": "Duba",
+                    "latitude": "27.35134000",
+                    "longitude": "35.69014000"
+                },
+                {
+                    "id": 102881,
+                    "name": "Tabuk",
+                    "latitude": "28.39980000",
+                    "longitude": "36.57151000"
+                },
+                {
+                    "id": 102889,
+                    "name": "Umm Lajj",
+                    "latitude": "25.02126000",
+                    "longitude": "37.26850000"
+                }
+            ]
+        }
+    ],
+    "languages": [
+        "Arabic"
+    ],
+    "latlng": [
+        25,
+        45
+    ],
+    "nativeName": "العربية السعودية",
+    "population": 30770375,
+    "timezones": [
+        "UTC+03:00"
+    ],
+    "tld": [
+        ".sa"
+    ],
+    "translations": {
+        "de": "Saudi-Arabien",
+        "es": "Arabia Saudí",
+        "fr": "Arabie Saoudite",
+        "ja": "サウジアラビア",
+        "it": "Arabia Saudita"
+    },
+    "continent": "Asia",
+    "government": "Monarchy",
+    "independence": 1932,
+    "symbol": null,
+    "religion": "Islam",
+    "expectancy": 67.8,
+    "temperature": 24.65,
+    "density": 15.67665431,
+    "location": "Middle East",
+    "dish": "Kabsa",
+    "wiki": "http://en.wikipedia.org/wiki/saudi_arabia"
+}

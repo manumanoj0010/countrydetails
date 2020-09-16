@@ -1,0 +1,368 @@
+{
+    "name": "Cape Verde",
+    "altSpellings": [
+        "CV",
+        "Republic of Cabo Verde",
+        "República de Cabo Verde"
+    ],
+    "area": 4033,
+    "borders": [],
+    "callingCodes": [
+        "238"
+    ],
+    "capital": "Praia",
+    "capital_latlng": [
+        14.916017,
+        -23.509613
+    ],
+    "currencies": [
+        "CVE"
+    ],
+    "demonym": "Cape Verdian",
+    "flag": "",
+    "geoJSON": {},
+    "ISO": {
+        "alpha2": "CV",
+        "alpha3": "CPV"
+    },
+    "languages": [
+        "Crioulo",
+        "Portuguese"
+    ],
+    "latlng": [
+        16,
+        -24
+    ],
+    "nativeName": "Cabo Verde",
+    "population": 518467,
+
+    "timezones": [
+        "UTC−01:00"
+    ],
+    "tld": [
+        ".cv"
+    ],
+    "translations": {
+        "de": "Kap Verde",
+        "es": "Cabo Verde",
+        "fr": "Cap Vert",
+        "ja": "カーボベルデ",
+        "it": "Capo Verde"
+    },
+    "states": [
+        {
+            "id": 2994,
+            "name": "Barlavento Islands",
+            "state_code": "B",
+            "cities": []
+        },
+        {
+            "id": 2999,
+            "name": "Boa Vista",
+            "state_code": "BV",
+            "cities": [
+                {
+                    "id": 22003,
+                    "name": "Sal Rei",
+                    "latitude": "16.17611000",
+                    "longitude": "-22.91722000"
+                }
+            ]
+        },
+        {
+            "id": 2996,
+            "name": "Brava",
+            "state_code": "BR",
+            "cities": [
+                {
+                    "id": 21995,
+                    "name": "Nova Sintra",
+                    "latitude": "14.87139000",
+                    "longitude": "-24.69556000"
+                }
+            ]
+        },
+        {
+            "id": 2991,
+            "name": "Maio Municipality",
+            "state_code": "MA",
+            "cities": [
+                {
+                    "id": 22010,
+                    "name": "Vila do Maio",
+                    "latitude": "15.13823000",
+                    "longitude": "-23.21158000"
+                }
+            ]
+        },
+        {
+            "id": 2987,
+            "name": "Mosteiros",
+            "state_code": "MO",
+            "cities": [
+                {
+                    "id": 21992,
+                    "name": "Igreja",
+                    "latitude": "15.03389000",
+                    "longitude": "-24.32500000"
+                }
+            ]
+        },
+        {
+            "id": 2997,
+            "name": "Paul",
+            "state_code": "PA",
+            "cities": [
+                {
+                    "id": 21997,
+                    "name": "Pombas",
+                    "latitude": "17.15026000",
+                    "longitude": "-25.02007000"
+                }
+            ]
+        },
+        {
+            "id": 2989,
+            "name": "Porto Novo",
+            "state_code": "PN",
+            "cities": [
+                {
+                    "id": 21999,
+                    "name": "Porto Novo",
+                    "latitude": "17.01969000",
+                    "longitude": "-25.06471000"
+                }
+            ]
+        },
+        {
+            "id": 2988,
+            "name": "Praia",
+            "state_code": "PR",
+            "cities": [
+                {
+                    "id": 22000,
+                    "name": "Praia",
+                    "latitude": "14.93152000",
+                    "longitude": "-23.51254000"
+                }
+            ]
+        },
+        {
+            "id": 2982,
+            "name": "Ribeira Brava Municipality",
+            "state_code": "RB",
+            "cities": [
+                {
+                    "id": 22001,
+                    "name": "Ribeira Brava",
+                    "latitude": "16.61583000",
+                    "longitude": "-24.29833000"
+                }
+            ]
+        },
+        {
+            "id": 3002,
+            "name": "Ribeira Grande",
+            "state_code": "RG",
+            "cities": [
+                {
+                    "id": 21998,
+                    "name": "Ponta do Sol",
+                    "latitude": "17.20171000",
+                    "longitude": "-25.09217000"
+                },
+                {
+                    "id": 22002,
+                    "name": "Ribeira Grande",
+                    "latitude": "17.18250000",
+                    "longitude": "-25.06500000"
+                }
+            ]
+        },
+        {
+            "id": 2984,
+            "name": "Ribeira Grande de Santiago",
+            "state_code": "RS",
+            "cities": [
+                {
+                    "id": 21989,
+                    "name": "Cidade Velha",
+                    "latitude": "14.91531000",
+                    "longitude": "-23.60527000"
+                }
+            ]
+        },
+        {
+            "id": 2998,
+            "name": "Sal",
+            "state_code": "SL",
+            "cities": [
+                {
+                    "id": 21991,
+                    "name": "Espargos",
+                    "latitude": "16.75524000",
+                    "longitude": "-22.94460000"
+                },
+                {
+                    "id": 22005,
+                    "name": "Santa Maria",
+                    "latitude": "16.59796000",
+                    "longitude": "-22.90509000"
+                }
+            ]
+        },
+        {
+            "id": 2985,
+            "name": "Santa Catarina",
+            "state_code": "CA",
+            "cities": [
+                {
+                    "id": 21987,
+                    "name": "Assomada",
+                    "latitude": "15.10000000",
+                    "longitude": "-23.68333000"
+                }
+            ]
+        },
+        {
+            "id": 2995,
+            "name": "Santa Catarina do Fogo",
+            "state_code": "CF",
+            "cities": [
+                {
+                    "id": 21990,
+                    "name": "Cova Figueira",
+                    "latitude": "14.89054000",
+                    "longitude": "-24.29343000"
+                }
+            ]
+        },
+        {
+            "id": 3004,
+            "name": "Santa Cruz",
+            "state_code": "CR",
+            "cities": [
+                {
+                    "id": 21996,
+                    "name": "Pedra Badejo",
+                    "latitude": "15.13750000",
+                    "longitude": "-23.53083000"
+                },
+                {
+                    "id": 22004,
+                    "name": "Santa Cruz",
+                    "latitude": "15.13333000",
+                    "longitude": "-23.56667000"
+                }
+            ]
+        },
+        {
+            "id": 2986,
+            "name": "São Domingos",
+            "state_code": "SD",
+            "cities": [
+                {
+                    "id": 22006,
+                    "name": "São Domingos",
+                    "latitude": "15.02438000",
+                    "longitude": "-23.56250000"
+                }
+            ]
+        },
+        {
+            "id": 3000,
+            "name": "São Filipe",
+            "state_code": "SF",
+            "cities": [
+                {
+                    "id": 22007,
+                    "name": "São Filipe",
+                    "latitude": "14.89610000",
+                    "longitude": "-24.49556000"
+                }
+            ]
+        },
+        {
+            "id": 2993,
+            "name": "São Lourenço dos Órgãos",
+            "state_code": "SO",
+            "cities": [
+                {
+                    "id": 21993,
+                    "name": "João Teves",
+                    "latitude": "15.06694000",
+                    "longitude": "-23.58917000"
+                }
+            ]
+        },
+        {
+            "id": 2990,
+            "name": "São Miguel",
+            "state_code": "SM",
+            "cities": [
+                {
+                    "id": 21988,
+                    "name": "Calheta",
+                    "latitude": "15.18613000",
+                    "longitude": "-23.59228000"
+                }
+            ]
+        },
+        {
+            "id": 3001,
+            "name": "São Vicente",
+            "state_code": "SV",
+            "cities": [
+                {
+                    "id": 21994,
+                    "name": "Mindelo",
+                    "latitude": "16.89014000",
+                    "longitude": "-24.98042000"
+                }
+            ]
+        },
+        {
+            "id": 2992,
+            "name": "Sotavento Islands",
+            "state_code": "S",
+            "cities": []
+        },
+        {
+            "id": 2983,
+            "name": "Tarrafal",
+            "state_code": "TA",
+            "cities": [
+                {
+                    "id": 22008,
+                    "name": "Tarrafal",
+                    "latitude": "15.27881000",
+                    "longitude": "-23.75192000"
+                }
+            ]
+        },
+        {
+            "id": 3003,
+            "name": "Tarrafal de São Nicolau",
+            "state_code": "TS",
+            "cities": [
+                {
+                    "id": 22009,
+                    "name": "Tarrafal de São Nicolau",
+                    "latitude": "16.56622000",
+                    "longitude": "-24.35793000"
+                }
+            ]
+        }
+    ],
+    "expectancy": 68.9,
+    "dish": "Cachupa",
+    "symbol": null,
+    "density": 134.9297767,
+    "location": "Western Africa",
+    "religion": "Christianity",
+    "temperature": 23.3,
+    "continent": "Africa",
+    "government": "Republic",
+    "independence": 1975,
+    "wiki": "http://en.wikipedia.org/wiki/cape_verde"
+}

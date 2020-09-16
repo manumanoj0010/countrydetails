@@ -1,0 +1,1278 @@
+{
+    "name": "Ethiopia",
+    "altSpellings": [
+        "ET",
+        "ʾĪtyōṗṗyā",
+        "Federal Democratic Republic of Ethiopia",
+        "የኢትዮጵያ ፌዴራላዊ ዲሞክራሲያዊ ሪፐብሊክ"
+    ],
+    "area": 1104300,
+    "borders": [
+        "DJI",
+        "ERI",
+        "KEN",
+        "SOM",
+        "SSD",
+        "SDN"
+    ],
+    "callingCodes": [
+        "251"
+    ],
+    "capital": "Addis Ababa",
+    "capital_latlng": [
+        9.010793,
+        38.761252
+    ],
+    "currencies": [
+        "ETB"
+    ],
+    "demonym": "Ethiopian",
+    "flag": "",
+    "geoJSON": {
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "type": "Feature",
+                "id": "ETH",
+                "properties": {
+                    "name": "Ethiopia"
+                },
+                "geometry": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                37.90607,
+                                14.95943
+                            ],
+                            [
+                                38.51295,
+                                14.50547
+                            ],
+                            [
+                                39.0994,
+                                14.74064
+                            ],
+                            [
+                                39.34061,
+                                14.53155
+                            ],
+                            [
+                                40.02625,
+                                14.51959
+                            ],
+                            [
+                                40.8966,
+                                14.11864
+                            ],
+                            [
+                                41.1552,
+                                13.77333
+                            ],
+                            [
+                                41.59856,
+                                13.45209
+                            ],
+                            [
+                                42.00975,
+                                12.86582
+                            ],
+                            [
+                                42.35156,
+                                12.54223
+                            ],
+                            [
+                                42,
+                                12.1
+                            ],
+                            [
+                                41.66176,
+                                11.6312
+                            ],
+                            [
+                                41.73959,
+                                11.35511
+                            ],
+                            [
+                                41.75557,
+                                11.05091
+                            ],
+                            [
+                                42.31414,
+                                11.0342
+                            ],
+                            [
+                                42.55493,
+                                11.10511
+                            ],
+                            [
+                                42.776852,
+                                10.926879
+                            ],
+                            [
+                                42.55876,
+                                10.57258
+                            ],
+                            [
+                                42.92812,
+                                10.02194
+                            ],
+                            [
+                                43.29699,
+                                9.54048
+                            ],
+                            [
+                                43.67875,
+                                9.18358
+                            ],
+                            [
+                                46.94834,
+                                7.99688
+                            ],
+                            [
+                                47.78942,
+                                8.003
+                            ],
+                            [
+                                44.9636,
+                                5.00162
+                            ],
+                            [
+                                43.66087,
+                                4.95755
+                            ],
+                            [
+                                42.76967,
+                                4.25259
+                            ],
+                            [
+                                42.12861,
+                                4.23413
+                            ],
+                            [
+                                41.855083,
+                                3.918912
+                            ],
+                            [
+                                41.1718,
+                                3.91909
+                            ],
+                            [
+                                40.76848,
+                                4.25702
+                            ],
+                            [
+                                39.85494,
+                                3.83879
+                            ],
+                            [
+                                39.559384,
+                                3.42206
+                            ],
+                            [
+                                38.89251,
+                                3.50074
+                            ],
+                            [
+                                38.67114,
+                                3.61607
+                            ],
+                            [
+                                38.43697,
+                                3.58851
+                            ],
+                            [
+                                38.120915,
+                                3.598605
+                            ],
+                            [
+                                36.855093,
+                                4.447864
+                            ],
+                            [
+                                36.159079,
+                                4.447864
+                            ],
+                            [
+                                35.817448,
+                                4.776966
+                            ],
+                            [
+                                35.817448,
+                                5.338232
+                            ],
+                            [
+                                35.298007,
+                                5.506
+                            ],
+                            [
+                                34.70702,
+                                6.59422
+                            ],
+                            [
+                                34.25032,
+                                6.82607
+                            ],
+                            [
+                                34.0751,
+                                7.22595
+                            ],
+                            [
+                                33.56829,
+                                7.71334
+                            ],
+                            [
+                                32.95418,
+                                7.78497
+                            ],
+                            [
+                                33.2948,
+                                8.35458
+                            ],
+                            [
+                                33.8255,
+                                8.37916
+                            ],
+                            [
+                                33.97498,
+                                8.68456
+                            ],
+                            [
+                                33.96162,
+                                9.58358
+                            ],
+                            [
+                                34.25745,
+                                10.63009
+                            ],
+                            [
+                                34.73115,
+                                10.91017
+                            ],
+                            [
+                                34.83163,
+                                11.31896
+                            ],
+                            [
+                                35.26049,
+                                12.08286
+                            ],
+                            [
+                                35.86363,
+                                12.57828
+                            ],
+                            [
+                                36.27022,
+                                13.56333
+                            ],
+                            [
+                                36.42951,
+                                14.42211
+                            ],
+                            [
+                                37.59377,
+                                14.2131
+                            ],
+                            [
+                                37.90607,
+                                14.95943
+                            ]
+                        ]
+                    ]
+                }
+            }
+        ]
+    },
+    "ISO": {
+        "alpha2": "ET",
+        "alpha3": "ETH"
+    },
+    "states": [
+        {
+            "id": 11,
+            "name": "Addis Ababa",
+            "state_code": "AA",
+            "cities": [
+                {
+                    "id": 38587,
+                    "name": "Addis Ababa",
+                    "latitude": "9.02497000",
+                    "longitude": "38.74689000"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Afar Region",
+            "state_code": "AF",
+            "cities": [
+                {
+                    "id": 38589,
+                    "name": "Administrative Zone 2",
+                    "latitude": "13.68513000",
+                    "longitude": "40.05615000"
+                },
+                {
+                    "id": 38590,
+                    "name": "Administrative Zone 3",
+                    "latitude": "10.00902000",
+                    "longitude": "40.47394000"
+                },
+                {
+                    "id": 38595,
+                    "name": "Asaita",
+                    "latitude": "11.56838000",
+                    "longitude": "41.43869000"
+                },
+                {
+                    "id": 38729,
+                    "name": "Āwash",
+                    "latitude": "8.98333000",
+                    "longitude": "40.16667000"
+                },
+                {
+                    "id": 38624,
+                    "name": "Dubti",
+                    "latitude": "11.73292000",
+                    "longitude": "41.08200000"
+                },
+                {
+                    "id": 38637,
+                    "name": "Gewanē",
+                    "latitude": "10.16658000",
+                    "longitude": "40.64689000"
+                },
+                {
+                    "id": 38691,
+                    "name": "Semera",
+                    "latitude": "11.79342000",
+                    "longitude": "41.00578000"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Amhara Region",
+            "state_code": "AM",
+            "cities": [
+                {
+                    "id": 38585,
+                    "name": "Abomsa",
+                    "latitude": "9.98333000",
+                    "longitude": "39.98333000"
+                },
+                {
+                    "id": 38586,
+                    "name": "Addiet Canna",
+                    "latitude": "11.26667000",
+                    "longitude": "37.48333000"
+                },
+                {
+                    "id": 38722,
+                    "name": "Ādīs Zemen",
+                    "latitude": "12.11667000",
+                    "longitude": "37.78333000"
+                },
+                {
+                    "id": 38598,
+                    "name": "Bahir Dar",
+                    "latitude": "11.59364000",
+                    "longitude": "37.39077000"
+                },
+                {
+                    "id": 38600,
+                    "name": "Batī",
+                    "latitude": "11.19152000",
+                    "longitude": "40.01675000"
+                },
+                {
+                    "id": 38604,
+                    "name": "Bichena",
+                    "latitude": "10.45000000",
+                    "longitude": "38.20000000"
+                },
+                {
+                    "id": 38608,
+                    "name": "Burē",
+                    "latitude": "10.70000000",
+                    "longitude": "37.06667000"
+                },
+                {
+                    "id": 38610,
+                    "name": "Dabat",
+                    "latitude": "12.98417000",
+                    "longitude": "37.76500000"
+                },
+                {
+                    "id": 38611,
+                    "name": "Debark’",
+                    "latitude": "13.15611000",
+                    "longitude": "37.89806000"
+                },
+                {
+                    "id": 38612,
+                    "name": "Debre Birhan",
+                    "latitude": "9.67954000",
+                    "longitude": "39.53262000"
+                },
+                {
+                    "id": 38613,
+                    "name": "Debre Mark’os",
+                    "latitude": "10.35000000",
+                    "longitude": "37.73333000"
+                },
+                {
+                    "id": 38614,
+                    "name": "Debre Sīna",
+                    "latitude": "9.84752000",
+                    "longitude": "39.76027000"
+                },
+                {
+                    "id": 38615,
+                    "name": "Debre Tabor",
+                    "latitude": "11.85000000",
+                    "longitude": "38.01667000"
+                },
+                {
+                    "id": 38616,
+                    "name": "Debre Werk’",
+                    "latitude": "10.66667000",
+                    "longitude": "38.16667000"
+                },
+                {
+                    "id": 38619,
+                    "name": "Dejen",
+                    "latitude": "10.16667000",
+                    "longitude": "38.13333000"
+                },
+                {
+                    "id": 38621,
+                    "name": "Desē",
+                    "latitude": "11.13333000",
+                    "longitude": "39.63333000"
+                },
+                {
+                    "id": 38631,
+                    "name": "Finote Selam",
+                    "latitude": "10.70000000",
+                    "longitude": "37.26667000"
+                },
+                {
+                    "id": 38642,
+                    "name": "Gondar",
+                    "latitude": "12.60000000",
+                    "longitude": "37.46667000"
+                },
+                {
+                    "id": 38664,
+                    "name": "Kemisē",
+                    "latitude": "10.71668000",
+                    "longitude": "39.86997000"
+                },
+                {
+                    "id": 38667,
+                    "name": "Kombolcha",
+                    "latitude": "11.08155000",
+                    "longitude": "39.74339000"
+                },
+                {
+                    "id": 38671,
+                    "name": "Lalībela",
+                    "latitude": "12.03219000",
+                    "longitude": "39.04756000"
+                },
+                {
+                    "id": 38686,
+                    "name": "North Shewa Zone",
+                    "latitude": "9.76900000",
+                    "longitude": "39.66800000"
+                },
+                {
+                    "id": 38688,
+                    "name": "North Wollo Zone",
+                    "latitude": "11.92000000",
+                    "longitude": "39.10000000"
+                },
+                {
+                    "id": 38689,
+                    "name": "Robīt",
+                    "latitude": "12.01667000",
+                    "longitude": "39.63333000"
+                },
+                {
+                    "id": 38701,
+                    "name": "South Gondar Zone",
+                    "latitude": "11.83850000",
+                    "longitude": "38.09954000"
+                },
+                {
+                    "id": 38702,
+                    "name": "South Wollo Zone",
+                    "latitude": "11.00000000",
+                    "longitude": "39.25000000"
+                },
+                {
+                    "id": 38708,
+                    "name": "Wag Hemra Zone",
+                    "latitude": "12.76500000",
+                    "longitude": "38.84300000"
+                },
+                {
+                    "id": 38712,
+                    "name": "Were Īlu",
+                    "latitude": "10.58964000",
+                    "longitude": "39.43767000"
+                },
+                {
+                    "id": 38713,
+                    "name": "Werota",
+                    "latitude": "11.91667000",
+                    "longitude": "37.70000000"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Benishangul-Gumuz Region",
+            "state_code": "BE",
+            "cities": [
+                {
+                    "id": 38728,
+                    "name": "Āsosa",
+                    "latitude": "10.06667000",
+                    "longitude": "34.53333000"
+                },
+                {
+                    "id": 38596,
+                    "name": "Asosa",
+                    "latitude": "10.00000000",
+                    "longitude": "34.50000000"
+                },
+                {
+                    "id": 38679,
+                    "name": "Metekel",
+                    "latitude": "10.42673000",
+                    "longitude": "35.71975000"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Dire Dawa",
+            "state_code": "DD",
+            "cities": [
+                {
+                    "id": 38622,
+                    "name": "Dire Dawa",
+                    "latitude": "9.59306000",
+                    "longitude": "41.86611000"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Gambela Region",
+            "state_code": "GA",
+            "cities": [
+                {
+                    "id": 38588,
+                    "name": "Administrative Zone 1",
+                    "latitude": "8.14699000",
+                    "longitude": "33.97335000"
+                },
+                {
+                    "id": 38632,
+                    "name": "Gambēla",
+                    "latitude": "8.25000000",
+                    "longitude": "34.58333000"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Harari Region",
+            "state_code": "HA",
+            "cities": [
+                {
+                    "id": 38650,
+                    "name": "Harar",
+                    "latitude": "9.31387000",
+                    "longitude": "42.11815000"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Oromia Region",
+            "state_code": "OR",
+            "cities": [
+                {
+                    "id": 38723,
+                    "name": "Ādīs ‘Alem",
+                    "latitude": "9.03333000",
+                    "longitude": "38.40000000"
+                },
+                {
+                    "id": 38724,
+                    "name": "Āgaro",
+                    "latitude": "7.85000000",
+                    "longitude": "36.65000000"
+                },
+                {
+                    "id": 38594,
+                    "name": "Arsi Zone",
+                    "latitude": "7.50000000",
+                    "longitude": "39.50000000"
+                },
+                {
+                    "id": 38726,
+                    "name": "Āsasa",
+                    "latitude": "7.10000000",
+                    "longitude": "39.20000000"
+                },
+                {
+                    "id": 38727,
+                    "name": "Āsbe Teferī",
+                    "latitude": "9.08569000",
+                    "longitude": "40.86708000"
+                },
+                {
+                    "id": 38601,
+                    "name": "Bedelē",
+                    "latitude": "8.45600000",
+                    "longitude": "36.35302000"
+                },
+                {
+                    "id": 38602,
+                    "name": "Bedēsa",
+                    "latitude": "8.90000000",
+                    "longitude": "40.78333000"
+                },
+                {
+                    "id": 38605,
+                    "name": "Bishoftu",
+                    "latitude": "8.75225000",
+                    "longitude": "38.97846000"
+                },
+                {
+                    "id": 38617,
+                    "name": "Deder",
+                    "latitude": "9.31168000",
+                    "longitude": "41.44301000"
+                },
+                {
+                    "id": 38620,
+                    "name": "Dembī Dolo",
+                    "latitude": "8.53333000",
+                    "longitude": "34.80000000"
+                },
+                {
+                    "id": 38623,
+                    "name": "Dodola",
+                    "latitude": "6.98333000",
+                    "longitude": "39.18333000"
+                },
+                {
+                    "id": 38626,
+                    "name": "East Harerghe Zone",
+                    "latitude": "8.70114000",
+                    "longitude": "42.00241000"
+                },
+                {
+                    "id": 38627,
+                    "name": "East Shewa Zone",
+                    "latitude": "8.21353000",
+                    "longitude": "38.84809000"
+                },
+                {
+                    "id": 38628,
+                    "name": "East Wellega Zone",
+                    "latitude": "9.51928000",
+                    "longitude": "36.75762000"
+                },
+                {
+                    "id": 38630,
+                    "name": "Fichē",
+                    "latitude": "9.80000000",
+                    "longitude": "38.73333000"
+                },
+                {
+                    "id": 38633,
+                    "name": "Gebre Guracha",
+                    "latitude": "9.80000000",
+                    "longitude": "38.40000000"
+                },
+                {
+                    "id": 38646,
+                    "name": "Gēdo",
+                    "latitude": "9.01667000",
+                    "longitude": "37.45000000"
+                },
+                {
+                    "id": 38635,
+                    "name": "Gelemso",
+                    "latitude": "8.81667000",
+                    "longitude": "40.51667000"
+                },
+                {
+                    "id": 38636,
+                    "name": "Genet",
+                    "latitude": "9.06667000",
+                    "longitude": "38.50000000"
+                },
+                {
+                    "id": 38638,
+                    "name": "Gimbi",
+                    "latitude": "9.17031000",
+                    "longitude": "35.83491000"
+                },
+                {
+                    "id": 38639,
+                    "name": "Ginir",
+                    "latitude": "7.13952000",
+                    "longitude": "40.71083000"
+                },
+                {
+                    "id": 38640,
+                    "name": "Goba",
+                    "latitude": "7.01667000",
+                    "longitude": "39.98333000"
+                },
+                {
+                    "id": 38643,
+                    "name": "Gorē",
+                    "latitude": "8.15000000",
+                    "longitude": "35.53333000"
+                },
+                {
+                    "id": 38644,
+                    "name": "Guji Zone",
+                    "latitude": "5.58800000",
+                    "longitude": "39.06700000"
+                },
+                {
+                    "id": 38654,
+                    "name": "Hāgere Hiywet",
+                    "latitude": "8.98333000",
+                    "longitude": "37.85000000"
+                },
+                {
+                    "id": 38649,
+                    "name": "Hagere Maryam",
+                    "latitude": "5.63418000",
+                    "longitude": "38.23603000"
+                },
+                {
+                    "id": 38656,
+                    "name": "Hīrna",
+                    "latitude": "9.21667000",
+                    "longitude": "41.10000000"
+                },
+                {
+                    "id": 38653,
+                    "name": "Huruta",
+                    "latitude": "8.15000000",
+                    "longitude": "39.35000000"
+                },
+                {
+                    "id": 38657,
+                    "name": "Illubabor Zone",
+                    "latitude": "8.27526000",
+                    "longitude": "35.75596000"
+                },
+                {
+                    "id": 38660,
+                    "name": "Jimma",
+                    "latitude": "7.67344000",
+                    "longitude": "36.83441000"
+                },
+                {
+                    "id": 38661,
+                    "name": "Jimma Zone",
+                    "latitude": "7.66667000",
+                    "longitude": "37.00000000"
+                },
+                {
+                    "id": 38665,
+                    "name": "Kibre Mengist",
+                    "latitude": "5.88333000",
+                    "longitude": "38.98333000"
+                },
+                {
+                    "id": 38666,
+                    "name": "Kofelē",
+                    "latitude": "7.06667000",
+                    "longitude": "38.78333000"
+                },
+                {
+                    "id": 38682,
+                    "name": "Mēga",
+                    "latitude": "4.05000000",
+                    "longitude": "38.30000000"
+                },
+                {
+                    "id": 38677,
+                    "name": "Mendī",
+                    "latitude": "9.80000000",
+                    "longitude": "35.10000000"
+                },
+                {
+                    "id": 38678,
+                    "name": "Metahāra",
+                    "latitude": "8.90000000",
+                    "longitude": "39.91667000"
+                },
+                {
+                    "id": 38680,
+                    "name": "Metu",
+                    "latitude": "8.30000000",
+                    "longitude": "35.58333000"
+                },
+                {
+                    "id": 38681,
+                    "name": "Mojo",
+                    "latitude": "8.58679000",
+                    "longitude": "39.12111000"
+                },
+                {
+                    "id": 38684,
+                    "name": "Nazrēt",
+                    "latitude": "8.55000000",
+                    "longitude": "39.26667000"
+                },
+                {
+                    "id": 38685,
+                    "name": "Nejo",
+                    "latitude": "9.50000000",
+                    "longitude": "35.50000000"
+                },
+                {
+                    "id": 38687,
+                    "name": "North Shewa Zone",
+                    "latitude": "9.66915000",
+                    "longitude": "38.81240000"
+                },
+                {
+                    "id": 38690,
+                    "name": "Sebeta",
+                    "latitude": "8.91667000",
+                    "longitude": "38.61667000"
+                },
+                {
+                    "id": 38692,
+                    "name": "Sendafa",
+                    "latitude": "9.15203000",
+                    "longitude": "39.02335000"
+                },
+                {
+                    "id": 38693,
+                    "name": "Shakiso",
+                    "latitude": "5.76494000",
+                    "longitude": "38.91006000"
+                },
+                {
+                    "id": 38694,
+                    "name": "Shambu",
+                    "latitude": "9.56667000",
+                    "longitude": "37.10000000"
+                },
+                {
+                    "id": 38695,
+                    "name": "Shashemenē",
+                    "latitude": "7.20000000",
+                    "longitude": "38.60000000"
+                },
+                {
+                    "id": 38699,
+                    "name": "Sirre",
+                    "latitude": "8.31667000",
+                    "longitude": "39.48333000"
+                },
+                {
+                    "id": 38706,
+                    "name": "Tulu Bolo",
+                    "latitude": "8.66667000",
+                    "longitude": "38.21667000"
+                },
+                {
+                    "id": 38709,
+                    "name": "Waliso",
+                    "latitude": "8.53417000",
+                    "longitude": "37.96515000"
+                },
+                {
+                    "id": 38711,
+                    "name": "Wenjī",
+                    "latitude": "8.45000000",
+                    "longitude": "39.28333000"
+                },
+                {
+                    "id": 38714,
+                    "name": "West Harerghe Zone",
+                    "latitude": "8.67245000",
+                    "longitude": "40.84885000"
+                },
+                {
+                    "id": 38715,
+                    "name": "West Wellega Zone",
+                    "latitude": "9.17283000",
+                    "longitude": "35.05279000"
+                },
+                {
+                    "id": 38717,
+                    "name": "Yabēlo",
+                    "latitude": "4.88333000",
+                    "longitude": "38.08333000"
+                },
+                {
+                    "id": 38720,
+                    "name": "Ziway",
+                    "latitude": "7.93333000",
+                    "longitude": "38.71667000"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Somali Region",
+            "state_code": "SO",
+            "cities": [
+                {
+                    "id": 38591,
+                    "name": "Afder Zone",
+                    "latitude": "5.25000000",
+                    "longitude": "43.00000000"
+                },
+                {
+                    "id": 38618,
+                    "name": "Degehabur Zone",
+                    "latitude": "8.25000000",
+                    "longitude": "43.75000000"
+                },
+                {
+                    "id": 38641,
+                    "name": "Gode Zone",
+                    "latitude": "6.00000000",
+                    "longitude": "43.75000000"
+                },
+                {
+                    "id": 38659,
+                    "name": "Jijiga",
+                    "latitude": "9.35000000",
+                    "longitude": "42.80000000"
+                },
+                {
+                    "id": 38673,
+                    "name": "Liben zone",
+                    "latitude": "4.75000000",
+                    "longitude": "40.50000000"
+                },
+                {
+                    "id": 38697,
+                    "name": "Shinile Zone",
+                    "latitude": "10.17097000",
+                    "longitude": "41.83748000"
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Southern Nations, Nationalities, and Peoples' Region",
+            "state_code": "SN",
+            "cities": [
+                {
+                    "id": 38592,
+                    "name": "Alaba Special Wereda",
+                    "latitude": "7.45347000",
+                    "longitude": "38.21189000"
+                },
+                {
+                    "id": 38593,
+                    "name": "Arba Minch",
+                    "latitude": "6.03333000",
+                    "longitude": "37.55000000"
+                },
+                {
+                    "id": 38725,
+                    "name": "Āreka",
+                    "latitude": "7.06667000",
+                    "longitude": "37.70000000"
+                },
+                {
+                    "id": 38599,
+                    "name": "Bako",
+                    "latitude": "5.78333000",
+                    "longitude": "36.56667000"
+                },
+                {
+                    "id": 38603,
+                    "name": "Bench Maji Zone",
+                    "latitude": "6.45994000",
+                    "longitude": "35.30549000"
+                },
+                {
+                    "id": 38606,
+                    "name": "Bodītī",
+                    "latitude": "6.96667000",
+                    "longitude": "37.86667000"
+                },
+                {
+                    "id": 38607,
+                    "name": "Bonga",
+                    "latitude": "7.28333000",
+                    "longitude": "36.23333000"
+                },
+                {
+                    "id": 38609,
+                    "name": "Butajīra",
+                    "latitude": "8.11667000",
+                    "longitude": "38.36667000"
+                },
+                {
+                    "id": 38625,
+                    "name": "Dīla",
+                    "latitude": "6.41667000",
+                    "longitude": "38.31667000"
+                },
+                {
+                    "id": 38629,
+                    "name": "Felege Neway",
+                    "latitude": "6.30000000",
+                    "longitude": "36.88333000"
+                },
+                {
+                    "id": 38634,
+                    "name": "Gedeo Zone",
+                    "latitude": "6.12727000",
+                    "longitude": "38.27716000"
+                },
+                {
+                    "id": 38647,
+                    "name": "Gīdolē",
+                    "latitude": "5.65000000",
+                    "longitude": "37.36667000"
+                },
+                {
+                    "id": 38645,
+                    "name": "Guraghe Zone",
+                    "latitude": "8.25000000",
+                    "longitude": "38.00000000"
+                },
+                {
+                    "id": 38648,
+                    "name": "Hadiya Zone",
+                    "latitude": "7.50000000",
+                    "longitude": "37.75000000"
+                },
+                {
+                    "id": 38655,
+                    "name": "Hāgere Selam",
+                    "latitude": "6.48333000",
+                    "longitude": "38.51667000"
+                },
+                {
+                    "id": 38651,
+                    "name": "Hawassa",
+                    "latitude": "7.06205000",
+                    "longitude": "38.47635000"
+                },
+                {
+                    "id": 38652,
+                    "name": "Hosa’ina",
+                    "latitude": "7.54978000",
+                    "longitude": "37.85374000"
+                },
+                {
+                    "id": 38662,
+                    "name": "Jinka",
+                    "latitude": "5.65000000",
+                    "longitude": "36.65000000"
+                },
+                {
+                    "id": 38670,
+                    "name": "K’olīto",
+                    "latitude": "7.31667000",
+                    "longitude": "38.08333000"
+                },
+                {
+                    "id": 38663,
+                    "name": "Kembata Alaba Tembaro Zone",
+                    "latitude": "7.27039000",
+                    "longitude": "37.77887000"
+                },
+                {
+                    "id": 38668,
+                    "name": "Konso",
+                    "latitude": "5.25000000",
+                    "longitude": "37.48333000"
+                },
+                {
+                    "id": 38672,
+                    "name": "Leku",
+                    "latitude": "6.87309000",
+                    "longitude": "38.44425000"
+                },
+                {
+                    "id": 38674,
+                    "name": "Lobuni",
+                    "latitude": "4.83333000",
+                    "longitude": "36.10000000"
+                },
+                {
+                    "id": 38683,
+                    "name": "Mīzan Teferī",
+                    "latitude": "6.99865000",
+                    "longitude": "35.58879000"
+                },
+                {
+                    "id": 38696,
+                    "name": "Sheka Zone",
+                    "latitude": "7.56166000",
+                    "longitude": "35.40174000"
+                },
+                {
+                    "id": 38698,
+                    "name": "Sidama Zone",
+                    "latitude": "6.71800000",
+                    "longitude": "38.44800000"
+                },
+                {
+                    "id": 38700,
+                    "name": "Sodo",
+                    "latitude": "6.86000000",
+                    "longitude": "37.76159000"
+                },
+                {
+                    "id": 38705,
+                    "name": "Tippi",
+                    "latitude": "7.20000000",
+                    "longitude": "35.45000000"
+                },
+                {
+                    "id": 38707,
+                    "name": "Turmi",
+                    "latitude": "4.96667000",
+                    "longitude": "36.48333000"
+                },
+                {
+                    "id": 38710,
+                    "name": "Wendo",
+                    "latitude": "6.60000000",
+                    "longitude": "38.41667000"
+                },
+                {
+                    "id": 38716,
+                    "name": "Wolayita Zone",
+                    "latitude": "6.84312000",
+                    "longitude": "37.70051000"
+                },
+                {
+                    "id": 38718,
+                    "name": "Yem",
+                    "latitude": "7.83333000",
+                    "longitude": "37.50000000"
+                },
+                {
+                    "id": 38719,
+                    "name": "Yirga ‘Alem",
+                    "latitude": "6.75000000",
+                    "longitude": "38.41667000"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Tigray Region",
+            "state_code": "TI",
+            "cities": [
+                {
+                    "id": 38721,
+                    "name": "Ādīgrat",
+                    "latitude": "14.27700000",
+                    "longitude": "39.46200000"
+                },
+                {
+                    "id": 38597,
+                    "name": "Axum",
+                    "latitude": "14.12109000",
+                    "longitude": "38.72337000"
+                },
+                {
+                    "id": 38658,
+                    "name": "Inda Silasē",
+                    "latitude": "14.10307000",
+                    "longitude": "38.28289000"
+                },
+                {
+                    "id": 38669,
+                    "name": "Korem",
+                    "latitude": "12.50583000",
+                    "longitude": "39.52278000"
+                },
+                {
+                    "id": 38675,
+                    "name": "Maych’ew",
+                    "latitude": "12.78750000",
+                    "longitude": "39.54222000"
+                },
+                {
+                    "id": 38676,
+                    "name": "Mek'ele",
+                    "latitude": "13.49667000",
+                    "longitude": "39.47528000"
+                },
+                {
+                    "id": 38703,
+                    "name": "Southeastern Tigray Zone",
+                    "latitude": "13.24797000",
+                    "longitude": "39.53156000"
+                },
+                {
+                    "id": 38704,
+                    "name": "Southern Tigray Zone",
+                    "latitude": "12.96033000",
+                    "longitude": "39.52831000"
+                }
+            ]
+        }
+    ],
+    "languages": [
+        "Amharic",
+        "Gurage",
+        "Oromo",
+        "Sidamo",
+        "Somali",
+        "Tigrigna",
+        "Walaita"
+    ],
+    "latlng": [
+        8,
+        38
+    ],
+    "nativeName": "ኢትዮጵያ",
+    "population": 87952991,
+    "timezones": [
+        "UTC+03:00"
+    ],
+    "tld": [
+        ".et"
+    ],
+    "translations": {
+        "de": "Äthiopien",
+        "es": "Etiopía",
+        "fr": "Éthiopie",
+        "ja": "エチオピア",
+        "it": "Etiopia"
+    },
+    "continent": "Africa",
+    "government": "Republic",
+    "independence": null,
+    "expectancy": 45.2,
+    "dish": "Wat with injera, Fit-fit",
+    "symbol": "animal",
+    "density": 109.224559,
+    "location": "Eastern Africa",
+    "temperature": 22.2,
+    "religion": "Christianity",
+    "wiki": "http://en.wikipedia.org/wiki/ethiopia"
+}

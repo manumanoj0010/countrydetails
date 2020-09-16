@@ -1,0 +1,665 @@
+{
+    "name": "Iceland",
+    "altSpellings": [
+        "IS",
+        "Island",
+        "Republic of Iceland",
+        "Lýðveldið Ísland"
+    ],
+    "area": 103000,
+    "borders": [],
+    "callingCodes": [
+        "354"
+    ],
+    "capital": "Reykjavik",
+    "capital_latlng": [
+        64.145981,
+        -21.942237
+    ],
+    "currencies": [
+        "ISK"
+    ],
+    "demonym": "Icelander",
+    "flag": "",
+    "geoJSON": {
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "type": "Feature",
+                "id": "ISL",
+                "properties": {
+                    "name": "Iceland"
+                },
+                "geometry": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                -14.508695,
+                                66.455892
+                            ],
+                            [
+                                -14.739637,
+                                65.808748
+                            ],
+                            [
+                                -13.609732,
+                                65.126671
+                            ],
+                            [
+                                -14.909834,
+                                64.364082
+                            ],
+                            [
+                                -17.794438,
+                                63.678749
+                            ],
+                            [
+                                -18.656246,
+                                63.496383
+                            ],
+                            [
+                                -19.972755,
+                                63.643635
+                            ],
+                            [
+                                -22.762972,
+                                63.960179
+                            ],
+                            [
+                                -21.778484,
+                                64.402116
+                            ],
+                            [
+                                -23.955044,
+                                64.89113
+                            ],
+                            [
+                                -22.184403,
+                                65.084968
+                            ],
+                            [
+                                -22.227423,
+                                65.378594
+                            ],
+                            [
+                                -24.326184,
+                                65.611189
+                            ],
+                            [
+                                -23.650515,
+                                66.262519
+                            ],
+                            [
+                                -22.134922,
+                                66.410469
+                            ],
+                            [
+                                -20.576284,
+                                65.732112
+                            ],
+                            [
+                                -19.056842,
+                                66.276601
+                            ],
+                            [
+                                -17.798624,
+                                65.993853
+                            ],
+                            [
+                                -16.167819,
+                                66.526792
+                            ],
+                            [
+                                -14.508695,
+                                66.455892
+                            ]
+                        ]
+                    ]
+                }
+            }
+        ]
+    },
+    "ISO": {
+        "alpha2": "IS",
+        "alpha3": "ISL"
+    },
+    "latlng": [
+        65,
+        -18
+    ],
+    "nativeName": "Ísland",
+    "population": 328170,
+    
+    "timezones": [
+        "UTC"
+    ],
+    "tld": [
+        ".is"
+    ],
+    "translations": {
+        "de": "Island",
+        "es": "Islandia",
+        "fr": "Islande",
+        "ja": "アイスランド",
+        "it": "Islanda"
+    },
+    "continent": "Europe",
+    "states": [
+        {
+            "id": 3431,
+            "name": "Capital Region",
+            "state_code": "1",
+            "cities": [
+                {
+                    "id": 135228,
+                    "name": "Álftanes",
+                    "latitude": "64.10000000",
+                    "longitude": "-22.01667000"
+                },
+                {
+                    "id": 135181,
+                    "name": "Garðabær",
+                    "latitude": "64.08865000",
+                    "longitude": "-21.92298000"
+                },
+                {
+                    "id": 135186,
+                    "name": "Hafnarfjörður",
+                    "latitude": "64.06710000",
+                    "longitude": "-21.93774000"
+                },
+                {
+                    "id": 135196,
+                    "name": "Kjósarhreppur",
+                    "latitude": "64.30644000",
+                    "longitude": "-21.49919000"
+                },
+                {
+                    "id": 135197,
+                    "name": "Kópavogur",
+                    "latitude": "64.11234000",
+                    "longitude": "-21.91298000"
+                },
+                {
+                    "id": 135200,
+                    "name": "Mosfellsbaer",
+                    "latitude": "64.15000000",
+                    "longitude": "-21.65000000"
+                },
+                {
+                    "id": 135201,
+                    "name": "Mosfellsbær",
+                    "latitude": "64.16667000",
+                    "longitude": "-21.70000000"
+                },
+                {
+                    "id": 135206,
+                    "name": "Reykjavík",
+                    "latitude": "64.13548000",
+                    "longitude": "-21.89541000"
+                },
+                {
+                    "id": 135211,
+                    "name": "Seltjarnarnes",
+                    "latitude": "64.15309000",
+                    "longitude": "-21.99499000"
+                }
+            ]
+        },
+        {
+            "id": 3433,
+            "name": "Eastern Region",
+            "state_code": "7",
+            "cities": [
+                {
+                    "id": 135166,
+                    "name": "Borgarfjarðarhreppur",
+                    "latitude": "65.43401000",
+                    "longitude": "-13.82933000"
+                },
+                {
+                    "id": 135168,
+                    "name": "Breiðdalshreppur",
+                    "latitude": "64.83333000",
+                    "longitude": "-14.25000000"
+                },
+                {
+                    "id": 135172,
+                    "name": "Egilsstaðir",
+                    "latitude": "65.26687000",
+                    "longitude": "-14.39485000"
+                },
+                {
+                    "id": 135173,
+                    "name": "Eskifjörður",
+                    "latitude": "65.07306000",
+                    "longitude": "-14.01525000"
+                },
+                {
+                    "id": 135177,
+                    "name": "Fjarðabyggð",
+                    "latitude": "65.08333000",
+                    "longitude": "-14.00000000"
+                },
+                {
+                    "id": 135179,
+                    "name": "Fljótsdalshérað",
+                    "latitude": "65.25020000",
+                    "longitude": "-15.37211000"
+                },
+                {
+                    "id": 135178,
+                    "name": "Fljótsdalshreppur",
+                    "latitude": "64.85275000",
+                    "longitude": "-15.25680000"
+                },
+                {
+                    "id": 135191,
+                    "name": "Höfn",
+                    "latitude": "64.25388000",
+                    "longitude": "-15.21212000"
+                },
+                {
+                    "id": 135203,
+                    "name": "Neskaupstaður",
+                    "latitude": "65.14819000",
+                    "longitude": "-13.68368000"
+                },
+                {
+                    "id": 135207,
+                    "name": "Reyðarfjörður",
+                    "latitude": "65.03164000",
+                    "longitude": "-14.21832000"
+                }
+            ]
+        },
+        {
+            "id": 3437,
+            "name": "Northeastern Region",
+            "state_code": "6",
+            "cities": [
+                {
+                    "id": 135163,
+                    "name": "Akureyri",
+                    "latitude": "65.68353000",
+                    "longitude": "-18.08780000"
+                },
+                {
+                    "id": 135170,
+                    "name": "Dalvík",
+                    "latitude": "65.97018000",
+                    "longitude": "-18.52861000"
+                },
+                {
+                    "id": 135171,
+                    "name": "Dalvíkurbyggð",
+                    "latitude": "65.87318000",
+                    "longitude": "-18.60844000"
+                },
+                {
+                    "id": 135175,
+                    "name": "Eyjafjarðarsveit",
+                    "latitude": "65.33333000",
+                    "longitude": "-18.16667000"
+                },
+                {
+                    "id": 135176,
+                    "name": "Fjallabyggð",
+                    "latitude": "66.05962000",
+                    "longitude": "-18.78220000"
+                },
+                {
+                    "id": 135185,
+                    "name": "Grýtubakkahreppur",
+                    "latitude": "65.98333000",
+                    "longitude": "-18.11667000"
+                },
+                {
+                    "id": 135192,
+                    "name": "Hörgársveit",
+                    "latitude": "65.64828000",
+                    "longitude": "-18.49599000"
+                },
+                {
+                    "id": 135194,
+                    "name": "Húsavík",
+                    "latitude": "66.04148000",
+                    "longitude": "-17.33834000"
+                },
+                {
+                    "id": 135198,
+                    "name": "Langanesbyggð",
+                    "latitude": "66.05186000",
+                    "longitude": "-15.18969000"
+                },
+                {
+                    "id": 135199,
+                    "name": "Laugar",
+                    "latitude": "65.72159000",
+                    "longitude": "-17.37352000"
+                },
+                {
+                    "id": 135212,
+                    "name": "Siglufjörður",
+                    "latitude": "66.15198000",
+                    "longitude": "-18.90815000"
+                },
+                {
+                    "id": 135217,
+                    "name": "Skútustaðahreppur",
+                    "latitude": "65.17177000",
+                    "longitude": "-16.77890000"
+                },
+                {
+                    "id": 135221,
+                    "name": "Svalbarðsstrandarhreppur",
+                    "latitude": "65.74138000",
+                    "longitude": "-18.03513000"
+                },
+                {
+                    "id": 135223,
+                    "name": "Tjörneshreppur",
+                    "latitude": "66.11667000",
+                    "longitude": "-17.20000000"
+                },
+                {
+                    "id": 135233,
+                    "name": "Þingeyjarsveit",
+                    "latitude": "65.37229000",
+                    "longitude": "-17.59927000"
+                }
+            ]
+        },
+        {
+            "id": 3435,
+            "name": "Northwestern Region",
+            "state_code": "5",
+            "cities": [
+                {
+                    "id": 135161,
+                    "name": "Akrahreppur",
+                    "latitude": "65.35505000",
+                    "longitude": "-18.79572000"
+                },
+                {
+                    "id": 135193,
+                    "name": "Húnaþing Vestra",
+                    "latitude": "65.25000000",
+                    "longitude": "-20.91667000"
+                },
+                {
+                    "id": 135209,
+                    "name": "Sauðárkrókur",
+                    "latitude": "65.74611000",
+                    "longitude": "-19.63944000"
+                },
+                {
+                    "id": 135214,
+                    "name": "Skagabyggð",
+                    "latitude": "65.95000000",
+                    "longitude": "-20.25000000"
+                },
+                {
+                    "id": 135222,
+                    "name": "Sveitarfélagið Skagafjörður",
+                    "latitude": "65.50018000",
+                    "longitude": "-19.44566000"
+                }
+            ]
+        },
+        {
+            "id": 3430,
+            "name": "Southern Peninsula Region",
+            "state_code": "2",
+            "cities": [
+                {
+                    "id": 135182,
+                    "name": "Garður",
+                    "latitude": "64.06558000",
+                    "longitude": "-22.64656000"
+                },
+                {
+                    "id": 135183,
+                    "name": "Grindavík",
+                    "latitude": "63.83849000",
+                    "longitude": "-22.43931000"
+                },
+                {
+                    "id": 135195,
+                    "name": "Keflavík",
+                    "latitude": "64.00492000",
+                    "longitude": "-22.56242000"
+                },
+                {
+                    "id": 135205,
+                    "name": "Reykjanesbær",
+                    "latitude": "63.99813000",
+                    "longitude": "-22.56111000"
+                },
+                {
+                    "id": 135208,
+                    "name": "Sandgerði",
+                    "latitude": "64.03762000",
+                    "longitude": "-22.70799000"
+                },
+                {
+                    "id": 135227,
+                    "name": "Vogar",
+                    "latitude": "63.98160000",
+                    "longitude": "-22.38473000"
+                }
+            ]
+        },
+        {
+            "id": 3434,
+            "name": "Southern Region",
+            "state_code": "8",
+            "cities": [
+                {
+                    "id": 135229,
+                    "name": "Ásahreppur",
+                    "latitude": "63.87589000",
+                    "longitude": "-20.59484000"
+                },
+                {
+                    "id": 135164,
+                    "name": "Bláskógabyggð",
+                    "latitude": "64.41667000",
+                    "longitude": "-20.33333000"
+                },
+                {
+                    "id": 135180,
+                    "name": "Flóahreppur",
+                    "latitude": "63.89569000",
+                    "longitude": "-20.80159000"
+                },
+                {
+                    "id": 135184,
+                    "name": "Grímsnes- og Grafningshreppur",
+                    "latitude": "64.08533000",
+                    "longitude": "-20.96710000"
+                },
+                {
+                    "id": 135188,
+                    "name": "Hrunamannahreppur",
+                    "latitude": "64.40944000",
+                    "longitude": "-19.72237000"
+                },
+                {
+                    "id": 135190,
+                    "name": "Hveragerði",
+                    "latitude": "64.00039000",
+                    "longitude": "-21.18602000"
+                },
+                {
+                    "id": 135202,
+                    "name": "Mýrdalshreppur",
+                    "latitude": "63.50000000",
+                    "longitude": "-19.00000000"
+                },
+                {
+                    "id": 135210,
+                    "name": "Selfoss",
+                    "latitude": "63.93311000",
+                    "longitude": "-20.99712000"
+                },
+                {
+                    "id": 135213,
+                    "name": "Skaftárhreppur",
+                    "latitude": "63.95948000",
+                    "longitude": "-18.14491000"
+                },
+                {
+                    "id": 135215,
+                    "name": "Skeiða- og Gnúpverjahreppur",
+                    "latitude": "64.34738000",
+                    "longitude": "-19.37757000"
+                },
+                {
+                    "id": 135225,
+                    "name": "Vestmannaeyjabær",
+                    "latitude": "63.43877000",
+                    "longitude": "-20.26900000"
+                },
+                {
+                    "id": 135226,
+                    "name": "Vestmannaeyjar",
+                    "latitude": "63.44273000",
+                    "longitude": "-20.27339000"
+                },
+                {
+                    "id": 135234,
+                    "name": "Þorlákshöfn",
+                    "latitude": "63.85591000",
+                    "longitude": "-21.38337000"
+                }
+            ]
+        },
+        {
+            "id": 3436,
+            "name": "Western Region",
+            "state_code": "3",
+            "cities": [
+                {
+                    "id": 135162,
+                    "name": "Akranes",
+                    "latitude": "64.32179000",
+                    "longitude": "-22.07490000"
+                },
+                {
+                    "id": 135165,
+                    "name": "Borgarbyggð",
+                    "latitude": "64.71446000",
+                    "longitude": "-21.23788000"
+                },
+                {
+                    "id": 135167,
+                    "name": "Borgarnes",
+                    "latitude": "64.53834000",
+                    "longitude": "-21.92064000"
+                },
+                {
+                    "id": 135169,
+                    "name": "Dalabyggð",
+                    "latitude": "65.10121000",
+                    "longitude": "-21.72871000"
+                },
+                {
+                    "id": 135174,
+                    "name": "Eyja- og Miklaholtshreppur",
+                    "latitude": "64.85846000",
+                    "longitude": "-22.54557000"
+                },
+                {
+                    "id": 135187,
+                    "name": "Helgafellssveit",
+                    "latitude": "64.99069000",
+                    "longitude": "-22.78948000"
+                },
+                {
+                    "id": 135189,
+                    "name": "Hvalfjarðarsveit",
+                    "latitude": "64.44265000",
+                    "longitude": "-21.61086000"
+                },
+                {
+                    "id": 135232,
+                    "name": "Ólafsvík",
+                    "latitude": "64.89429000",
+                    "longitude": "-23.70918000"
+                },
+                {
+                    "id": 135216,
+                    "name": "Skorradalshreppur",
+                    "latitude": "64.51667000",
+                    "longitude": "-21.50000000"
+                },
+                {
+                    "id": 135218,
+                    "name": "Snæfellsbær",
+                    "latitude": "64.86667000",
+                    "longitude": "-23.50000000"
+                },
+                {
+                    "id": 135220,
+                    "name": "Stykkishólmur",
+                    "latitude": "65.07537000",
+                    "longitude": "-22.72977000"
+                }
+            ]
+        },
+        {
+            "id": 3432,
+            "name": "Westfjords",
+            "state_code": "4",
+            "cities": [
+                {
+                    "id": 135230,
+                    "name": "Ísafjarðarbær",
+                    "latitude": "66.07586000",
+                    "longitude": "-23.12794000"
+                },
+                {
+                    "id": 135231,
+                    "name": "Ísafjörður",
+                    "latitude": "66.07475000",
+                    "longitude": "-23.13498000"
+                },
+                {
+                    "id": 135204,
+                    "name": "Reykhólahreppur",
+                    "latitude": "65.60990000",
+                    "longitude": "-22.33324000"
+                },
+                {
+                    "id": 135219,
+                    "name": "Strandabyggð",
+                    "latitude": "65.77455000",
+                    "longitude": "-21.95725000"
+                },
+                {
+                    "id": 135224,
+                    "name": "Tálknafjarðarhreppur",
+                    "latitude": "65.61667000",
+                    "longitude": "-23.88333000"
+                }
+            ]
+        }
+    ],
+    "government": "Republic",
+    "independence": 1944,
+    "languages": [
+        "English",
+        "Icelandic"
+    ],
+    "expectancy": 79.4,
+    "dish": "Hákarl, Þorramatur",
+    "symbol": null,
+    "density": 3.526922693,
+    "location": "Nordic Countries",
+    "religion": "Christianity",
+    "temperature": 1.75,
+
+    "wiki": "http://en.wikipedia.org/wiki/iceland"
+}

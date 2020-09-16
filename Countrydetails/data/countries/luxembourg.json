@@ -1,0 +1,1085 @@
+{
+    "name": "Luxembourg",
+    "altSpellings": [
+        "LU",
+        "Grand Duchy of Luxembourg",
+        "Grand-Duché de Luxembourg",
+        "Großherzogtum Luxemburg",
+        "Groussherzogtum Lëtzebuerg"
+    ],
+    "area": 2586,
+    "borders": [
+        "BEL",
+        "FRA",
+        "DEU"
+    ],
+    "callingCodes": [
+        "352"
+    ],
+    "capital": "Luxembourg",
+    "capital_latlng": [
+        49.815868,
+        6.129675
+    ],
+    "currencies": [
+        "EUR"
+    ],
+    "demonym": "Luxembourger",
+    "flag": "",
+    "geoJSON": {
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "type": "Feature",
+                "id": "LUX",
+                "properties": {
+                    "name": "Luxembourg"
+                },
+                "geometry": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                6.043073,
+                                50.128052
+                            ],
+                            [
+                                6.242751,
+                                49.902226
+                            ],
+                            [
+                                6.18632,
+                                49.463803
+                            ],
+                            [
+                                5.897759,
+                                49.442667
+                            ],
+                            [
+                                5.674052,
+                                49.529484
+                            ],
+                            [
+                                5.782417,
+                                50.090328
+                            ],
+                            [
+                                6.043073,
+                                50.128052
+                            ]
+                        ]
+                    ]
+                }
+            }
+        ]
+    },
+    "ISO": {
+        "alpha2": "LU",
+        "alpha3": "LUX"
+    },
+    "states": [
+        {
+            "id": 1518,
+            "name": "Canton of Capellen",
+            "state_code": "CA",
+            "cities": [
+                {
+                    "id": 66726,
+                    "name": "Bascharage",
+                    "latitude": "49.56727000",
+                    "longitude": "5.90730000"
+                },
+                {
+                    "id": 66745,
+                    "name": "Bridel",
+                    "latitude": "49.65579000",
+                    "longitude": "6.07999000"
+                },
+                {
+                    "id": 66747,
+                    "name": "Capellen",
+                    "latitude": "49.64500000",
+                    "longitude": "5.99083000"
+                },
+                {
+                    "id": 66748,
+                    "name": "Clemency",
+                    "latitude": "49.59667000",
+                    "longitude": "5.87583000"
+                },
+                {
+                    "id": 66759,
+                    "name": "Dippach",
+                    "latitude": "49.58701000",
+                    "longitude": "5.98330000"
+                },
+                {
+                    "id": 66762,
+                    "name": "Eischen",
+                    "latitude": "49.68556000",
+                    "longitude": "5.87861000"
+                },
+                {
+                    "id": 66773,
+                    "name": "Garnich",
+                    "latitude": "49.61667000",
+                    "longitude": "5.95250000"
+                },
+                {
+                    "id": 66778,
+                    "name": "Hautcharage",
+                    "latitude": "49.57499000",
+                    "longitude": "5.90970000"
+                },
+                {
+                    "id": 66783,
+                    "name": "Hobscheid",
+                    "latitude": "49.68861000",
+                    "longitude": "5.91472000"
+                },
+                {
+                    "id": 66793,
+                    "name": "Käerjeng",
+                    "latitude": "49.58311000",
+                    "longitude": "5.89892000"
+                },
+                {
+                    "id": 66788,
+                    "name": "Kehlen",
+                    "latitude": "49.66833000",
+                    "longitude": "6.03583000"
+                },
+                {
+                    "id": 66791,
+                    "name": "Koerich",
+                    "latitude": "49.67000000",
+                    "longitude": "5.95000000"
+                },
+                {
+                    "id": 66792,
+                    "name": "Kopstal",
+                    "latitude": "49.66444000",
+                    "longitude": "6.07306000"
+                },
+                {
+                    "id": 66802,
+                    "name": "Mamer",
+                    "latitude": "49.62750000",
+                    "longitude": "6.02333000"
+                },
+                {
+                    "id": 66839,
+                    "name": "Schouweiler",
+                    "latitude": "49.58250000",
+                    "longitude": "5.95639000"
+                },
+                {
+                    "id": 66842,
+                    "name": "Septfontaines",
+                    "latitude": "49.70111000",
+                    "longitude": "5.96722000"
+                },
+                {
+                    "id": 66845,
+                    "name": "Steinfort",
+                    "latitude": "49.66139000",
+                    "longitude": "5.91917000"
+                }
+            ]
+        },
+        {
+            "id": 1521,
+            "name": "Canton of Clervaux",
+            "state_code": "CL",
+            "cities": [
+                {
+                    "id": 66749,
+                    "name": "Clervaux",
+                    "latitude": "50.05472000",
+                    "longitude": "6.03139000"
+                },
+                {
+                    "id": 66784,
+                    "name": "Hosingen",
+                    "latitude": "50.01218000",
+                    "longitude": "6.09089000"
+                },
+                {
+                    "id": 66819,
+                    "name": "Parc Hosingen",
+                    "latitude": "49.99744000",
+                    "longitude": "6.09067000"
+                },
+                {
+                    "id": 66849,
+                    "name": "Troisvierges",
+                    "latitude": "50.12111000",
+                    "longitude": "6.00028000"
+                },
+                {
+                    "id": 66862,
+                    "name": "Weiswampach",
+                    "latitude": "50.13722000",
+                    "longitude": "6.07500000"
+                },
+                {
+                    "id": 66865,
+                    "name": "Wincrange",
+                    "latitude": "50.05333000",
+                    "longitude": "5.91917000"
+                }
+            ]
+        },
+        {
+            "id": 1513,
+            "name": "Canton of Diekirch",
+            "state_code": "DI",
+            "cities": [
+                {
+                    "id": 66737,
+                    "name": "Bettendorf",
+                    "latitude": "49.87667000",
+                    "longitude": "6.21806000"
+                },
+                {
+                    "id": 66743,
+                    "name": "Bourscheid",
+                    "latitude": "49.90862000",
+                    "longitude": "6.06750000"
+                },
+                {
+                    "id": 66752,
+                    "name": "Commune de la Vallée de l’Ernz",
+                    "latitude": "49.82149000",
+                    "longitude": "6.21746000"
+                },
+                {
+                    "id": 66757,
+                    "name": "Diekirch",
+                    "latitude": "49.86778000",
+                    "longitude": "6.15583000"
+                },
+                {
+                    "id": 66764,
+                    "name": "Erpeldange",
+                    "latitude": "49.86472000",
+                    "longitude": "6.11472000"
+                },
+                {
+                    "id": 66767,
+                    "name": "Ettelbruck",
+                    "latitude": "49.84750000",
+                    "longitude": "6.10417000"
+                },
+                {
+                    "id": 66769,
+                    "name": "Feulen",
+                    "latitude": "49.85000000",
+                    "longitude": "6.01667000"
+                },
+                {
+                    "id": 66804,
+                    "name": "Medernach",
+                    "latitude": "49.80955000",
+                    "longitude": "6.21521000"
+                },
+                {
+                    "id": 66807,
+                    "name": "Mertzig",
+                    "latitude": "49.83389000",
+                    "longitude": "6.00750000"
+                },
+                {
+                    "id": 66815,
+                    "name": "Niederfeulen",
+                    "latitude": "49.85556000",
+                    "longitude": "6.04722000"
+                },
+                {
+                    "id": 66826,
+                    "name": "Reisdorf",
+                    "latitude": "49.86861000",
+                    "longitude": "6.26778000"
+                },
+                {
+                    "id": 66837,
+                    "name": "Schieren",
+                    "latitude": "49.83056000",
+                    "longitude": "6.09861000"
+                },
+                {
+                    "id": 66859,
+                    "name": "Warken",
+                    "latitude": "49.85918000",
+                    "longitude": "6.08415000"
+                }
+            ]
+        },
+        {
+            "id": 1515,
+            "name": "Canton of Echternach",
+            "state_code": "EC",
+            "cities": [
+                {
+                    "id": 66728,
+                    "name": "Beaufort",
+                    "latitude": "49.83583000",
+                    "longitude": "6.29167000"
+                },
+                {
+                    "id": 66729,
+                    "name": "Bech",
+                    "latitude": "49.75260000",
+                    "longitude": "6.36379000"
+                },
+                {
+                    "id": 66732,
+                    "name": "Berdorf",
+                    "latitude": "49.82051000",
+                    "longitude": "6.34945000"
+                },
+                {
+                    "id": 66753,
+                    "name": "Consdorf",
+                    "latitude": "49.78018000",
+                    "longitude": "6.33950000"
+                },
+                {
+                    "id": 66761,
+                    "name": "Echternach",
+                    "latitude": "49.81212000",
+                    "longitude": "6.41846000"
+                },
+                {
+                    "id": 66808,
+                    "name": "Mompach",
+                    "latitude": "49.74611000",
+                    "longitude": "6.46500000"
+                },
+                {
+                    "id": 66831,
+                    "name": "Rosport",
+                    "latitude": "49.80470000",
+                    "longitude": "6.50532000"
+                },
+                {
+                    "id": 66856,
+                    "name": "Waldbillig",
+                    "latitude": "49.79636000",
+                    "longitude": "6.28431000"
+                }
+            ]
+        },
+        {
+            "id": 1517,
+            "name": "Canton of Esch-sur-Alzette",
+            "state_code": "ES",
+            "cities": [
+                {
+                    "id": 66725,
+                    "name": "Aspelt",
+                    "latitude": "49.52278000",
+                    "longitude": "6.22472000"
+                },
+                {
+                    "id": 66731,
+                    "name": "Belvaux",
+                    "latitude": "49.51014000",
+                    "longitude": "5.92414000"
+                },
+                {
+                    "id": 66733,
+                    "name": "Bergem",
+                    "latitude": "49.52500000",
+                    "longitude": "6.04222000"
+                },
+                {
+                    "id": 66736,
+                    "name": "Bettembourg",
+                    "latitude": "49.51861000",
+                    "longitude": "6.10278000"
+                },
+                {
+                    "id": 66755,
+                    "name": "Crauthem",
+                    "latitude": "49.53556000",
+                    "longitude": "6.14694000"
+                },
+                {
+                    "id": 66758,
+                    "name": "Differdange",
+                    "latitude": "49.52417000",
+                    "longitude": "5.89139000"
+                },
+                {
+                    "id": 66760,
+                    "name": "Dudelange",
+                    "latitude": "49.48056000",
+                    "longitude": "6.08750000"
+                },
+                {
+                    "id": 66765,
+                    "name": "Esch-sur-Alzette",
+                    "latitude": "49.49583000",
+                    "longitude": "5.98056000"
+                },
+                {
+                    "id": 66772,
+                    "name": "Frisange",
+                    "latitude": "49.51616000",
+                    "longitude": "6.18858000"
+                },
+                {
+                    "id": 66787,
+                    "name": "Kayl",
+                    "latitude": "49.48917000",
+                    "longitude": "6.03972000"
+                },
+                {
+                    "id": 66795,
+                    "name": "Lamadelaine",
+                    "latitude": "49.54639000",
+                    "longitude": "5.85639000"
+                },
+                {
+                    "id": 66798,
+                    "name": "Leudelange",
+                    "latitude": "49.56833000",
+                    "longitude": "6.06528000"
+                },
+                {
+                    "id": 66809,
+                    "name": "Mondercange",
+                    "latitude": "49.53306000",
+                    "longitude": "5.98833000"
+                },
+                {
+                    "id": 66814,
+                    "name": "Niedercorn",
+                    "latitude": "49.53611000",
+                    "longitude": "5.89306000"
+                },
+                {
+                    "id": 66817,
+                    "name": "Obercorn",
+                    "latitude": "49.51361000",
+                    "longitude": "5.89611000"
+                },
+                {
+                    "id": 66822,
+                    "name": "Pétange",
+                    "latitude": "49.55833000",
+                    "longitude": "5.88056000"
+                },
+                {
+                    "id": 66820,
+                    "name": "Pontpierre",
+                    "latitude": "49.53639000",
+                    "longitude": "6.02944000"
+                },
+                {
+                    "id": 66824,
+                    "name": "Reckange-sur-Mess",
+                    "latitude": "49.56250000",
+                    "longitude": "6.00889000"
+                },
+                {
+                    "id": 66828,
+                    "name": "Rodange",
+                    "latitude": "49.54639000",
+                    "longitude": "5.84083000"
+                },
+                {
+                    "id": 66829,
+                    "name": "Roeser",
+                    "latitude": "49.53721000",
+                    "longitude": "6.14629000"
+                },
+                {
+                    "id": 66832,
+                    "name": "Rumelange",
+                    "latitude": "49.45964000",
+                    "longitude": "6.03089000"
+                },
+                {
+                    "id": 66835,
+                    "name": "Sanem",
+                    "latitude": "49.54806000",
+                    "longitude": "5.92889000"
+                },
+                {
+                    "id": 66838,
+                    "name": "Schifflange",
+                    "latitude": "49.50639000",
+                    "longitude": "6.01278000"
+                },
+                {
+                    "id": 66843,
+                    "name": "Soleuvre",
+                    "latitude": "49.52148000",
+                    "longitude": "5.93781000"
+                },
+                {
+                    "id": 66851,
+                    "name": "Tétange",
+                    "latitude": "49.47583000",
+                    "longitude": "6.04222000"
+                }
+            ]
+        },
+        {
+            "id": 1525,
+            "name": "Canton of Grevenmacher",
+            "state_code": "GR",
+            "cities": [
+                {
+                    "id": 66738,
+                    "name": "Betzdorf",
+                    "latitude": "49.68333000",
+                    "longitude": "6.35000000"
+                },
+                {
+                    "id": 66740,
+                    "name": "Biwer",
+                    "latitude": "49.70605000",
+                    "longitude": "6.37201000"
+                },
+                {
+                    "id": 66771,
+                    "name": "Flaxweiler",
+                    "latitude": "49.66602000",
+                    "longitude": "6.34321000"
+                },
+                {
+                    "id": 66775,
+                    "name": "Gonderange",
+                    "latitude": "49.69537000",
+                    "longitude": "6.24577000"
+                },
+                {
+                    "id": 66776,
+                    "name": "Grevenmacher",
+                    "latitude": "49.67751000",
+                    "longitude": "6.44022000"
+                },
+                {
+                    "id": 66786,
+                    "name": "Junglinster",
+                    "latitude": "49.70722000",
+                    "longitude": "6.25306000"
+                },
+                {
+                    "id": 66803,
+                    "name": "Manternach",
+                    "latitude": "49.70278000",
+                    "longitude": "6.42639000"
+                },
+                {
+                    "id": 66806,
+                    "name": "Mertert",
+                    "latitude": "49.70261000",
+                    "longitude": "6.47966000"
+                },
+                {
+                    "id": 66860,
+                    "name": "Wasserbillig",
+                    "latitude": "49.71534000",
+                    "longitude": "6.49861000"
+                },
+                {
+                    "id": 66867,
+                    "name": "Wormeldange",
+                    "latitude": "49.61114000",
+                    "longitude": "6.40546000"
+                }
+            ]
+        },
+        {
+            "id": 1527,
+            "name": "Canton of Luxembourg",
+            "state_code": "LU",
+            "cities": [
+                {
+                    "id": 66724,
+                    "name": "Alzingen",
+                    "latitude": "49.56500000",
+                    "longitude": "6.16361000"
+                },
+                {
+                    "id": 66746,
+                    "name": "Béreldange",
+                    "latitude": "49.65507000",
+                    "longitude": "6.11874000"
+                },
+                {
+                    "id": 66734,
+                    "name": "Bertrange",
+                    "latitude": "49.61111000",
+                    "longitude": "6.05000000"
+                },
+                {
+                    "id": 66754,
+                    "name": "Contern",
+                    "latitude": "49.58194000",
+                    "longitude": "6.22667000"
+                },
+                {
+                    "id": 66768,
+                    "name": "Fentange",
+                    "latitude": "49.56278000",
+                    "longitude": "6.15389000"
+                },
+                {
+                    "id": 66780,
+                    "name": "Heisdorf",
+                    "latitude": "49.67207000",
+                    "longitude": "6.14202000"
+                },
+                {
+                    "id": 66781,
+                    "name": "Helmsange",
+                    "latitude": "49.65278000",
+                    "longitude": "6.14139000"
+                },
+                {
+                    "id": 66782,
+                    "name": "Hesperange",
+                    "latitude": "49.56806000",
+                    "longitude": "6.15139000"
+                },
+                {
+                    "id": 66785,
+                    "name": "Itzig",
+                    "latitude": "49.58769000",
+                    "longitude": "6.17065000"
+                },
+                {
+                    "id": 66790,
+                    "name": "Kirchberg",
+                    "latitude": "49.62389000",
+                    "longitude": "6.14944000"
+                },
+                {
+                    "id": 66801,
+                    "name": "Luxembourg",
+                    "latitude": "49.61167000",
+                    "longitude": "6.13000000"
+                },
+                {
+                    "id": 66811,
+                    "name": "Moutfort",
+                    "latitude": "49.58528000",
+                    "longitude": "6.25556000"
+                },
+                {
+                    "id": 66812,
+                    "name": "Müllendorf",
+                    "latitude": "49.68028000",
+                    "longitude": "6.13000000"
+                },
+                {
+                    "id": 66813,
+                    "name": "Niederanven",
+                    "latitude": "49.65196000",
+                    "longitude": "6.26199000"
+                },
+                {
+                    "id": 66818,
+                    "name": "Olm",
+                    "latitude": "49.65722000",
+                    "longitude": "6.00028000"
+                },
+                {
+                    "id": 66834,
+                    "name": "Sandweiler",
+                    "latitude": "49.61471000",
+                    "longitude": "6.22221000"
+                },
+                {
+                    "id": 66840,
+                    "name": "Schrassig",
+                    "latitude": "49.61014000",
+                    "longitude": "6.25903000"
+                },
+                {
+                    "id": 66841,
+                    "name": "Schuttrange",
+                    "latitude": "49.62056000",
+                    "longitude": "6.26861000"
+                },
+                {
+                    "id": 66846,
+                    "name": "Steinsel",
+                    "latitude": "49.67694000",
+                    "longitude": "6.12389000"
+                },
+                {
+                    "id": 66847,
+                    "name": "Strassen",
+                    "latitude": "49.62056000",
+                    "longitude": "6.07333000"
+                },
+                {
+                    "id": 66858,
+                    "name": "Walferdange",
+                    "latitude": "49.66321000",
+                    "longitude": "6.13224000"
+                },
+                {
+                    "id": 66861,
+                    "name": "Weiler-la-Tour",
+                    "latitude": "49.54083000",
+                    "longitude": "6.20083000"
+                }
+            ]
+        },
+        {
+            "id": 1522,
+            "name": "Canton of Mersch",
+            "state_code": "ME",
+            "cities": [
+                {
+                    "id": 66739,
+                    "name": "Bissen",
+                    "latitude": "49.78733000",
+                    "longitude": "6.06540000"
+                },
+                {
+                    "id": 66741,
+                    "name": "Boevange-sur-Attert",
+                    "latitude": "49.77256000",
+                    "longitude": "6.01532000"
+                },
+                {
+                    "id": 66750,
+                    "name": "Colmar",
+                    "latitude": "49.81028000",
+                    "longitude": "6.09722000"
+                },
+                {
+                    "id": 66770,
+                    "name": "Fischbach",
+                    "latitude": "49.74600000",
+                    "longitude": "6.18702000"
+                },
+                {
+                    "id": 66779,
+                    "name": "Heffingen",
+                    "latitude": "49.76907000",
+                    "longitude": "6.24049000"
+                },
+                {
+                    "id": 66796,
+                    "name": "Larochette",
+                    "latitude": "49.78362000",
+                    "longitude": "6.21891000"
+                },
+                {
+                    "id": 66799,
+                    "name": "Lintgen",
+                    "latitude": "49.72243000",
+                    "longitude": "6.13016000"
+                },
+                {
+                    "id": 66800,
+                    "name": "Lorentzweiler",
+                    "latitude": "49.70131000",
+                    "longitude": "6.14234000"
+                },
+                {
+                    "id": 66805,
+                    "name": "Mersch",
+                    "latitude": "49.74889000",
+                    "longitude": "6.10611000"
+                },
+                {
+                    "id": 66816,
+                    "name": "Nommern",
+                    "latitude": "49.78694000",
+                    "longitude": "6.17472000"
+                },
+                {
+                    "id": 66830,
+                    "name": "Rollingen",
+                    "latitude": "49.74167000",
+                    "longitude": "6.11444000"
+                },
+                {
+                    "id": 66850,
+                    "name": "Tuntange",
+                    "latitude": "49.71778000",
+                    "longitude": "6.01028000"
+                }
+            ]
+        },
+        {
+            "id": 1516,
+            "name": "Canton of Redange",
+            "state_code": "RD",
+            "cities": [
+                {
+                    "id": 66730,
+                    "name": "Beckerich",
+                    "latitude": "49.73056000",
+                    "longitude": "5.88722000"
+                },
+                {
+                    "id": 66735,
+                    "name": "Bettborn",
+                    "latitude": "49.79528000",
+                    "longitude": "5.94111000"
+                },
+                {
+                    "id": 66751,
+                    "name": "Commune de Préizerdaul",
+                    "latitude": "49.80114000",
+                    "longitude": "5.93299000"
+                },
+                {
+                    "id": 66763,
+                    "name": "Ell",
+                    "latitude": "49.76389000",
+                    "longitude": "5.85722000"
+                },
+                {
+                    "id": 66777,
+                    "name": "Grosbous",
+                    "latitude": "49.82778000",
+                    "longitude": "5.96722000"
+                },
+                {
+                    "id": 66823,
+                    "name": "Rambrouch",
+                    "latitude": "49.83083000",
+                    "longitude": "5.84500000"
+                },
+                {
+                    "id": 66825,
+                    "name": "Redange-sur-Attert",
+                    "latitude": "49.76437000",
+                    "longitude": "5.88997000"
+                },
+                {
+                    "id": 66833,
+                    "name": "Saeul",
+                    "latitude": "49.72722000",
+                    "longitude": "5.98639000"
+                },
+                {
+                    "id": 66852,
+                    "name": "Useldange",
+                    "latitude": "49.76972000",
+                    "longitude": "5.98222000"
+                },
+                {
+                    "id": 66854,
+                    "name": "Vichten",
+                    "latitude": "49.80306000",
+                    "longitude": "6.00000000"
+                },
+                {
+                    "id": 66855,
+                    "name": "Wahl",
+                    "latitude": "49.83667000",
+                    "longitude": "5.90639000"
+                }
+            ]
+        },
+        {
+            "id": 1519,
+            "name": "Canton of Remich",
+            "state_code": "RM",
+            "cities": [
+                {
+                    "id": 66744,
+                    "name": "Bous",
+                    "latitude": "49.55389000",
+                    "longitude": "6.32917000"
+                },
+                {
+                    "id": 66756,
+                    "name": "Dalheim",
+                    "latitude": "49.54083000",
+                    "longitude": "6.25972000"
+                },
+                {
+                    "id": 66797,
+                    "name": "Lenningen",
+                    "latitude": "49.59861000",
+                    "longitude": "6.36806000"
+                },
+                {
+                    "id": 66810,
+                    "name": "Mondorf-les-Bains",
+                    "latitude": "49.50500000",
+                    "longitude": "6.28111000"
+                },
+                {
+                    "id": 66827,
+                    "name": "Remich",
+                    "latitude": "49.54500000",
+                    "longitude": "6.36694000"
+                },
+                {
+                    "id": 66836,
+                    "name": "Schengen",
+                    "latitude": "49.47000000",
+                    "longitude": "6.36200000"
+                },
+                {
+                    "id": 66844,
+                    "name": "Stadtbredimus",
+                    "latitude": "49.56278000",
+                    "longitude": "6.36444000"
+                },
+                {
+                    "id": 66857,
+                    "name": "Waldbredimus",
+                    "latitude": "49.55676000",
+                    "longitude": "6.28789000"
+                }
+            ]
+        },
+        {
+            "id": 1523,
+            "name": "Canton of Vianden",
+            "state_code": "VD",
+            "cities": [
+                {
+                    "id": 66821,
+                    "name": "Putscheid",
+                    "latitude": "49.96083000",
+                    "longitude": "6.14306000"
+                },
+                {
+                    "id": 66848,
+                    "name": "Tandel",
+                    "latitude": "49.89750000",
+                    "longitude": "6.18333000"
+                },
+                {
+                    "id": 66853,
+                    "name": "Vianden",
+                    "latitude": "49.93500000",
+                    "longitude": "6.20889000"
+                }
+            ]
+        },
+        {
+            "id": 1526,
+            "name": "Canton of Wiltz",
+            "state_code": "WI",
+            "cities": [
+                {
+                    "id": 66727,
+                    "name": "Bavigne",
+                    "latitude": "49.92194000",
+                    "longitude": "5.84944000"
+                },
+                {
+                    "id": 66742,
+                    "name": "Boulaide",
+                    "latitude": "49.88778000",
+                    "longitude": "5.81639000"
+                },
+                {
+                    "id": 66766,
+                    "name": "Esch-sur-Sûre",
+                    "latitude": "49.91139000",
+                    "longitude": "5.93639000"
+                },
+                {
+                    "id": 66774,
+                    "name": "Goesdorf",
+                    "latitude": "49.92131000",
+                    "longitude": "5.96601000"
+                },
+                {
+                    "id": 66789,
+                    "name": "Kiischpelt",
+                    "latitude": "49.97835000",
+                    "longitude": "6.00760000"
+                },
+                {
+                    "id": 66794,
+                    "name": "Lac de la Haute-Sûre",
+                    "latitude": "49.91667000",
+                    "longitude": "5.83333000"
+                },
+                {
+                    "id": 66863,
+                    "name": "Wiltz",
+                    "latitude": "49.96547000",
+                    "longitude": "5.93390000"
+                },
+                {
+                    "id": 66864,
+                    "name": "Wilwerwiltz",
+                    "latitude": "49.98889000",
+                    "longitude": "5.99917000"
+                },
+                {
+                    "id": 66866,
+                    "name": "Winseler",
+                    "latitude": "49.96778000",
+                    "longitude": "5.89028000"
+                }
+            ]
+        },
+        {
+            "id": 1524,
+            "name": "Diekirch District",
+            "state_code": "D",
+            "cities": []
+        },
+        {
+            "id": 1520,
+            "name": "Grevenmacher District",
+            "state_code": "G",
+            "cities": []
+        },
+        {
+            "id": 1514,
+            "name": "Luxembourg District",
+            "state_code": "L",
+            "cities": []
+        }
+    ],
+    "languages": [
+        "French",
+            "German",
+            "Italian",
+            "Luxembourgish",
+            "Portuguese"
+    ],
+    "latlng": [
+        49.75,
+        6.16666666
+    ],
+    "nativeName": "Luxembourg",
+    "population": 549700,
+    "timezones": [
+        "UTC+01:00"
+    ],
+    "tld": [
+        ".lu"
+    ],
+    "translations": {
+        "de": "Luxemburg",
+        "es": "Luxemburgo",
+        "fr": "Luxembourg",
+        "ja": "ルクセンブルク",
+        "it": "Lussemburgo"
+    },
+    "continent": "Europe",
+    "government": "Constitutional Monarchy",
+    "independence": 1867,
+    "symbol": null,
+    "expectancy": 77.1,
+    "density": 250.0938272,
+    "religion": "Christianity",
+    "temperature": 8.65,
+    "location": "Western Europe",
+    "dish": "Judd mat Gaardebounen, Bouneschlupp",
+    "wiki": "http://en.wikipedia.org/wiki/luxembourg"
+}

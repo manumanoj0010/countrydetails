@@ -1,0 +1,2132 @@
+{
+    "name": "South Korea",
+    "altSpellings": [
+        "KR",
+        "Republic of Korea"
+    ],
+    "area": 100210,
+    "borders": [
+        "PRK"
+    ],
+    "callingCodes": [
+        "82"
+    ],
+    "capital": "Seoul",
+    "capital_latlng": [
+        37.566679,
+        126.978291
+    ],
+    "currencies": [
+        "KRW"
+    ],
+    "demonym": "South Korean",
+    "flag": "",
+    "geoJSON": {
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "type": "Feature",
+                "id": "KOR",
+                "properties": {
+                    "name": "South Korea"
+                },
+                "geometry": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                128.349716,
+                                38.612243
+                            ],
+                            [
+                                129.21292,
+                                37.432392
+                            ],
+                            [
+                                129.46045,
+                                36.784189
+                            ],
+                            [
+                                129.468304,
+                                35.632141
+                            ],
+                            [
+                                129.091377,
+                                35.082484
+                            ],
+                            [
+                                128.18585,
+                                34.890377
+                            ],
+                            [
+                                127.386519,
+                                34.475674
+                            ],
+                            [
+                                126.485748,
+                                34.390046
+                            ],
+                            [
+                                126.37392,
+                                34.93456
+                            ],
+                            [
+                                126.559231,
+                                35.684541
+                            ],
+                            [
+                                126.117398,
+                                36.725485
+                            ],
+                            [
+                                126.860143,
+                                36.893924
+                            ],
+                            [
+                                126.174759,
+                                37.749686
+                            ],
+                            [
+                                126.237339,
+                                37.840378
+                            ],
+                            [
+                                126.68372,
+                                37.804773
+                            ],
+                            [
+                                127.073309,
+                                38.256115
+                            ],
+                            [
+                                127.780035,
+                                38.304536
+                            ],
+                            [
+                                128.205746,
+                                38.370397
+                            ],
+                            [
+                                128.349716,
+                                38.612243
+                            ]
+                        ]
+                    ]
+                }
+            }
+        ]
+    },
+    "ISO": {
+        "alpha2": "KR",
+        "alpha3": "KOR"
+    },
+    "languages": [
+        "Chinese",
+        "Korean"
+    ],
+    "latlng": [
+        37,
+        127.5
+    ],
+    "nativeName": "대한민국",
+    "population": 50423955,
+    "government": "Republic",
+    "independence": 1948,
+    "continent": "Asia",
+    "expectancy": 74.4,
+    "dish": "Galbi, Kimchi",
+    "location": "Eastern Asia",
+    "religion": "Unaffiliated Religions",
+    "symbol": null,
+    "density": 529.6521036,
+    "temperature": 11.5,
+    "states": [
+        {
+            "id": 3860,
+            "name": "Busan",
+            "state_code": "26",
+            "cities": [
+                {
+                    "id": 65276,
+                    "name": "Buk-gu",
+                    "latitude": "35.19724000",
+                    "longitude": "128.99134000"
+                },
+                {
+                    "id": 65278,
+                    "name": "Busan",
+                    "latitude": "35.10168000",
+                    "longitude": "129.03004000"
+                },
+                {
+                    "id": 65313,
+                    "name": "Dongnae-gu",
+                    "latitude": "35.20447000",
+                    "longitude": "129.07800000"
+                },
+                {
+                    "id": 65325,
+                    "name": "Gangseo-gu",
+                    "latitude": "35.15930000",
+                    "longitude": "128.93300000"
+                },
+                {
+                    "id": 65331,
+                    "name": "Geumjeong-gu",
+                    "latitude": "35.25863000",
+                    "longitude": "129.09010000"
+                },
+                {
+                    "id": 65333,
+                    "name": "Gijang",
+                    "latitude": "35.24417000",
+                    "longitude": "129.21389000"
+                },
+                {
+                    "id": 65334,
+                    "name": "Gijang-gun",
+                    "latitude": "35.29721000",
+                    "longitude": "129.20076000"
+                },
+                {
+                    "id": 65375,
+                    "name": "Haeundae-gu",
+                    "latitude": "35.16665000",
+                    "longitude": "129.16792000"
+                },
+                {
+                    "id": 65421,
+                    "name": "Jung-gu",
+                    "latitude": "35.10594000",
+                    "longitude": "129.03331000"
+                },
+                {
+                    "id": 65452,
+                    "name": "Nam-gu",
+                    "latitude": "35.13648000",
+                    "longitude": "129.08266000"
+                },
+                {
+                    "id": 65477,
+                    "name": "Saha-gu",
+                    "latitude": "35.08552000",
+                    "longitude": "128.98725000"
+                },
+                {
+                    "id": 65482,
+                    "name": "Sasang-gu",
+                    "latitude": "35.14479000",
+                    "longitude": "128.97986000"
+                },
+                {
+                    "id": 65484,
+                    "name": "Seo-gu",
+                    "latitude": "35.12529000",
+                    "longitude": "129.01946000"
+                },
+                {
+                    "id": 65513,
+                    "name": "Suyeong-gu",
+                    "latitude": "35.15627000",
+                    "longitude": "129.11253000"
+                },
+                {
+                    "id": 65552,
+                    "name": "Yeongdo-gu",
+                    "latitude": "35.07849000",
+                    "longitude": "129.06483000"
+                }
+            ]
+        },
+        {
+            "id": 3846,
+            "name": "Daegu",
+            "state_code": "27",
+            "cities": [
+                {
+                    "id": 65300,
+                    "name": "Daegu",
+                    "latitude": "35.87028000",
+                    "longitude": "128.59111000"
+                },
+                {
+                    "id": 65302,
+                    "name": "Dalseo-gu",
+                    "latitude": "35.82569000",
+                    "longitude": "128.52403000"
+                },
+                {
+                    "id": 65303,
+                    "name": "Dalseong-gun",
+                    "latitude": "35.77467000",
+                    "longitude": "128.42955000"
+                },
+                {
+                    "id": 65307,
+                    "name": "Dong-gu",
+                    "latitude": "35.88566000",
+                    "longitude": "128.63296000"
+                },
+                {
+                    "id": 65394,
+                    "name": "Hwawŏn",
+                    "latitude": "35.80167000",
+                    "longitude": "128.50083000"
+                },
+                {
+                    "id": 65422,
+                    "name": "Jung-gu",
+                    "latitude": "35.86678000",
+                    "longitude": "128.59538000"
+                },
+                {
+                    "id": 65485,
+                    "name": "Seo-gu",
+                    "latitude": "35.87465000",
+                    "longitude": "128.55109000"
+                },
+                {
+                    "id": 65511,
+                    "name": "Suseong-gu",
+                    "latitude": "35.85905000",
+                    "longitude": "128.62625000"
+                }
+            ]
+        },
+        {
+            "id": 3850,
+            "name": "Daejeon",
+            "state_code": "30",
+            "cities": [
+                {
+                    "id": 65301,
+                    "name": "Daejeon",
+                    "latitude": "36.34913000",
+                    "longitude": "127.38493000"
+                },
+                {
+                    "id": 65486,
+                    "name": "Seo-gu",
+                    "latitude": "36.27211000",
+                    "longitude": "127.33100000"
+                },
+                {
+                    "id": 65503,
+                    "name": "Sintansin",
+                    "latitude": "36.45361000",
+                    "longitude": "127.43111000"
+                },
+                {
+                    "id": 65506,
+                    "name": "Songgangdong",
+                    "latitude": "36.43387000",
+                    "longitude": "127.37587000"
+                },
+                {
+                    "id": 65567,
+                    "name": "Yuseong-gu",
+                    "latitude": "36.36685000",
+                    "longitude": "127.32700000"
+                }
+            ]
+        },
+        {
+            "id": 3862,
+            "name": "Gangwon Province",
+            "state_code": "42",
+            "cities": [
+                {
+                    "id": 65293,
+                    "name": "Cheorwon-gun",
+                    "latitude": "38.24391000",
+                    "longitude": "127.44522000"
+                },
+                {
+                    "id": 65297,
+                    "name": "Chuncheon",
+                    "latitude": "37.87472000",
+                    "longitude": "127.73417000"
+                },
+                {
+                    "id": 65298,
+                    "name": "Chuncheon-si",
+                    "latitude": "37.88048000",
+                    "longitude": "127.72776000"
+                },
+                {
+                    "id": 65311,
+                    "name": "Donghae-si",
+                    "latitude": "37.52345000",
+                    "longitude": "129.11357000"
+                },
+                {
+                    "id": 65322,
+                    "name": "Gangneung",
+                    "latitude": "37.75266000",
+                    "longitude": "128.87239000"
+                },
+                {
+                    "id": 65323,
+                    "name": "Gangneung-si",
+                    "latitude": "37.75190000",
+                    "longitude": "128.87825000"
+                },
+                {
+                    "id": 65349,
+                    "name": "Goseong-gun",
+                    "latitude": "38.37945000",
+                    "longitude": "128.46755000"
+                },
+                {
+                    "id": 65383,
+                    "name": "Hoengseong-gun",
+                    "latitude": "37.48817000",
+                    "longitude": "127.98570000"
+                },
+                {
+                    "id": 65385,
+                    "name": "Hongch’ŏn",
+                    "latitude": "37.69180000",
+                    "longitude": "127.88570000"
+                },
+                {
+                    "id": 65384,
+                    "name": "Hongcheon-gun",
+                    "latitude": "37.76058000",
+                    "longitude": "128.02823000"
+                },
+                {
+                    "id": 65388,
+                    "name": "Hwacheon",
+                    "latitude": "38.10705000",
+                    "longitude": "127.70632000"
+                },
+                {
+                    "id": 65389,
+                    "name": "Hwacheon-gun",
+                    "latitude": "38.14212000",
+                    "longitude": "127.67615000"
+                },
+                {
+                    "id": 65401,
+                    "name": "Inje-gun",
+                    "latitude": "38.04416000",
+                    "longitude": "128.27876000"
+                },
+                {
+                    "id": 65411,
+                    "name": "Jeongseon-gun",
+                    "latitude": "37.38911000",
+                    "longitude": "128.72995000"
+                },
+                {
+                    "id": 65430,
+                    "name": "Kosong",
+                    "latitude": "38.37881000",
+                    "longitude": "128.46760000"
+                },
+                {
+                    "id": 65459,
+                    "name": "Neietsu",
+                    "latitude": "37.18447000",
+                    "longitude": "128.46821000"
+                },
+                {
+                    "id": 65473,
+                    "name": "Pyeongchang",
+                    "latitude": "37.37028000",
+                    "longitude": "128.39306000"
+                },
+                {
+                    "id": 65474,
+                    "name": "Pyeongchang-gun",
+                    "latitude": "37.36820000",
+                    "longitude": "128.39550000"
+                },
+                {
+                    "id": 65478,
+                    "name": "Samcheok-si",
+                    "latitude": "37.45013000",
+                    "longitude": "129.16626000"
+                },
+                {
+                    "id": 65481,
+                    "name": "Santyoku",
+                    "latitude": "37.44056000",
+                    "longitude": "129.17083000"
+                },
+                {
+                    "id": 65504,
+                    "name": "Sokcho",
+                    "latitude": "38.20701000",
+                    "longitude": "128.59181000"
+                },
+                {
+                    "id": 65505,
+                    "name": "Sokcho-si",
+                    "latitude": "38.20725000",
+                    "longitude": "128.59275000"
+                },
+                {
+                    "id": 65519,
+                    "name": "T’aebaek",
+                    "latitude": "37.17590000",
+                    "longitude": "128.98890000"
+                },
+                {
+                    "id": 65515,
+                    "name": "Taebaek-si",
+                    "latitude": "37.16520000",
+                    "longitude": "128.98570000"
+                },
+                {
+                    "id": 65518,
+                    "name": "Tonghae",
+                    "latitude": "37.54389000",
+                    "longitude": "129.10694000"
+                },
+                {
+                    "id": 65534,
+                    "name": "Wŏnju",
+                    "latitude": "37.35139000",
+                    "longitude": "127.94528000"
+                },
+                {
+                    "id": 65533,
+                    "name": "Wonju-si",
+                    "latitude": "37.32104000",
+                    "longitude": "127.92132000"
+                },
+                {
+                    "id": 65536,
+                    "name": "Yanggu",
+                    "latitude": "38.10583000",
+                    "longitude": "127.98944000"
+                },
+                {
+                    "id": 65537,
+                    "name": "Yanggu-gun",
+                    "latitude": "38.10160000",
+                    "longitude": "127.98555000"
+                },
+                {
+                    "id": 65543,
+                    "name": "Yangyang-gun",
+                    "latitude": "38.06215000",
+                    "longitude": "128.61471000"
+                }
+            ]
+        },
+        {
+            "id": 3858,
+            "name": "Gwangju",
+            "state_code": "29",
+            "cities": [
+                {
+                    "id": 65362,
+                    "name": "Gwangju",
+                    "latitude": "35.15472000",
+                    "longitude": "126.91556000"
+                },
+                {
+                    "id": 65366,
+                    "name": "Gwangsan-gu",
+                    "latitude": "35.16158000",
+                    "longitude": "126.80810000"
+                },
+                {
+                    "id": 65437,
+                    "name": "Masan",
+                    "latitude": "35.12725000",
+                    "longitude": "126.83149000"
+                }
+            ]
+        },
+        {
+            "id": 3847,
+            "name": "Gyeonggi Province",
+            "state_code": "41",
+            "cities": [
+                {
+                    "id": 65262,
+                    "name": "Ansan-si",
+                    "latitude": "37.32361000",
+                    "longitude": "126.82194000"
+                },
+                {
+                    "id": 65263,
+                    "name": "Anseong",
+                    "latitude": "37.01083000",
+                    "longitude": "127.27028000"
+                },
+                {
+                    "id": 65264,
+                    "name": "Anyang-si",
+                    "latitude": "37.39250000",
+                    "longitude": "126.92694000"
+                },
+                {
+                    "id": 65274,
+                    "name": "Bucheon-si",
+                    "latitude": "37.50440000",
+                    "longitude": "126.76625000"
+                },
+                {
+                    "id": 65310,
+                    "name": "Dongducheon",
+                    "latitude": "37.91889000",
+                    "longitude": "127.06897000"
+                },
+                {
+                    "id": 65326,
+                    "name": "Gapyeong",
+                    "latitude": "37.83101000",
+                    "longitude": "127.51059000"
+                },
+                {
+                    "id": 65327,
+                    "name": "Gapyeong-gun",
+                    "latitude": "37.83080000",
+                    "longitude": "127.51522000"
+                },
+                {
+                    "id": 65339,
+                    "name": "Gimpo-si",
+                    "latitude": "37.63637000",
+                    "longitude": "126.69270000"
+                },
+                {
+                    "id": 65350,
+                    "name": "Goyang-si",
+                    "latitude": "37.65639000",
+                    "longitude": "126.83500000"
+                },
+                {
+                    "id": 65352,
+                    "name": "Gunpo-si",
+                    "latitude": "37.34261000",
+                    "longitude": "126.92149000"
+                },
+                {
+                    "id": 65356,
+                    "name": "Guri-si",
+                    "latitude": "37.59860000",
+                    "longitude": "127.13940000"
+                },
+                {
+                    "id": 65359,
+                    "name": "Gwacheon-si",
+                    "latitude": "37.43407000",
+                    "longitude": "126.99989000"
+                },
+                {
+                    "id": 65363,
+                    "name": "Gwangju",
+                    "latitude": "37.41000000",
+                    "longitude": "127.25722000"
+                },
+                {
+                    "id": 65364,
+                    "name": "Gwangju-si",
+                    "latitude": "37.40329000",
+                    "longitude": "127.29855000"
+                },
+                {
+                    "id": 65365,
+                    "name": "Gwangmyeong-si",
+                    "latitude": "37.44435000",
+                    "longitude": "126.86499000"
+                },
+                {
+                    "id": 65378,
+                    "name": "Hanam",
+                    "latitude": "37.54000000",
+                    "longitude": "127.20556000"
+                },
+                {
+                    "id": 65379,
+                    "name": "Hanam-si",
+                    "latitude": "37.53895000",
+                    "longitude": "127.21250000"
+                },
+                {
+                    "id": 65390,
+                    "name": "Hwado",
+                    "latitude": "37.65250000",
+                    "longitude": "127.30750000"
+                },
+                {
+                    "id": 65391,
+                    "name": "Hwaseong-si",
+                    "latitude": "37.20682000",
+                    "longitude": "126.81690000"
+                },
+                {
+                    "id": 65395,
+                    "name": "Icheon-si",
+                    "latitude": "37.27642000",
+                    "longitude": "127.43692000"
+                },
+                {
+                    "id": 65433,
+                    "name": "Kwangmyŏng",
+                    "latitude": "37.47722000",
+                    "longitude": "126.86639000"
+                },
+                {
+                    "id": 65448,
+                    "name": "Munsan",
+                    "latitude": "37.85944000",
+                    "longitude": "126.78500000"
+                },
+                {
+                    "id": 65456,
+                    "name": "Namyangju",
+                    "latitude": "37.63667000",
+                    "longitude": "127.21417000"
+                },
+                {
+                    "id": 65457,
+                    "name": "Namyangju-si",
+                    "latitude": "37.65217000",
+                    "longitude": "127.24010000"
+                },
+                {
+                    "id": 65465,
+                    "name": "Osan",
+                    "latitude": "37.15222000",
+                    "longitude": "127.07056000"
+                },
+                {
+                    "id": 65466,
+                    "name": "Osan-si",
+                    "latitude": "37.16230000",
+                    "longitude": "127.05246000"
+                },
+                {
+                    "id": 65467,
+                    "name": "Paju-si",
+                    "latitude": "37.75952000",
+                    "longitude": "126.77772000"
+                },
+                {
+                    "id": 65468,
+                    "name": "Pocheon-si",
+                    "latitude": "37.89370000",
+                    "longitude": "127.20028000"
+                },
+                {
+                    "id": 65472,
+                    "name": "Pubal",
+                    "latitude": "37.29167000",
+                    "longitude": "127.50778000"
+                },
+                {
+                    "id": 65475,
+                    "name": "Pyeongtaek",
+                    "latitude": "37.01372000",
+                    "longitude": "126.98748000"
+                },
+                {
+                    "id": 65495,
+                    "name": "Seongnam-si",
+                    "latitude": "37.41875000",
+                    "longitude": "127.12877000"
+                },
+                {
+                    "id": 65499,
+                    "name": "Siheung",
+                    "latitude": "37.39067000",
+                    "longitude": "126.78880000"
+                },
+                {
+                    "id": 65512,
+                    "name": "Suwon",
+                    "latitude": "37.29111000",
+                    "longitude": "127.00889000"
+                },
+                {
+                    "id": 65520,
+                    "name": "Uijeongbu-si",
+                    "latitude": "37.73865000",
+                    "longitude": "127.04770000"
+                },
+                {
+                    "id": 65523,
+                    "name": "Uiwang-si",
+                    "latitude": "37.34500000",
+                    "longitude": "126.97575000"
+                },
+                {
+                    "id": 65529,
+                    "name": "Wabu",
+                    "latitude": "37.58972000",
+                    "longitude": "127.22028000"
+                },
+                {
+                    "id": 65538,
+                    "name": "Yangju",
+                    "latitude": "37.83311000",
+                    "longitude": "127.06169000"
+                },
+                {
+                    "id": 65539,
+                    "name": "Yangju-si",
+                    "latitude": "37.81732000",
+                    "longitude": "127.04600000"
+                },
+                {
+                    "id": 65540,
+                    "name": "Yangp'yŏng",
+                    "latitude": "37.48972000",
+                    "longitude": "127.49056000"
+                },
+                {
+                    "id": 65541,
+                    "name": "Yangpyeong-gun",
+                    "latitude": "37.48880000",
+                    "longitude": "127.49222000"
+                },
+                {
+                    "id": 65545,
+                    "name": "Yeoju-si",
+                    "latitude": "37.29562000",
+                    "longitude": "127.63668000"
+                },
+                {
+                    "id": 65546,
+                    "name": "Yeoncheon-gun",
+                    "latitude": "38.09404000",
+                    "longitude": "127.07577000"
+                },
+                {
+                    "id": 65564,
+                    "name": "Yongin-si",
+                    "latitude": "37.23825000",
+                    "longitude": "127.17795000"
+                }
+            ]
+        },
+        {
+            "id": 3848,
+            "name": "Incheon",
+            "state_code": "28",
+            "cities": [
+                {
+                    "id": 65277,
+                    "name": "Bupyeong-gu",
+                    "latitude": "37.49720000",
+                    "longitude": "126.71107000"
+                },
+                {
+                    "id": 65400,
+                    "name": "Incheon",
+                    "latitude": "37.45646000",
+                    "longitude": "126.70515000"
+                },
+                {
+                    "id": 65438,
+                    "name": "Michuhol",
+                    "latitude": "37.46362000",
+                    "longitude": "126.65000000"
+                },
+                {
+                    "id": 65560,
+                    "name": "Yeonsu-gu",
+                    "latitude": "37.41911000",
+                    "longitude": "126.66489000"
+                }
+            ]
+        },
+        {
+            "id": 3853,
+            "name": "Jeju",
+            "state_code": "49",
+            "cities": [
+                {
+                    "id": 65317,
+                    "name": "Gaigeturi",
+                    "latitude": "33.46444000",
+                    "longitude": "126.31833000"
+                },
+                {
+                    "id": 65406,
+                    "name": "Jeju City",
+                    "latitude": "33.50972000",
+                    "longitude": "126.52194000"
+                },
+                {
+                    "id": 65407,
+                    "name": "Jeju-si",
+                    "latitude": "33.45578000",
+                    "longitude": "126.53928000"
+                },
+                {
+                    "id": 65490,
+                    "name": "Seogwipo",
+                    "latitude": "33.25333000",
+                    "longitude": "126.56181000"
+                }
+            ]
+        },
+        {
+            "id": 3854,
+            "name": "North Chungcheong Province",
+            "state_code": "43",
+            "cities": [
+                {
+                    "id": 65268,
+                    "name": "Boeun-gun",
+                    "latitude": "36.49489000",
+                    "longitude": "127.72865000"
+                },
+                {
+                    "id": 65289,
+                    "name": "Cheongju-si",
+                    "latitude": "36.63722000",
+                    "longitude": "127.48972000"
+                },
+                {
+                    "id": 65295,
+                    "name": "Chinch'ŏn",
+                    "latitude": "36.85667000",
+                    "longitude": "127.44333000"
+                },
+                {
+                    "id": 65299,
+                    "name": "Chungju-si",
+                    "latitude": "37.01791000",
+                    "longitude": "127.87713000"
+                },
+                {
+                    "id": 65305,
+                    "name": "Danyang-gun",
+                    "latitude": "36.98615000",
+                    "longitude": "128.36945000"
+                },
+                {
+                    "id": 65315,
+                    "name": "Eumseong-gun",
+                    "latitude": "36.92602000",
+                    "longitude": "127.68070000"
+                },
+                {
+                    "id": 65341,
+                    "name": "Goesan-gun",
+                    "latitude": "36.77179000",
+                    "longitude": "127.81426000"
+                },
+                {
+                    "id": 65405,
+                    "name": "Jecheon-si",
+                    "latitude": "37.06206000",
+                    "longitude": "128.14065000"
+                },
+                {
+                    "id": 65414,
+                    "name": "Jeungpyeong-gun",
+                    "latitude": "36.78377000",
+                    "longitude": "127.59858000"
+                },
+                {
+                    "id": 65416,
+                    "name": "Jincheon-gun",
+                    "latitude": "36.88281000",
+                    "longitude": "127.42768000"
+                },
+                {
+                    "id": 65429,
+                    "name": "Koesan",
+                    "latitude": "36.81083000",
+                    "longitude": "127.79472000"
+                },
+                {
+                    "id": 65463,
+                    "name": "Okcheon",
+                    "latitude": "36.30120000",
+                    "longitude": "127.56800000"
+                },
+                {
+                    "id": 65464,
+                    "name": "Okcheon-gun",
+                    "latitude": "36.26642000",
+                    "longitude": "127.58324000"
+                },
+                {
+                    "id": 65553,
+                    "name": "Yeongdong",
+                    "latitude": "36.17500000",
+                    "longitude": "127.77639000"
+                },
+                {
+                    "id": 65554,
+                    "name": "Yeongdong-gun",
+                    "latitude": "36.21658000",
+                    "longitude": "127.79374000"
+                }
+            ]
+        },
+        {
+            "id": 3855,
+            "name": "North Gyeongsang Province",
+            "state_code": "47",
+            "cities": [
+                {
+                    "id": 65260,
+                    "name": "Andong",
+                    "latitude": "36.56636000",
+                    "longitude": "128.72275000"
+                },
+                {
+                    "id": 65261,
+                    "name": "Andong-si",
+                    "latitude": "36.56667000",
+                    "longitude": "128.71667000"
+                },
+                {
+                    "id": 65269,
+                    "name": "Bonghwa-gun",
+                    "latitude": "36.88951000",
+                    "longitude": "128.73573000"
+                },
+                {
+                    "id": 65288,
+                    "name": "Cheongdo-gun",
+                    "latitude": "35.67166000",
+                    "longitude": "128.78509000"
+                },
+                {
+                    "id": 65290,
+                    "name": "Cheongsong gun",
+                    "latitude": "36.43351000",
+                    "longitude": "129.05700000"
+                },
+                {
+                    "id": 65291,
+                    "name": "Cheongsong-gun",
+                    "latitude": "36.43288000",
+                    "longitude": "129.05159000"
+                },
+                {
+                    "id": 65294,
+                    "name": "Chilgok-gun",
+                    "latitude": "36.01512000",
+                    "longitude": "128.46138000"
+                },
+                {
+                    "id": 65314,
+                    "name": "Eisen",
+                    "latitude": "36.82167000",
+                    "longitude": "128.63083000"
+                },
+                {
+                    "id": 65335,
+                    "name": "Gimcheon",
+                    "latitude": "36.12176000",
+                    "longitude": "128.11981000"
+                },
+                {
+                    "id": 65336,
+                    "name": "Gimcheon-si",
+                    "latitude": "36.14481000",
+                    "longitude": "128.11157000"
+                },
+                {
+                    "id": 65346,
+                    "name": "Goryeong-gun",
+                    "latitude": "35.74959000",
+                    "longitude": "128.29707000"
+                },
+                {
+                    "id": 65351,
+                    "name": "Gumi-si",
+                    "latitude": "36.21009000",
+                    "longitude": "128.35442000"
+                },
+                {
+                    "id": 65355,
+                    "name": "Gunwi-gun",
+                    "latitude": "36.16995000",
+                    "longitude": "128.64705000"
+                },
+                {
+                    "id": 65369,
+                    "name": "Gyeongju",
+                    "latitude": "35.84278000",
+                    "longitude": "129.21167000"
+                },
+                {
+                    "id": 65370,
+                    "name": "Gyeongsan-si",
+                    "latitude": "35.83333000",
+                    "longitude": "128.80000000"
+                },
+                {
+                    "id": 65381,
+                    "name": "Hayang",
+                    "latitude": "35.91333000",
+                    "longitude": "128.82000000"
+                },
+                {
+                    "id": 65382,
+                    "name": "Heunghae",
+                    "latitude": "36.10945000",
+                    "longitude": "129.34517000"
+                },
+                {
+                    "id": 65408,
+                    "name": "Jenzan",
+                    "latitude": "36.24083000",
+                    "longitude": "128.29750000"
+                },
+                {
+                    "id": 65431,
+                    "name": "Kunwi",
+                    "latitude": "36.23472000",
+                    "longitude": "128.57278000"
+                },
+                {
+                    "id": 65446,
+                    "name": "Mungyeong",
+                    "latitude": "36.59458000",
+                    "longitude": "128.19946000"
+                },
+                {
+                    "id": 65447,
+                    "name": "Mungyeong-si",
+                    "latitude": "36.58755000",
+                    "longitude": "128.18624000"
+                },
+                {
+                    "id": 65469,
+                    "name": "Pohang",
+                    "latitude": "36.02917000",
+                    "longitude": "129.36481000"
+                },
+                {
+                    "id": 65470,
+                    "name": "Pohang-si",
+                    "latitude": "36.08333000",
+                    "longitude": "129.36667000"
+                },
+                {
+                    "id": 65480,
+                    "name": "Sangju",
+                    "latitude": "36.41528000",
+                    "longitude": "128.16056000"
+                },
+                {
+                    "id": 65494,
+                    "name": "Seongju-gun",
+                    "latitude": "35.91888000",
+                    "longitude": "128.28838000"
+                },
+                {
+                    "id": 65522,
+                    "name": "Uiseong-gun",
+                    "latitude": "36.36122000",
+                    "longitude": "128.61517000"
+                },
+                {
+                    "id": 65524,
+                    "name": "Uljin-gun",
+                    "latitude": "36.91968000",
+                    "longitude": "129.31966000"
+                },
+                {
+                    "id": 65526,
+                    "name": "Ulleung-gun",
+                    "latitude": "37.50442000",
+                    "longitude": "130.86084000"
+                },
+                {
+                    "id": 65530,
+                    "name": "Waegwan",
+                    "latitude": "35.99251000",
+                    "longitude": "128.39785000"
+                },
+                {
+                    "id": 65544,
+                    "name": "Yecheon-gun",
+                    "latitude": "36.65272000",
+                    "longitude": "128.43007000"
+                },
+                {
+                    "id": 65549,
+                    "name": "Yeongcheon-si",
+                    "latitude": "36.00000000",
+                    "longitude": "129.00000000"
+                },
+                {
+                    "id": 65550,
+                    "name": "Yeongdeok-gun",
+                    "latitude": "36.48125000",
+                    "longitude": "129.31078000"
+                },
+                {
+                    "id": 65557,
+                    "name": "Yeongju-si",
+                    "latitude": "36.87459000",
+                    "longitude": "128.58631000"
+                },
+                {
+                    "id": 65558,
+                    "name": "Yeongyang-gun",
+                    "latitude": "36.69592000",
+                    "longitude": "129.14196000"
+                },
+                {
+                    "id": 65559,
+                    "name": "Yeonil",
+                    "latitude": "35.99526000",
+                    "longitude": "129.35162000"
+                }
+            ]
+        },
+        {
+            "id": 3851,
+            "name": "North Jeolla Province",
+            "state_code": "45",
+            "cities": [
+                {
+                    "id": 65273,
+                    "name": "Buan-gun",
+                    "latitude": "35.70000000",
+                    "longitude": "126.66667000"
+                },
+                {
+                    "id": 65283,
+                    "name": "Changsu",
+                    "latitude": "35.64842000",
+                    "longitude": "127.51523000"
+                },
+                {
+                    "id": 65338,
+                    "name": "Gimje-si",
+                    "latitude": "35.80701000",
+                    "longitude": "126.90755000"
+                },
+                {
+                    "id": 65340,
+                    "name": "Gochang-gun",
+                    "latitude": "35.43483000",
+                    "longitude": "126.70047000"
+                },
+                {
+                    "id": 65353,
+                    "name": "Gunsan",
+                    "latitude": "35.97861000",
+                    "longitude": "126.71139000"
+                },
+                {
+                    "id": 65354,
+                    "name": "Gunsan-si",
+                    "latitude": "35.93583000",
+                    "longitude": "126.68338000"
+                },
+                {
+                    "id": 65396,
+                    "name": "Iksan",
+                    "latitude": "35.94389000",
+                    "longitude": "126.95444000"
+                },
+                {
+                    "id": 65397,
+                    "name": "Iksan-si",
+                    "latitude": "36.03718000",
+                    "longitude": "126.98897000"
+                },
+                {
+                    "id": 65398,
+                    "name": "Imsil",
+                    "latitude": "35.61306000",
+                    "longitude": "127.27944000"
+                },
+                {
+                    "id": 65399,
+                    "name": "Imsil-gun",
+                    "latitude": "35.62160000",
+                    "longitude": "127.23187000"
+                },
+                {
+                    "id": 65404,
+                    "name": "Jangsu-gun",
+                    "latitude": "35.62504000",
+                    "longitude": "127.56358000"
+                },
+                {
+                    "id": 65409,
+                    "name": "Jeongeup",
+                    "latitude": "35.60004000",
+                    "longitude": "126.91699000"
+                },
+                {
+                    "id": 65410,
+                    "name": "Jeongeup-si",
+                    "latitude": "35.60000000",
+                    "longitude": "126.91667000"
+                },
+                {
+                    "id": 65412,
+                    "name": "Jeonju",
+                    "latitude": "35.82194000",
+                    "longitude": "127.14889000"
+                },
+                {
+                    "id": 65413,
+                    "name": "Jeonju-si",
+                    "latitude": "35.83333000",
+                    "longitude": "127.15000000"
+                },
+                {
+                    "id": 65415,
+                    "name": "Jinan-gun",
+                    "latitude": "35.80472000",
+                    "longitude": "127.47579000"
+                },
+                {
+                    "id": 65426,
+                    "name": "Kimje",
+                    "latitude": "35.80167000",
+                    "longitude": "126.88889000"
+                },
+                {
+                    "id": 65428,
+                    "name": "Koch'ang",
+                    "latitude": "35.43333000",
+                    "longitude": "126.70000000"
+                },
+                {
+                    "id": 65445,
+                    "name": "Muju-gun",
+                    "latitude": "35.93172000",
+                    "longitude": "127.71118000"
+                },
+                {
+                    "id": 65455,
+                    "name": "Namwon",
+                    "latitude": "35.44821000",
+                    "longitude": "127.38007000"
+                },
+                {
+                    "id": 65458,
+                    "name": "Nangen",
+                    "latitude": "35.41000000",
+                    "longitude": "127.38583000"
+                },
+                {
+                    "id": 65471,
+                    "name": "Puan",
+                    "latitude": "35.72806000",
+                    "longitude": "126.73194000"
+                },
+                {
+                    "id": 65508,
+                    "name": "Sunchang-gun",
+                    "latitude": "35.37651000",
+                    "longitude": "127.14967000"
+                },
+                {
+                    "id": 65532,
+                    "name": "Wanju",
+                    "latitude": "35.84509000",
+                    "longitude": "127.14752000"
+                }
+            ]
+        },
+        {
+            "id": 3861,
+            "name": "Sejong City",
+            "state_code": "50",
+            "cities": [
+                {
+                    "id": 65483,
+                    "name": "Sejong",
+                    "latitude": "36.59245000",
+                    "longitude": "127.29223000"
+                }
+            ]
+        },
+        {
+            "id": 3849,
+            "name": "Seoul",
+            "state_code": "11",
+            "cities": [
+                {
+                    "id": 65306,
+                    "name": "Dobong-gu",
+                    "latitude": "37.65066000",
+                    "longitude": "127.03011000"
+                },
+                {
+                    "id": 65309,
+                    "name": "Dongdaemun-gu",
+                    "latitude": "37.58189000",
+                    "longitude": "127.05408000"
+                },
+                {
+                    "id": 65312,
+                    "name": "Dongjak-gu",
+                    "latitude": "37.50056000",
+                    "longitude": "126.95149000"
+                },
+                {
+                    "id": 65316,
+                    "name": "Eunpyeong-gu",
+                    "latitude": "37.61846000",
+                    "longitude": "126.92780000"
+                },
+                {
+                    "id": 65318,
+                    "name": "Gangbuk-gu",
+                    "latitude": "37.63490000",
+                    "longitude": "127.02015000"
+                },
+                {
+                    "id": 65319,
+                    "name": "Gangdong-gu",
+                    "latitude": "37.55274000",
+                    "longitude": "127.14546000"
+                },
+                {
+                    "id": 65321,
+                    "name": "Gangnam-gu",
+                    "latitude": "37.49510000",
+                    "longitude": "127.06278000"
+                },
+                {
+                    "id": 65324,
+                    "name": "Gangseo-gu",
+                    "latitude": "37.56227000",
+                    "longitude": "126.81622000"
+                },
+                {
+                    "id": 65330,
+                    "name": "Geumcheon-gu",
+                    "latitude": "37.47486000",
+                    "longitude": "126.89106000"
+                },
+                {
+                    "id": 65357,
+                    "name": "Guro-gu",
+                    "latitude": "37.49447000",
+                    "longitude": "126.85020000"
+                },
+                {
+                    "id": 65360,
+                    "name": "Gwanak-gu",
+                    "latitude": "37.47876000",
+                    "longitude": "126.95235000"
+                },
+                {
+                    "id": 65361,
+                    "name": "Gwangjin-gu",
+                    "latitude": "37.53913000",
+                    "longitude": "127.08366000"
+                },
+                {
+                    "id": 65419,
+                    "name": "Jongno-gu",
+                    "latitude": "37.57290000",
+                    "longitude": "126.97928000"
+                },
+                {
+                    "id": 65420,
+                    "name": "Jung-gu",
+                    "latitude": "37.55986000",
+                    "longitude": "126.99398000"
+                },
+                {
+                    "id": 65424,
+                    "name": "Jungnang-gu",
+                    "latitude": "37.60199000",
+                    "longitude": "127.10461000"
+                },
+                {
+                    "id": 65436,
+                    "name": "Mapo-gu",
+                    "latitude": "37.55438000",
+                    "longitude": "126.90926000"
+                },
+                {
+                    "id": 65462,
+                    "name": "Nowon-gu",
+                    "latitude": "37.66045000",
+                    "longitude": "127.06718000"
+                },
+                {
+                    "id": 65488,
+                    "name": "Seocho-gu",
+                    "latitude": "37.49447000",
+                    "longitude": "127.01088000"
+                },
+                {
+                    "id": 65489,
+                    "name": "Seodaemun-gu",
+                    "latitude": "37.57809000",
+                    "longitude": "126.93506000"
+                },
+                {
+                    "id": 65491,
+                    "name": "Seongbuk-gu",
+                    "latitude": "37.60267000",
+                    "longitude": "127.01448000"
+                },
+                {
+                    "id": 65492,
+                    "name": "Seongdong-gu",
+                    "latitude": "37.54784000",
+                    "longitude": "127.02461000"
+                },
+                {
+                    "id": 65498,
+                    "name": "Seoul",
+                    "latitude": "37.56600000",
+                    "longitude": "126.97840000"
+                },
+                {
+                    "id": 65507,
+                    "name": "Songpa-gu",
+                    "latitude": "37.50210000",
+                    "longitude": "127.11113000"
+                },
+                {
+                    "id": 65535,
+                    "name": "Yangcheon-gu",
+                    "latitude": "37.52157000",
+                    "longitude": "126.85827000"
+                },
+                {
+                    "id": 65551,
+                    "name": "Yeongdeungpo-gu",
+                    "latitude": "37.52606000",
+                    "longitude": "126.90308000"
+                },
+                {
+                    "id": 65565,
+                    "name": "Yongsan-dong",
+                    "latitude": "37.54450000",
+                    "longitude": "126.98370000"
+                },
+                {
+                    "id": 65566,
+                    "name": "Yongsan-gu",
+                    "latitude": "37.53391000",
+                    "longitude": "126.97750000"
+                }
+            ]
+        },
+        {
+            "id": 3859,
+            "name": "South Chungcheong Province",
+            "state_code": "44",
+            "cities": [
+                {
+                    "id": 65265,
+                    "name": "Asan",
+                    "latitude": "36.78361000",
+                    "longitude": "127.00417000"
+                },
+                {
+                    "id": 65266,
+                    "name": "Asan-si",
+                    "latitude": "36.80791000",
+                    "longitude": "126.97769000"
+                },
+                {
+                    "id": 65270,
+                    "name": "Boryeong",
+                    "latitude": "36.34931000",
+                    "longitude": "126.59772000"
+                },
+                {
+                    "id": 65271,
+                    "name": "Boryeong-si",
+                    "latitude": "36.35649000",
+                    "longitude": "126.59444000"
+                },
+                {
+                    "id": 65279,
+                    "name": "Buyeo",
+                    "latitude": "36.27472000",
+                    "longitude": "126.90906000"
+                },
+                {
+                    "id": 65280,
+                    "name": "Buyeo-gun",
+                    "latitude": "36.26257000",
+                    "longitude": "126.85802000"
+                },
+                {
+                    "id": 65286,
+                    "name": "Cheonan",
+                    "latitude": "36.80650000",
+                    "longitude": "127.15220000"
+                },
+                {
+                    "id": 65287,
+                    "name": "Cheonan-si",
+                    "latitude": "36.80488000",
+                    "longitude": "127.19431000"
+                },
+                {
+                    "id": 65292,
+                    "name": "Cheongyang-gun",
+                    "latitude": "36.41676000",
+                    "longitude": "126.79419000"
+                },
+                {
+                    "id": 65332,
+                    "name": "Geumsan-gun",
+                    "latitude": "36.13381000",
+                    "longitude": "127.48062000"
+                },
+                {
+                    "id": 65344,
+                    "name": "Gongju",
+                    "latitude": "36.45556000",
+                    "longitude": "127.12472000"
+                },
+                {
+                    "id": 65345,
+                    "name": "Gongju-si",
+                    "latitude": "36.50000000",
+                    "longitude": "127.08333000"
+                },
+                {
+                    "id": 65371,
+                    "name": "Gyeryong-si",
+                    "latitude": "36.29304000",
+                    "longitude": "127.22575000"
+                },
+                {
+                    "id": 65386,
+                    "name": "Hongseong",
+                    "latitude": "36.60090000",
+                    "longitude": "126.66500000"
+                },
+                {
+                    "id": 65387,
+                    "name": "Hongseong-gun",
+                    "latitude": "36.56705000",
+                    "longitude": "126.62626000"
+                },
+                {
+                    "id": 65427,
+                    "name": "Kinzan",
+                    "latitude": "36.10306000",
+                    "longitude": "127.48889000"
+                },
+                {
+                    "id": 65460,
+                    "name": "Nonsan",
+                    "latitude": "36.20389000",
+                    "longitude": "127.08472000"
+                },
+                {
+                    "id": 65461,
+                    "name": "Nonsan-si",
+                    "latitude": "36.19774000",
+                    "longitude": "127.12143000"
+                },
+                {
+                    "id": 65487,
+                    "name": "Seocheon-gun",
+                    "latitude": "36.10600000",
+                    "longitude": "126.69716000"
+                },
+                {
+                    "id": 65493,
+                    "name": "Seonghwan",
+                    "latitude": "36.91556000",
+                    "longitude": "127.13139000"
+                },
+                {
+                    "id": 65496,
+                    "name": "Seosan",
+                    "latitude": "36.78167000",
+                    "longitude": "126.45222000"
+                },
+                {
+                    "id": 65497,
+                    "name": "Seosan-si",
+                    "latitude": "36.78518000",
+                    "longitude": "126.46568000"
+                },
+                {
+                    "id": 65514,
+                    "name": "Taean-gun",
+                    "latitude": "36.70036000",
+                    "longitude": "126.28391000"
+                },
+                {
+                    "id": 65516,
+                    "name": "Taesal-li",
+                    "latitude": "36.97140000",
+                    "longitude": "126.45420000"
+                },
+                {
+                    "id": 65517,
+                    "name": "Tangjin",
+                    "latitude": "36.89444000",
+                    "longitude": "126.62972000"
+                },
+                {
+                    "id": 65562,
+                    "name": "Yesan",
+                    "latitude": "36.67756000",
+                    "longitude": "126.84272000"
+                },
+                {
+                    "id": 65563,
+                    "name": "Yesan-gun",
+                    "latitude": "36.68218000",
+                    "longitude": "126.79592000"
+                },
+                {
+                    "id": 65568,
+                    "name": "Yŏnmu",
+                    "latitude": "36.12944000",
+                    "longitude": "127.10000000"
+                }
+            ]
+        },
+        {
+            "id": 3857,
+            "name": "South Gyeongsang Province",
+            "state_code": "48",
+            "cities": [
+                {
+                    "id": 65281,
+                    "name": "Changnyeong",
+                    "latitude": "35.54145000",
+                    "longitude": "128.49506000"
+                },
+                {
+                    "id": 65282,
+                    "name": "Changnyeong-gun",
+                    "latitude": "35.50822000",
+                    "longitude": "128.49020000"
+                },
+                {
+                    "id": 65284,
+                    "name": "Changwon",
+                    "latitude": "35.22806000",
+                    "longitude": "128.68111000"
+                },
+                {
+                    "id": 65285,
+                    "name": "Changwon-si",
+                    "latitude": "35.27533000",
+                    "longitude": "128.65152000"
+                },
+                {
+                    "id": 65296,
+                    "name": "Chinju",
+                    "latitude": "35.19278000",
+                    "longitude": "128.08472000"
+                },
+                {
+                    "id": 65328,
+                    "name": "Geochang-gun",
+                    "latitude": "35.73034000",
+                    "longitude": "127.90149000"
+                },
+                {
+                    "id": 65329,
+                    "name": "Geoje-si",
+                    "latitude": "34.90000000",
+                    "longitude": "128.66666000"
+                },
+                {
+                    "id": 65337,
+                    "name": "Gimhae-si",
+                    "latitude": "35.25000000",
+                    "longitude": "128.86667000"
+                },
+                {
+                    "id": 65347,
+                    "name": "Goseong",
+                    "latitude": "34.97631000",
+                    "longitude": "128.32361000"
+                },
+                {
+                    "id": 65348,
+                    "name": "Goseong-gun",
+                    "latitude": "35.01478000",
+                    "longitude": "128.28244000"
+                },
+                {
+                    "id": 65372,
+                    "name": "Hadong-gun",
+                    "latitude": "35.13628000",
+                    "longitude": "127.77291000"
+                },
+                {
+                    "id": 65376,
+                    "name": "Haman-gun",
+                    "latitude": "35.29117000",
+                    "longitude": "128.42970000"
+                },
+                {
+                    "id": 65380,
+                    "name": "Hapcheon-gun",
+                    "latitude": "35.57410000",
+                    "longitude": "128.13841000"
+                },
+                {
+                    "id": 65418,
+                    "name": "Jinju-si",
+                    "latitude": "35.20445000",
+                    "longitude": "128.12408000"
+                },
+                {
+                    "id": 65425,
+                    "name": "Kimhae",
+                    "latitude": "35.23417000",
+                    "longitude": "128.88111000"
+                },
+                {
+                    "id": 65435,
+                    "name": "Kyosai",
+                    "latitude": "34.85028000",
+                    "longitude": "128.58861000"
+                },
+                {
+                    "id": 65439,
+                    "name": "Miryang",
+                    "latitude": "35.49333000",
+                    "longitude": "128.74889000"
+                },
+                {
+                    "id": 65440,
+                    "name": "Miryang-si",
+                    "latitude": "35.49750000",
+                    "longitude": "128.78690000"
+                },
+                {
+                    "id": 65449,
+                    "name": "Naesŏ",
+                    "latitude": "35.24972000",
+                    "longitude": "128.52000000"
+                },
+                {
+                    "id": 65454,
+                    "name": "Namhae-gun",
+                    "latitude": "34.80433000",
+                    "longitude": "127.92708000"
+                },
+                {
+                    "id": 65476,
+                    "name": "Sacheon-si",
+                    "latitude": "35.00385000",
+                    "longitude": "128.06857000"
+                },
+                {
+                    "id": 65479,
+                    "name": "Sancheong-gun",
+                    "latitude": "35.36625000",
+                    "longitude": "127.87065000"
+                },
+                {
+                    "id": 65502,
+                    "name": "Sinhyeon",
+                    "latitude": "34.88250000",
+                    "longitude": "128.62667000"
+                },
+                {
+                    "id": 65521,
+                    "name": "Uiryeong-gun",
+                    "latitude": "35.39230000",
+                    "longitude": "128.26917000"
+                },
+                {
+                    "id": 65528,
+                    "name": "Ungsang",
+                    "latitude": "35.40611000",
+                    "longitude": "129.16861000"
+                },
+                {
+                    "id": 65542,
+                    "name": "Yangsan",
+                    "latitude": "35.34199000",
+                    "longitude": "129.03358000"
+                }
+            ]
+        },
+        {
+            "id": 3856,
+            "name": "South Jeolla Province",
+            "state_code": "46",
+            "cities": [
+                {
+                    "id": 65267,
+                    "name": "Beolgyo",
+                    "latitude": "34.84897000",
+                    "longitude": "127.34052000"
+                },
+                {
+                    "id": 65272,
+                    "name": "Boseong-gun",
+                    "latitude": "34.84622000",
+                    "longitude": "127.22189000"
+                },
+                {
+                    "id": 65304,
+                    "name": "Damyang-gun",
+                    "latitude": "35.33976000",
+                    "longitude": "126.99125000"
+                },
+                {
+                    "id": 65320,
+                    "name": "Gangjin-gun",
+                    "latitude": "34.61787000",
+                    "longitude": "126.76758000"
+                },
+                {
+                    "id": 65342,
+                    "name": "Goheung-gun",
+                    "latitude": "34.58333000",
+                    "longitude": "127.33333000"
+                },
+                {
+                    "id": 65343,
+                    "name": "Gokseong-gun",
+                    "latitude": "35.21449000",
+                    "longitude": "127.26280000"
+                },
+                {
+                    "id": 65358,
+                    "name": "Gurye-gun",
+                    "latitude": "35.23616000",
+                    "longitude": "127.50129000"
+                },
+                {
+                    "id": 65367,
+                    "name": "Gwangyang",
+                    "latitude": "34.94140000",
+                    "longitude": "127.69569000"
+                },
+                {
+                    "id": 65368,
+                    "name": "Gwangyang-si",
+                    "latitude": "35.04007000",
+                    "longitude": "127.60949000"
+                },
+                {
+                    "id": 65373,
+                    "name": "Haenam",
+                    "latitude": "34.57111000",
+                    "longitude": "126.59889000"
+                },
+                {
+                    "id": 65374,
+                    "name": "Haenam-gun",
+                    "latitude": "34.54047000",
+                    "longitude": "126.51870000"
+                },
+                {
+                    "id": 65377,
+                    "name": "Hampyeong-gun",
+                    "latitude": "35.14988000",
+                    "longitude": "126.53337000"
+                },
+                {
+                    "id": 65392,
+                    "name": "Hwasun",
+                    "latitude": "35.06125000",
+                    "longitude": "126.98746000"
+                },
+                {
+                    "id": 65393,
+                    "name": "Hwasun-gun",
+                    "latitude": "35.00468000",
+                    "longitude": "127.02648000"
+                },
+                {
+                    "id": 65402,
+                    "name": "Jangheung-gun",
+                    "latitude": "34.70555000",
+                    "longitude": "126.94905000"
+                },
+                {
+                    "id": 65403,
+                    "name": "Jangseong-gun",
+                    "latitude": "35.32734000",
+                    "longitude": "126.76817000"
+                },
+                {
+                    "id": 65417,
+                    "name": "Jindo-gun",
+                    "latitude": "34.41958000",
+                    "longitude": "126.22599000"
+                },
+                {
+                    "id": 65432,
+                    "name": "Kurye",
+                    "latitude": "35.20944000",
+                    "longitude": "127.46444000"
+                },
+                {
+                    "id": 65434,
+                    "name": "Kwangyang",
+                    "latitude": "34.97528000",
+                    "longitude": "127.58917000"
+                },
+                {
+                    "id": 65441,
+                    "name": "Mokpo",
+                    "latitude": "34.81282000",
+                    "longitude": "126.39181000"
+                },
+                {
+                    "id": 65442,
+                    "name": "Mokpo-si",
+                    "latitude": "34.81226000",
+                    "longitude": "126.39179000"
+                },
+                {
+                    "id": 65443,
+                    "name": "Muan",
+                    "latitude": "34.99014000",
+                    "longitude": "126.47899000"
+                },
+                {
+                    "id": 65444,
+                    "name": "Muan-gun",
+                    "latitude": "34.95642000",
+                    "longitude": "126.44041000"
+                },
+                {
+                    "id": 65450,
+                    "name": "Naju",
+                    "latitude": "35.02920000",
+                    "longitude": "126.71750000"
+                },
+                {
+                    "id": 65451,
+                    "name": "Naju-si",
+                    "latitude": "35.05683000",
+                    "longitude": "126.67362000"
+                },
+                {
+                    "id": 65500,
+                    "name": "Sinan",
+                    "latitude": "34.82620000",
+                    "longitude": "126.10863000"
+                },
+                {
+                    "id": 65501,
+                    "name": "Sinan-gun",
+                    "latitude": "34.83107000",
+                    "longitude": "126.09872000"
+                },
+                {
+                    "id": 65509,
+                    "name": "Suncheon",
+                    "latitude": "34.95050000",
+                    "longitude": "127.48784000"
+                },
+                {
+                    "id": 65510,
+                    "name": "Suncheon-si",
+                    "latitude": "34.97162000",
+                    "longitude": "127.46096000"
+                },
+                {
+                    "id": 65531,
+                    "name": "Wando-gun",
+                    "latitude": "34.31182000",
+                    "longitude": "126.73845000"
+                },
+                {
+                    "id": 65547,
+                    "name": "Yeongam",
+                    "latitude": "34.80059000",
+                    "longitude": "126.69669000"
+                },
+                {
+                    "id": 65548,
+                    "name": "Yeongam-gun",
+                    "latitude": "34.79790000",
+                    "longitude": "126.62651000"
+                },
+                {
+                    "id": 65555,
+                    "name": "Yeonggwang",
+                    "latitude": "35.27814000",
+                    "longitude": "126.51181000"
+                },
+                {
+                    "id": 65556,
+                    "name": "Yeonggwang-gun",
+                    "latitude": "35.28711000",
+                    "longitude": "126.43616000"
+                },
+                {
+                    "id": 65561,
+                    "name": "Yeosu",
+                    "latitude": "34.76062000",
+                    "longitude": "127.66215000"
+                }
+            ]
+        },
+        {
+            "id": 3852,
+            "name": "Ulsan",
+            "state_code": "31",
+            "cities": [
+                {
+                    "id": 65275,
+                    "name": "Buk-gu",
+                    "latitude": "35.58243000",
+                    "longitude": "129.36049000"
+                },
+                {
+                    "id": 65308,
+                    "name": "Dong-gu",
+                    "latitude": "35.50470000",
+                    "longitude": "129.41860000"
+                },
+                {
+                    "id": 65423,
+                    "name": "Jung-gu",
+                    "latitude": "35.56840000",
+                    "longitude": "129.33226000"
+                },
+                {
+                    "id": 65453,
+                    "name": "Nam-gu",
+                    "latitude": "35.54382000",
+                    "longitude": "129.32917000"
+                },
+                {
+                    "id": 65525,
+                    "name": "Ulju-gun",
+                    "latitude": "35.56233000",
+                    "longitude": "129.12690000"
+                },
+                {
+                    "id": 65527,
+                    "name": "Ulsan",
+                    "latitude": "35.53722000",
+                    "longitude": "129.31667000"
+                }
+            ]
+        }
+    ],
+    "timezones": [
+        "UTC+09:00"
+    ],
+    "tld": [
+        ".kr"
+    ],
+    "translations": {
+        "de": "Südkorea",
+        "es": "Corea del Sur",
+        "fr": "Corée du Sud",
+        "ja": "大韓民国",
+        "it": "Corea del Sud"
+    },
+    "wiki": "http://en.wikipedia.org/wiki/korea_south"
+}

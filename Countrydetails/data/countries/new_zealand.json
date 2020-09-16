@@ -1,0 +1,1422 @@
+{
+    "name": "New Zealand",
+    "altSpellings": [
+        "NZ",
+        "Aotearoa"
+    ],
+    "area": 270467,
+    "borders": [],
+    "callingCodes": [
+        "64"
+    ],
+    "capital": "Wellington",
+    "capital_latlng": [
+        -41.288795,
+        174.777211
+    ],
+    "currencies": [
+        "NZD"
+    ],
+    "demonym": "New Zealander",
+    "flag": "",
+    "geoJSON": {
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "type": "Feature",
+                "id": "NZL",
+                "properties": {
+                    "name": "New Zealand"
+                },
+                "geometry": {
+                    "type": "MultiPolygon",
+                    "coordinates": [
+                        [
+                            [
+                                [
+                                    173.020375,
+                                    -40.919052
+                                ],
+                                [
+                                    173.247234,
+                                    -41.331999
+                                ],
+                                [
+                                    173.958405,
+                                    -40.926701
+                                ],
+                                [
+                                    174.247587,
+                                    -41.349155
+                                ],
+                                [
+                                    174.248517,
+                                    -41.770008
+                                ],
+                                [
+                                    173.876447,
+                                    -42.233184
+                                ],
+                                [
+                                    173.22274,
+                                    -42.970038
+                                ],
+                                [
+                                    172.711246,
+                                    -43.372288
+                                ],
+                                [
+                                    173.080113,
+                                    -43.853344
+                                ],
+                                [
+                                    172.308584,
+                                    -43.865694
+                                ],
+                                [
+                                    171.452925,
+                                    -44.242519
+                                ],
+                                [
+                                    171.185138,
+                                    -44.897104
+                                ],
+                                [
+                                    170.616697,
+                                    -45.908929
+                                ],
+                                [
+                                    169.831422,
+                                    -46.355775
+                                ],
+                                [
+                                    169.332331,
+                                    -46.641235
+                                ],
+                                [
+                                    168.411354,
+                                    -46.619945
+                                ],
+                                [
+                                    167.763745,
+                                    -46.290197
+                                ],
+                                [
+                                    166.676886,
+                                    -46.219917
+                                ],
+                                [
+                                    166.509144,
+                                    -45.852705
+                                ],
+                                [
+                                    167.046424,
+                                    -45.110941
+                                ],
+                                [
+                                    168.303763,
+                                    -44.123973
+                                ],
+                                [
+                                    168.949409,
+                                    -43.935819
+                                ],
+                                [
+                                    169.667815,
+                                    -43.555326
+                                ],
+                                [
+                                    170.52492,
+                                    -43.031688
+                                ],
+                                [
+                                    171.12509,
+                                    -42.512754
+                                ],
+                                [
+                                    171.569714,
+                                    -41.767424
+                                ],
+                                [
+                                    171.948709,
+                                    -41.514417
+                                ],
+                                [
+                                    172.097227,
+                                    -40.956104
+                                ],
+                                [
+                                    172.79858,
+                                    -40.493962
+                                ],
+                                [
+                                    173.020375,
+                                    -40.919052
+                                ]
+                            ]
+                        ],
+                        [
+                            [
+                                [
+                                    174.612009,
+                                    -36.156397
+                                ],
+                                [
+                                    175.336616,
+                                    -37.209098
+                                ],
+                                [
+                                    175.357596,
+                                    -36.526194
+                                ],
+                                [
+                                    175.808887,
+                                    -36.798942
+                                ],
+                                [
+                                    175.95849,
+                                    -37.555382
+                                ],
+                                [
+                                    176.763195,
+                                    -37.881253
+                                ],
+                                [
+                                    177.438813,
+                                    -37.961248
+                                ],
+                                [
+                                    178.010354,
+                                    -37.579825
+                                ],
+                                [
+                                    178.517094,
+                                    -37.695373
+                                ],
+                                [
+                                    178.274731,
+                                    -38.582813
+                                ],
+                                [
+                                    177.97046,
+                                    -39.166343
+                                ],
+                                [
+                                    177.206993,
+                                    -39.145776
+                                ],
+                                [
+                                    176.939981,
+                                    -39.449736
+                                ],
+                                [
+                                    177.032946,
+                                    -39.879943
+                                ],
+                                [
+                                    176.885824,
+                                    -40.065978
+                                ],
+                                [
+                                    176.508017,
+                                    -40.604808
+                                ],
+                                [
+                                    176.01244,
+                                    -41.289624
+                                ],
+                                [
+                                    175.239567,
+                                    -41.688308
+                                ],
+                                [
+                                    175.067898,
+                                    -41.425895
+                                ],
+                                [
+                                    174.650973,
+                                    -41.281821
+                                ],
+                                [
+                                    175.22763,
+                                    -40.459236
+                                ],
+                                [
+                                    174.900157,
+                                    -39.908933
+                                ],
+                                [
+                                    173.824047,
+                                    -39.508854
+                                ],
+                                [
+                                    173.852262,
+                                    -39.146602
+                                ],
+                                [
+                                    174.574802,
+                                    -38.797683
+                                ],
+                                [
+                                    174.743474,
+                                    -38.027808
+                                ],
+                                [
+                                    174.697017,
+                                    -37.381129
+                                ],
+                                [
+                                    174.292028,
+                                    -36.711092
+                                ],
+                                [
+                                    174.319004,
+                                    -36.534824
+                                ],
+                                [
+                                    173.840997,
+                                    -36.121981
+                                ],
+                                [
+                                    173.054171,
+                                    -35.237125
+                                ],
+                                [
+                                    172.636005,
+                                    -34.529107
+                                ],
+                                [
+                                    173.007042,
+                                    -34.450662
+                                ],
+                                [
+                                    173.551298,
+                                    -35.006183
+                                ],
+                                [
+                                    174.32939,
+                                    -35.265496
+                                ],
+                                [
+                                    174.612009,
+                                    -36.156397
+                                ]
+                            ]
+                        ]
+                    ]
+                }
+            }
+        ]
+    },
+    "ISO": {
+        "alpha2": "NZ",
+        "alpha3": "NZL"
+    },
+    "states": [
+        {
+            "id": 4072,
+            "name": "Auckland Region",
+            "state_code": "AUK",
+            "cities": [
+                {
+                    "id": 79773,
+                    "name": "Auckland",
+                    "latitude": "-36.84853000",
+                    "longitude": "174.76349000"
+                },
+                {
+                    "id": 79823,
+                    "name": "Mangere",
+                    "latitude": "-36.96807000",
+                    "longitude": "174.79875000"
+                },
+                {
+                    "id": 79824,
+                    "name": "Manukau City",
+                    "latitude": "-36.99282000",
+                    "longitude": "174.87986000"
+                },
+                {
+                    "id": 79833,
+                    "name": "Muriwai Beach",
+                    "latitude": "-36.81667000",
+                    "longitude": "174.45000000"
+                },
+                {
+                    "id": 79834,
+                    "name": "Murrays Bay",
+                    "latitude": "-36.72819000",
+                    "longitude": "174.75019000"
+                },
+                {
+                    "id": 79843,
+                    "name": "North Shore",
+                    "latitude": "-36.80000000",
+                    "longitude": "174.75000000"
+                },
+                {
+                    "id": 79852,
+                    "name": "Pakuranga",
+                    "latitude": "-36.88333000",
+                    "longitude": "174.91667000"
+                },
+                {
+                    "id": 79854,
+                    "name": "Papakura",
+                    "latitude": "-37.06573000",
+                    "longitude": "174.94393000"
+                },
+                {
+                    "id": 79856,
+                    "name": "Parakai",
+                    "latitude": "-36.65000000",
+                    "longitude": "174.43333000"
+                },
+                {
+                    "id": 79865,
+                    "name": "Pukekohe East",
+                    "latitude": "-37.20000000",
+                    "longitude": "174.95000000"
+                },
+                {
+                    "id": 79869,
+                    "name": "Red Hill",
+                    "latitude": "-37.05820000",
+                    "longitude": "174.97019000"
+                },
+                {
+                    "id": 79873,
+                    "name": "Rosebank",
+                    "latitude": "-36.87495000",
+                    "longitude": "174.66991000"
+                },
+                {
+                    "id": 79874,
+                    "name": "Rothesay Bay",
+                    "latitude": "-36.72602000",
+                    "longitude": "174.74064000"
+                },
+                {
+                    "id": 79885,
+                    "name": "Takanini",
+                    "latitude": "-37.04820000",
+                    "longitude": "174.90019000"
+                },
+                {
+                    "id": 79886,
+                    "name": "Tamaki",
+                    "latitude": "-36.88820000",
+                    "longitude": "174.86019000"
+                },
+                {
+                    "id": 79896,
+                    "name": "Titirangi",
+                    "latitude": "-36.93754000",
+                    "longitude": "174.65584000"
+                },
+                {
+                    "id": 79907,
+                    "name": "Waitakere",
+                    "latitude": "-36.91754000",
+                    "longitude": "174.65773000"
+                },
+                {
+                    "id": 79910,
+                    "name": "Waiuku",
+                    "latitude": "-37.24806000",
+                    "longitude": "174.73489000"
+                },
+                {
+                    "id": 79914,
+                    "name": "Warkworth",
+                    "latitude": "-36.40000000",
+                    "longitude": "174.66667000"
+                },
+                {
+                    "id": 79917,
+                    "name": "Wellsford",
+                    "latitude": "-36.28333000",
+                    "longitude": "174.51667000"
+                },
+                {
+                    "id": 79924,
+                    "name": "Wiri",
+                    "latitude": "-36.99820000",
+                    "longitude": "174.86019000"
+                }
+            ]
+        },
+        {
+            "id": 4074,
+            "name": "Bay of Plenty Region",
+            "state_code": "BOP",
+            "cities": [
+                {
+                    "id": 79791,
+                    "name": "Edgecumbe",
+                    "latitude": "-37.98333000",
+                    "longitude": "176.83333000"
+                },
+                {
+                    "id": 79809,
+                    "name": "Katikati",
+                    "latitude": "-37.55000000",
+                    "longitude": "175.91667000"
+                },
+                {
+                    "id": 79811,
+                    "name": "Kawerau",
+                    "latitude": "-38.10000000",
+                    "longitude": "176.70000000"
+                },
+                {
+                    "id": 79821,
+                    "name": "Maketu",
+                    "latitude": "-37.76667000",
+                    "longitude": "176.45000000"
+                },
+                {
+                    "id": 79835,
+                    "name": "Murupara",
+                    "latitude": "-38.46667000",
+                    "longitude": "176.70000000"
+                },
+                {
+                    "id": 79845,
+                    "name": "Opotiki",
+                    "latitude": "-38.00915000",
+                    "longitude": "177.28706000"
+                },
+                {
+                    "id": 79875,
+                    "name": "Rotorua",
+                    "latitude": "-38.13874000",
+                    "longitude": "176.24516000"
+                },
+                {
+                    "id": 79889,
+                    "name": "Tauranga",
+                    "latitude": "-37.68611000",
+                    "longitude": "176.16667000"
+                },
+                {
+                    "id": 79901,
+                    "name": "Waihi Beach",
+                    "latitude": "-37.40000000",
+                    "longitude": "175.93333000"
+                },
+                {
+                    "id": 79919,
+                    "name": "Whakatane",
+                    "latitude": "-37.95855000",
+                    "longitude": "176.98545000"
+                }
+            ]
+        },
+        {
+            "id": 4066,
+            "name": "Canterbury Region",
+            "state_code": "CAN",
+            "cities": [
+                {
+                    "id": 79769,
+                    "name": "Amberley",
+                    "latitude": "-43.15589000",
+                    "longitude": "172.72975000"
+                },
+                {
+                    "id": 79771,
+                    "name": "Ashburton",
+                    "latitude": "-43.89834000",
+                    "longitude": "171.73011000"
+                },
+                {
+                    "id": 79772,
+                    "name": "Ashburton District",
+                    "latitude": "-43.90000000",
+                    "longitude": "171.75000000"
+                },
+                {
+                    "id": 79780,
+                    "name": "Burnham",
+                    "latitude": "-43.61667000",
+                    "longitude": "172.31667000"
+                },
+                {
+                    "id": 79783,
+                    "name": "Christchurch",
+                    "latitude": "-43.53333000",
+                    "longitude": "172.63333000"
+                },
+                {
+                    "id": 79784,
+                    "name": "Christchurch City",
+                    "latitude": "-43.64578000",
+                    "longitude": "172.74586000"
+                },
+                {
+                    "id": 79788,
+                    "name": "Darfield",
+                    "latitude": "-43.48333000",
+                    "longitude": "172.11667000"
+                },
+                {
+                    "id": 79795,
+                    "name": "Geraldine",
+                    "latitude": "-44.09061000",
+                    "longitude": "171.24458000"
+                },
+                {
+                    "id": 79805,
+                    "name": "Kaiapoi",
+                    "latitude": "-43.37832000",
+                    "longitude": "172.64013000"
+                },
+                {
+                    "id": 79816,
+                    "name": "Leeston",
+                    "latitude": "-43.76667000",
+                    "longitude": "172.30000000"
+                },
+                {
+                    "id": 79818,
+                    "name": "Lincoln",
+                    "latitude": "-43.65000000",
+                    "longitude": "172.48333000"
+                },
+                {
+                    "id": 79820,
+                    "name": "Mackenzie District",
+                    "latitude": "-43.93987000",
+                    "longitude": "170.51913000"
+                },
+                {
+                    "id": 79829,
+                    "name": "Methven",
+                    "latitude": "-43.63333000",
+                    "longitude": "171.65000000"
+                },
+                {
+                    "id": 79849,
+                    "name": "Oxford",
+                    "latitude": "-43.30000000",
+                    "longitude": "172.18333000"
+                },
+                {
+                    "id": 79861,
+                    "name": "Pleasant Point",
+                    "latitude": "-44.26667000",
+                    "longitude": "171.13333000"
+                },
+                {
+                    "id": 79864,
+                    "name": "Prebbleton",
+                    "latitude": "-43.58333000",
+                    "longitude": "172.51667000"
+                },
+                {
+                    "id": 79868,
+                    "name": "Rakaia",
+                    "latitude": "-43.75000000",
+                    "longitude": "172.01667000"
+                },
+                {
+                    "id": 79872,
+                    "name": "Rolleston",
+                    "latitude": "-43.58333000",
+                    "longitude": "172.38333000"
+                },
+                {
+                    "id": 79877,
+                    "name": "Selwyn District",
+                    "latitude": "-43.32226000",
+                    "longitude": "171.87064000"
+                },
+                {
+                    "id": 79893,
+                    "name": "Timaru",
+                    "latitude": "-44.39672000",
+                    "longitude": "171.25364000"
+                },
+                {
+                    "id": 79894,
+                    "name": "Timaru District",
+                    "latitude": "-44.40000000",
+                    "longitude": "171.21667000"
+                },
+                {
+                    "id": 79895,
+                    "name": "Tinwald",
+                    "latitude": "-43.91667000",
+                    "longitude": "171.71667000"
+                },
+                {
+                    "id": 79902,
+                    "name": "Waimakariri District",
+                    "latitude": "-43.20750000",
+                    "longitude": "172.33286000"
+                },
+                {
+                    "id": 79925,
+                    "name": "Woodend",
+                    "latitude": "-43.31667000",
+                    "longitude": "172.66667000"
+                }
+            ]
+        },
+        {
+            "id": 4067,
+            "name": "Chatham Islands",
+            "state_code": "CIT",
+            "cities": [
+                {
+                    "id": 79908,
+                    "name": "Waitangi",
+                    "latitude": "-43.95353000",
+                    "longitude": "-176.55973000"
+                }
+            ]
+        },
+        {
+            "id": 4068,
+            "name": "Gisborne District",
+            "state_code": "GIS",
+            "cities": [
+                {
+                    "id": 79796,
+                    "name": "Gisborne",
+                    "latitude": "-38.65333000",
+                    "longitude": "178.00417000"
+                }
+            ]
+        },
+        {
+            "id": 4075,
+            "name": "Hawke's Bay Region",
+            "state_code": "HKB",
+            "cities": [
+                {
+                    "id": 79800,
+                    "name": "Hastings",
+                    "latitude": "-39.63810000",
+                    "longitude": "176.84918000"
+                },
+                {
+                    "id": 79836,
+                    "name": "Napier",
+                    "latitude": "-39.49260000",
+                    "longitude": "176.91233000"
+                },
+                {
+                    "id": 79887,
+                    "name": "Taradale",
+                    "latitude": "-39.53333000",
+                    "longitude": "176.85000000"
+                },
+                {
+                    "id": 79906,
+                    "name": "Wairoa",
+                    "latitude": "-39.03333000",
+                    "longitude": "177.36667000"
+                }
+            ]
+        },
+        {
+            "id": 4060,
+            "name": "Manawatu-Wanganui Region",
+            "state_code": "MWT",
+            "cities": [
+                {
+                    "id": 79779,
+                    "name": "Bulls",
+                    "latitude": "-40.17487000",
+                    "longitude": "175.38463000"
+                },
+                {
+                    "id": 79794,
+                    "name": "Foxton",
+                    "latitude": "-40.46667000",
+                    "longitude": "175.30000000"
+                },
+                {
+                    "id": 79803,
+                    "name": "Horowhenua District",
+                    "latitude": "-40.57733000",
+                    "longitude": "175.38071000"
+                },
+                {
+                    "id": 79817,
+                    "name": "Levin",
+                    "latitude": "-40.63333000",
+                    "longitude": "175.27500000"
+                },
+                {
+                    "id": 79822,
+                    "name": "Manawatu District",
+                    "latitude": "-40.11979000",
+                    "longitude": "175.67426000"
+                },
+                {
+                    "id": 79853,
+                    "name": "Palmerston North",
+                    "latitude": "-40.35636000",
+                    "longitude": "175.61113000"
+                },
+                {
+                    "id": 79904,
+                    "name": "Waiouru",
+                    "latitude": "-39.47753000",
+                    "longitude": "175.66834000"
+                },
+                {
+                    "id": 79913,
+                    "name": "Wanganui",
+                    "latitude": "-39.93333000",
+                    "longitude": "175.05000000"
+                }
+            ]
+        },
+        {
+            "id": 4063,
+            "name": "Marlborough Region",
+            "state_code": "MBH",
+            "cities": [
+                {
+                    "id": 79775,
+                    "name": "Blenheim",
+                    "latitude": "-41.51603000",
+                    "longitude": "173.95280000"
+                },
+                {
+                    "id": 79860,
+                    "name": "Picton",
+                    "latitude": "-41.29067000",
+                    "longitude": "174.00801000"
+                }
+            ]
+        },
+        {
+            "id": 4070,
+            "name": "Nelson Region",
+            "state_code": "NSN",
+            "cities": [
+                {
+                    "id": 79837,
+                    "name": "Nelson",
+                    "latitude": "-41.27078000",
+                    "longitude": "173.28404000"
+                }
+            ]
+        },
+        {
+            "id": 4059,
+            "name": "Northland Region",
+            "state_code": "NTL",
+            "cities": [
+                {
+                    "id": 79768,
+                    "name": "Ahipara",
+                    "latitude": "-35.16667000",
+                    "longitude": "173.16667000"
+                },
+                {
+                    "id": 79789,
+                    "name": "Dargaville",
+                    "latitude": "-35.93333000",
+                    "longitude": "173.88333000"
+                },
+                {
+                    "id": 79793,
+                    "name": "Far North District",
+                    "latitude": "-35.03359000",
+                    "longitude": "173.48841000"
+                },
+                {
+                    "id": 79806,
+                    "name": "Kaipara District",
+                    "latitude": "-35.99546000",
+                    "longitude": "174.04688000"
+                },
+                {
+                    "id": 79807,
+                    "name": "Kaitaia",
+                    "latitude": "-35.11485000",
+                    "longitude": "173.26366000"
+                },
+                {
+                    "id": 79810,
+                    "name": "Kawakawa",
+                    "latitude": "-35.38333000",
+                    "longitude": "174.06667000"
+                },
+                {
+                    "id": 79813,
+                    "name": "Kerikeri",
+                    "latitude": "-35.22676000",
+                    "longitude": "173.94739000"
+                },
+                {
+                    "id": 79828,
+                    "name": "Maungatapere",
+                    "latitude": "-35.75000000",
+                    "longitude": "174.20000000"
+                },
+                {
+                    "id": 79831,
+                    "name": "Moerewa",
+                    "latitude": "-35.38333000",
+                    "longitude": "174.03333000"
+                },
+                {
+                    "id": 79842,
+                    "name": "Ngunguru",
+                    "latitude": "-35.61667000",
+                    "longitude": "174.50000000"
+                },
+                {
+                    "id": 79851,
+                    "name": "Paihia",
+                    "latitude": "-35.28067000",
+                    "longitude": "174.09103000"
+                },
+                {
+                    "id": 79876,
+                    "name": "Ruakaka",
+                    "latitude": "-35.90818000",
+                    "longitude": "174.45019000"
+                },
+                {
+                    "id": 79882,
+                    "name": "Taipa",
+                    "latitude": "-34.99604000",
+                    "longitude": "173.46665000"
+                },
+                {
+                    "id": 79903,
+                    "name": "Waimate North",
+                    "latitude": "-35.31667000",
+                    "longitude": "173.88333000"
+                },
+                {
+                    "id": 79921,
+                    "name": "Whangarei",
+                    "latitude": "-35.73167000",
+                    "longitude": "174.32391000"
+                }
+            ]
+        },
+        {
+            "id": 4062,
+            "name": "Otago Region",
+            "state_code": "OTA",
+            "cities": [
+                {
+                    "id": 79770,
+                    "name": "Arrowtown",
+                    "latitude": "-44.93837000",
+                    "longitude": "168.81007000"
+                },
+                {
+                    "id": 79774,
+                    "name": "Balclutha",
+                    "latitude": "-46.23389000",
+                    "longitude": "169.75000000"
+                },
+                {
+                    "id": 79785,
+                    "name": "Clutha District",
+                    "latitude": "-46.03883000",
+                    "longitude": "169.60617000"
+                },
+                {
+                    "id": 79787,
+                    "name": "Cromwell",
+                    "latitude": "-45.03837000",
+                    "longitude": "169.20008000"
+                },
+                {
+                    "id": 79790,
+                    "name": "Dunedin",
+                    "latitude": "-45.87416000",
+                    "longitude": "170.50361000"
+                },
+                {
+                    "id": 79815,
+                    "name": "Kingston",
+                    "latitude": "-45.33288000",
+                    "longitude": "168.71476000"
+                },
+                {
+                    "id": 79830,
+                    "name": "Milton",
+                    "latitude": "-46.12083000",
+                    "longitude": "169.96944000"
+                },
+                {
+                    "id": 79844,
+                    "name": "Oamaru",
+                    "latitude": "-45.09758000",
+                    "longitude": "170.97087000"
+                },
+                {
+                    "id": 79855,
+                    "name": "Papatowai",
+                    "latitude": "-46.56069000",
+                    "longitude": "169.47068000"
+                },
+                {
+                    "id": 79863,
+                    "name": "Portobello",
+                    "latitude": "-45.85000000",
+                    "longitude": "170.65000000"
+                },
+                {
+                    "id": 79866,
+                    "name": "Queenstown",
+                    "latitude": "-45.03023000",
+                    "longitude": "168.66271000"
+                },
+                {
+                    "id": 79912,
+                    "name": "Wanaka",
+                    "latitude": "-44.70000000",
+                    "longitude": "169.15000000"
+                }
+            ]
+        },
+        {
+            "id": 4071,
+            "name": "Southland Region",
+            "state_code": "STL",
+            "cities": [
+                {
+                    "id": 79776,
+                    "name": "Bluff",
+                    "latitude": "-46.60000000",
+                    "longitude": "168.33333000"
+                },
+                {
+                    "id": 79797,
+                    "name": "Gore",
+                    "latitude": "-46.10282000",
+                    "longitude": "168.94357000"
+                },
+                {
+                    "id": 79804,
+                    "name": "Invercargill",
+                    "latitude": "-46.40000000",
+                    "longitude": "168.35000000"
+                },
+                {
+                    "id": 79871,
+                    "name": "Riverton",
+                    "latitude": "-46.35000000",
+                    "longitude": "168.01667000"
+                },
+                {
+                    "id": 79881,
+                    "name": "Southland District",
+                    "latitude": "-45.77256000",
+                    "longitude": "167.85266000"
+                },
+                {
+                    "id": 79890,
+                    "name": "Te Anau",
+                    "latitude": "-45.41667000",
+                    "longitude": "167.71667000"
+                },
+                {
+                    "id": 79923,
+                    "name": "Winton",
+                    "latitude": "-46.15000000",
+                    "longitude": "168.33333000"
+                }
+            ]
+        },
+        {
+            "id": 4069,
+            "name": "Taranaki Region",
+            "state_code": "TKI",
+            "cities": [
+                {
+                    "id": 79792,
+                    "name": "Eltham",
+                    "latitude": "-39.42917000",
+                    "longitude": "174.30000000"
+                },
+                {
+                    "id": 79801,
+                    "name": "Hawera",
+                    "latitude": "-39.59167000",
+                    "longitude": "174.28333000"
+                },
+                {
+                    "id": 79838,
+                    "name": "New Plymouth",
+                    "latitude": "-39.06667000",
+                    "longitude": "174.08333000"
+                },
+                {
+                    "id": 79839,
+                    "name": "New Plymouth District",
+                    "latitude": "-39.05865000",
+                    "longitude": "174.10309000"
+                },
+                {
+                    "id": 79846,
+                    "name": "Opunake",
+                    "latitude": "-39.45556000",
+                    "longitude": "173.85833000"
+                },
+                {
+                    "id": 79858,
+                    "name": "Patea",
+                    "latitude": "-39.75833000",
+                    "longitude": "174.48333000"
+                },
+                {
+                    "id": 79878,
+                    "name": "South Taranaki District",
+                    "latitude": "-39.52156000",
+                    "longitude": "174.37160000"
+                },
+                {
+                    "id": 79909,
+                    "name": "Waitara",
+                    "latitude": "-39.00158000",
+                    "longitude": "174.23836000"
+                }
+            ]
+        },
+        {
+            "id": 4073,
+            "name": "Tasman District",
+            "state_code": "TAS",
+            "cities": [
+                {
+                    "id": 79777,
+                    "name": "Brightwater",
+                    "latitude": "-41.38333000",
+                    "longitude": "173.11667000"
+                },
+                {
+                    "id": 79825,
+                    "name": "Mapua",
+                    "latitude": "-41.25000000",
+                    "longitude": "173.10000000"
+                },
+                {
+                    "id": 79832,
+                    "name": "Motueka",
+                    "latitude": "-41.13333000",
+                    "longitude": "173.01667000"
+                },
+                {
+                    "id": 79870,
+                    "name": "Richmond",
+                    "latitude": "-41.33333000",
+                    "longitude": "173.18333000"
+                },
+                {
+                    "id": 79884,
+                    "name": "Takaka",
+                    "latitude": "-40.85000000",
+                    "longitude": "172.80000000"
+                },
+                {
+                    "id": 79911,
+                    "name": "Wakefield",
+                    "latitude": "-41.40000000",
+                    "longitude": "173.05000000"
+                }
+            ]
+        },
+        {
+            "id": 4061,
+            "name": "Waikato Region",
+            "state_code": "WKO",
+            "cities": [
+                {
+                    "id": 79781,
+                    "name": "Cambridge",
+                    "latitude": "-37.87822000",
+                    "longitude": "175.44020000"
+                },
+                {
+                    "id": 79786,
+                    "name": "Coromandel",
+                    "latitude": "-36.76110000",
+                    "longitude": "175.49634000"
+                },
+                {
+                    "id": 79799,
+                    "name": "Hamilton",
+                    "latitude": "-37.78333000",
+                    "longitude": "175.28333000"
+                },
+                {
+                    "id": 79827,
+                    "name": "Matamata",
+                    "latitude": "-37.81060000",
+                    "longitude": "175.76237000"
+                },
+                {
+                    "id": 79840,
+                    "name": "Ngaruawahia",
+                    "latitude": "-37.66738000",
+                    "longitude": "175.15554000"
+                },
+                {
+                    "id": 79841,
+                    "name": "Ngatea",
+                    "latitude": "-37.28333000",
+                    "longitude": "175.50000000"
+                },
+                {
+                    "id": 79848,
+                    "name": "Otorohanga",
+                    "latitude": "-38.18333000",
+                    "longitude": "175.20000000"
+                },
+                {
+                    "id": 79850,
+                    "name": "Paeroa",
+                    "latitude": "-37.36667000",
+                    "longitude": "175.66667000"
+                },
+                {
+                    "id": 79867,
+                    "name": "Raglan",
+                    "latitude": "-37.80000000",
+                    "longitude": "174.88333000"
+                },
+                {
+                    "id": 79879,
+                    "name": "South Waikato District",
+                    "latitude": "-38.16797000",
+                    "longitude": "175.88624000"
+                },
+                {
+                    "id": 79883,
+                    "name": "Tairua",
+                    "latitude": "-37.01667000",
+                    "longitude": "175.85000000"
+                },
+                {
+                    "id": 79888,
+                    "name": "Taupo",
+                    "latitude": "-38.68333000",
+                    "longitude": "176.08333000"
+                },
+                {
+                    "id": 79891,
+                    "name": "Te Kauwhata",
+                    "latitude": "-37.40000000",
+                    "longitude": "175.15000000"
+                },
+                {
+                    "id": 79892,
+                    "name": "Thames",
+                    "latitude": "-37.13832000",
+                    "longitude": "175.54011000"
+                },
+                {
+                    "id": 79897,
+                    "name": "Tokoroa",
+                    "latitude": "-38.23333000",
+                    "longitude": "175.86667000"
+                },
+                {
+                    "id": 79898,
+                    "name": "Turangi",
+                    "latitude": "-38.99037000",
+                    "longitude": "175.80837000"
+                },
+                {
+                    "id": 79900,
+                    "name": "Waihi",
+                    "latitude": "-37.38333000",
+                    "longitude": "175.83333000"
+                },
+                {
+                    "id": 79920,
+                    "name": "Whangamata",
+                    "latitude": "-37.20000000",
+                    "longitude": "175.86667000"
+                },
+                {
+                    "id": 79922,
+                    "name": "Whitianga",
+                    "latitude": "-36.83333000",
+                    "longitude": "175.70000000"
+                }
+            ]
+        },
+        {
+            "id": 4065,
+            "name": "Wellington Region",
+            "state_code": "WGN",
+            "cities": [
+                {
+                    "id": 79778,
+                    "name": "Brooklyn",
+                    "latitude": "-41.30586000",
+                    "longitude": "174.76257000"
+                },
+                {
+                    "id": 79782,
+                    "name": "Castlepoint",
+                    "latitude": "-40.90000000",
+                    "longitude": "176.21667000"
+                },
+                {
+                    "id": 79808,
+                    "name": "Kapiti Coast District",
+                    "latitude": "-40.85682000",
+                    "longitude": "175.14690000"
+                },
+                {
+                    "id": 79812,
+                    "name": "Kelburn",
+                    "latitude": "-41.28333000",
+                    "longitude": "174.76667000"
+                },
+                {
+                    "id": 79814,
+                    "name": "Khandallah",
+                    "latitude": "-41.24500000",
+                    "longitude": "174.79422000"
+                },
+                {
+                    "id": 79819,
+                    "name": "Lower Hutt",
+                    "latitude": "-41.21667000",
+                    "longitude": "174.91667000"
+                },
+                {
+                    "id": 79826,
+                    "name": "Masterton",
+                    "latitude": "-40.95972000",
+                    "longitude": "175.65750000"
+                },
+                {
+                    "id": 79847,
+                    "name": "Otaki",
+                    "latitude": "-40.75833000",
+                    "longitude": "175.15000000"
+                },
+                {
+                    "id": 79857,
+                    "name": "Paraparaumu",
+                    "latitude": "-40.91667000",
+                    "longitude": "175.01667000"
+                },
+                {
+                    "id": 79859,
+                    "name": "Petone",
+                    "latitude": "-41.22827000",
+                    "longitude": "174.87019000"
+                },
+                {
+                    "id": 79862,
+                    "name": "Porirua",
+                    "latitude": "-41.13333000",
+                    "longitude": "174.85000000"
+                },
+                {
+                    "id": 79880,
+                    "name": "South Wairarapa District",
+                    "latitude": "-41.26731000",
+                    "longitude": "175.38442000"
+                },
+                {
+                    "id": 79899,
+                    "name": "Upper Hutt",
+                    "latitude": "-41.13827000",
+                    "longitude": "175.05020000"
+                },
+                {
+                    "id": 79905,
+                    "name": "Waipawa",
+                    "latitude": "-41.41222000",
+                    "longitude": "175.51528000"
+                },
+                {
+                    "id": 79915,
+                    "name": "Wellington",
+                    "latitude": "-41.28664000",
+                    "longitude": "174.77557000"
+                },
+                {
+                    "id": 79916,
+                    "name": "Wellington City",
+                    "latitude": "-41.25300000",
+                    "longitude": "174.75424000"
+                }
+            ]
+        },
+        {
+            "id": 4064,
+            "name": "West Coast Region",
+            "state_code": "WTC",
+            "cities": [
+                {
+                    "id": 79798,
+                    "name": "Greymouth",
+                    "latitude": "-42.46667000",
+                    "longitude": "171.20000000"
+                },
+                {
+                    "id": 79802,
+                    "name": "Hokitika",
+                    "latitude": "-42.71667000",
+                    "longitude": "170.96667000"
+                },
+                {
+                    "id": 79918,
+                    "name": "Westport",
+                    "latitude": "-41.75262000",
+                    "longitude": "171.60370000"
+                }
+            ]
+        }
+    ],
+    "languages": [
+        "English",
+        "Maori"
+    ],
+    "expectancy": 77.8,
+    "independence": 1907,
+    "government": "Constitutional Monarchy",
+    "continent": "Oceania",
+    "density": 18.55417569,
+    "symbol": "animal",
+    "dish": "Bacon and egg pie, lamb, pavlova",
+    "location": "Australia and New Zealand",
+    "temperature": 10.55,
+    "religion": "Christianity",
+    "latlng": [
+        -41,
+        174
+    ],
+    "nativeName": "New Zealand",
+    "population": 4547900,
+    "timezones": [
+        "UTC−11:00",
+        "UTC−10:00",
+        "UTC+12:00",
+        "UTC+12:45",
+        "UTC+13:00"
+    ],
+    "tld": [
+        ".nz"
+    ],
+    "translations": {
+        "de": "Neuseeland",
+        "es": "Nueva Zelanda",
+        "fr": "Nouvelle-Zélande",
+        "ja": "ニュージーランド",
+        "it": "Nuova Zelanda"
+    },
+    "wiki": "http://en.wikipedia.org/wiki/new_zealand"
+}

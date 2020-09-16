@@ -1,0 +1,356 @@
+{
+    "name": "Solomon Islands",
+    "altSpellings": [
+        "SB"
+    ],
+    "area": 28896,
+    "borders": [],
+    "callingCodes": [
+        "677"
+    ],
+    "capital": "Honiara",
+    "capital_latlng": [
+        -9.431077,
+        159.955255
+    ],
+    "currencies": [
+        "SBD"
+    ],
+    "demonym": "Solomon Islander",
+    "flag": "",
+    "geoJSON": {
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "type": "Feature",
+                "id": "SLB",
+                "properties": {
+                    "name": "Solomon Islands"
+                },
+                "geometry": {
+                    "type": "MultiPolygon",
+                    "coordinates": [
+                        [
+                            [
+                                [
+                                    162.119025,
+                                    -10.482719
+                                ],
+                                [
+                                    162.398646,
+                                    -10.826367
+                                ],
+                                [
+                                    161.700032,
+                                    -10.820011
+                                ],
+                                [
+                                    161.319797,
+                                    -10.204751
+                                ],
+                                [
+                                    161.917383,
+                                    -10.446701
+                                ],
+                                [
+                                    162.119025,
+                                    -10.482719
+                                ]
+                            ]
+                        ],
+                        [
+                            [
+                                [
+                                    160.852229,
+                                    -9.872937
+                                ],
+                                [
+                                    160.462588,
+                                    -9.89521
+                                ],
+                                [
+                                    159.849447,
+                                    -9.794027
+                                ],
+                                [
+                                    159.640003,
+                                    -9.63998
+                                ],
+                                [
+                                    159.702945,
+                                    -9.24295
+                                ],
+                                [
+                                    160.362956,
+                                    -9.400304
+                                ],
+                                [
+                                    160.688518,
+                                    -9.610162
+                                ],
+                                [
+                                    160.852229,
+                                    -9.872937
+                                ]
+                            ]
+                        ],
+                        [
+                            [
+                                [
+                                    161.679982,
+                                    -9.599982
+                                ],
+                                [
+                                    161.529397,
+                                    -9.784312
+                                ],
+                                [
+                                    160.788253,
+                                    -8.917543
+                                ],
+                                [
+                                    160.579997,
+                                    -8.320009
+                                ],
+                                [
+                                    160.920028,
+                                    -8.320009
+                                ],
+                                [
+                                    161.280006,
+                                    -9.120011
+                                ],
+                                [
+                                    161.679982,
+                                    -9.599982
+                                ]
+                            ]
+                        ],
+                        [
+                            [
+                                [
+                                    159.875027,
+                                    -8.33732
+                                ],
+                                [
+                                    159.917402,
+                                    -8.53829
+                                ],
+                                [
+                                    159.133677,
+                                    -8.114181
+                                ],
+                                [
+                                    158.586114,
+                                    -7.754824
+                                ],
+                                [
+                                    158.21115,
+                                    -7.421872
+                                ],
+                                [
+                                    158.359978,
+                                    -7.320018
+                                ],
+                                [
+                                    158.820001,
+                                    -7.560003
+                                ],
+                                [
+                                    159.640003,
+                                    -8.020027
+                                ],
+                                [
+                                    159.875027,
+                                    -8.33732
+                                ]
+                            ]
+                        ],
+                        [
+                            [
+                                [
+                                    157.538426,
+                                    -7.34782
+                                ],
+                                [
+                                    157.33942,
+                                    -7.404767
+                                ],
+                                [
+                                    156.90203,
+                                    -7.176874
+                                ],
+                                [
+                                    156.491358,
+                                    -6.765943
+                                ],
+                                [
+                                    156.542828,
+                                    -6.599338
+                                ],
+                                [
+                                    157.14,
+                                    -7.021638
+                                ],
+                                [
+                                    157.538426,
+                                    -7.34782
+                                ]
+                            ]
+                        ]
+                    ]
+                }
+            }
+        ]
+    },
+    "ISO": {
+        "alpha2": "SB",
+        "alpha3": "SLB"
+    },
+    "states": [
+        {
+            "id": 4784,
+            "name": "Central Province",
+            "state_code": "CE",
+            "cities": [
+                {
+                    "id": 102905,
+                    "name": "Tulagi",
+                    "latitude": "-9.10306000",
+                    "longitude": "160.15056000"
+                }
+            ]
+        },
+        {
+            "id": 4781,
+            "name": "Choiseul Province",
+            "state_code": "CH",
+            "cities": []
+        },
+        {
+            "id": 4785,
+            "name": "Guadalcanal Province",
+            "state_code": "GU",
+            "cities": [
+                {
+                    "id": 102902,
+                    "name": "Honiara",
+                    "latitude": "-9.43333000",
+                    "longitude": "159.95000000"
+                }
+            ]
+        },
+        {
+            "id": 4778,
+            "name": "Honiara",
+            "state_code": "CT",
+            "cities": []
+        },
+        {
+            "id": 4780,
+            "name": "Isabel Province",
+            "state_code": "IS",
+            "cities": [
+                {
+                    "id": 102900,
+                    "name": "Buala",
+                    "latitude": "-8.14497000",
+                    "longitude": "159.59212000"
+                }
+            ]
+        },
+        {
+            "id": 4782,
+            "name": "Makira-Ulawa Province",
+            "state_code": "MK",
+            "cities": [
+                {
+                    "id": 102903,
+                    "name": "Kirakira",
+                    "latitude": "-10.45442000",
+                    "longitude": "161.92045000"
+                }
+            ]
+        },
+        {
+            "id": 4783,
+            "name": "Malaita Province",
+            "state_code": "ML",
+            "cities": [
+                {
+                    "id": 102899,
+                    "name": "Auki",
+                    "latitude": "-8.76778000",
+                    "longitude": "160.69778000"
+                }
+            ]
+        },
+        {
+            "id": 4787,
+            "name": "Rennell and Bellona Province",
+            "state_code": "RB",
+            "cities": []
+        },
+        {
+            "id": 4779,
+            "name": "Temotu Province",
+            "state_code": "TE",
+            "cities": [
+                {
+                    "id": 102904,
+                    "name": "Lata",
+                    "latitude": "-10.72500000",
+                    "longitude": "165.79722000"
+                }
+            ]
+        },
+        {
+            "id": 4786,
+            "name": "Western Province",
+            "state_code": "WE",
+            "cities": [
+                {
+                    "id": 102901,
+                    "name": "Gizo",
+                    "latitude": "-8.10303000",
+                    "longitude": "156.84186000"
+                }
+            ]
+        }
+    ],
+    "languages": [
+        "Malenasian Languages",
+        "Papuan Languages",
+        "Polynesian Languages"
+    ],
+    "latlng": [
+        -8,
+        159
+    ],
+    "nativeName": "Solomon Islands",
+    "population": 581344,
+    "timezones": [
+        "UTC+11:00"
+    ],
+    "tld": [
+        ".sb"
+    ],
+    "translations": {
+        "de": "Salomonen",
+        "es": "Islas Salomón",
+        "fr": "Îles Salomon",
+        "ja": "ソロモン諸島",
+        "it": "Isole Salomone"
+    },
+    "continent": "Oceania",
+    "government": "Constitutional Monarchy",
+    "independence": 1978,
+    "symbol": null,
+    "dish": null,
+    "density": 23.32468739,
+    "location": "Melanesia",
+    "religion": "Christianity",
+    "temperature": 25.65,
+    "expectancy": 71.3,
+    "wiki": "http://en.wikipedia.org/wiki/solomon_islands"
+}

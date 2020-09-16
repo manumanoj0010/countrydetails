@@ -1,0 +1,828 @@
+{
+    "name": "Laos",
+    "altSpellings": [
+        "LA",
+        "Lao",
+        "Lao People's Democratic Republic",
+        "Sathalanalat Paxathipatai Paxaxon Lao"
+    ],
+    "area": 236800,
+    "borders": [
+        "MMR",
+        "KHM",
+        "CHN",
+        "THA",
+        "VNM"
+    ],
+    "callingCodes": [
+        "856"
+    ],
+    "capital": "Vientiane",
+    "capital_latlng": [
+        17.964099,
+        102.613371
+    ],
+    "currencies": [
+        "LAK"
+    ],
+    "demonym": "Laotian",
+    "flag": "",
+    "geoJSON": {
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "type": "Feature",
+                "id": "LAO",
+                "properties": {
+                    "name": "Laos"
+                },
+                "geometry": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                105.218777,
+                                14.273212
+                            ],
+                            [
+                                105.544338,
+                                14.723934
+                            ],
+                            [
+                                105.589039,
+                                15.570316
+                            ],
+                            [
+                                104.779321,
+                                16.441865
+                            ],
+                            [
+                                104.716947,
+                                17.428859
+                            ],
+                            [
+                                103.956477,
+                                18.240954
+                            ],
+                            [
+                                103.200192,
+                                18.309632
+                            ],
+                            [
+                                102.998706,
+                                17.961695
+                            ],
+                            [
+                                102.413005,
+                                17.932782
+                            ],
+                            [
+                                102.113592,
+                                18.109102
+                            ],
+                            [
+                                101.059548,
+                                17.512497
+                            ],
+                            [
+                                101.035931,
+                                18.408928
+                            ],
+                            [
+                                101.282015,
+                                19.462585
+                            ],
+                            [
+                                100.606294,
+                                19.508344
+                            ],
+                            [
+                                100.548881,
+                                20.109238
+                            ],
+                            [
+                                100.115988,
+                                20.41785
+                            ],
+                            [
+                                100.329101,
+                                20.786122
+                            ],
+                            [
+                                101.180005,
+                                21.436573
+                            ],
+                            [
+                                101.270026,
+                                21.201652
+                            ],
+                            [
+                                101.80312,
+                                21.174367
+                            ],
+                            [
+                                101.652018,
+                                22.318199
+                            ],
+                            [
+                                102.170436,
+                                22.464753
+                            ],
+                            [
+                                102.754896,
+                                21.675137
+                            ],
+                            [
+                                103.203861,
+                                20.766562
+                            ],
+                            [
+                                104.435,
+                                20.758733
+                            ],
+                            [
+                                104.822574,
+                                19.886642
+                            ],
+                            [
+                                104.183388,
+                                19.624668
+                            ],
+                            [
+                                103.896532,
+                                19.265181
+                            ],
+                            [
+                                105.094598,
+                                18.666975
+                            ],
+                            [
+                                105.925762,
+                                17.485315
+                            ],
+                            [
+                                106.556008,
+                                16.604284
+                            ],
+                            [
+                                107.312706,
+                                15.908538
+                            ],
+                            [
+                                107.564525,
+                                15.202173
+                            ],
+                            [
+                                107.382727,
+                                14.202441
+                            ],
+                            [
+                                106.496373,
+                                14.570584
+                            ],
+                            [
+                                106.043946,
+                                13.881091
+                            ],
+                            [
+                                105.218777,
+                                14.273212
+                            ]
+                        ]
+                    ]
+                }
+            }
+        ]
+    },
+    "ISO": {
+        "alpha2": "LA",
+        "alpha3": "LAO"
+    },
+    "states": [
+        {
+            "id": 982,
+            "name": "Attapeu Province",
+            "state_code": "AT",
+            "cities": [
+                {
+                    "id": 65855,
+                    "name": "Attapeu",
+                    "latitude": "14.81071000",
+                    "longitude": "106.83184000"
+                },
+                {
+                    "id": 65891,
+                    "name": "Muang Phouvong",
+                    "latitude": "14.56821000",
+                    "longitude": "107.01087000"
+                },
+                {
+                    "id": 65895,
+                    "name": "Muang Samakhixai",
+                    "latitude": "14.80539000",
+                    "longitude": "106.78164000"
+                },
+                {
+                    "id": 65897,
+                    "name": "Muang Sanamxai",
+                    "latitude": "14.73807000",
+                    "longitude": "106.41328000"
+                },
+                {
+                    "id": 65898,
+                    "name": "Muang Sanxai",
+                    "latitude": "15.02944000",
+                    "longitude": "107.23158000"
+                },
+                {
+                    "id": 65912,
+                    "name": "Muang Xaiséttha",
+                    "latitude": "14.90594000",
+                    "longitude": "106.97894000"
+                }
+            ]
+        },
+        {
+            "id": 991,
+            "name": "Bokeo Province",
+            "state_code": "BK",
+            "cities": [
+                {
+                    "id": 65856,
+                    "name": "Ban Houakhoua",
+                    "latitude": "20.24670000",
+                    "longitude": "100.45401000"
+                },
+                {
+                    "id": 65857,
+                    "name": "Ban Houayxay",
+                    "latitude": "20.27000000",
+                    "longitude": "100.41780000"
+                },
+                {
+                    "id": 65872,
+                    "name": "Muang Houayxay",
+                    "latitude": "20.38763000",
+                    "longitude": "100.62687000"
+                },
+                {
+                    "id": 65881,
+                    "name": "Muang Meung",
+                    "latitude": "20.67585000",
+                    "longitude": "100.52639000"
+                },
+                {
+                    "id": 65885,
+                    "name": "Muang Paktha",
+                    "latitude": "20.09108000",
+                    "longitude": "100.59940000"
+                },
+                {
+                    "id": 65889,
+                    "name": "Muang Pha Oudôm",
+                    "latitude": "20.18744000",
+                    "longitude": "100.92600000"
+                },
+                {
+                    "id": 65908,
+                    "name": "Muang Tônpheung",
+                    "latitude": "20.53465000",
+                    "longitude": "100.29624000"
+                }
+            ]
+        },
+        {
+            "id": 985,
+            "name": "Bolikhamsai Province",
+            "state_code": "BL",
+            "cities": [
+                {
+                    "id": 65858,
+                    "name": "Ban Nahin",
+                    "latitude": "18.24253000",
+                    "longitude": "104.21281000"
+                },
+                {
+                    "id": 65918,
+                    "name": "Pakxan",
+                    "latitude": "18.39420000",
+                    "longitude": "103.66110000"
+                }
+            ]
+        },
+        {
+            "id": 996,
+            "name": "Champasak Province",
+            "state_code": "CH",
+            "cities": [
+                {
+                    "id": 65860,
+                    "name": "Champasak",
+                    "latitude": "14.89204000",
+                    "longitude": "105.87787000"
+                },
+                {
+                    "id": 65868,
+                    "name": "Muang Bachiangchaleunsook",
+                    "latitude": "15.24426000",
+                    "longitude": "105.96716000"
+                },
+                {
+                    "id": 65869,
+                    "name": "Muang Champasak",
+                    "latitude": "14.85704000",
+                    "longitude": "105.75334000"
+                },
+                {
+                    "id": 65874,
+                    "name": "Muang Không",
+                    "latitude": "14.14696000",
+                    "longitude": "105.95938000"
+                },
+                {
+                    "id": 65882,
+                    "name": "Muang Mounlapamôk",
+                    "latitude": "14.28922000",
+                    "longitude": "105.56832000"
+                },
+                {
+                    "id": 65887,
+                    "name": "Muang Pakxé",
+                    "latitude": "15.13139000",
+                    "longitude": "105.81612000"
+                },
+                {
+                    "id": 65886,
+                    "name": "Muang Pakxong",
+                    "latitude": "15.09810000",
+                    "longitude": "106.43398000"
+                },
+                {
+                    "id": 65888,
+                    "name": "Muang Pathoumphon",
+                    "latitude": "14.68453000",
+                    "longitude": "106.06357000"
+                },
+                {
+                    "id": 65894,
+                    "name": "Muang Phônthong",
+                    "latitude": "15.10669000",
+                    "longitude": "105.64890000"
+                },
+                {
+                    "id": 65901,
+                    "name": "Muang Soukhouma",
+                    "latitude": "14.62560000",
+                    "longitude": "105.67520000"
+                },
+                {
+                    "id": 65913,
+                    "name": "Muang Xanasômboun",
+                    "latitude": "15.34107000",
+                    "longitude": "105.73703000"
+                },
+                {
+                    "id": 65917,
+                    "name": "Pakse",
+                    "latitude": "15.12022000",
+                    "longitude": "105.79898000"
+                },
+                {
+                    "id": 65919,
+                    "name": "Pakxong",
+                    "latitude": "15.18154000",
+                    "longitude": "106.23038000"
+                }
+            ]
+        },
+        {
+            "id": 989,
+            "name": "Houaphanh Province",
+            "state_code": "HO",
+            "cities": [
+                {
+                    "id": 65928,
+                    "name": "Xam Neua",
+                    "latitude": "20.40764000",
+                    "longitude": "104.06560000"
+                },
+                {
+                    "id": 65929,
+                    "name": "Xam Nua",
+                    "latitude": "20.41640000",
+                    "longitude": "104.04500000"
+                }
+            ]
+        },
+        {
+            "id": 986,
+            "name": "Khammouane Province",
+            "state_code": "KH",
+            "cities": [
+                {
+                    "id": 65903,
+                    "name": "Muang Thakhèk",
+                    "latitude": "17.40880000",
+                    "longitude": "104.82639000"
+                },
+                {
+                    "id": 65924,
+                    "name": "Thakhèk",
+                    "latitude": "17.41027000",
+                    "longitude": "104.83068000"
+                }
+            ]
+        },
+        {
+            "id": 992,
+            "name": "Luang Namtha Province",
+            "state_code": "LM",
+            "cities": [
+                {
+                    "id": 65864,
+                    "name": "Luang Namtha",
+                    "latitude": "20.94860000",
+                    "longitude": "101.40188000"
+                },
+                {
+                    "id": 65880,
+                    "name": "Muang Louang Namtha",
+                    "latitude": "21.00424000",
+                    "longitude": "101.44785000"
+                }
+            ]
+        },
+        {
+            "id": 978,
+            "name": "Luang Prabang Province",
+            "state_code": "LP",
+            "cities": [
+                {
+                    "id": 65865,
+                    "name": "Luang Prabang",
+                    "latitude": "19.88601000",
+                    "longitude": "102.13503000"
+                }
+            ]
+        },
+        {
+            "id": 988,
+            "name": "Oudomxay Province",
+            "state_code": "OU",
+            "cities": [
+                {
+                    "id": 65914,
+                    "name": "Muang Xay",
+                    "latitude": "20.69229000",
+                    "longitude": "101.98368000"
+                }
+            ]
+        },
+        {
+            "id": 987,
+            "name": "Phongsaly Province",
+            "state_code": "PH",
+            "cities": [
+                {
+                    "id": 65920,
+                    "name": "Phôngsali",
+                    "latitude": "21.68080000",
+                    "longitude": "102.10030000"
+                }
+            ]
+        },
+        {
+            "id": 993,
+            "name": "Sainyabuli Province",
+            "state_code": "XA",
+            "cities": [
+                {
+                    "id": 65921,
+                    "name": "Sainyabuli",
+                    "latitude": "19.25756000",
+                    "longitude": "101.71032000"
+                }
+            ]
+        },
+        {
+            "id": 981,
+            "name": "Salavan Province",
+            "state_code": "SL",
+            "cities": [
+                {
+                    "id": 65875,
+                    "name": "Muang Khôngxédôn",
+                    "latitude": "15.54626000",
+                    "longitude": "105.77051000"
+                },
+                {
+                    "id": 65876,
+                    "name": "Muang Lakhonphéng",
+                    "latitude": "15.83308000",
+                    "longitude": "105.59745000"
+                },
+                {
+                    "id": 65878,
+                    "name": "Muang Laongam",
+                    "latitude": "15.47745000",
+                    "longitude": "106.14111000"
+                },
+                {
+                    "id": 65896,
+                    "name": "Muang Samouay",
+                    "latitude": "16.35868000",
+                    "longitude": "106.87480000"
+                },
+                {
+                    "id": 65899,
+                    "name": "Muang Saravan",
+                    "latitude": "15.71587000",
+                    "longitude": "106.36158000"
+                },
+                {
+                    "id": 65902,
+                    "name": "Muang Ta-Ôy",
+                    "latitude": "16.07765000",
+                    "longitude": "106.70304000"
+                },
+                {
+                    "id": 65907,
+                    "name": "Muang Toumlan",
+                    "latitude": "16.02236000",
+                    "longitude": "106.23837000"
+                },
+                {
+                    "id": 65909,
+                    "name": "Muang Vapi",
+                    "latitude": "15.75005000",
+                    "longitude": "105.95529000"
+                },
+                {
+                    "id": 65922,
+                    "name": "Salavan",
+                    "latitude": "15.71652000",
+                    "longitude": "106.41744000"
+                }
+            ]
+        },
+        {
+            "id": 990,
+            "name": "Savannakhet Province",
+            "state_code": "SV",
+            "cities": [
+                {
+                    "id": 65861,
+                    "name": "Kaysone Phomvihane",
+                    "latitude": "16.54943000",
+                    "longitude": "104.82339000"
+                },
+                {
+                    "id": 65866,
+                    "name": "Muang Alsaphangthong",
+                    "latitude": "16.72645000",
+                    "longitude": "105.39326000"
+                },
+                {
+                    "id": 65867,
+                    "name": "Muang Atsaphan",
+                    "latitude": "16.94740000",
+                    "longitude": "105.40290000"
+                },
+                {
+                    "id": 65870,
+                    "name": "Muang Champhon",
+                    "latitude": "16.49363000",
+                    "longitude": "105.22020000"
+                },
+                {
+                    "id": 65883,
+                    "name": "Muang Nong",
+                    "latitude": "16.38458000",
+                    "longitude": "106.50419000"
+                },
+                {
+                    "id": 65884,
+                    "name": "Muang Outhoumphon",
+                    "latitude": "16.66667000",
+                    "longitude": "105.05000000"
+                },
+                {
+                    "id": 65890,
+                    "name": "Muang Phin",
+                    "latitude": "16.44316000",
+                    "longitude": "106.03019000"
+                },
+                {
+                    "id": 65900,
+                    "name": "Muang Songkhon",
+                    "latitude": "16.17116000",
+                    "longitude": "105.30729000"
+                },
+                {
+                    "id": 65904,
+                    "name": "Muang Thapangthong",
+                    "latitude": "16.09132000",
+                    "longitude": "105.81038000"
+                },
+                {
+                    "id": 65910,
+                    "name": "Muang Vilabouli",
+                    "latitude": "16.94067000",
+                    "longitude": "105.93677000"
+                },
+                {
+                    "id": 65911,
+                    "name": "Muang Xaibouli",
+                    "latitude": "16.94432000",
+                    "longitude": "104.92312000"
+                },
+                {
+                    "id": 65915,
+                    "name": "Muang Xayphoothong",
+                    "latitude": "16.37370000",
+                    "longitude": "105.02165000"
+                },
+                {
+                    "id": 65916,
+                    "name": "Muang Xônbouli",
+                    "latitude": "16.40036000",
+                    "longitude": "105.57388000"
+                },
+                {
+                    "id": 65923,
+                    "name": "Savannakhet",
+                    "latitude": "16.57030000",
+                    "longitude": "104.76220000"
+                },
+                {
+                    "id": 65925,
+                    "name": "Thaphalanxay",
+                    "latitude": "16.70000000",
+                    "longitude": "105.60000000"
+                }
+            ]
+        },
+        {
+            "id": 984,
+            "name": "Sekong Province",
+            "state_code": "XE",
+            "cities": [
+                {
+                    "id": 65859,
+                    "name": "Ban Thatèng",
+                    "latitude": "15.43317000",
+                    "longitude": "106.38272000"
+                },
+                {
+                    "id": 65862,
+                    "name": "Lamam",
+                    "latitude": "15.41705000",
+                    "longitude": "106.69461000"
+                },
+                {
+                    "id": 65871,
+                    "name": "Muang Dakchung",
+                    "latitude": "15.38199000",
+                    "longitude": "107.31847000"
+                },
+                {
+                    "id": 65873,
+                    "name": "Muang Khaleum",
+                    "latitude": "15.79886000",
+                    "longitude": "107.04529000"
+                },
+                {
+                    "id": 65877,
+                    "name": "Muang Laman",
+                    "latitude": "15.41273000",
+                    "longitude": "106.81706000"
+                },
+                {
+                    "id": 65906,
+                    "name": "Muang Thatèng",
+                    "latitude": "15.42745000",
+                    "longitude": "106.48149000"
+                }
+            ]
+        },
+        {
+            "id": 979,
+            "name": "Vientiane Prefecture",
+            "state_code": "VT",
+            "cities": [
+                {
+                    "id": 65927,
+                    "name": "Vientiane",
+                    "latitude": "17.96667000",
+                    "longitude": "102.60000000"
+                }
+            ]
+        },
+        {
+            "id": 980,
+            "name": "Vientiane Province",
+            "state_code": "VI",
+            "cities": [
+                {
+                    "id": 65892,
+                    "name": "Muang Phôn-Hông",
+                    "latitude": "18.49530000",
+                    "longitude": "102.41530000"
+                },
+                {
+                    "id": 65926,
+                    "name": "Vangviang",
+                    "latitude": "18.92350000",
+                    "longitude": "102.44784000"
+                }
+            ]
+        },
+        {
+            "id": 994,
+            "name": "Xaisomboun",
+            "state_code": "XN",
+            "cities": []
+        },
+        {
+            "id": 983,
+            "name": "Xaisomboun Province",
+            "state_code": "XS",
+            "cities": [
+                {
+                    "id": 65854,
+                    "name": "Anouvong district",
+                    "latitude": "18.89731000",
+                    "longitude": "103.09274000"
+                },
+                {
+                    "id": 65863,
+                    "name": "Longchaeng",
+                    "latitude": "18.89394000",
+                    "longitude": "103.14274000"
+                },
+                {
+                    "id": 65879,
+                    "name": "Muang Longxan",
+                    "latitude": "18.61782000",
+                    "longitude": "102.88079000"
+                },
+                {
+                    "id": 65905,
+                    "name": "Muang Thathôm",
+                    "latitude": "19.00130000",
+                    "longitude": "103.61572000"
+                }
+            ]
+        },
+        {
+            "id": 995,
+            "name": "Xiangkhouang Province",
+            "state_code": "XI",
+            "cities": [
+                {
+                    "id": 65893,
+                    "name": "Muang Phônsavan",
+                    "latitude": "19.44940000",
+                    "longitude": "103.19170000"
+                }
+            ]
+        }
+    ],
+    
+    "languages": [
+        "Lao",
+        "Lao-Soung",
+        "Mon-khmer",
+        "Thai"
+    ],
+    "latlng": [
+        18,
+        105
+    ],
+    "nativeName": "ສປປລາວ",
+    "population": 6693300,
+    "timezones": [
+        "UTC+07:00"
+    ],
+    "tld": [
+        ".la"
+    ],
+    "translations": {
+        "de": "Laos",
+        "es": "Laos",
+        "fr": "Laos",
+        "ja": "ラオス人民民主共和国",
+        "it": "Laos"
+    },
+    "continent": "Asia",
+    "government": "Republic",
+    "independence": 1953,
+    "expectancy": 53.1,
+    "dish": "Tum Mak Hoong (Som Tum, its Thai name)",
+    "symbol": null,
+    "density": 30.59578423,
+    "location": "Southeast Asia",
+    "religion": "Buddhism",
+    "temperature": 22.8,
+    "wiki": "http://en.wikipedia.org/wiki/laos"
+}

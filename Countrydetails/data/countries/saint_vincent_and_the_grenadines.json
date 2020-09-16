@@ -1,0 +1,158 @@
+{
+    "name": "Saint Vincent and the Grenadines",
+    "altSpellings": [
+        "VC"
+    ],
+    "area": 389,
+    "borders": [],
+    "callingCodes": [
+        "1784"
+    ],
+    "capital": "Kingstown",
+    "capital_latlng": [
+        13.156186,
+        -61.227962
+    ],
+    "currencies": [
+        "XCD"
+    ],
+    "demonym": "Saint Vincentian",
+    "flag": "",
+    "geoJSON": {},
+    "ISO": {
+        "alpha2": "VC",
+        "alpha3": "VCT"
+    },
+    "states": [
+        {
+            "id": 3389,
+            "name": "Charlotte Parish",
+            "state_code": "01",
+            "cities": [
+                {
+                    "id": 130030,
+                    "name": "Biabou",
+                    "latitude": "13.19430000",
+                    "longitude": "-61.13904000"
+                },
+                {
+                    "id": 130031,
+                    "name": "Byera Village",
+                    "latitude": "13.25636000",
+                    "longitude": "-61.11954000"
+                },
+                {
+                    "id": 130033,
+                    "name": "Georgetown",
+                    "latitude": "13.28054000",
+                    "longitude": "-61.11850000"
+                }
+            ]
+        },
+        {
+            "id": 3388,
+            "name": "Grenadines Parish",
+            "state_code": "06",
+            "cities": [
+                {
+                    "id": 130037,
+                    "name": "Port Elizabeth",
+                    "latitude": "13.01102000",
+                    "longitude": "-61.23548000"
+                }
+            ]
+        },
+        {
+            "id": 3386,
+            "name": "Saint Andrew Parish",
+            "state_code": "02",
+            "cities": [
+                {
+                    "id": 130036,
+                    "name": "Layou",
+                    "latitude": "13.20175000",
+                    "longitude": "-61.27014000"
+                }
+            ]
+        },
+        {
+            "id": 3387,
+            "name": "Saint David Parish",
+            "state_code": "03",
+            "cities": [
+                {
+                    "id": 130032,
+                    "name": "Chateaubelair",
+                    "latitude": "13.29069000",
+                    "longitude": "-61.24043000"
+                }
+            ]
+        },
+        {
+            "id": 3384,
+            "name": "Saint George Parish",
+            "state_code": "04",
+            "cities": [
+                {
+                    "id": 130034,
+                    "name": "Kingstown",
+                    "latitude": "13.15527000",
+                    "longitude": "-61.22742000"
+                },
+                {
+                    "id": 130035,
+                    "name": "Kingstown Park",
+                    "latitude": "13.15924000",
+                    "longitude": "-61.23161000"
+                }
+            ]
+        },
+        {
+            "id": 3385,
+            "name": "Saint Patrick Parish",
+            "state_code": "05",
+            "cities": [
+                {
+                    "id": 130029,
+                    "name": "Barrouallie",
+                    "latitude": "13.23676000",
+                    "longitude": "-61.27275000"
+                }
+            ]
+        }
+    ],
+    "languages": [
+        "Creole English",
+        "English"
+    ],
+    "latlng": [
+        13.25,
+        -61.2
+    ],
+    "nativeName": "Saint Vincent and the Grenadines",
+    "population": 109000,
+    "timezones": [
+        "UTC−04:00"
+    ],
+    "tld": [
+        ".vc"
+    ],
+    "translations": {
+        "de": "Saint Vincent und die Grenadinen",
+        "es": "San Vicente y Granadinas",
+        "fr": "Saint-Vincent-et-les-Grenadines",
+        "ja": "セントビンセントおよびグレナディーン諸島",
+        "it": "Saint Vincent e Grenadine"
+    },
+    "continent": "North America",
+    "independence": 1979,
+    "symbol": null,
+    "expectancy": 72.3,
+    "dish": null,
+    "density": 282.5897436,
+    "temperature": 26.8,
+    "religion": "Christianity",
+    "location": "Caribbean",
+    "government": "Constitutional Monarchy",
+    "wiki": "http://en.wikipedia.org/wiki/saint_vincent_and_the_grenadines"
+}

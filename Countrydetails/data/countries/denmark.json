@@ -1,0 +1,2805 @@
+{
+    "name": "Denmark",
+    "altSpellings": [
+        "DK",
+        "Danmark",
+        "Kingdom of Denmark",
+        "Kongeriget Danmark"
+    ],
+    "area": 43094,
+    "borders": [
+        "DEU"
+    ],
+    "callingCodes": [
+        "45"
+    ],
+    "capital": "Copenhagen",
+    "capital_latlng": [
+        55.686724,
+        12.570072
+    ],
+    "currencies": [
+        "DKK"
+    ],
+    "demonym": "Danish",
+    "flag": "",
+    "geoJSON": {
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "type": "Feature",
+                "id": "DNK",
+                "properties": {
+                    "name": "Denmark"
+                },
+                "geometry": {
+                    "type": "MultiPolygon",
+                    "coordinates": [
+                        [
+                            [
+                                [
+                                    12.690006,
+                                    55.609991
+                                ],
+                                [
+                                    12.089991,
+                                    54.800015
+                                ],
+                                [
+                                    11.043543,
+                                    55.364864
+                                ],
+                                [
+                                    10.903914,
+                                    55.779955
+                                ],
+                                [
+                                    12.370904,
+                                    56.111407
+                                ],
+                                [
+                                    12.690006,
+                                    55.609991
+                                ]
+                            ]
+                        ],
+                        [
+                            [
+                                [
+                                    10.912182,
+                                    56.458621
+                                ],
+                                [
+                                    10.667804,
+                                    56.081383
+                                ],
+                                [
+                                    10.369993,
+                                    56.190007
+                                ],
+                                [
+                                    9.649985,
+                                    55.469999
+                                ],
+                                [
+                                    9.921906,
+                                    54.983104
+                                ],
+                                [
+                                    9.282049,
+                                    54.830865
+                                ],
+                                [
+                                    8.526229,
+                                    54.962744
+                                ],
+                                [
+                                    8.120311,
+                                    55.517723
+                                ],
+                                [
+                                    8.089977,
+                                    56.540012
+                                ],
+                                [
+                                    8.256582,
+                                    56.809969
+                                ],
+                                [
+                                    8.543438,
+                                    57.110003
+                                ],
+                                [
+                                    9.424469,
+                                    57.172066
+                                ],
+                                [
+                                    9.775559,
+                                    57.447941
+                                ],
+                                [
+                                    10.580006,
+                                    57.730017
+                                ],
+                                [
+                                    10.546106,
+                                    57.215733
+                                ],
+                                [
+                                    10.25,
+                                    56.890016
+                                ],
+                                [
+                                    10.369993,
+                                    56.609982
+                                ],
+                                [
+                                    10.912182,
+                                    56.458621
+                                ]
+                            ]
+                        ]
+                    ]
+                }
+            }
+        ]
+    },
+    "ISO": {
+        "alpha2": "DK",
+        "alpha3": "DNK"
+    },
+    "languages": [
+        "Arabic",
+            "Danish",
+            "English",
+            "German",
+            "Norwegian",
+            "Swedish",
+            "Turkish"
+    ],
+    "latlng": [
+        56,
+        10
+    ],
+    "nativeName": "Danmark",
+    "population": 5655750,
+    "timezones": [
+        "UTC−04:00",
+        "UTC−03:00",
+        "UTC−01:00",
+        "UTC",
+        "UTC+01:00"
+    ],
+    "tld": [
+        ".dk"
+    ],
+    "states": [
+        {
+            "id": 1530,
+            "name": "Capital Region of Denmark",
+            "state_code": "84",
+            "cities": [
+                {
+                    "id": 30990,
+                    "name": "Åkirkeby",
+                    "latitude": "55.07080000",
+                    "longitude": "14.91978000"
+                },
+                {
+                    "id": 30577,
+                    "name": "Albertslund",
+                    "latitude": "55.65691000",
+                    "longitude": "12.36381000"
+                },
+                {
+                    "id": 30578,
+                    "name": "Albertslund Kommune",
+                    "latitude": "55.68022000",
+                    "longitude": "12.34797000"
+                },
+                {
+                    "id": 30579,
+                    "name": "Allerød Kommune",
+                    "latitude": "55.85856000",
+                    "longitude": "12.32558000"
+                },
+                {
+                    "id": 30589,
+                    "name": "Ballerup",
+                    "latitude": "55.73165000",
+                    "longitude": "12.36328000"
+                },
+                {
+                    "id": 30590,
+                    "name": "Ballerup Kommune",
+                    "latitude": "55.73248000",
+                    "longitude": "12.35793000"
+                },
+                {
+                    "id": 30595,
+                    "name": "Birkerød",
+                    "latitude": "55.84759000",
+                    "longitude": "12.42791000"
+                },
+                {
+                    "id": 30598,
+                    "name": "Blovstrød",
+                    "latitude": "55.87038000",
+                    "longitude": "12.38640000"
+                },
+                {
+                    "id": 30601,
+                    "name": "Bornholm Kommune",
+                    "latitude": "55.12386000",
+                    "longitude": "14.91115000"
+                },
+                {
+                    "id": 30610,
+                    "name": "Brøndby Kommune",
+                    "latitude": "55.64290000",
+                    "longitude": "12.41101000"
+                },
+                {
+                    "id": 30616,
+                    "name": "Charlottenlund",
+                    "latitude": "55.75238000",
+                    "longitude": "12.57450000"
+                },
+                {
+                    "id": 30618,
+                    "name": "Christianshavn",
+                    "latitude": "55.67383000",
+                    "longitude": "12.59541000"
+                },
+                {
+                    "id": 30619,
+                    "name": "Christiansø",
+                    "latitude": "55.31982000",
+                    "longitude": "15.18783000"
+                },
+                {
+                    "id": 30620,
+                    "name": "Copenhagen",
+                    "latitude": "55.67594000",
+                    "longitude": "12.56553000"
+                },
+                {
+                    "id": 30622,
+                    "name": "Dragør",
+                    "latitude": "55.59280000",
+                    "longitude": "12.67221000"
+                },
+                {
+                    "id": 30623,
+                    "name": "Dragør Kommune",
+                    "latitude": "55.58233000",
+                    "longitude": "12.62756000"
+                },
+                {
+                    "id": 30627,
+                    "name": "Egedal Kommune",
+                    "latitude": "55.75556000",
+                    "longitude": "12.22778000"
+                },
+                {
+                    "id": 30633,
+                    "name": "Espergærde",
+                    "latitude": "55.99464000",
+                    "longitude": "12.54733000"
+                },
+                {
+                    "id": 30638,
+                    "name": "Farum",
+                    "latitude": "55.80858000",
+                    "longitude": "12.36066000"
+                },
+                {
+                    "id": 30645,
+                    "name": "Fløng",
+                    "latitude": "55.66212000",
+                    "longitude": "12.18698000"
+                },
+                {
+                    "id": 30648,
+                    "name": "Fredensborg",
+                    "latitude": "55.97558000",
+                    "longitude": "12.40314000"
+                },
+                {
+                    "id": 30649,
+                    "name": "Fredensborg Kommune",
+                    "latitude": "55.95000000",
+                    "longitude": "12.45000000"
+                },
+                {
+                    "id": 30652,
+                    "name": "Frederiksberg",
+                    "latitude": "55.67938000",
+                    "longitude": "12.53463000"
+                },
+                {
+                    "id": 30654,
+                    "name": "Frederiksberg Kommune",
+                    "latitude": "55.67856000",
+                    "longitude": "12.52216000"
+                },
+                {
+                    "id": 30657,
+                    "name": "Frederikssund",
+                    "latitude": "55.83956000",
+                    "longitude": "12.06896000"
+                },
+                {
+                    "id": 30658,
+                    "name": "Frederikssund Kommune",
+                    "latitude": "55.80957000",
+                    "longitude": "12.04038000"
+                },
+                {
+                    "id": 30659,
+                    "name": "Frederiksværk",
+                    "latitude": "55.97073000",
+                    "longitude": "12.02250000"
+                },
+                {
+                    "id": 30662,
+                    "name": "Furesø Kommune",
+                    "latitude": "55.78333000",
+                    "longitude": "12.34167000"
+                },
+                {
+                    "id": 30664,
+                    "name": "Ganløse",
+                    "latitude": "55.79124000",
+                    "longitude": "12.26421000"
+                },
+                {
+                    "id": 30665,
+                    "name": "Gentofte Kommune",
+                    "latitude": "55.75000000",
+                    "longitude": "12.55000000"
+                },
+                {
+                    "id": 30666,
+                    "name": "Gilleleje",
+                    "latitude": "56.12196000",
+                    "longitude": "12.31056000"
+                },
+                {
+                    "id": 30670,
+                    "name": "Gladsaxe Municipality",
+                    "latitude": "55.76667000",
+                    "longitude": "12.43333000"
+                },
+                {
+                    "id": 30672,
+                    "name": "Glostrup",
+                    "latitude": "55.66660000",
+                    "longitude": "12.40377000"
+                },
+                {
+                    "id": 30673,
+                    "name": "Glostrup Kommune",
+                    "latitude": "55.68188000",
+                    "longitude": "12.41018000"
+                },
+                {
+                    "id": 30681,
+                    "name": "Græsted",
+                    "latitude": "56.06558000",
+                    "longitude": "12.28512000"
+                },
+                {
+                    "id": 30678,
+                    "name": "Gribskov Kommune",
+                    "latitude": "56.05833000",
+                    "longitude": "12.24167000"
+                },
+                {
+                    "id": 30691,
+                    "name": "Halsnæs Kommune",
+                    "latitude": "55.96765000",
+                    "longitude": "11.94214000"
+                },
+                {
+                    "id": 30700,
+                    "name": "Hellebæk",
+                    "latitude": "56.06823000",
+                    "longitude": "12.55782000"
+                },
+                {
+                    "id": 30701,
+                    "name": "Helsinge",
+                    "latitude": "56.02283000",
+                    "longitude": "12.19752000"
+                },
+                {
+                    "id": 30702,
+                    "name": "Helsingør",
+                    "latitude": "56.03606000",
+                    "longitude": "12.61360000"
+                },
+                {
+                    "id": 30703,
+                    "name": "Helsingør Kommune",
+                    "latitude": "56.05000000",
+                    "longitude": "12.50000000"
+                },
+                {
+                    "id": 30704,
+                    "name": "Herlev Kommune",
+                    "latitude": "55.73317000",
+                    "longitude": "12.43106000"
+                },
+                {
+                    "id": 30707,
+                    "name": "Hillerød",
+                    "latitude": "55.92791000",
+                    "longitude": "12.30081000"
+                },
+                {
+                    "id": 30708,
+                    "name": "Hillerød Kommune",
+                    "latitude": "55.92319000",
+                    "longitude": "12.23794000"
+                },
+                {
+                    "id": 30722,
+                    "name": "Hornbæk",
+                    "latitude": "56.09027000",
+                    "longitude": "12.45693000"
+                },
+                {
+                    "id": 30736,
+                    "name": "Høje-Taastrup Kommune",
+                    "latitude": "55.65643000",
+                    "longitude": "12.24854000"
+                },
+                {
+                    "id": 30739,
+                    "name": "Hørsholm",
+                    "latitude": "55.88098000",
+                    "longitude": "12.50111000"
+                },
+                {
+                    "id": 30740,
+                    "name": "Hørsholm Kommune",
+                    "latitude": "55.88759000",
+                    "longitude": "12.48566000"
+                },
+                {
+                    "id": 30727,
+                    "name": "Humlebæk",
+                    "latitude": "55.96180000",
+                    "longitude": "12.53410000"
+                },
+                {
+                    "id": 30728,
+                    "name": "Hundested",
+                    "latitude": "55.96397000",
+                    "longitude": "11.85044000"
+                },
+                {
+                    "id": 30731,
+                    "name": "Hvidovre",
+                    "latitude": "55.65719000",
+                    "longitude": "12.47364000"
+                },
+                {
+                    "id": 30732,
+                    "name": "Hvidovre Kommune",
+                    "latitude": "55.63166000",
+                    "longitude": "12.46615000"
+                },
+                {
+                    "id": 30745,
+                    "name": "Ishøj",
+                    "latitude": "55.61543000",
+                    "longitude": "12.35182000"
+                },
+                {
+                    "id": 30746,
+                    "name": "Ishøj Kommune",
+                    "latitude": "55.62299000",
+                    "longitude": "12.30567000"
+                },
+                {
+                    "id": 30752,
+                    "name": "Jægerspris",
+                    "latitude": "55.85248000",
+                    "longitude": "11.98565000"
+                },
+                {
+                    "id": 30762,
+                    "name": "Kokkedal",
+                    "latitude": "55.91179000",
+                    "longitude": "12.49952000"
+                },
+                {
+                    "id": 30766,
+                    "name": "Kongens Lyngby",
+                    "latitude": "55.77044000",
+                    "longitude": "12.50378000"
+                },
+                {
+                    "id": 30770,
+                    "name": "København",
+                    "latitude": "55.67110000",
+                    "longitude": "12.56529000"
+                },
+                {
+                    "id": 30780,
+                    "name": "Lillerød",
+                    "latitude": "55.87496000",
+                    "longitude": "12.34579000"
+                },
+                {
+                    "id": 30782,
+                    "name": "Liseleje",
+                    "latitude": "56.01295000",
+                    "longitude": "11.96544000"
+                },
+                {
+                    "id": 30785,
+                    "name": "Lyngby-Tårbæk Kommune",
+                    "latitude": "55.78456000",
+                    "longitude": "12.50508000"
+                },
+                {
+                    "id": 30786,
+                    "name": "Lynge",
+                    "latitude": "55.83941000",
+                    "longitude": "12.27725000"
+                },
+                {
+                    "id": 30803,
+                    "name": "Måløv",
+                    "latitude": "55.75528000",
+                    "longitude": "12.32327000"
+                },
+                {
+                    "id": 30808,
+                    "name": "Nexø",
+                    "latitude": "55.06067000",
+                    "longitude": "15.13058000"
+                },
+                {
+                    "id": 30810,
+                    "name": "Nivå",
+                    "latitude": "55.93405000",
+                    "longitude": "12.50485000"
+                },
+                {
+                    "id": 30823,
+                    "name": "Nødebo",
+                    "latitude": "55.97877000",
+                    "longitude": "12.34685000"
+                },
+                {
+                    "id": 31000,
+                    "name": "Ølstykke",
+                    "latitude": "55.79567000",
+                    "longitude": "12.15509000"
+                },
+                {
+                    "id": 30857,
+                    "name": "Rødovre",
+                    "latitude": "55.68062000",
+                    "longitude": "12.45373000"
+                },
+                {
+                    "id": 30858,
+                    "name": "Rødovre Kommune",
+                    "latitude": "55.68852000",
+                    "longitude": "12.44834000"
+                },
+                {
+                    "id": 30861,
+                    "name": "Rønne",
+                    "latitude": "55.10091000",
+                    "longitude": "14.70664000"
+                },
+                {
+                    "id": 30849,
+                    "name": "Rudersdal Kommune",
+                    "latitude": "55.82500000",
+                    "longitude": "12.49167000"
+                },
+                {
+                    "id": 30880,
+                    "name": "Skævinge",
+                    "latitude": "55.90785000",
+                    "longitude": "12.15036000"
+                },
+                {
+                    "id": 30874,
+                    "name": "Skibby",
+                    "latitude": "55.75122000",
+                    "longitude": "11.96083000"
+                },
+                {
+                    "id": 30884,
+                    "name": "Slangerup",
+                    "latitude": "55.85000000",
+                    "longitude": "12.18333000"
+                },
+                {
+                    "id": 30885,
+                    "name": "Smørumnedre",
+                    "latitude": "55.74232000",
+                    "longitude": "12.30276000"
+                },
+                {
+                    "id": 30896,
+                    "name": "Stavnsholt",
+                    "latitude": "55.81479000",
+                    "longitude": "12.40545000"
+                },
+                {
+                    "id": 30900,
+                    "name": "Stenløse",
+                    "latitude": "55.76828000",
+                    "longitude": "12.19723000"
+                },
+                {
+                    "id": 30930,
+                    "name": "Taastrup",
+                    "latitude": "55.65006000",
+                    "longitude": "12.30160000"
+                },
+                {
+                    "id": 30946,
+                    "name": "Tårnby",
+                    "latitude": "55.63030000",
+                    "longitude": "12.60035000"
+                },
+                {
+                    "id": 30947,
+                    "name": "Tårnby Kommune",
+                    "latitude": "55.60391000",
+                    "longitude": "12.59599000"
+                },
+                {
+                    "id": 30944,
+                    "name": "Trørød",
+                    "latitude": "55.83946000",
+                    "longitude": "12.54432000"
+                },
+                {
+                    "id": 30957,
+                    "name": "Vallensbæk",
+                    "latitude": "55.62199000",
+                    "longitude": "12.38511000"
+                },
+                {
+                    "id": 30958,
+                    "name": "Vallensbæk Kommune",
+                    "latitude": "55.63128000",
+                    "longitude": "12.37369000"
+                },
+                {
+                    "id": 30960,
+                    "name": "Vanløse",
+                    "latitude": "55.68361000",
+                    "longitude": "12.48713000"
+                },
+                {
+                    "id": 30988,
+                    "name": "Værløse",
+                    "latitude": "55.78251000",
+                    "longitude": "12.36856000"
+                },
+                {
+                    "id": 30967,
+                    "name": "Veksø",
+                    "latitude": "55.75473000",
+                    "longitude": "12.23837000"
+                }
+            ]
+        },
+        {
+            "id": 1531,
+            "name": "Central Denmark Region",
+            "state_code": "82",
+            "cities": [
+                {
+                    "id": 30580,
+                    "name": "Allingåbro",
+                    "latitude": "56.46432000",
+                    "longitude": "10.31957000"
+                },
+                {
+                    "id": 30993,
+                    "name": "Århus",
+                    "latitude": "56.15674000",
+                    "longitude": "10.21076000"
+                },
+                {
+                    "id": 30994,
+                    "name": "Århus Kommune",
+                    "latitude": "56.16317000",
+                    "longitude": "10.16897000"
+                },
+                {
+                    "id": 30585,
+                    "name": "Assentoft",
+                    "latitude": "56.44210000",
+                    "longitude": "10.15170000"
+                },
+                {
+                    "id": 30587,
+                    "name": "Auning",
+                    "latitude": "56.43079000",
+                    "longitude": "10.37818000"
+                },
+                {
+                    "id": 30588,
+                    "name": "Avlum",
+                    "latitude": "56.26539000",
+                    "longitude": "8.79256000"
+                },
+                {
+                    "id": 30591,
+                    "name": "Beder",
+                    "latitude": "56.06025000",
+                    "longitude": "10.21179000"
+                },
+                {
+                    "id": 30596,
+                    "name": "Bjerringbro",
+                    "latitude": "56.37797000",
+                    "longitude": "9.66065000"
+                },
+                {
+                    "id": 30600,
+                    "name": "Bording Kirkeby",
+                    "latitude": "56.16871000",
+                    "longitude": "9.24384000"
+                },
+                {
+                    "id": 30604,
+                    "name": "Brande",
+                    "latitude": "55.94316000",
+                    "longitude": "9.12798000"
+                },
+                {
+                    "id": 30609,
+                    "name": "Brædstrup",
+                    "latitude": "55.97153000",
+                    "longitude": "9.61129000"
+                },
+                {
+                    "id": 30626,
+                    "name": "Ebeltoft",
+                    "latitude": "56.19442000",
+                    "longitude": "10.68210000"
+                },
+                {
+                    "id": 30639,
+                    "name": "Favrskov Kommune",
+                    "latitude": "56.31667000",
+                    "longitude": "9.94000000"
+                },
+                {
+                    "id": 30647,
+                    "name": "Framlev",
+                    "latitude": "56.15664000",
+                    "longitude": "10.01318000"
+                },
+                {
+                    "id": 30663,
+                    "name": "Galten",
+                    "latitude": "56.15902000",
+                    "longitude": "9.91691000"
+                },
+                {
+                    "id": 30669,
+                    "name": "Gjellerup",
+                    "latitude": "56.14616000",
+                    "longitude": "9.05467000"
+                },
+                {
+                    "id": 30675,
+                    "name": "Grenaa",
+                    "latitude": "56.41578000",
+                    "longitude": "10.87825000"
+                },
+                {
+                    "id": 30688,
+                    "name": "Hadsten",
+                    "latitude": "56.32819000",
+                    "longitude": "10.04931000"
+                },
+                {
+                    "id": 30692,
+                    "name": "Hammel",
+                    "latitude": "56.25762000",
+                    "longitude": "9.86316000"
+                },
+                {
+                    "id": 30693,
+                    "name": "Hammerum",
+                    "latitude": "56.13361000",
+                    "longitude": "9.06121000"
+                },
+                {
+                    "id": 30695,
+                    "name": "Harboøre",
+                    "latitude": "56.61752000",
+                    "longitude": "8.18069000"
+                },
+                {
+                    "id": 30698,
+                    "name": "Hedensted",
+                    "latitude": "55.77043000",
+                    "longitude": "9.70110000"
+                },
+                {
+                    "id": 30699,
+                    "name": "Hedensted Kommune",
+                    "latitude": "55.79680000",
+                    "longitude": "9.74400000"
+                },
+                {
+                    "id": 30705,
+                    "name": "Herning",
+                    "latitude": "56.13615000",
+                    "longitude": "8.97662000"
+                },
+                {
+                    "id": 30706,
+                    "name": "Herning Kommune",
+                    "latitude": "56.14997000",
+                    "longitude": "8.89712000"
+                },
+                {
+                    "id": 30709,
+                    "name": "Hinnerup",
+                    "latitude": "56.26608000",
+                    "longitude": "10.06299000"
+                },
+                {
+                    "id": 30712,
+                    "name": "Hjortshøj",
+                    "latitude": "56.24811000",
+                    "longitude": "10.26533000"
+                },
+                {
+                    "id": 30719,
+                    "name": "Holstebro",
+                    "latitude": "56.36009000",
+                    "longitude": "8.61607000"
+                },
+                {
+                    "id": 30720,
+                    "name": "Holstebro Kommune",
+                    "latitude": "56.35916000",
+                    "longitude": "8.59631000"
+                },
+                {
+                    "id": 30723,
+                    "name": "Hornslet",
+                    "latitude": "56.31550000",
+                    "longitude": "10.32041000"
+                },
+                {
+                    "id": 30724,
+                    "name": "Hornsyld",
+                    "latitude": "55.75621000",
+                    "longitude": "9.85643000"
+                },
+                {
+                    "id": 30725,
+                    "name": "Horsens",
+                    "latitude": "55.86066000",
+                    "longitude": "9.85034000"
+                },
+                {
+                    "id": 30726,
+                    "name": "Horsens Kommune",
+                    "latitude": "55.92740000",
+                    "longitude": "9.77377000"
+                },
+                {
+                    "id": 30738,
+                    "name": "Hørning",
+                    "latitude": "56.08701000",
+                    "longitude": "10.03716000"
+                },
+                {
+                    "id": 30730,
+                    "name": "Hvide Sande",
+                    "latitude": "55.99866000",
+                    "longitude": "8.12605000"
+                },
+                {
+                    "id": 30743,
+                    "name": "Ikast",
+                    "latitude": "56.13883000",
+                    "longitude": "9.15768000"
+                },
+                {
+                    "id": 30744,
+                    "name": "Ikast-Brande Kommune",
+                    "latitude": "55.98333000",
+                    "longitude": "9.21667000"
+                },
+                {
+                    "id": 30749,
+                    "name": "Juelsminde",
+                    "latitude": "55.70876000",
+                    "longitude": "10.01668000"
+                },
+                {
+                    "id": 30755,
+                    "name": "Karup",
+                    "latitude": "56.30673000",
+                    "longitude": "9.16835000"
+                },
+                {
+                    "id": 30758,
+                    "name": "Kibæk",
+                    "latitude": "56.03170000",
+                    "longitude": "8.85697000"
+                },
+                {
+                    "id": 30760,
+                    "name": "Kjellerup",
+                    "latitude": "56.28581000",
+                    "longitude": "9.43528000"
+                },
+                {
+                    "id": 30765,
+                    "name": "Kolt",
+                    "latitude": "56.10845000",
+                    "longitude": "10.06986000"
+                },
+                {
+                    "id": 30775,
+                    "name": "Langå",
+                    "latitude": "56.39026000",
+                    "longitude": "9.89486000"
+                },
+                {
+                    "id": 30778,
+                    "name": "Lemvig",
+                    "latitude": "56.54856000",
+                    "longitude": "8.31019000"
+                },
+                {
+                    "id": 30779,
+                    "name": "Lemvig Kommune",
+                    "latitude": "56.49136000",
+                    "longitude": "8.29927000"
+                },
+                {
+                    "id": 30781,
+                    "name": "Lind",
+                    "latitude": "56.10600000",
+                    "longitude": "8.97915000"
+                },
+                {
+                    "id": 30790,
+                    "name": "Løgten",
+                    "latitude": "56.27459000",
+                    "longitude": "10.31181000"
+                },
+                {
+                    "id": 30787,
+                    "name": "Lystrup",
+                    "latitude": "56.23750000",
+                    "longitude": "10.23778000"
+                },
+                {
+                    "id": 30794,
+                    "name": "Malling",
+                    "latitude": "56.03632000",
+                    "longitude": "10.19632000"
+                },
+                {
+                    "id": 30804,
+                    "name": "Mårslet",
+                    "latitude": "56.06690000",
+                    "longitude": "10.16112000"
+                },
+                {
+                    "id": 30813,
+                    "name": "Norddjurs Kommune",
+                    "latitude": "56.44124000",
+                    "longitude": "10.76660000"
+                },
+                {
+                    "id": 30827,
+                    "name": "Odder",
+                    "latitude": "55.97313000",
+                    "longitude": "10.15300000"
+                },
+                {
+                    "id": 30828,
+                    "name": "Odder Kommune",
+                    "latitude": "55.92967000",
+                    "longitude": "10.15304000"
+                },
+                {
+                    "id": 30838,
+                    "name": "Randers",
+                    "latitude": "56.46070000",
+                    "longitude": "10.03639000"
+                },
+                {
+                    "id": 30839,
+                    "name": "Randers Kommune",
+                    "latitude": "56.51561000",
+                    "longitude": "10.06901000"
+                },
+                {
+                    "id": 30843,
+                    "name": "Ringkøbing",
+                    "latitude": "56.09006000",
+                    "longitude": "8.24402000"
+                },
+                {
+                    "id": 30844,
+                    "name": "Ringkøbing-Skjern Kommune",
+                    "latitude": "56.01000000",
+                    "longitude": "8.39667000"
+                },
+                {
+                    "id": 30860,
+                    "name": "Rønde",
+                    "latitude": "56.30145000",
+                    "longitude": "10.47505000"
+                },
+                {
+                    "id": 30851,
+                    "name": "Ry",
+                    "latitude": "56.09038000",
+                    "longitude": "9.76505000"
+                },
+                {
+                    "id": 30852,
+                    "name": "Ryomgård",
+                    "latitude": "56.38430000",
+                    "longitude": "10.50295000"
+                },
+                {
+                    "id": 30863,
+                    "name": "Sabro",
+                    "latitude": "56.21333000",
+                    "longitude": "10.03441000"
+                },
+                {
+                    "id": 30865,
+                    "name": "Samsø Kommune",
+                    "latitude": "55.85245000",
+                    "longitude": "10.60045000"
+                },
+                {
+                    "id": 30867,
+                    "name": "Silkeborg",
+                    "latitude": "56.16970000",
+                    "longitude": "9.54508000"
+                },
+                {
+                    "id": 30868,
+                    "name": "Silkeborg Kommune",
+                    "latitude": "56.17495000",
+                    "longitude": "9.54666000"
+                },
+                {
+                    "id": 30872,
+                    "name": "Skanderborg",
+                    "latitude": "56.03434000",
+                    "longitude": "9.93177000"
+                },
+                {
+                    "id": 30873,
+                    "name": "Skanderborg Kommune",
+                    "latitude": "56.07956000",
+                    "longitude": "9.89868000"
+                },
+                {
+                    "id": 30875,
+                    "name": "Skive",
+                    "latitude": "56.56699000",
+                    "longitude": "9.02707000"
+                },
+                {
+                    "id": 30876,
+                    "name": "Skive Kommune",
+                    "latitude": "56.64478000",
+                    "longitude": "8.97660000"
+                },
+                {
+                    "id": 30877,
+                    "name": "Skjern",
+                    "latitude": "55.95000000",
+                    "longitude": "8.50000000"
+                },
+                {
+                    "id": 30878,
+                    "name": "Skovby",
+                    "latitude": "56.15672000",
+                    "longitude": "9.94523000"
+                },
+                {
+                    "id": 30886,
+                    "name": "Snejbjerg",
+                    "latitude": "56.13291000",
+                    "longitude": "8.90353000"
+                },
+                {
+                    "id": 30888,
+                    "name": "Solbjerg",
+                    "latitude": "56.04271000",
+                    "longitude": "10.08631000"
+                },
+                {
+                    "id": 30925,
+                    "name": "Søften",
+                    "latitude": "56.23801000",
+                    "longitude": "10.08510000"
+                },
+                {
+                    "id": 30894,
+                    "name": "Spentrup",
+                    "latitude": "56.53703000",
+                    "longitude": "10.03792000"
+                },
+                {
+                    "id": 30897,
+                    "name": "Stavtrup",
+                    "latitude": "56.13124000",
+                    "longitude": "10.11987000"
+                },
+                {
+                    "id": 30903,
+                    "name": "Stilling",
+                    "latitude": "56.06224000",
+                    "longitude": "9.98822000"
+                },
+                {
+                    "id": 30904,
+                    "name": "Stoholm",
+                    "latitude": "56.48454000",
+                    "longitude": "9.14617000"
+                },
+                {
+                    "id": 30909,
+                    "name": "Struer",
+                    "latitude": "56.49205000",
+                    "longitude": "8.59397000"
+                },
+                {
+                    "id": 30910,
+                    "name": "Struer Kommune",
+                    "latitude": "56.46667000",
+                    "longitude": "8.58333000"
+                },
+                {
+                    "id": 30915,
+                    "name": "Sunds",
+                    "latitude": "56.20743000",
+                    "longitude": "9.01386000"
+                },
+                {
+                    "id": 30917,
+                    "name": "Svejbæk",
+                    "latitude": "56.13255000",
+                    "longitude": "9.63289000"
+                },
+                {
+                    "id": 30923,
+                    "name": "Syddjurs Kommune",
+                    "latitude": "56.31250000",
+                    "longitude": "10.52083000"
+                },
+                {
+                    "id": 30931,
+                    "name": "Tarm",
+                    "latitude": "55.90861000",
+                    "longitude": "8.53041000"
+                },
+                {
+                    "id": 30936,
+                    "name": "Thyborøn",
+                    "latitude": "56.69846000",
+                    "longitude": "8.21238000"
+                },
+                {
+                    "id": 30952,
+                    "name": "Tørring",
+                    "latitude": "55.85000000",
+                    "longitude": "9.48333000"
+                },
+                {
+                    "id": 30942,
+                    "name": "Tranbjerg",
+                    "latitude": "56.09519000",
+                    "longitude": "10.13605000"
+                },
+                {
+                    "id": 30943,
+                    "name": "Trige",
+                    "latitude": "56.25291000",
+                    "longitude": "10.14840000"
+                },
+                {
+                    "id": 30953,
+                    "name": "Ulfborg",
+                    "latitude": "56.26725000",
+                    "longitude": "8.32167000"
+                },
+                {
+                    "id": 30955,
+                    "name": "Ulstrup",
+                    "latitude": "56.38994000",
+                    "longitude": "9.79354000"
+                },
+                {
+                    "id": 30972,
+                    "name": "Viborg",
+                    "latitude": "56.45319000",
+                    "longitude": "9.40201000"
+                },
+                {
+                    "id": 30973,
+                    "name": "Viborg Kommune",
+                    "latitude": "56.45000000",
+                    "longitude": "9.36667000"
+                },
+                {
+                    "id": 30975,
+                    "name": "Videbæk",
+                    "latitude": "56.08760000",
+                    "longitude": "8.62852000"
+                },
+                {
+                    "id": 30976,
+                    "name": "Vildbjerg",
+                    "latitude": "56.20000000",
+                    "longitude": "8.76667000"
+                },
+                {
+                    "id": 30978,
+                    "name": "Vinderup",
+                    "latitude": "56.48176000",
+                    "longitude": "8.77991000"
+                },
+                {
+                    "id": 30981,
+                    "name": "Virklund",
+                    "latitude": "56.13218000",
+                    "longitude": "9.55582000"
+                }
+            ]
+        },
+        {
+            "id": 1532,
+            "name": "North Denmark Region",
+            "state_code": "81",
+            "cities": [
+                {
+                    "id": 30575,
+                    "name": "Aalborg",
+                    "latitude": "57.04800000",
+                    "longitude": "9.91870000"
+                },
+                {
+                    "id": 30576,
+                    "name": "Aars",
+                    "latitude": "56.80399000",
+                    "longitude": "9.51441000"
+                },
+                {
+                    "id": 30989,
+                    "name": "Åbybro",
+                    "latitude": "57.16249000",
+                    "longitude": "9.72996000"
+                },
+                {
+                    "id": 30991,
+                    "name": "Ålborg Kommune",
+                    "latitude": "57.00000000",
+                    "longitude": "9.95000000"
+                },
+                {
+                    "id": 30992,
+                    "name": "Ålestrup",
+                    "latitude": "56.69470000",
+                    "longitude": "9.49336000"
+                },
+                {
+                    "id": 30581,
+                    "name": "Arden",
+                    "latitude": "56.76899000",
+                    "longitude": "9.86184000"
+                },
+                {
+                    "id": 30608,
+                    "name": "Brovst",
+                    "latitude": "57.09750000",
+                    "longitude": "9.52264000"
+                },
+                {
+                    "id": 30611,
+                    "name": "Brønderslev",
+                    "latitude": "57.27021000",
+                    "longitude": "9.94102000"
+                },
+                {
+                    "id": 30612,
+                    "name": "Brønderslev Kommune",
+                    "latitude": "57.23506000",
+                    "longitude": "10.10061000"
+                },
+                {
+                    "id": 30624,
+                    "name": "Dronninglund",
+                    "latitude": "57.16035000",
+                    "longitude": "10.29287000"
+                },
+                {
+                    "id": 30637,
+                    "name": "Farsø",
+                    "latitude": "56.77276000",
+                    "longitude": "9.33925000"
+                },
+                {
+                    "id": 30644,
+                    "name": "Fjerritslev",
+                    "latitude": "57.08822000",
+                    "longitude": "9.26622000"
+                },
+                {
+                    "id": 30655,
+                    "name": "Frederikshavn",
+                    "latitude": "57.44073000",
+                    "longitude": "10.53661000"
+                },
+                {
+                    "id": 30656,
+                    "name": "Frederikshavn Kommune",
+                    "latitude": "57.43347000",
+                    "longitude": "10.42507000"
+                },
+                {
+                    "id": 30660,
+                    "name": "Frejlev",
+                    "latitude": "57.00623000",
+                    "longitude": "9.81711000"
+                },
+                {
+                    "id": 30667,
+                    "name": "Gistrup",
+                    "latitude": "56.99430000",
+                    "longitude": "9.99085000"
+                },
+                {
+                    "id": 30689,
+                    "name": "Hadsund",
+                    "latitude": "56.71482000",
+                    "longitude": "10.11682000"
+                },
+                {
+                    "id": 30690,
+                    "name": "Hals",
+                    "latitude": "56.99609000",
+                    "longitude": "10.30807000"
+                },
+                {
+                    "id": 30694,
+                    "name": "Hanstholm",
+                    "latitude": "57.11667000",
+                    "longitude": "8.61667000"
+                },
+                {
+                    "id": 30710,
+                    "name": "Hirtshals",
+                    "latitude": "57.58812000",
+                    "longitude": "9.95922000"
+                },
+                {
+                    "id": 30711,
+                    "name": "Hjallerup",
+                    "latitude": "57.16466000",
+                    "longitude": "10.14571000"
+                },
+                {
+                    "id": 30713,
+                    "name": "Hjørring",
+                    "latitude": "57.46417000",
+                    "longitude": "9.98229000"
+                },
+                {
+                    "id": 30714,
+                    "name": "Hjørring Kommune",
+                    "latitude": "57.45682000",
+                    "longitude": "10.05859000"
+                },
+                {
+                    "id": 30715,
+                    "name": "Hobro",
+                    "latitude": "56.64306000",
+                    "longitude": "9.79029000"
+                },
+                {
+                    "id": 30729,
+                    "name": "Hurup",
+                    "latitude": "56.74944000",
+                    "longitude": "8.41953000"
+                },
+                {
+                    "id": 30747,
+                    "name": "Jammerbugt Kommune",
+                    "latitude": "57.14583000",
+                    "longitude": "9.56250000"
+                },
+                {
+                    "id": 30769,
+                    "name": "Kås",
+                    "latitude": "57.19774000",
+                    "longitude": "9.67173000"
+                },
+                {
+                    "id": 30761,
+                    "name": "Klarup",
+                    "latitude": "57.01194000",
+                    "longitude": "10.05617000"
+                },
+                {
+                    "id": 30788,
+                    "name": "Læso Kommune",
+                    "latitude": "57.26774000",
+                    "longitude": "11.02265000"
+                },
+                {
+                    "id": 30789,
+                    "name": "Løgstør",
+                    "latitude": "56.96245000",
+                    "longitude": "9.25830000"
+                },
+                {
+                    "id": 30793,
+                    "name": "Løkken",
+                    "latitude": "57.37047000",
+                    "longitude": "9.71466000"
+                },
+                {
+                    "id": 30795,
+                    "name": "Mariager",
+                    "latitude": "56.64985000",
+                    "longitude": "9.97515000"
+                },
+                {
+                    "id": 30796,
+                    "name": "Mariagerfjord Kommune",
+                    "latitude": "56.69722000",
+                    "longitude": "9.84722000"
+                },
+                {
+                    "id": 30801,
+                    "name": "Morsø Kommune",
+                    "latitude": "56.79622000",
+                    "longitude": "8.73272000"
+                },
+                {
+                    "id": 30809,
+                    "name": "Nibe",
+                    "latitude": "56.98150000",
+                    "longitude": "9.63917000"
+                },
+                {
+                    "id": 30826,
+                    "name": "Nørresundby",
+                    "latitude": "57.05877000",
+                    "longitude": "9.92284000"
+                },
+                {
+                    "id": 30818,
+                    "name": "Nykøbing Mors",
+                    "latitude": "56.79334000",
+                    "longitude": "8.85282000"
+                },
+                {
+                    "id": 30836,
+                    "name": "Pandrup",
+                    "latitude": "57.22147000",
+                    "longitude": "9.67569000"
+                },
+                {
+                    "id": 30840,
+                    "name": "Rebild Kommune",
+                    "latitude": "56.80556000",
+                    "longitude": "9.77778000"
+                },
+                {
+                    "id": 30924,
+                    "name": "Sæby",
+                    "latitude": "57.33188000",
+                    "longitude": "10.52251000"
+                },
+                {
+                    "id": 30869,
+                    "name": "Sindal",
+                    "latitude": "57.47117000",
+                    "longitude": "10.20312000"
+                },
+                {
+                    "id": 30871,
+                    "name": "Skagen",
+                    "latitude": "57.72093000",
+                    "longitude": "10.58394000"
+                },
+                {
+                    "id": 30881,
+                    "name": "Skørping",
+                    "latitude": "56.83626000",
+                    "longitude": "9.89255000"
+                },
+                {
+                    "id": 30906,
+                    "name": "Storvorde",
+                    "latitude": "57.00392000",
+                    "longitude": "10.10125000"
+                },
+                {
+                    "id": 30913,
+                    "name": "Støvring",
+                    "latitude": "56.88536000",
+                    "longitude": "9.83839000"
+                },
+                {
+                    "id": 30907,
+                    "name": "Strandby",
+                    "latitude": "57.49150000",
+                    "longitude": "10.49609000"
+                },
+                {
+                    "id": 30920,
+                    "name": "Svenstrup",
+                    "latitude": "56.97230000",
+                    "longitude": "9.84806000"
+                },
+                {
+                    "id": 30948,
+                    "name": "Tårs",
+                    "latitude": "57.38333000",
+                    "longitude": "10.11667000"
+                },
+                {
+                    "id": 30933,
+                    "name": "Thisted",
+                    "latitude": "56.95523000",
+                    "longitude": "8.69491000"
+                },
+                {
+                    "id": 30934,
+                    "name": "Thisted Kommune",
+                    "latitude": "57.00397000",
+                    "longitude": "8.61834000"
+                },
+                {
+                    "id": 30956,
+                    "name": "Vadum",
+                    "latitude": "57.11790000",
+                    "longitude": "9.85700000"
+                },
+                {
+                    "id": 30968,
+                    "name": "Vestbjerg",
+                    "latitude": "57.13166000",
+                    "longitude": "9.95942000"
+                },
+                {
+                    "id": 30969,
+                    "name": "Vester Hassing",
+                    "latitude": "57.06767000",
+                    "longitude": "10.12558000"
+                },
+                {
+                    "id": 30971,
+                    "name": "Vesthimmerland Kommune",
+                    "latitude": "56.80000000",
+                    "longitude": "9.37083000"
+                },
+                {
+                    "id": 30983,
+                    "name": "Vodskov",
+                    "latitude": "57.10854000",
+                    "longitude": "10.02215000"
+                },
+                {
+                    "id": 30987,
+                    "name": "Vrå",
+                    "latitude": "57.35370000",
+                    "longitude": "9.94176000"
+                }
+            ]
+        },
+        {
+            "id": 1529,
+            "name": "Region of Southern Denmark",
+            "state_code": "83",
+            "cities": [
+                {
+                    "id": 30573,
+                    "name": "Aabenraa",
+                    "latitude": "55.04434000",
+                    "longitude": "9.41741000"
+                },
+                {
+                    "id": 30574,
+                    "name": "Aabenraa Kommune",
+                    "latitude": "54.98980000",
+                    "longitude": "9.31282000"
+                },
+                {
+                    "id": 30995,
+                    "name": "Årslev",
+                    "latitude": "55.30353000",
+                    "longitude": "10.46428000"
+                },
+                {
+                    "id": 30996,
+                    "name": "Årup",
+                    "latitude": "55.37315000",
+                    "longitude": "10.04131000"
+                },
+                {
+                    "id": 30583,
+                    "name": "Assens",
+                    "latitude": "55.27023000",
+                    "longitude": "9.90081000"
+                },
+                {
+                    "id": 30584,
+                    "name": "Assens Kommune",
+                    "latitude": "55.29958000",
+                    "longitude": "10.07952000"
+                },
+                {
+                    "id": 30586,
+                    "name": "Augustenborg",
+                    "latitude": "54.95201000",
+                    "longitude": "9.87216000"
+                },
+                {
+                    "id": 30997,
+                    "name": "Ærø Kommune",
+                    "latitude": "54.85833000",
+                    "longitude": "10.43333000"
+                },
+                {
+                    "id": 30998,
+                    "name": "Ærøskøbing",
+                    "latitude": "54.88803000",
+                    "longitude": "10.41117000"
+                },
+                {
+                    "id": 30592,
+                    "name": "Bellinge",
+                    "latitude": "55.33535000",
+                    "longitude": "10.32045000"
+                },
+                {
+                    "id": 30593,
+                    "name": "Billund",
+                    "latitude": "55.73349000",
+                    "longitude": "9.10785000"
+                },
+                {
+                    "id": 30594,
+                    "name": "Billund Kommune",
+                    "latitude": "55.73079000",
+                    "longitude": "8.96844000"
+                },
+                {
+                    "id": 30599,
+                    "name": "Bogense",
+                    "latitude": "55.56691000",
+                    "longitude": "10.08863000"
+                },
+                {
+                    "id": 30615,
+                    "name": "Børkop",
+                    "latitude": "55.64195000",
+                    "longitude": "9.64958000"
+                },
+                {
+                    "id": 30603,
+                    "name": "Bramming",
+                    "latitude": "55.46946000",
+                    "longitude": "8.70007000"
+                },
+                {
+                    "id": 30605,
+                    "name": "Brejning",
+                    "latitude": "55.66594000",
+                    "longitude": "9.67217000"
+                },
+                {
+                    "id": 30606,
+                    "name": "Brenderup",
+                    "latitude": "55.48407000",
+                    "longitude": "9.97908000"
+                },
+                {
+                    "id": 30607,
+                    "name": "Broager",
+                    "latitude": "54.88940000",
+                    "longitude": "9.67465000"
+                },
+                {
+                    "id": 30613,
+                    "name": "Brørup",
+                    "latitude": "55.48194000",
+                    "longitude": "9.01756000"
+                },
+                {
+                    "id": 30614,
+                    "name": "Bullerup",
+                    "latitude": "55.42686000",
+                    "longitude": "10.47137000"
+                },
+                {
+                    "id": 30617,
+                    "name": "Christiansfeld",
+                    "latitude": "55.35817000",
+                    "longitude": "9.48701000"
+                },
+                {
+                    "id": 30625,
+                    "name": "Dybbøl",
+                    "latitude": "54.91079000",
+                    "longitude": "9.73601000"
+                },
+                {
+                    "id": 30628,
+                    "name": "Egtved",
+                    "latitude": "55.61613000",
+                    "longitude": "9.30763000"
+                },
+                {
+                    "id": 30629,
+                    "name": "Ejby",
+                    "latitude": "55.43010000",
+                    "longitude": "9.92973000"
+                },
+                {
+                    "id": 30631,
+                    "name": "Esbjerg",
+                    "latitude": "55.47028000",
+                    "longitude": "8.45187000"
+                },
+                {
+                    "id": 30632,
+                    "name": "Esbjerg Kommune",
+                    "latitude": "55.46893000",
+                    "longitude": "8.46222000"
+                },
+                {
+                    "id": 30634,
+                    "name": "Faaborg",
+                    "latitude": "55.09510000",
+                    "longitude": "10.24226000"
+                },
+                {
+                    "id": 30635,
+                    "name": "Faaborg-Midtfyn Kommune",
+                    "latitude": "55.22667000",
+                    "longitude": "10.40667000"
+                },
+                {
+                    "id": 30636,
+                    "name": "Fanø Kommune",
+                    "latitude": "55.41667000",
+                    "longitude": "8.41667000"
+                },
+                {
+                    "id": 30650,
+                    "name": "Fredericia",
+                    "latitude": "55.56568000",
+                    "longitude": "9.75257000"
+                },
+                {
+                    "id": 30651,
+                    "name": "Fredericia Kommune",
+                    "latitude": "55.57271000",
+                    "longitude": "9.69489000"
+                },
+                {
+                    "id": 30668,
+                    "name": "Give",
+                    "latitude": "55.84523000",
+                    "longitude": "9.23769000"
+                },
+                {
+                    "id": 30671,
+                    "name": "Glamsbjerg",
+                    "latitude": "55.27237000",
+                    "longitude": "10.10483000"
+                },
+                {
+                    "id": 30674,
+                    "name": "Gram",
+                    "latitude": "55.28948000",
+                    "longitude": "9.04913000"
+                },
+                {
+                    "id": 30680,
+                    "name": "Gråsten",
+                    "latitude": "54.91918000",
+                    "longitude": "9.59523000"
+                },
+                {
+                    "id": 30679,
+                    "name": "Grindsted",
+                    "latitude": "55.75726000",
+                    "longitude": "8.92750000"
+                },
+                {
+                    "id": 30682,
+                    "name": "Guderup",
+                    "latitude": "54.98978000",
+                    "longitude": "9.87174000"
+                },
+                {
+                    "id": 30686,
+                    "name": "Haderslev",
+                    "latitude": "55.24943000",
+                    "longitude": "9.48771000"
+                },
+                {
+                    "id": 30687,
+                    "name": "Haderslev Kommune",
+                    "latitude": "55.24441000",
+                    "longitude": "9.32261000"
+                },
+                {
+                    "id": 30733,
+                    "name": "Hårby",
+                    "latitude": "55.22357000",
+                    "longitude": "10.12268000"
+                },
+                {
+                    "id": 30721,
+                    "name": "Holsted",
+                    "latitude": "55.51086000",
+                    "longitude": "8.91872000"
+                },
+                {
+                    "id": 30735,
+                    "name": "Højby",
+                    "latitude": "55.33177000",
+                    "longitude": "10.43725000"
+                },
+                {
+                    "id": 30741,
+                    "name": "Høruphav",
+                    "latitude": "54.91017000",
+                    "longitude": "9.89872000"
+                },
+                {
+                    "id": 30748,
+                    "name": "Jelling",
+                    "latitude": "55.75588000",
+                    "longitude": "9.42580000"
+                },
+                {
+                    "id": 30756,
+                    "name": "Kerteminde",
+                    "latitude": "55.44903000",
+                    "longitude": "10.65769000"
+                },
+                {
+                    "id": 30757,
+                    "name": "Kerteminde Kommune",
+                    "latitude": "55.45498000",
+                    "longitude": "10.62220000"
+                },
+                {
+                    "id": 30763,
+                    "name": "Kolding",
+                    "latitude": "55.49040000",
+                    "longitude": "9.47216000"
+                },
+                {
+                    "id": 30764,
+                    "name": "Kolding Kommune",
+                    "latitude": "55.45006000",
+                    "longitude": "9.45807000"
+                },
+                {
+                    "id": 30768,
+                    "name": "Kruså",
+                    "latitude": "54.85097000",
+                    "longitude": "9.40129000"
+                },
+                {
+                    "id": 30773,
+                    "name": "Langeland Kommune",
+                    "latitude": "54.90000000",
+                    "longitude": "10.77222000"
+                },
+                {
+                    "id": 30774,
+                    "name": "Langeskov",
+                    "latitude": "55.35655000",
+                    "longitude": "10.58447000"
+                },
+                {
+                    "id": 30791,
+                    "name": "Løgumkloster",
+                    "latitude": "55.05941000",
+                    "longitude": "8.95508000"
+                },
+                {
+                    "id": 30792,
+                    "name": "Løjt Kirkeby",
+                    "latitude": "55.08959000",
+                    "longitude": "9.46084000"
+                },
+                {
+                    "id": 30784,
+                    "name": "Lunderskov",
+                    "latitude": "55.48375000",
+                    "longitude": "9.29917000"
+                },
+                {
+                    "id": 30798,
+                    "name": "Marstal",
+                    "latitude": "54.85621000",
+                    "longitude": "10.51726000"
+                },
+                {
+                    "id": 30799,
+                    "name": "Middelfart",
+                    "latitude": "55.50591000",
+                    "longitude": "9.73054000"
+                },
+                {
+                    "id": 30800,
+                    "name": "Middelfart Kommune",
+                    "latitude": "55.45782000",
+                    "longitude": "9.88100000"
+                },
+                {
+                    "id": 30802,
+                    "name": "Munkebo",
+                    "latitude": "55.45553000",
+                    "longitude": "10.55433000"
+                },
+                {
+                    "id": 30806,
+                    "name": "Neder Holluf",
+                    "latitude": "55.36451000",
+                    "longitude": "10.44824000"
+                },
+                {
+                    "id": 30811,
+                    "name": "Nordborg",
+                    "latitude": "55.05732000",
+                    "longitude": "9.74080000"
+                },
+                {
+                    "id": 30812,
+                    "name": "Nordby",
+                    "latitude": "55.44603000",
+                    "longitude": "8.39786000"
+                },
+                {
+                    "id": 30814,
+                    "name": "Nordfyns Kommune",
+                    "latitude": "55.52222000",
+                    "longitude": "10.22222000"
+                },
+                {
+                    "id": 30825,
+                    "name": "Nørre Åby",
+                    "latitude": "55.46107000",
+                    "longitude": "9.87940000"
+                },
+                {
+                    "id": 30815,
+                    "name": "Nyborg",
+                    "latitude": "55.31274000",
+                    "longitude": "10.78964000"
+                },
+                {
+                    "id": 30816,
+                    "name": "Nyborg Kommune",
+                    "latitude": "55.29473000",
+                    "longitude": "10.70310000"
+                },
+                {
+                    "id": 30829,
+                    "name": "Odense",
+                    "latitude": "55.39594000",
+                    "longitude": "10.38831000"
+                },
+                {
+                    "id": 30830,
+                    "name": "Odense Kommune",
+                    "latitude": "55.39570000",
+                    "longitude": "10.37761000"
+                },
+                {
+                    "id": 30832,
+                    "name": "Oksbøl",
+                    "latitude": "55.62680000",
+                    "longitude": "8.28757000"
+                },
+                {
+                    "id": 30834,
+                    "name": "Otterup",
+                    "latitude": "55.51527000",
+                    "longitude": "10.39756000"
+                },
+                {
+                    "id": 30999,
+                    "name": "Ølgod",
+                    "latitude": "55.80682000",
+                    "longitude": "8.62859000"
+                },
+                {
+                    "id": 30835,
+                    "name": "Padborg",
+                    "latitude": "54.82657000",
+                    "longitude": "9.36247000"
+                },
+                {
+                    "id": 30841,
+                    "name": "Ribe",
+                    "latitude": "55.33051000",
+                    "longitude": "8.76966000"
+                },
+                {
+                    "id": 30842,
+                    "name": "Ringe",
+                    "latitude": "55.23828000",
+                    "longitude": "10.47860000"
+                },
+                {
+                    "id": 30855,
+                    "name": "Rødding",
+                    "latitude": "55.36569000",
+                    "longitude": "9.06316000"
+                },
+                {
+                    "id": 30856,
+                    "name": "Rødekro",
+                    "latitude": "55.07076000",
+                    "longitude": "9.33531000"
+                },
+                {
+                    "id": 30850,
+                    "name": "Rudkøbing",
+                    "latitude": "54.93639000",
+                    "longitude": "10.71019000"
+                },
+                {
+                    "id": 30866,
+                    "name": "Seden",
+                    "latitude": "55.42648000",
+                    "longitude": "10.44265000"
+                },
+                {
+                    "id": 30870,
+                    "name": "Skaerbaek",
+                    "latitude": "55.15735000",
+                    "longitude": "8.76901000"
+                },
+                {
+                    "id": 30887,
+                    "name": "Snoghøj",
+                    "latitude": "55.52253000",
+                    "longitude": "9.72125000"
+                },
+                {
+                    "id": 30926,
+                    "name": "Sønder Bjert",
+                    "latitude": "55.45272000",
+                    "longitude": "9.56741000"
+                },
+                {
+                    "id": 30927,
+                    "name": "Sønderborg",
+                    "latitude": "54.90896000",
+                    "longitude": "9.78917000"
+                },
+                {
+                    "id": 30928,
+                    "name": "Sønderborg Kommune",
+                    "latitude": "54.91667000",
+                    "longitude": "9.80000000"
+                },
+                {
+                    "id": 30929,
+                    "name": "Søndersø",
+                    "latitude": "55.48526000",
+                    "longitude": "10.25540000"
+                },
+                {
+                    "id": 30895,
+                    "name": "Starup",
+                    "latitude": "55.24097000",
+                    "longitude": "9.53503000"
+                },
+                {
+                    "id": 30902,
+                    "name": "Stige",
+                    "latitude": "55.43941000",
+                    "longitude": "10.40940000"
+                },
+                {
+                    "id": 30908,
+                    "name": "Strib",
+                    "latitude": "55.54021000",
+                    "longitude": "9.76748000"
+                },
+                {
+                    "id": 30918,
+                    "name": "Svendborg",
+                    "latitude": "55.05982000",
+                    "longitude": "10.60677000"
+                },
+                {
+                    "id": 30919,
+                    "name": "Svendborg Kommune",
+                    "latitude": "55.08410000",
+                    "longitude": "10.61391000"
+                },
+                {
+                    "id": 30932,
+                    "name": "Taulov",
+                    "latitude": "55.54582000",
+                    "longitude": "9.61553000"
+                },
+                {
+                    "id": 30935,
+                    "name": "Thurø By",
+                    "latitude": "55.04740000",
+                    "longitude": "10.66385000"
+                },
+                {
+                    "id": 30937,
+                    "name": "Tinglev",
+                    "latitude": "54.93788000",
+                    "longitude": "9.25547000"
+                },
+                {
+                    "id": 30938,
+                    "name": "Tjæreborg",
+                    "latitude": "55.46457000",
+                    "longitude": "8.57968000"
+                },
+                {
+                    "id": 30939,
+                    "name": "Toftlund",
+                    "latitude": "55.18858000",
+                    "longitude": "9.06925000"
+                },
+                {
+                    "id": 30940,
+                    "name": "Tommerup",
+                    "latitude": "55.31952000",
+                    "longitude": "10.20659000"
+                },
+                {
+                    "id": 30941,
+                    "name": "Tommerup Stationsby",
+                    "latitude": "55.34535000",
+                    "longitude": "10.17594000"
+                },
+                {
+                    "id": 30950,
+                    "name": "Tønder",
+                    "latitude": "54.93306000",
+                    "longitude": "8.86674000"
+                },
+                {
+                    "id": 30951,
+                    "name": "Tønder Kommune",
+                    "latitude": "55.07304000",
+                    "longitude": "8.87214000"
+                },
+                {
+                    "id": 30954,
+                    "name": "Ullerslev",
+                    "latitude": "55.36172000",
+                    "longitude": "10.65190000"
+                },
+                {
+                    "id": 30959,
+                    "name": "Vamdrup",
+                    "latitude": "55.42764000",
+                    "longitude": "9.28435000"
+                },
+                {
+                    "id": 30961,
+                    "name": "Varde",
+                    "latitude": "55.62112000",
+                    "longitude": "8.48069000"
+                },
+                {
+                    "id": 30962,
+                    "name": "Varde Kommune",
+                    "latitude": "55.61667000",
+                    "longitude": "8.50000000"
+                },
+                {
+                    "id": 30963,
+                    "name": "Vejen",
+                    "latitude": "55.48117000",
+                    "longitude": "9.13795000"
+                },
+                {
+                    "id": 30964,
+                    "name": "Vejen Kommune",
+                    "latitude": "55.46312000",
+                    "longitude": "9.05004000"
+                },
+                {
+                    "id": 30965,
+                    "name": "Vejle",
+                    "latitude": "55.70927000",
+                    "longitude": "9.53570000"
+                },
+                {
+                    "id": 30966,
+                    "name": "Vejle Kommune",
+                    "latitude": "55.74874000",
+                    "longitude": "9.40421000"
+                },
+                {
+                    "id": 30970,
+                    "name": "Vester-Skerninge",
+                    "latitude": "55.07322000",
+                    "longitude": "10.45536000"
+                },
+                {
+                    "id": 30977,
+                    "name": "Vindeby",
+                    "latitude": "55.04489000",
+                    "longitude": "10.61309000"
+                },
+                {
+                    "id": 30982,
+                    "name": "Vissenbjerg",
+                    "latitude": "55.38482000",
+                    "longitude": "10.13784000"
+                },
+                {
+                    "id": 30984,
+                    "name": "Vojens",
+                    "latitude": "55.24639000",
+                    "longitude": "9.30603000"
+                }
+            ]
+        },
+        {
+            "id": 1528,
+            "name": "Region Zealand",
+            "state_code": "85",
+            "cities": [
+                {
+                    "id": 30582,
+                    "name": "Asnæs",
+                    "latitude": "55.81229000",
+                    "longitude": "11.50129000"
+                },
+                {
+                    "id": 30597,
+                    "name": "Bjæverskov",
+                    "latitude": "55.45756000",
+                    "longitude": "12.03651000"
+                },
+                {
+                    "id": 30602,
+                    "name": "Borup",
+                    "latitude": "55.49472000",
+                    "longitude": "11.97584000"
+                },
+                {
+                    "id": 30621,
+                    "name": "Dianalund",
+                    "latitude": "55.53133000",
+                    "longitude": "11.49250000"
+                },
+                {
+                    "id": 30630,
+                    "name": "Ejby",
+                    "latitude": "55.48580000",
+                    "longitude": "12.08171000"
+                },
+                {
+                    "id": 30640,
+                    "name": "Faxe",
+                    "latitude": "55.25561000",
+                    "longitude": "12.11926000"
+                },
+                {
+                    "id": 30641,
+                    "name": "Faxe Kommune",
+                    "latitude": "55.29444000",
+                    "longitude": "12.06111000"
+                },
+                {
+                    "id": 30642,
+                    "name": "Faxe Ladeplads",
+                    "latitude": "55.21981000",
+                    "longitude": "12.17013000"
+                },
+                {
+                    "id": 30643,
+                    "name": "Fensmark",
+                    "latitude": "55.27919000",
+                    "longitude": "11.80382000"
+                },
+                {
+                    "id": 30646,
+                    "name": "Forlev",
+                    "latitude": "55.37445000",
+                    "longitude": "11.25966000"
+                },
+                {
+                    "id": 30653,
+                    "name": "Frederiksberg",
+                    "latitude": "55.41618000",
+                    "longitude": "11.56934000"
+                },
+                {
+                    "id": 30661,
+                    "name": "Fuglebjerg",
+                    "latitude": "55.30604000",
+                    "longitude": "11.54766000"
+                },
+                {
+                    "id": 30685,
+                    "name": "Gørlev",
+                    "latitude": "55.53926000",
+                    "longitude": "11.22708000"
+                },
+                {
+                    "id": 30676,
+                    "name": "Greve",
+                    "latitude": "55.58333000",
+                    "longitude": "12.30000000"
+                },
+                {
+                    "id": 30677,
+                    "name": "Greve Kommune",
+                    "latitude": "55.58770000",
+                    "longitude": "12.25060000"
+                },
+                {
+                    "id": 30683,
+                    "name": "Guldborgsund Kommune",
+                    "latitude": "54.76944000",
+                    "longitude": "11.83611000"
+                },
+                {
+                    "id": 30684,
+                    "name": "Gundsømagle",
+                    "latitude": "55.73565000",
+                    "longitude": "12.15158000"
+                },
+                {
+                    "id": 30734,
+                    "name": "Hårlev",
+                    "latitude": "55.34936000",
+                    "longitude": "12.23382000"
+                },
+                {
+                    "id": 30696,
+                    "name": "Haslev",
+                    "latitude": "55.32346000",
+                    "longitude": "11.96389000"
+                },
+                {
+                    "id": 30697,
+                    "name": "Havdrup",
+                    "latitude": "55.54481000",
+                    "longitude": "12.12392000"
+                },
+                {
+                    "id": 30716,
+                    "name": "Holbæk",
+                    "latitude": "55.71750000",
+                    "longitude": "11.71279000"
+                },
+                {
+                    "id": 30717,
+                    "name": "Holbæk Kommune",
+                    "latitude": "55.65919000",
+                    "longitude": "11.62049000"
+                },
+                {
+                    "id": 30718,
+                    "name": "Holeby",
+                    "latitude": "54.71148000",
+                    "longitude": "11.46416000"
+                },
+                {
+                    "id": 30737,
+                    "name": "Høng",
+                    "latitude": "55.50736000",
+                    "longitude": "11.28873000"
+                },
+                {
+                    "id": 30742,
+                    "name": "Hørve",
+                    "latitude": "55.75292000",
+                    "longitude": "11.45298000"
+                },
+                {
+                    "id": 30750,
+                    "name": "Jyderup",
+                    "latitude": "55.66399000",
+                    "longitude": "11.42029000"
+                },
+                {
+                    "id": 30751,
+                    "name": "Jyllinge",
+                    "latitude": "55.75295000",
+                    "longitude": "12.10315000"
+                },
+                {
+                    "id": 30753,
+                    "name": "Kalundborg",
+                    "latitude": "55.67954000",
+                    "longitude": "11.08864000"
+                },
+                {
+                    "id": 30754,
+                    "name": "Kalundborg Kommune",
+                    "latitude": "55.63545000",
+                    "longitude": "11.19993000"
+                },
+                {
+                    "id": 30759,
+                    "name": "Kirke Hvalsø",
+                    "latitude": "55.59170000",
+                    "longitude": "11.86253000"
+                },
+                {
+                    "id": 30767,
+                    "name": "Korsør",
+                    "latitude": "55.32993000",
+                    "longitude": "11.13857000"
+                },
+                {
+                    "id": 30771,
+                    "name": "Køge",
+                    "latitude": "55.45802000",
+                    "longitude": "12.18214000"
+                },
+                {
+                    "id": 30772,
+                    "name": "Køge Kommune",
+                    "latitude": "55.45668000",
+                    "longitude": "12.07332000"
+                },
+                {
+                    "id": 30776,
+                    "name": "Lejre",
+                    "latitude": "55.60461000",
+                    "longitude": "11.97477000"
+                },
+                {
+                    "id": 30777,
+                    "name": "Lejre Kommune",
+                    "latitude": "55.63375000",
+                    "longitude": "11.92234000"
+                },
+                {
+                    "id": 30783,
+                    "name": "Lolland Kommune",
+                    "latitude": "54.80238000",
+                    "longitude": "11.29524000"
+                },
+                {
+                    "id": 30797,
+                    "name": "Maribo",
+                    "latitude": "54.77662000",
+                    "longitude": "11.50017000"
+                },
+                {
+                    "id": 30805,
+                    "name": "Nakskov",
+                    "latitude": "54.83038000",
+                    "longitude": "11.13567000"
+                },
+                {
+                    "id": 30821,
+                    "name": "Næstved",
+                    "latitude": "55.22992000",
+                    "longitude": "11.76092000"
+                },
+                {
+                    "id": 30822,
+                    "name": "Næstved Kommune",
+                    "latitude": "55.25855000",
+                    "longitude": "11.74615000"
+                },
+                {
+                    "id": 30807,
+                    "name": "Neder Vindinge",
+                    "latitude": "55.03211000",
+                    "longitude": "11.88356000"
+                },
+                {
+                    "id": 30824,
+                    "name": "Nørre Alslev",
+                    "latitude": "54.89784000",
+                    "longitude": "11.88414000"
+                },
+                {
+                    "id": 30817,
+                    "name": "Nykøbing Falster",
+                    "latitude": "54.76906000",
+                    "longitude": "11.87425000"
+                },
+                {
+                    "id": 30819,
+                    "name": "Nykøbing Sjælland",
+                    "latitude": "55.92491000",
+                    "longitude": "11.67109000"
+                },
+                {
+                    "id": 30820,
+                    "name": "Nyråd",
+                    "latitude": "55.00511000",
+                    "longitude": "11.96060000"
+                },
+                {
+                    "id": 30831,
+                    "name": "Odsherred Kommune",
+                    "latitude": "55.88333000",
+                    "longitude": "11.59444000"
+                },
+                {
+                    "id": 30833,
+                    "name": "Osted",
+                    "latitude": "55.56228000",
+                    "longitude": "11.95786000"
+                },
+                {
+                    "id": 31001,
+                    "name": "Ørslev",
+                    "latitude": "55.04356000",
+                    "longitude": "11.96792000"
+                },
+                {
+                    "id": 30837,
+                    "name": "Præstø",
+                    "latitude": "55.12374000",
+                    "longitude": "12.04477000"
+                },
+                {
+                    "id": 30845,
+                    "name": "Ringsted",
+                    "latitude": "55.44260000",
+                    "longitude": "11.79011000"
+                },
+                {
+                    "id": 30846,
+                    "name": "Ringsted Kommune",
+                    "latitude": "55.44721000",
+                    "longitude": "11.81720000"
+                },
+                {
+                    "id": 30847,
+                    "name": "Roskilde",
+                    "latitude": "55.64152000",
+                    "longitude": "12.08035000"
+                },
+                {
+                    "id": 30848,
+                    "name": "Roskilde Kommune",
+                    "latitude": "55.65000000",
+                    "longitude": "12.10000000"
+                },
+                {
+                    "id": 30853,
+                    "name": "Rødby",
+                    "latitude": "54.69495000",
+                    "longitude": "11.38885000"
+                },
+                {
+                    "id": 30854,
+                    "name": "Rødbyhavn",
+                    "latitude": "54.65944000",
+                    "longitude": "11.35504000"
+                },
+                {
+                    "id": 30859,
+                    "name": "Rødvig",
+                    "latitude": "55.25540000",
+                    "longitude": "12.37936000"
+                },
+                {
+                    "id": 30862,
+                    "name": "Rønnede",
+                    "latitude": "55.25710000",
+                    "longitude": "12.02125000"
+                },
+                {
+                    "id": 30864,
+                    "name": "Sakskøbing",
+                    "latitude": "54.79970000",
+                    "longitude": "11.62599000"
+                },
+                {
+                    "id": 30879,
+                    "name": "Skælskør",
+                    "latitude": "55.25058000",
+                    "longitude": "11.29352000"
+                },
+                {
+                    "id": 30882,
+                    "name": "Slagelse",
+                    "latitude": "55.40276000",
+                    "longitude": "11.35459000"
+                },
+                {
+                    "id": 30883,
+                    "name": "Slagelse Kommune",
+                    "latitude": "55.34546000",
+                    "longitude": "11.33390000"
+                },
+                {
+                    "id": 30889,
+                    "name": "Solrød",
+                    "latitude": "55.53628000",
+                    "longitude": "12.18270000"
+                },
+                {
+                    "id": 30890,
+                    "name": "Solrød Kommune",
+                    "latitude": "55.53553000",
+                    "longitude": "12.17337000"
+                },
+                {
+                    "id": 30891,
+                    "name": "Solrød Strand",
+                    "latitude": "55.53285000",
+                    "longitude": "12.22227000"
+                },
+                {
+                    "id": 30892,
+                    "name": "Sorø",
+                    "latitude": "55.43184000",
+                    "longitude": "11.55547000"
+                },
+                {
+                    "id": 30893,
+                    "name": "Sorø Kommune",
+                    "latitude": "55.48268000",
+                    "longitude": "11.55693000"
+                },
+                {
+                    "id": 30898,
+                    "name": "Stege",
+                    "latitude": "54.98704000",
+                    "longitude": "12.28461000"
+                },
+                {
+                    "id": 30899,
+                    "name": "Stenlille",
+                    "latitude": "55.53888000",
+                    "longitude": "11.59120000"
+                },
+                {
+                    "id": 30901,
+                    "name": "Stevns Kommune",
+                    "latitude": "55.33373000",
+                    "longitude": "12.30692000"
+                },
+                {
+                    "id": 30905,
+                    "name": "Store Heddinge",
+                    "latitude": "55.30965000",
+                    "longitude": "12.38885000"
+                },
+                {
+                    "id": 30911,
+                    "name": "Strøby Egede",
+                    "latitude": "55.41382000",
+                    "longitude": "12.24502000"
+                },
+                {
+                    "id": 30912,
+                    "name": "Stubbekøbing",
+                    "latitude": "54.88875000",
+                    "longitude": "12.04102000"
+                },
+                {
+                    "id": 30914,
+                    "name": "Sundby",
+                    "latitude": "54.76711000",
+                    "longitude": "11.84979000"
+                },
+                {
+                    "id": 30916,
+                    "name": "Svebølle",
+                    "latitude": "55.65183000",
+                    "longitude": "11.28658000"
+                },
+                {
+                    "id": 30921,
+                    "name": "Svinninge",
+                    "latitude": "55.72111000",
+                    "longitude": "11.46547000"
+                },
+                {
+                    "id": 30922,
+                    "name": "Svogerslev",
+                    "latitude": "55.63423000",
+                    "longitude": "12.01465000"
+                },
+                {
+                    "id": 30949,
+                    "name": "Tølløse",
+                    "latitude": "55.61250000",
+                    "longitude": "11.77034000"
+                },
+                {
+                    "id": 30945,
+                    "name": "Tune",
+                    "latitude": "55.59287000",
+                    "longitude": "12.16968000"
+                },
+                {
+                    "id": 30974,
+                    "name": "Viby",
+                    "latitude": "55.54872000",
+                    "longitude": "12.02391000"
+                },
+                {
+                    "id": 30979,
+                    "name": "Vindinge",
+                    "latitude": "55.62298000",
+                    "longitude": "12.13870000"
+                },
+                {
+                    "id": 30980,
+                    "name": "Vipperød",
+                    "latitude": "55.66768000",
+                    "longitude": "11.73967000"
+                },
+                {
+                    "id": 30985,
+                    "name": "Vordingborg",
+                    "latitude": "55.00801000",
+                    "longitude": "11.91057000"
+                },
+                {
+                    "id": 30986,
+                    "name": "Vordingborg Kommune",
+                    "latitude": "55.01383000",
+                    "longitude": "12.10008000"
+                }
+            ]
+        }
+    ],
+    "continent": "Europe",
+    "independence": 800,
+    "expectancy": 76.5,
+    "symbol": "animal",
+    "density": 138.0673017,
+    "location": "Nordic Countries",
+    "religion": "Christianity",
+    "temperature": 7.5,
+    "government": "Constitutional Monarchy",
+    "dish": "fried pork and potato-based dish",
+    "translations": {
+        "de": "Dänemark",
+        "es": "Dinamarca",
+        "fr": "Danemark",
+        "ja": "デンマーク",
+        "it": "Danimarca"
+    },
+    "wiki": "http://en.wikipedia.org/wiki/denmark"
+}

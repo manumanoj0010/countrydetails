@@ -1,0 +1,259 @@
+{
+  "name": "Guyana",
+  "altSpellings": ["GY", "Co-operative Republic of Guyana"],
+  "area": 214969,
+  "borders": ["BRA", "SUR", "VEN"],
+  "callingCodes": ["592"],
+  "capital": "Georgetown",
+  "capital_latlng": [6.802577, -58.162861],
+  "currencies": ["GYD"],
+  "demonym": "Guyanese",
+  "flag": "",
+  "geoJSON": {
+    "type": "FeatureCollection",
+    "features": [{
+      "type": "Feature",
+      "id": "GUY",
+      "properties": {
+        "name": "Guyana"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-59.758285, 8.367035],
+            [-59.101684, 7.999202],
+            [-58.482962, 7.347691],
+            [-58.454876, 6.832787],
+            [-58.078103, 6.809094],
+            [-57.542219, 6.321268],
+            [-57.147436, 5.97315],
+            [-57.307246, 5.073567],
+            [-57.914289, 4.812626],
+            [-57.86021, 4.576801],
+            [-58.044694, 4.060864],
+            [-57.601569, 3.334655],
+            [-57.281433, 3.333492],
+            [-57.150098, 2.768927],
+            [-56.539386, 1.899523],
+            [-56.782704, 1.863711],
+            [-57.335823, 1.948538],
+            [-57.660971, 1.682585],
+            [-58.11345, 1.507195],
+            [-58.429477, 1.463942],
+            [-58.540013, 1.268088],
+            [-59.030862, 1.317698],
+            [-59.646044, 1.786894],
+            [-59.718546, 2.24963],
+            [-59.974525, 2.755233],
+            [-59.815413, 3.606499],
+            [-59.53804, 3.958803],
+            [-59.767406, 4.423503],
+            [-60.111002, 4.574967],
+            [-59.980959, 5.014061],
+            [-60.213683, 5.244486],
+            [-60.733574, 5.200277],
+            [-61.410303, 5.959068],
+            [-61.139415, 6.234297],
+            [-61.159336, 6.696077],
+            [-60.543999, 6.856584],
+            [-60.295668, 7.043911],
+            [-60.637973, 7.415],
+            [-60.550588, 7.779603],
+            [-59.758285, 8.367035]
+          ]
+        ]
+      }
+    }]
+  },
+  "ISO": {
+    "alpha2": "GY",
+    "alpha3": "GUY"
+  },
+  "languages": ["en"],
+  "latlng": [5, -59],
+  "nativeName": "Guyana",
+  "population": 784894,
+  "independence": 1966,
+  "languages": [
+      "Arawakan",
+      "Caribbean",
+      "Creole English"
+  ],
+  "expectancy": 64,
+  "tld": ".gy",
+    "government": "Republic",
+    "dish": "Pepperpot",
+  "continent": "South America",
+"symbol": "animal",
+  "density": 3.957348235,
+"location": "South America",
+"religion": "Islam",
+"temperature": 26,
+"states": [
+            {
+                "id": 2764,
+                "name": "Barima-Waini",
+                "state_code": "BA",
+                "cities": [
+                    {
+                        "id": 53826,
+                        "name": "Mabaruma",
+                        "latitude": "8.20000000",
+                        "longitude": "-59.78333000"
+                    }
+                ]
+            },
+            {
+                "id": 2760,
+                "name": "Cuyuni-Mazaruni",
+                "state_code": "CU",
+                "cities": [
+                    {
+                        "id": 53822,
+                        "name": "Bartica",
+                        "latitude": "6.40799000",
+                        "longitude": "-58.62192000"
+                    }
+                ]
+            },
+            {
+                "id": 2767,
+                "name": "Demerara-Mahaica",
+                "state_code": "DE",
+                "cities": [
+                    {
+                        "id": 53823,
+                        "name": "Georgetown",
+                        "latitude": "6.80448000",
+                        "longitude": "-58.15527000"
+                    },
+                    {
+                        "id": 53827,
+                        "name": "Mahaica Village",
+                        "latitude": "6.68405000",
+                        "longitude": "-57.92181000"
+                    }
+                ]
+            },
+            {
+                "id": 2766,
+                "name": "East Berbice-Corentyne",
+                "state_code": "EB",
+                "cities": [
+                    {
+                        "id": 53830,
+                        "name": "New Amsterdam",
+                        "latitude": "6.24793000",
+                        "longitude": "-57.51710000"
+                    },
+                    {
+                        "id": 53833,
+                        "name": "Skeldon",
+                        "latitude": "5.88333000",
+                        "longitude": "-57.13333000"
+                    }
+                ]
+            },
+            {
+                "id": 2768,
+                "name": "Essequibo Islands-West Demerara",
+                "state_code": "ES",
+                "cities": [
+                    {
+                        "id": 53831,
+                        "name": "Parika",
+                        "latitude": "6.83712000",
+                        "longitude": "-58.42941000"
+                    },
+                    {
+                        "id": 53834,
+                        "name": "Vreed-en-Hoop",
+                        "latitude": "6.80927000",
+                        "longitude": "-58.19798000"
+                    }
+                ]
+            },
+            {
+                "id": 2762,
+                "name": "Mahaica-Berbice",
+                "state_code": "MA",
+                "cities": [
+                    {
+                        "id": 53828,
+                        "name": "Mahaicony Village",
+                        "latitude": "6.57633000",
+                        "longitude": "-57.80486000"
+                    },
+                    {
+                        "id": 53832,
+                        "name": "Rosignol",
+                        "latitude": "6.27095000",
+                        "longitude": "-57.53697000"
+                    }
+                ]
+            },
+            {
+                "id": 2765,
+                "name": "Pomeroon-Supenaam",
+                "state_code": "PM",
+                "cities": [
+                    {
+                        "id": 53821,
+                        "name": "Anna Regina",
+                        "latitude": "7.26439000",
+                        "longitude": "-58.50769000"
+                    }
+                ]
+            },
+            {
+                "id": 2761,
+                "name": "Potaro-Siparuni",
+                "state_code": "PT",
+                "cities": [
+                    {
+                        "id": 53829,
+                        "name": "Mahdia",
+                        "latitude": "5.26667000",
+                        "longitude": "-59.15000000"
+                    }
+                ]
+            },
+            {
+                "id": 2763,
+                "name": "Upper Demerara-Berbice",
+                "state_code": "UD",
+                "cities": [
+                    {
+                        "id": 53825,
+                        "name": "Linden",
+                        "latitude": "6.00809000",
+                        "longitude": "-58.30714000"
+                    }
+                ]
+            },
+            {
+                "id": 2769,
+                "name": "Upper Takutu-Upper Essequibo",
+                "state_code": "UT",
+                "cities": [
+                    {
+                        "id": 53824,
+                        "name": "Lethem",
+                        "latitude": "3.38333000",
+                        "longitude": "-59.80000000"
+                    }
+                ]
+            }
+        ],
+  "timezones": ["UTC−04:00"],
+  "tld": [".gy"],
+  "translations": {
+    "de": "Guyana",
+    "es": "Guyana",
+    "fr": "Guyane",
+    "ja": "ガイアナ",
+    "it": "Guyana"
+  },
+  "wiki": "http://en.wikipedia.org/wiki/guyana"
+}

@@ -1,0 +1,796 @@
+{
+    "name": "Niger",
+    "altSpellings": [
+        "NE",
+        "Nijar",
+        "Republic of Niger",
+        "République du Niger"
+    ],
+    "area": 1267000,
+    "borders": [
+        "DZA",
+        "BEN",
+        "BFA",
+        "TCD",
+        "LBY",
+        "MLI",
+        "NGA"
+    ],
+    "callingCodes": [
+        "227"
+    ],
+    "capital": "Niamey",
+    "capital_latlng": [
+        13.524834,
+        2.109823
+    ],
+    "currencies": [
+        "XOF"
+    ],
+    "demonym": "Nigerien",
+    "flag": "",
+    "geoJSON": {
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "type": "Feature",
+                "id": "NER",
+                "properties": {
+                    "name": "Niger"
+                },
+                "geometry": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                2.154474,
+                                11.94015
+                            ],
+                            [
+                                2.177108,
+                                12.625018
+                            ],
+                            [
+                                1.024103,
+                                12.851826
+                            ],
+                            [
+                                0.993046,
+                                13.33575
+                            ],
+                            [
+                                0.429928,
+                                13.988733
+                            ],
+                            [
+                                0.295646,
+                                14.444235
+                            ],
+                            [
+                                0.374892,
+                                14.928908
+                            ],
+                            [
+                                1.015783,
+                                14.968182
+                            ],
+                            [
+                                1.385528,
+                                15.323561
+                            ],
+                            [
+                                2.749993,
+                                15.409525
+                            ],
+                            [
+                                3.638259,
+                                15.56812
+                            ],
+                            [
+                                3.723422,
+                                16.184284
+                            ],
+                            [
+                                4.27021,
+                                16.852227
+                            ],
+                            [
+                                4.267419,
+                                19.155265
+                            ],
+                            [
+                                5.677566,
+                                19.601207
+                            ],
+                            [
+                                8.572893,
+                                21.565661
+                            ],
+                            [
+                                11.999506,
+                                23.471668
+                            ],
+                            [
+                                13.581425,
+                                23.040506
+                            ],
+                            [
+                                14.143871,
+                                22.491289
+                            ],
+                            [
+                                14.8513,
+                                22.86295
+                            ],
+                            [
+                                15.096888,
+                                21.308519
+                            ],
+                            [
+                                15.471077,
+                                21.048457
+                            ],
+                            [
+                                15.487148,
+                                20.730415
+                            ],
+                            [
+                                15.903247,
+                                20.387619
+                            ],
+                            [
+                                15.685741,
+                                19.95718
+                            ],
+                            [
+                                15.300441,
+                                17.92795
+                            ],
+                            [
+                                15.247731,
+                                16.627306
+                            ],
+                            [
+                                13.972202,
+                                15.684366
+                            ],
+                            [
+                                13.540394,
+                                14.367134
+                            ],
+                            [
+                                13.956699,
+                                13.996691
+                            ],
+                            [
+                                13.954477,
+                                13.353449
+                            ],
+                            [
+                                14.595781,
+                                13.330427
+                            ],
+                            [
+                                14.495787,
+                                12.859396
+                            ],
+                            [
+                                14.213531,
+                                12.802035
+                            ],
+                            [
+                                14.181336,
+                                12.483657
+                            ],
+                            [
+                                13.995353,
+                                12.461565
+                            ],
+                            [
+                                13.318702,
+                                13.556356
+                            ],
+                            [
+                                13.083987,
+                                13.596147
+                            ],
+                            [
+                                12.302071,
+                                13.037189
+                            ],
+                            [
+                                11.527803,
+                                13.32898
+                            ],
+                            [
+                                10.989593,
+                                13.387323
+                            ],
+                            [
+                                10.701032,
+                                13.246918
+                            ],
+                            [
+                                10.114814,
+                                13.277252
+                            ],
+                            [
+                                9.524928,
+                                12.851102
+                            ],
+                            [
+                                9.014933,
+                                12.826659
+                            ],
+                            [
+                                7.804671,
+                                13.343527
+                            ],
+                            [
+                                7.330747,
+                                13.098038
+                            ],
+                            [
+                                6.820442,
+                                13.115091
+                            ],
+                            [
+                                6.445426,
+                                13.492768
+                            ],
+                            [
+                                5.443058,
+                                13.865924
+                            ],
+                            [
+                                4.368344,
+                                13.747482
+                            ],
+                            [
+                                4.107946,
+                                13.531216
+                            ],
+                            [
+                                3.967283,
+                                12.956109
+                            ],
+                            [
+                                3.680634,
+                                12.552903
+                            ],
+                            [
+                                3.61118,
+                                11.660167
+                            ],
+                            [
+                                2.848643,
+                                12.235636
+                            ],
+                            [
+                                2.490164,
+                                12.233052
+                            ],
+                            [
+                                2.154474,
+                                11.94015
+                            ]
+                        ]
+                    ]
+                }
+            }
+        ]
+    },
+    "ISO": {
+        "alpha2": "NE",
+        "alpha3": "NER"
+    },
+    "states": [
+        {
+            "id": 71,
+            "name": "Agadez Region",
+            "state_code": "1",
+            "cities": [
+                {
+                    "id": 76675,
+                    "name": "Agadez",
+                    "latitude": "16.97333000",
+                    "longitude": "7.99111000"
+                },
+                {
+                    "id": 76677,
+                    "name": "Alaghsas",
+                    "latitude": "17.01870000",
+                    "longitude": "8.01680000"
+                },
+                {
+                    "id": 76678,
+                    "name": "Arlit",
+                    "latitude": "18.83409000",
+                    "longitude": "7.43327000"
+                },
+                {
+                    "id": 76681,
+                    "name": "Bilma",
+                    "latitude": "18.68532000",
+                    "longitude": "12.91643000"
+                },
+                {
+                    "id": 76690,
+                    "name": "Département de Bilma",
+                    "latitude": "20.50000000",
+                    "longitude": "13.25000000"
+                },
+                {
+                    "id": 76711,
+                    "name": "Département de Tchirozérine",
+                    "latitude": "17.43293000",
+                    "longitude": "7.89321000"
+                }
+            ]
+        },
+        {
+            "id": 72,
+            "name": "Diffa Region",
+            "state_code": "2",
+            "cities": [
+                {
+                    "id": 76694,
+                    "name": "Département de Diffa",
+                    "latitude": "13.66667000",
+                    "longitude": "12.50000000"
+                },
+                {
+                    "id": 76705,
+                    "name": "Département de Maïné-Soroa",
+                    "latitude": "13.31206000",
+                    "longitude": "12.08321000"
+                },
+                {
+                    "id": 76706,
+                    "name": "Département de Nguigmi",
+                    "latitude": "14.20753000",
+                    "longitude": "13.12177000"
+                },
+                {
+                    "id": 76686,
+                    "name": "Diffa",
+                    "latitude": "13.31536000",
+                    "longitude": "12.61135000"
+                },
+                {
+                    "id": 76729,
+                    "name": "Maïné Soroa",
+                    "latitude": "13.21139000",
+                    "longitude": "12.02410000"
+                },
+                {
+                    "id": 76731,
+                    "name": "Nguigmi",
+                    "latitude": "14.24953000",
+                    "longitude": "13.10921000"
+                }
+            ]
+        },
+        {
+            "id": 68,
+            "name": "Dosso Region",
+            "state_code": "3",
+            "cities": [
+                {
+                    "id": 76683,
+                    "name": "Boboye Department",
+                    "latitude": "13.08167000",
+                    "longitude": "2.91083000"
+                },
+                {
+                    "id": 76695,
+                    "name": "Département de Dogondoutchi",
+                    "latitude": "13.50000000",
+                    "longitude": "4.00000000"
+                },
+                {
+                    "id": 76696,
+                    "name": "Département de Dosso",
+                    "latitude": "12.83333000",
+                    "longitude": "3.33333000"
+                },
+                {
+                    "id": 76698,
+                    "name": "Département de Gaya",
+                    "latitude": "11.95970000",
+                    "longitude": "3.46045000"
+                },
+                {
+                    "id": 76702,
+                    "name": "Département de Loga",
+                    "latitude": "13.63333000",
+                    "longitude": "3.50000000"
+                },
+                {
+                    "id": 76687,
+                    "name": "Dogondoutchi",
+                    "latitude": "13.64030000",
+                    "longitude": "4.02649000"
+                },
+                {
+                    "id": 76688,
+                    "name": "Dosso",
+                    "latitude": "13.04900000",
+                    "longitude": "3.19370000"
+                },
+                {
+                    "id": 76716,
+                    "name": "Gaya",
+                    "latitude": "11.88435000",
+                    "longitude": "3.44919000"
+                }
+            ]
+        },
+        {
+            "id": 70,
+            "name": "Maradi Region",
+            "state_code": "4",
+            "cities": [
+                {
+                    "id": 76676,
+                    "name": "Aguié",
+                    "latitude": "13.50601000",
+                    "longitude": "7.77863000"
+                },
+                {
+                    "id": 76685,
+                    "name": "Dakoro",
+                    "latitude": "14.51056000",
+                    "longitude": "6.76500000"
+                },
+                {
+                    "id": 76714,
+                    "name": "Département d’Aguié",
+                    "latitude": "13.46976000",
+                    "longitude": "7.74219000"
+                },
+                {
+                    "id": 76693,
+                    "name": "Département de Dakoro",
+                    "latitude": "14.75000000",
+                    "longitude": "7.00000000"
+                },
+                {
+                    "id": 76704,
+                    "name": "Département de Mayahi",
+                    "latitude": "14.10000000",
+                    "longitude": "7.60000000"
+                },
+                {
+                    "id": 76712,
+                    "name": "Département de Tessaoua",
+                    "latitude": "13.60000000",
+                    "longitude": "7.90000000"
+                },
+                {
+                    "id": 76718,
+                    "name": "Guidan Roumdji Department",
+                    "latitude": "13.65750000",
+                    "longitude": "6.69583000"
+                },
+                {
+                    "id": 76724,
+                    "name": "Madarounfa",
+                    "latitude": "13.28253000",
+                    "longitude": "7.15495000"
+                },
+                {
+                    "id": 76726,
+                    "name": "Maradi",
+                    "latitude": "13.50000000",
+                    "longitude": "7.10174000"
+                },
+                {
+                    "id": 76728,
+                    "name": "Mayahi",
+                    "latitude": "13.95532000",
+                    "longitude": "7.67122000"
+                },
+                {
+                    "id": 76738,
+                    "name": "Tessaoua",
+                    "latitude": "13.75737000",
+                    "longitude": "7.98740000"
+                },
+                {
+                    "id": 76739,
+                    "name": "Tibiri",
+                    "latitude": "13.56271000",
+                    "longitude": "7.04848000"
+                }
+            ]
+        },
+        {
+            "id": 73,
+            "name": "Tahoua Region",
+            "state_code": "5",
+            "cities": [
+                {
+                    "id": 76674,
+                    "name": "Abalak",
+                    "latitude": "15.41618000",
+                    "longitude": "6.16975000"
+                },
+                {
+                    "id": 76682,
+                    "name": "Birni N Konni",
+                    "latitude": "13.79599000",
+                    "longitude": "5.25026000"
+                },
+                {
+                    "id": 76684,
+                    "name": "Bouza",
+                    "latitude": "14.42293000",
+                    "longitude": "6.04278000"
+                },
+                {
+                    "id": 76689,
+                    "name": "Département d' Illéla",
+                    "latitude": "14.25000000",
+                    "longitude": "5.00000000"
+                },
+                {
+                    "id": 76691,
+                    "name": "Département de Birni Nkonni",
+                    "latitude": "13.90000000",
+                    "longitude": "5.25000000"
+                },
+                {
+                    "id": 76692,
+                    "name": "Département de Bouza",
+                    "latitude": "14.43333000",
+                    "longitude": "6.00000000"
+                },
+                {
+                    "id": 76701,
+                    "name": "Département de Keïta",
+                    "latitude": "14.80000000",
+                    "longitude": "6.00000000"
+                },
+                {
+                    "id": 76703,
+                    "name": "Département de Madaoua",
+                    "latitude": "13.99988000",
+                    "longitude": "6.10012000"
+                },
+                {
+                    "id": 76709,
+                    "name": "Département de Tahoua",
+                    "latitude": "14.80000000",
+                    "longitude": "4.80000000"
+                },
+                {
+                    "id": 76710,
+                    "name": "Département de Tchin-Tabaraden",
+                    "latitude": "15.86694000",
+                    "longitude": "5.71042000"
+                },
+                {
+                    "id": 76719,
+                    "name": "Illéla",
+                    "latitude": "14.46050000",
+                    "longitude": "5.24370000"
+                },
+                {
+                    "id": 76720,
+                    "name": "Keïta",
+                    "latitude": "14.75510000",
+                    "longitude": "5.77490000"
+                },
+                {
+                    "id": 76723,
+                    "name": "Madaoua",
+                    "latitude": "14.07300000",
+                    "longitude": "5.96000000"
+                },
+                {
+                    "id": 76734,
+                    "name": "Tahoua",
+                    "latitude": "14.88880000",
+                    "longitude": "5.26920000"
+                },
+                {
+                    "id": 76736,
+                    "name": "Tchintabaraden",
+                    "latitude": "15.89690000",
+                    "longitude": "5.79850000"
+                }
+            ]
+        },
+        {
+            "id": 67,
+            "name": "Tillabéri Region",
+            "state_code": "6",
+            "cities": [
+                {
+                    "id": 76679,
+                    "name": "Ayorou",
+                    "latitude": "14.73075000",
+                    "longitude": "0.91739000"
+                },
+                {
+                    "id": 76680,
+                    "name": "Balleyara",
+                    "latitude": "13.72848000",
+                    "longitude": "2.87503000"
+                },
+                {
+                    "id": 76697,
+                    "name": "Département de Filingué",
+                    "latitude": "14.31645000",
+                    "longitude": "3.23611000"
+                },
+                {
+                    "id": 76707,
+                    "name": "Département de Ouallam",
+                    "latitude": "14.63333000",
+                    "longitude": "2.25000000"
+                },
+                {
+                    "id": 76708,
+                    "name": "Département de Say",
+                    "latitude": "13.03579000",
+                    "longitude": "2.22112000"
+                },
+                {
+                    "id": 76715,
+                    "name": "Filingué",
+                    "latitude": "14.35210000",
+                    "longitude": "3.31680000"
+                },
+                {
+                    "id": 76721,
+                    "name": "Kollo",
+                    "latitude": "13.30430000",
+                    "longitude": "2.33900000"
+                },
+                {
+                    "id": 76722,
+                    "name": "Kollo Department",
+                    "latitude": "13.57600000",
+                    "longitude": "2.45200000"
+                },
+                {
+                    "id": 76732,
+                    "name": "Ouallam",
+                    "latitude": "14.31641000",
+                    "longitude": "2.08597000"
+                },
+                {
+                    "id": 76733,
+                    "name": "Say",
+                    "latitude": "13.10070000",
+                    "longitude": "2.36890000"
+                },
+                {
+                    "id": 76742,
+                    "name": "Téra",
+                    "latitude": "14.00776000",
+                    "longitude": "0.75306000"
+                },
+                {
+                    "id": 76737,
+                    "name": "Tera Department",
+                    "latitude": "14.18600000",
+                    "longitude": "0.84300000"
+                },
+                {
+                    "id": 76741,
+                    "name": "Tillabéri",
+                    "latitude": "14.20711000",
+                    "longitude": "1.45418000"
+                },
+                {
+                    "id": 76740,
+                    "name": "Tillaberi Department",
+                    "latitude": "14.51600000",
+                    "longitude": "1.44300000"
+                }
+            ]
+        },
+        {
+            "id": 69,
+            "name": "Zinder Region",
+            "state_code": "7",
+            "cities": [
+                {
+                    "id": 76699,
+                    "name": "Département de Gouré",
+                    "latitude": "14.01618000",
+                    "longitude": "10.14722000"
+                },
+                {
+                    "id": 76700,
+                    "name": "Département de Kantché",
+                    "latitude": "13.40000000",
+                    "longitude": "8.60000000"
+                },
+                {
+                    "id": 76713,
+                    "name": "Département de Tânout",
+                    "latitude": "14.75000000",
+                    "longitude": "8.33333000"
+                },
+                {
+                    "id": 76717,
+                    "name": "Gouré",
+                    "latitude": "13.98350000",
+                    "longitude": "10.27035000"
+                },
+                {
+                    "id": 76725,
+                    "name": "Magaria",
+                    "latitude": "12.99826000",
+                    "longitude": "8.90991000"
+                },
+                {
+                    "id": 76727,
+                    "name": "Matamey",
+                    "latitude": "13.42309000",
+                    "longitude": "8.47485000"
+                },
+                {
+                    "id": 76730,
+                    "name": "Mirriah",
+                    "latitude": "13.70727000",
+                    "longitude": "9.15013000"
+                },
+                {
+                    "id": 76735,
+                    "name": "Tanout",
+                    "latitude": "14.97089000",
+                    "longitude": "8.88786000"
+                },
+                {
+                    "id": 76743,
+                    "name": "Zinder",
+                    "latitude": "13.80716000",
+                    "longitude": "8.98810000"
+                }
+            ]
+        }
+    ],
+    "languages": [
+        "Ful",
+        "Hausa",
+        "Kanuri",
+        "Songhai-zerma",
+        "Tamashek"
+    ],
+    "independence": 1960,
+
+    "latlng": [
+        16,
+        8
+    ],
+    "nativeName": "Niger",
+    "population": 17138707,
+    "government": "Republic",
+    "continent": "Africa",
+    "temperature": 27.15,
+    "religion": "Islam",
+    "location": "Western Africa",
+    "density": 17.71765059,
+    "symbol": null,
+    "dish": null,
+    "expectancy": 41.3,
+    "timezones": [
+        "UTC+01:00"
+    ],
+    "tld": [
+        ".ne"
+    ],
+    "translations": {
+        "de": "Niger",
+        "es": "Níger",
+        "fr": "Niger",
+        "ja": "ニジェール",
+        "it": "Niger"
+    },
+    "wiki": "http://en.wikipedia.org/wiki/niger"
+}

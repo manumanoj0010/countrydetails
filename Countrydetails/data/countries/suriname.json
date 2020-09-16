@@ -1,0 +1,340 @@
+{
+    "name": "Suriname",
+    "altSpellings": [
+        "SR",
+        "Sarnam",
+        "Sranangron",
+        "Republic of Suriname",
+        "Republiek Suriname"
+    ],
+    "area": 163820,
+    "borders": [
+        "BRA",
+        "GUF",
+        "FRA",
+        "GUY"
+    ],
+    "callingCodes": [
+        "597"
+    ],
+    "capital": "Paramaribo",
+    "capital_latlng": [
+        5.821609,
+        -55.177043
+    ],
+    "currencies": [
+        "SRD"
+    ],
+    "demonym": "Surinamer",
+    "flag": "",
+    "geoJSON": {
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "type": "Feature",
+                "id": "SUR",
+                "properties": {
+                    "name": "Suriname"
+                },
+                "geometry": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                -57.147436,
+                                5.97315
+                            ],
+                            [
+                                -55.949318,
+                                5.772878
+                            ],
+                            [
+                                -55.84178,
+                                5.953125
+                            ],
+                            [
+                                -55.03325,
+                                6.025291
+                            ],
+                            [
+                                -53.958045,
+                                5.756548
+                            ],
+                            [
+                                -54.478633,
+                                4.896756
+                            ],
+                            [
+                                -54.399542,
+                                4.212611
+                            ],
+                            [
+                                -54.006931,
+                                3.620038
+                            ],
+                            [
+                                -54.181726,
+                                3.18978
+                            ],
+                            [
+                                -54.269705,
+                                2.732392
+                            ],
+                            [
+                                -54.524754,
+                                2.311849
+                            ],
+                            [
+                                -55.097587,
+                                2.523748
+                            ],
+                            [
+                                -55.569755,
+                                2.421506
+                            ],
+                            [
+                                -55.973322,
+                                2.510364
+                            ],
+                            [
+                                -56.073342,
+                                2.220795
+                            ],
+                            [
+                                -55.9056,
+                                2.021996
+                            ],
+                            [
+                                -55.995698,
+                                1.817667
+                            ],
+                            [
+                                -56.539386,
+                                1.899523
+                            ],
+                            [
+                                -57.150098,
+                                2.768927
+                            ],
+                            [
+                                -57.281433,
+                                3.333492
+                            ],
+                            [
+                                -57.601569,
+                                3.334655
+                            ],
+                            [
+                                -58.044694,
+                                4.060864
+                            ],
+                            [
+                                -57.86021,
+                                4.576801
+                            ],
+                            [
+                                -57.914289,
+                                4.812626
+                            ],
+                            [
+                                -57.307246,
+                                5.073567
+                            ],
+                            [
+                                -57.147436,
+                                5.97315
+                            ]
+                        ]
+                    ]
+                }
+            }
+        ]
+    },
+    "ISO": {
+        "alpha2": "SR",
+        "alpha3": "SUR"
+    },
+    "states": [
+        {
+            "id": 2846,
+            "name": "Brokopondo District",
+            "state_code": "BR",
+            "cities": [
+                {
+                    "id": 104822,
+                    "name": "Brokopondo",
+                    "latitude": "5.05594000",
+                    "longitude": "-54.98043000"
+                },
+                {
+                    "id": 104823,
+                    "name": "Brownsweg",
+                    "latitude": "5.00435000",
+                    "longitude": "-55.15333000"
+                }
+            ]
+        },
+        {
+            "id": 2839,
+            "name": "Commewijne District",
+            "state_code": "CM",
+            "cities": [
+                {
+                    "id": 104826,
+                    "name": "Mariënburg",
+                    "latitude": "5.87722000",
+                    "longitude": "-55.04322000"
+                },
+                {
+                    "id": 104828,
+                    "name": "Nieuw Amsterdam",
+                    "latitude": "5.88573000",
+                    "longitude": "-55.08871000"
+                }
+            ]
+        },
+        {
+            "id": 2842,
+            "name": "Coronie District",
+            "state_code": "CR",
+            "cities": [
+                {
+                    "id": 104832,
+                    "name": "Totness",
+                    "latitude": "5.87618000",
+                    "longitude": "-56.32572000"
+                }
+            ]
+        },
+        {
+            "id": 2845,
+            "name": "Marowijne District",
+            "state_code": "MA",
+            "cities": [
+                {
+                    "id": 104821,
+                    "name": "Albina",
+                    "latitude": "5.49788000",
+                    "longitude": "-54.05522000"
+                },
+                {
+                    "id": 104827,
+                    "name": "Moengo",
+                    "latitude": "5.61411000",
+                    "longitude": "-54.40121000"
+                }
+            ]
+        },
+        {
+            "id": 2840,
+            "name": "Nickerie District",
+            "state_code": "NI",
+            "cities": [
+                {
+                    "id": 104829,
+                    "name": "Nieuw Nickerie",
+                    "latitude": "5.92606000",
+                    "longitude": "-56.97297000"
+                },
+                {
+                    "id": 104833,
+                    "name": "Wageningen",
+                    "latitude": "5.76010000",
+                    "longitude": "-56.66523000"
+                }
+            ]
+        },
+        {
+            "id": 2841,
+            "name": "Para District",
+            "state_code": "PR",
+            "cities": [
+                {
+                    "id": 104830,
+                    "name": "Onverwacht",
+                    "latitude": "5.58983000",
+                    "longitude": "-55.19462000"
+                }
+            ]
+        },
+        {
+            "id": 2843,
+            "name": "Paramaribo District",
+            "state_code": "PM",
+            "cities": [
+                {
+                    "id": 104831,
+                    "name": "Paramaribo",
+                    "latitude": "5.86638000",
+                    "longitude": "-55.16682000"
+                }
+            ]
+        },
+        {
+            "id": 2848,
+            "name": "Saramacca District",
+            "state_code": "SA",
+            "cities": [
+                {
+                    "id": 104824,
+                    "name": "Groningen",
+                    "latitude": "5.80000000",
+                    "longitude": "-55.46667000"
+                }
+            ]
+        },
+        {
+            "id": 2847,
+            "name": "Sipaliwini District",
+            "state_code": "SI",
+            "cities": []
+        },
+        {
+            "id": 2844,
+            "name": "Wanica District",
+            "state_code": "WA",
+            "cities": [
+                {
+                    "id": 104825,
+                    "name": "Lelydorp",
+                    "latitude": "5.70000000",
+                    "longitude": "-55.23333000"
+                }
+            ]
+        }
+    ],
+    "languages": [
+        "Hindi",
+        "Sranantonga"
+    ],
+    "latlng": [
+        4,
+        -56
+    ],
+    "nativeName": "Suriname",
+    "population": 534189,
+    "timezones": [
+        "UTC−03:00"
+    ],
+    "tld": [
+        ".sr"
+    ],
+    "translations": {
+        "de": "Suriname",
+        "es": "Surinam",
+        "fr": "Surinam",
+        "ja": "スリナム",
+        "it": "Suriname"
+    },
+    "symbol": null,
+    "dish": null,
+    "temperature": 25.7,
+    "expectancy": 71.4,
+    "location": "South America",
+    "religion": "Christianity",
+    "continent": "South America",
+    "density": 3.69225,
+    "government": "Republic",
+    "independence": 1975,
+    "wiki": "http://en.wikipedia.org/wiki/suriname"
+}

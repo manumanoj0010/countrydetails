@@ -1,0 +1,966 @@
+{
+    "name": "Sudan",
+    "altSpellings": [
+        "SD",
+        "Republic of the Sudan",
+        "Jumhūrīyat as-Sūdān"
+    ],
+    "area": 1886068,
+    "borders": [
+        "CAF",
+        "TCD",
+        "EGY",
+        "ERI",
+        "ETH",
+        "LBY",
+        "SSD"
+    ],
+    "callingCodes": [
+        "249"
+    ],
+    "capital": "Khartoum",
+    "capital_latlng": [
+        15.593325,
+        32.53565
+    ],
+    "currencies": [
+        "SDG"
+    ],
+    "demonym": "Sudanese",
+    "flag": "",
+    "geoJSON": {
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "type": "Feature",
+                "id": "SDN",
+                "properties": {
+                    "name": "Sudan"
+                },
+                "geometry": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                33.963393,
+                                9.464285
+                            ],
+                            [
+                                33.824963,
+                                9.484061
+                            ],
+                            [
+                                33.842131,
+                                9.981915
+                            ],
+                            [
+                                33.721959,
+                                10.325262
+                            ],
+                            [
+                                33.206938,
+                                10.720112
+                            ],
+                            [
+                                33.086766,
+                                11.441141
+                            ],
+                            [
+                                33.206938,
+                                12.179338
+                            ],
+                            [
+                                32.743419,
+                                12.248008
+                            ],
+                            [
+                                32.67475,
+                                12.024832
+                            ],
+                            [
+                                32.073892,
+                                11.97333
+                            ],
+                            [
+                                32.314235,
+                                11.681484
+                            ],
+                            [
+                                32.400072,
+                                11.080626
+                            ],
+                            [
+                                31.850716,
+                                10.531271
+                            ],
+                            [
+                                31.352862,
+                                9.810241
+                            ],
+                            [
+                                30.837841,
+                                9.707237
+                            ],
+                            [
+                                29.996639,
+                                10.290927
+                            ],
+                            [
+                                29.618957,
+                                10.084919
+                            ],
+                            [
+                                29.515953,
+                                9.793074
+                            ],
+                            [
+                                29.000932,
+                                9.604232
+                            ],
+                            [
+                                28.966597,
+                                9.398224
+                            ],
+                            [
+                                27.97089,
+                                9.398224
+                            ],
+                            [
+                                27.833551,
+                                9.604232
+                            ],
+                            [
+                                27.112521,
+                                9.638567
+                            ],
+                            [
+                                26.752006,
+                                9.466893
+                            ],
+                            [
+                                26.477328,
+                                9.55273
+                            ],
+                            [
+                                25.962307,
+                                10.136421
+                            ],
+                            [
+                                25.790633,
+                                10.411099
+                            ],
+                            [
+                                25.069604,
+                                10.27376
+                            ],
+                            [
+                                24.794926,
+                                9.810241
+                            ],
+                            [
+                                24.537415,
+                                8.917538
+                            ],
+                            [
+                                24.194068,
+                                8.728696
+                            ],
+                            [
+                                23.88698,
+                                8.61973
+                            ],
+                            [
+                                23.805813,
+                                8.666319
+                            ],
+                            [
+                                23.459013,
+                                8.954286
+                            ],
+                            [
+                                23.394779,
+                                9.265068
+                            ],
+                            [
+                                23.55725,
+                                9.681218
+                            ],
+                            [
+                                23.554304,
+                                10.089255
+                            ],
+                            [
+                                22.977544,
+                                10.714463
+                            ],
+                            [
+                                22.864165,
+                                11.142395
+                            ],
+                            [
+                                22.87622,
+                                11.38461
+                            ],
+                            [
+                                22.50869,
+                                11.67936
+                            ],
+                            [
+                                22.49762,
+                                12.26024
+                            ],
+                            [
+                                22.28801,
+                                12.64605
+                            ],
+                            [
+                                21.93681,
+                                12.58818
+                            ],
+                            [
+                                22.03759,
+                                12.95546
+                            ],
+                            [
+                                22.29658,
+                                13.37232
+                            ],
+                            [
+                                22.18329,
+                                13.78648
+                            ],
+                            [
+                                22.51202,
+                                14.09318
+                            ],
+                            [
+                                22.30351,
+                                14.32682
+                            ],
+                            [
+                                22.56795,
+                                14.94429
+                            ],
+                            [
+                                23.02459,
+                                15.68072
+                            ],
+                            [
+                                23.88689,
+                                15.61084
+                            ],
+                            [
+                                23.83766,
+                                19.58047
+                            ],
+                            [
+                                23.85,
+                                20
+                            ],
+                            [
+                                25,
+                                20.00304
+                            ],
+                            [
+                                25,
+                                22
+                            ],
+                            [
+                                29.02,
+                                22
+                            ],
+                            [
+                                32.9,
+                                22
+                            ],
+                            [
+                                36.86623,
+                                22
+                            ],
+                            [
+                                37.18872,
+                                21.01885
+                            ],
+                            [
+                                36.96941,
+                                20.83744
+                            ],
+                            [
+                                37.1147,
+                                19.80796
+                            ],
+                            [
+                                37.48179,
+                                18.61409
+                            ],
+                            [
+                                37.86276,
+                                18.36786
+                            ],
+                            [
+                                38.41009,
+                                17.998307
+                            ],
+                            [
+                                37.904,
+                                17.42754
+                            ],
+                            [
+                                37.16747,
+                                17.26314
+                            ],
+                            [
+                                36.85253,
+                                16.95655
+                            ],
+                            [
+                                36.75389,
+                                16.29186
+                            ],
+                            [
+                                36.32322,
+                                14.82249
+                            ],
+                            [
+                                36.42951,
+                                14.42211
+                            ],
+                            [
+                                36.27022,
+                                13.56333
+                            ],
+                            [
+                                35.86363,
+                                12.57828
+                            ],
+                            [
+                                35.26049,
+                                12.08286
+                            ],
+                            [
+                                34.83163,
+                                11.31896
+                            ],
+                            [
+                                34.73115,
+                                10.91017
+                            ],
+                            [
+                                34.25745,
+                                10.63009
+                            ],
+                            [
+                                33.96162,
+                                9.58358
+                            ],
+                            [
+                                33.963393,
+                                9.464285
+                            ]
+                        ]
+                    ]
+                }
+            }
+        ]
+    },
+    "ISO": {
+        "alpha2": "SD",
+        "alpha3": "SDN"
+    },
+    "states": [
+        {
+            "id": 885,
+            "name": "Al Jazirah",
+            "state_code": "GZ",
+            "cities": [
+                {
+                    "id": 102921,
+                    "name": "Al Hasaheisa",
+                    "latitude": "14.75264000",
+                    "longitude": "33.29836000"
+                },
+                {
+                    "id": 102922,
+                    "name": "Al Hilāliyya",
+                    "latitude": "14.93980000",
+                    "longitude": "33.23400000"
+                },
+                {
+                    "id": 102924,
+                    "name": "Al Kiremit al ‘Arakiyyīn",
+                    "latitude": "14.34760000",
+                    "longitude": "32.94370000"
+                },
+                {
+                    "id": 102926,
+                    "name": "Al Manāqil",
+                    "latitude": "14.24590000",
+                    "longitude": "32.98910000"
+                },
+                {
+                    "id": 102927,
+                    "name": "Al Masallamiyya",
+                    "latitude": "14.57480000",
+                    "longitude": "33.33730000"
+                },
+                {
+                    "id": 102980,
+                    "name": "Wad Medani",
+                    "latitude": "14.40118000",
+                    "longitude": "33.51989000"
+                },
+                {
+                    "id": 102981,
+                    "name": "Wad Rāwah",
+                    "latitude": "15.16028000",
+                    "longitude": "33.13972000"
+                }
+            ]
+        },
+        {
+            "id": 886,
+            "name": "Al Qadarif",
+            "state_code": "GD",
+            "cities": [
+                {
+                    "id": 102931,
+                    "name": "Al Ḩawātah",
+                    "latitude": "13.41667000",
+                    "longitude": "34.63333000"
+                },
+                {
+                    "id": 102929,
+                    "name": "Al Qadarif",
+                    "latitude": "14.03493000",
+                    "longitude": "35.38344000"
+                },
+                {
+                    "id": 102942,
+                    "name": "Doka",
+                    "latitude": "13.51667000",
+                    "longitude": "35.76667000"
+                }
+            ]
+        },
+        {
+            "id": 887,
+            "name": "Blue Nile",
+            "state_code": "NB",
+            "cities": [
+                {
+                    "id": 102919,
+                    "name": "Ad-Damazin",
+                    "latitude": "11.78910000",
+                    "longitude": "34.35920000"
+                },
+                {
+                    "id": 102934,
+                    "name": "Ar Ruseris",
+                    "latitude": "11.86590000",
+                    "longitude": "34.38690000"
+                },
+                {
+                    "id": 102961,
+                    "name": "Kurmuk",
+                    "latitude": "10.55000000",
+                    "longitude": "34.28333000"
+                }
+            ]
+        },
+        {
+            "id": 896,
+            "name": "Central Darfur",
+            "state_code": "DC",
+            "cities": [
+                {
+                    "id": 102984,
+                    "name": "Zalingei",
+                    "latitude": "12.90918000",
+                    "longitude": "23.47058000"
+                }
+            ]
+        },
+        {
+            "id": 892,
+            "name": "East Darfur",
+            "state_code": "DE",
+            "cities": [
+                {
+                    "id": 102946,
+                    "name": "El Daein",
+                    "latitude": "11.46186000",
+                    "longitude": "26.12583000"
+                }
+            ]
+        },
+        {
+            "id": 884,
+            "name": "Kassala",
+            "state_code": "KA",
+            "cities": [
+                {
+                    "id": 102936,
+                    "name": "Aroma",
+                    "latitude": "15.81667000",
+                    "longitude": "36.13333000"
+                },
+                {
+                    "id": 102956,
+                    "name": "Kassala",
+                    "latitude": "15.45099000",
+                    "longitude": "36.39998000"
+                },
+                {
+                    "id": 102983,
+                    "name": "Wagar",
+                    "latitude": "16.15250000",
+                    "longitude": "36.20320000"
+                }
+            ]
+        },
+        {
+            "id": 881,
+            "name": "Khartoum",
+            "state_code": "KH",
+            "cities": [
+                {
+                    "id": 102957,
+                    "name": "Khartoum",
+                    "latitude": "15.55177000",
+                    "longitude": "32.53241000"
+                },
+                {
+                    "id": 102967,
+                    "name": "Omdurman",
+                    "latitude": "15.64453000",
+                    "longitude": "32.47773000"
+                }
+            ]
+        },
+        {
+            "id": 890,
+            "name": "North Darfur",
+            "state_code": "DN",
+            "cities": [
+                {
+                    "id": 102947,
+                    "name": "El Fasher",
+                    "latitude": "13.62793000",
+                    "longitude": "25.34936000"
+                },
+                {
+                    "id": 102962,
+                    "name": "Kutum",
+                    "latitude": "14.20000000",
+                    "longitude": "24.66667000"
+                },
+                {
+                    "id": 102978,
+                    "name": "Umm Kaddadah",
+                    "latitude": "13.60169000",
+                    "longitude": "26.68759000"
+                }
+            ]
+        },
+        {
+            "id": 893,
+            "name": "North Kordofan",
+            "state_code": "KN",
+            "cities": [
+                {
+                    "id": 102933,
+                    "name": "Ar Rahad",
+                    "latitude": "12.71667000",
+                    "longitude": "30.65000000"
+                },
+                {
+                    "id": 102940,
+                    "name": "Bārah",
+                    "latitude": "13.70000000",
+                    "longitude": "30.36667000"
+                },
+                {
+                    "id": 102949,
+                    "name": "El Obeid",
+                    "latitude": "13.18421000",
+                    "longitude": "30.21669000"
+                },
+                {
+                    "id": 102979,
+                    "name": "Umm Ruwaba",
+                    "latitude": "12.90610000",
+                    "longitude": "31.21580000"
+                }
+            ]
+        },
+        {
+            "id": 895,
+            "name": "Northern",
+            "state_code": "NO",
+            "cities": [
+                {
+                    "id": 102916,
+                    "name": "Ad Dabbah",
+                    "latitude": "18.05000000",
+                    "longitude": "30.95000000"
+                },
+                {
+                    "id": 102935,
+                    "name": "Argo",
+                    "latitude": "19.51667000",
+                    "longitude": "30.41667000"
+                },
+                {
+                    "id": 102943,
+                    "name": "Dongola",
+                    "latitude": "19.18163000",
+                    "longitude": "30.47689000"
+                },
+                {
+                    "id": 102955,
+                    "name": "Karmah an Nuzul",
+                    "latitude": "19.63333000",
+                    "longitude": "30.41667000"
+                },
+                {
+                    "id": 102960,
+                    "name": "Kuraymah",
+                    "latitude": "18.55000000",
+                    "longitude": "31.85000000"
+                },
+                {
+                    "id": 102965,
+                    "name": "Merowe",
+                    "latitude": "18.47036000",
+                    "longitude": "31.81126000"
+                }
+            ]
+        },
+        {
+            "id": 880,
+            "name": "Red Sea",
+            "state_code": "RS",
+            "cities": [
+                {
+                    "id": 102950,
+                    "name": "Gebeit",
+                    "latitude": "21.06667000",
+                    "longitude": "36.31667000"
+                },
+                {
+                    "id": 102968,
+                    "name": "Port Sudan",
+                    "latitude": "19.61745000",
+                    "longitude": "37.21644000"
+                },
+                {
+                    "id": 102970,
+                    "name": "Sawākin",
+                    "latitude": "19.10590000",
+                    "longitude": "37.33210000"
+                },
+                {
+                    "id": 102976,
+                    "name": "Tokār",
+                    "latitude": "18.42540000",
+                    "longitude": "37.72900000"
+                }
+            ]
+        },
+        {
+            "id": 891,
+            "name": "River Nile",
+            "state_code": "NR",
+            "cities": [
+                {
+                    "id": 102938,
+                    "name": "Atbara",
+                    "latitude": "17.70217000",
+                    "longitude": "33.98638000"
+                },
+                {
+                    "id": 102939,
+                    "name": "Berber",
+                    "latitude": "18.02158000",
+                    "longitude": "33.98299000"
+                },
+                {
+                    "id": 102944,
+                    "name": "Ed Damer",
+                    "latitude": "17.59898000",
+                    "longitude": "33.97205000"
+                },
+                {
+                    "id": 102945,
+                    "name": "El Bauga",
+                    "latitude": "18.26197000",
+                    "longitude": "33.90812000"
+                },
+                {
+                    "id": 102948,
+                    "name": "El Matama",
+                    "latitude": "16.70950000",
+                    "longitude": "33.35650000"
+                },
+                {
+                    "id": 102971,
+                    "name": "Shendi",
+                    "latitude": "16.69150000",
+                    "longitude": "33.43410000"
+                }
+            ]
+        },
+        {
+            "id": 882,
+            "name": "Sennar",
+            "state_code": "SI",
+            "cities": [
+                {
+                    "id": 102917,
+                    "name": "Ad Dindar",
+                    "latitude": "13.20000000",
+                    "longitude": "34.16667000"
+                },
+                {
+                    "id": 102937,
+                    "name": "As Sūkī",
+                    "latitude": "13.31667000",
+                    "longitude": "33.88333000"
+                },
+                {
+                    "id": 102953,
+                    "name": "Jalqani",
+                    "latitude": "12.44860000",
+                    "longitude": "34.21860000"
+                },
+                {
+                    "id": 102958,
+                    "name": "Kināna",
+                    "latitude": "14.03610000",
+                    "longitude": "33.17120000"
+                },
+                {
+                    "id": 102963,
+                    "name": "Maiurno",
+                    "latitude": "13.41667000",
+                    "longitude": "33.66667000"
+                },
+                {
+                    "id": 102972,
+                    "name": "Singa",
+                    "latitude": "13.14830000",
+                    "longitude": "33.93117000"
+                },
+                {
+                    "id": 102973,
+                    "name": "Sinnar",
+                    "latitude": "13.56907000",
+                    "longitude": "33.56718000"
+                }
+            ]
+        },
+        {
+            "id": 894,
+            "name": "South Darfur",
+            "state_code": "DS",
+            "cities": [
+                {
+                    "id": 102952,
+                    "name": "Gereida",
+                    "latitude": "11.27543000",
+                    "longitude": "25.14026000"
+                },
+                {
+                    "id": 102966,
+                    "name": "Nyala",
+                    "latitude": "12.04888000",
+                    "longitude": "24.88069000"
+                }
+            ]
+        },
+        {
+            "id": 883,
+            "name": "South Kordofan",
+            "state_code": "KS",
+            "cities": [
+                {
+                    "id": 102914,
+                    "name": "Abu Jibeha",
+                    "latitude": "11.45620000",
+                    "longitude": "31.22850000"
+                },
+                {
+                    "id": 102920,
+                    "name": "Al Fūlah",
+                    "latitude": "11.73292000",
+                    "longitude": "28.35786000"
+                },
+                {
+                    "id": 102941,
+                    "name": "Dilling",
+                    "latitude": "12.05000000",
+                    "longitude": "29.65000000"
+                },
+                {
+                    "id": 102954,
+                    "name": "Kadugli",
+                    "latitude": "11.01111000",
+                    "longitude": "29.71833000"
+                },
+                {
+                    "id": 102974,
+                    "name": "Talodi",
+                    "latitude": "10.63246000",
+                    "longitude": "30.37970000"
+                }
+            ]
+        },
+        {
+            "id": 888,
+            "name": "West Darfur",
+            "state_code": "DW",
+            "cities": [
+                {
+                    "id": 102951,
+                    "name": "Geneina",
+                    "latitude": "13.45262000",
+                    "longitude": "22.44725000"
+                }
+            ]
+        },
+        {
+            "id": 889,
+            "name": "West Kordofan",
+            "state_code": "GK",
+            "cities": [
+                {
+                    "id": 102915,
+                    "name": "Abū Zabad",
+                    "latitude": "12.35000000",
+                    "longitude": "29.25000000"
+                },
+                {
+                    "id": 102925,
+                    "name": "Al Lagowa",
+                    "latitude": "11.40000000",
+                    "longitude": "29.13333000"
+                },
+                {
+                    "id": 102928,
+                    "name": "Al Mijlad",
+                    "latitude": "11.03333000",
+                    "longitude": "27.73333000"
+                },
+                {
+                    "id": 102932,
+                    "name": "An Nuhūd",
+                    "latitude": "12.70000000",
+                    "longitude": "28.43333000"
+                }
+            ]
+        },
+        {
+            "id": 879,
+            "name": "White Nile",
+            "state_code": "NW",
+            "cities": [
+                {
+                    "id": 102918,
+                    "name": "Ad Douiem",
+                    "latitude": "14.00120000",
+                    "longitude": "32.31160000"
+                },
+                {
+                    "id": 102923,
+                    "name": "Al Kawa",
+                    "latitude": "13.74630000",
+                    "longitude": "32.49960000"
+                },
+                {
+                    "id": 102930,
+                    "name": "Al Qiţena",
+                    "latitude": "14.86480000",
+                    "longitude": "32.36680000"
+                },
+                {
+                    "id": 102959,
+                    "name": "Kosti",
+                    "latitude": "13.16290000",
+                    "longitude": "32.66347000"
+                },
+                {
+                    "id": 102964,
+                    "name": "Marabba",
+                    "latitude": "12.35000000",
+                    "longitude": "32.18333000"
+                },
+                {
+                    "id": 102969,
+                    "name": "Rabak",
+                    "latitude": "13.18087000",
+                    "longitude": "32.73999000"
+                },
+                {
+                    "id": 102975,
+                    "name": "Tandaltī",
+                    "latitude": "13.01667000",
+                    "longitude": "31.86667000"
+                },
+                {
+                    "id": 102977,
+                    "name": "Um Jar Al Gharbiyya",
+                    "latitude": "13.80130000",
+                    "longitude": "32.40780000"
+                },
+                {
+                    "id": 102982,
+                    "name": "Wad az Zāki",
+                    "latitude": "14.46190000",
+                    "longitude": "32.20650000"
+                }
+            ]
+        }
+    ],
+    "languages": [
+        "Arabic",
+        "Bari",
+        "Beja",
+        "Chilluk",
+        "Dinka",
+        "Fur",
+        "Lotuko",
+        "Nubian Languages",
+        "Nuer",
+        "Zande"
+    ],
+    "latlng": [
+        15,
+        30
+    ],
+    "nativeName": "السودان",
+    "population": 37289406,
+    "timezones": [
+        "UTC+03:00"
+    ],
+    "tld": [
+        ".sd"
+    ],
+    "translations": {
+        "de": "Sudan",
+        "es": "Sudán",
+        "fr": "Soudan",
+        "ja": "スーダン",
+        "it": "Sudan"
+    },
+    "continent": "Africa",
+    "independence": 1956,
+     "temperature": 26.9,
+    "symbol": "animal",
+    "density": 20.73,
+    "dish": "Ful medames",
+    "religion": "Islam",
+    "location": "Northern Africa",
+    "expectancy": 56.6,
+    "government": "Islamic Republic",
+    "wiki": "http://en.wikipedia.org/wiki/sudan"
+}

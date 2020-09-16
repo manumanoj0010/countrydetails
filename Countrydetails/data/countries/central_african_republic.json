@@ -1,0 +1,730 @@
+{
+    "name": "Central African Republic",
+    "altSpellings": [
+        "CF",
+        "Central African Republic",
+        "République centrafricaine"
+    ],
+    "area": 622984,
+    "borders": [
+        "CMR",
+        "TCD",
+        "COD",
+        "COG",
+        "SSD",
+        "SDN"
+    ],
+    "callingCodes": [
+        "236"
+    ],
+    "capital": "Bangui",
+    "capital_latlng": [
+        4.390715,
+        18.550913
+    ],
+    "currencies": [
+        "XAF"
+    ],
+    "demonym": "Central African",
+    "flag": "",
+    "geoJSON": {
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "type": "Feature",
+                "id": "CAF",
+                "properties": {
+                    "name": "Central African Republic"
+                },
+                "geometry": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                15.27946,
+                                7.421925
+                            ],
+                            [
+                                16.106232,
+                                7.497088
+                            ],
+                            [
+                                16.290562,
+                                7.754307
+                            ],
+                            [
+                                16.456185,
+                                7.734774
+                            ],
+                            [
+                                16.705988,
+                                7.508328
+                            ],
+                            [
+                                17.96493,
+                                7.890914
+                            ],
+                            [
+                                18.389555,
+                                8.281304
+                            ],
+                            [
+                                18.911022,
+                                8.630895
+                            ],
+                            [
+                                18.81201,
+                                8.982915
+                            ],
+                            [
+                                19.094008,
+                                9.074847
+                            ],
+                            [
+                                20.059685,
+                                9.012706
+                            ],
+                            [
+                                21.000868,
+                                9.475985
+                            ],
+                            [
+                                21.723822,
+                                10.567056
+                            ],
+                            [
+                                22.231129,
+                                10.971889
+                            ],
+                            [
+                                22.864165,
+                                11.142395
+                            ],
+                            [
+                                22.977544,
+                                10.714463
+                            ],
+                            [
+                                23.554304,
+                                10.089255
+                            ],
+                            [
+                                23.55725,
+                                9.681218
+                            ],
+                            [
+                                23.394779,
+                                9.265068
+                            ],
+                            [
+                                23.459013,
+                                8.954286
+                            ],
+                            [
+                                23.805813,
+                                8.666319
+                            ],
+                            [
+                                24.567369,
+                                8.229188
+                            ],
+                            [
+                                25.114932,
+                                7.825104
+                            ],
+                            [
+                                25.124131,
+                                7.500085
+                            ],
+                            [
+                                25.796648,
+                                6.979316
+                            ],
+                            [
+                                26.213418,
+                                6.546603
+                            ],
+                            [
+                                26.465909,
+                                5.946717
+                            ],
+                            [
+                                27.213409,
+                                5.550953
+                            ],
+                            [
+                                27.374226,
+                                5.233944
+                            ],
+                            [
+                                27.044065,
+                                5.127853
+                            ],
+                            [
+                                26.402761,
+                                5.150875
+                            ],
+                            [
+                                25.650455,
+                                5.256088
+                            ],
+                            [
+                                25.278798,
+                                5.170408
+                            ],
+                            [
+                                25.128833,
+                                4.927245
+                            ],
+                            [
+                                24.805029,
+                                4.897247
+                            ],
+                            [
+                                24.410531,
+                                5.108784
+                            ],
+                            [
+                                23.297214,
+                                4.609693
+                            ],
+                            [
+                                22.84148,
+                                4.710126
+                            ],
+                            [
+                                22.704124,
+                                4.633051
+                            ],
+                            [
+                                22.405124,
+                                4.02916
+                            ],
+                            [
+                                21.659123,
+                                4.224342
+                            ],
+                            [
+                                20.927591,
+                                4.322786
+                            ],
+                            [
+                                20.290679,
+                                4.691678
+                            ],
+                            [
+                                19.467784,
+                                5.031528
+                            ],
+                            [
+                                18.932312,
+                                4.709506
+                            ],
+                            [
+                                18.542982,
+                                4.201785
+                            ],
+                            [
+                                18.453065,
+                                3.504386
+                            ],
+                            [
+                                17.8099,
+                                3.560196
+                            ],
+                            [
+                                17.133042,
+                                3.728197
+                            ],
+                            [
+                                16.537058,
+                                3.198255
+                            ],
+                            [
+                                16.012852,
+                                2.26764
+                            ],
+                            [
+                                15.907381,
+                                2.557389
+                            ],
+                            [
+                                15.862732,
+                                3.013537
+                            ],
+                            [
+                                15.405396,
+                                3.335301
+                            ],
+                            [
+                                15.03622,
+                                3.851367
+                            ],
+                            [
+                                14.950953,
+                                4.210389
+                            ],
+                            [
+                                14.478372,
+                                4.732605
+                            ],
+                            [
+                                14.558936,
+                                5.030598
+                            ],
+                            [
+                                14.459407,
+                                5.451761
+                            ],
+                            [
+                                14.53656,
+                                6.226959
+                            ],
+                            [
+                                14.776545,
+                                6.408498
+                            ],
+                            [
+                                15.27946,
+                                7.421925
+                            ]
+                        ]
+                    ]
+                }
+            }
+        ]
+    },
+    "ISO": {
+        "alpha2": "CF",
+        "alpha3": "CAF"
+    },
+    "languages": [
+        "Banda",
+        "Gbaya",
+        "Mandjia",
+        "Mbum",
+        "Ngbaka",
+        "Sara"
+    ],
+    "latlng": [
+        7,
+        21
+    ],
+    "nativeName": "Ködörösêse tî Bêafrîka",
+    "population": 4709000,
+    "timezones": [
+        "UTC+01:00"
+    ],
+    "tld": [
+        ".cf"
+    ],
+    "translations": {
+        "de": "Zentralafrikanische Republik",
+        "es": "República Centroafricana",
+        "fr": "République centrafricaine",
+        "ja": "中央アフリカ共和国",
+        "it": "Repubblica Centrafricana"
+    },
+    "states": [
+        {
+            "id": 1259,
+            "name": "Bamingui-Bangoran Prefecture",
+            "state_code": "BB",
+            "cities": [
+                {
+                    "id": 17296,
+                    "name": "Bamingui",
+                    "latitude": "7.88897000",
+                    "longitude": "20.04875000"
+                },
+                {
+                    "id": 17329,
+                    "name": "Ndélé",
+                    "latitude": "8.74287000",
+                    "longitude": "20.89108000"
+                }
+            ]
+        },
+        {
+            "id": 1262,
+            "name": "Bangui",
+            "state_code": "BGF",
+            "cities": [
+                {
+                    "id": 17298,
+                    "name": "Bangui",
+                    "latitude": "4.36122000",
+                    "longitude": "18.55496000"
+                }
+            ]
+        },
+        {
+            "id": 1264,
+            "name": "Basse-Kotto Prefecture",
+            "state_code": "BK",
+            "cities": [
+                {
+                    "id": 17294,
+                    "name": "Alindao",
+                    "latitude": "5.02667000",
+                    "longitude": "21.20876000"
+                },
+                {
+                    "id": 17323,
+                    "name": "Kembé",
+                    "latitude": "4.62275000",
+                    "longitude": "21.88645000"
+                },
+                {
+                    "id": 17327,
+                    "name": "Mobaye",
+                    "latitude": "4.31902000",
+                    "longitude": "21.17861000"
+                }
+            ]
+        },
+        {
+            "id": 1258,
+            "name": "Haut-Mbomou Prefecture",
+            "state_code": "HM",
+            "cities": [
+                {
+                    "id": 17331,
+                    "name": "Obo",
+                    "latitude": "5.39586000",
+                    "longitude": "26.49211000"
+                },
+                {
+                    "id": 17338,
+                    "name": "Zemio",
+                    "latitude": "5.03144000",
+                    "longitude": "25.13614000"
+                }
+            ]
+        },
+        {
+            "id": 1268,
+            "name": "Haute-Kotto Prefecture",
+            "state_code": "HK",
+            "cities": [
+                {
+                    "id": 17313,
+                    "name": "Bria",
+                    "latitude": "6.54233000",
+                    "longitude": "21.98633000"
+                },
+                {
+                    "id": 17332,
+                    "name": "Ouadda",
+                    "latitude": "8.07771000",
+                    "longitude": "22.40075000"
+                }
+            ]
+        },
+        {
+            "id": 1263,
+            "name": "Kémo Prefecture",
+            "state_code": "KG",
+            "cities": [
+                {
+                    "id": 17337,
+                    "name": "Sibut",
+                    "latitude": "5.71801000",
+                    "longitude": "19.07389000"
+                }
+            ]
+        },
+        {
+            "id": 1256,
+            "name": "Lobaye Prefecture",
+            "state_code": "LB",
+            "cities": [
+                {
+                    "id": 17307,
+                    "name": "Boda",
+                    "latitude": "4.31887000",
+                    "longitude": "17.46953000"
+                },
+                {
+                    "id": 17308,
+                    "name": "Boganangone",
+                    "latitude": "4.73558000",
+                    "longitude": "17.14047000"
+                },
+                {
+                    "id": 17325,
+                    "name": "Mbaiki",
+                    "latitude": "3.97145000",
+                    "longitude": "17.93352000"
+                },
+                {
+                    "id": 17326,
+                    "name": "Mbaïki",
+                    "latitude": "3.86781000",
+                    "longitude": "17.98923000"
+                },
+                {
+                    "id": 17328,
+                    "name": "Mongoumba",
+                    "latitude": "3.64153000",
+                    "longitude": "18.59364000"
+                }
+            ]
+        },
+        {
+            "id": 1257,
+            "name": "Mambéré-Kadéï",
+            "state_code": "HS",
+            "cities": [
+                {
+                    "id": 17301,
+                    "name": "Berberati",
+                    "latitude": "4.31211000",
+                    "longitude": "15.88948000"
+                },
+                {
+                    "id": 17302,
+                    "name": "Berbérati",
+                    "latitude": "4.26116000",
+                    "longitude": "15.79216000"
+                },
+                {
+                    "id": 17314,
+                    "name": "Carnot",
+                    "latitude": "4.94273000",
+                    "longitude": "15.87735000"
+                },
+                {
+                    "id": 17317,
+                    "name": "Gamboula",
+                    "latitude": "4.11775000",
+                    "longitude": "15.13926000"
+                }
+            ]
+        },
+        {
+            "id": 1266,
+            "name": "Mbomou Prefecture",
+            "state_code": "MB",
+            "cities": [
+                {
+                    "id": 17297,
+                    "name": "Bangassou",
+                    "latitude": "4.74132000",
+                    "longitude": "22.81838000"
+                },
+                {
+                    "id": 17316,
+                    "name": "Gambo",
+                    "latitude": "4.64816000",
+                    "longitude": "22.26331000"
+                },
+                {
+                    "id": 17334,
+                    "name": "Ouango",
+                    "latitude": "4.31325000",
+                    "longitude": "22.55524000"
+                },
+                {
+                    "id": 17336,
+                    "name": "Rafai",
+                    "latitude": "5.81012000",
+                    "longitude": "24.20305000"
+                }
+            ]
+        },
+        {
+            "id": 1253,
+            "name": "Nana-Grébizi Economic Prefecture",
+            "state_code": "KB",
+            "cities": [
+                {
+                    "id": 17321,
+                    "name": "Kaga Bandoro",
+                    "latitude": "6.98961000",
+                    "longitude": "19.18744000"
+                },
+                {
+                    "id": 17322,
+                    "name": "Kaga-Bandoro",
+                    "latitude": "7.23774000",
+                    "longitude": "19.21819000"
+                }
+            ]
+        },
+        {
+            "id": 1260,
+            "name": "Nana-Mambéré Prefecture",
+            "state_code": "NM",
+            "cities": [
+                {
+                    "id": 17299,
+                    "name": "Baoro",
+                    "latitude": "5.66667000",
+                    "longitude": "15.96667000"
+                },
+                {
+                    "id": 17310,
+                    "name": "Bouar",
+                    "latitude": "5.93404000",
+                    "longitude": "15.59599000"
+                }
+            ]
+        },
+        {
+            "id": 1255,
+            "name": "Ombella-M'Poko Prefecture",
+            "state_code": "MP",
+            "cities": [
+                {
+                    "id": 17303,
+                    "name": "Bimbo",
+                    "latitude": "4.25671000",
+                    "longitude": "18.41583000"
+                },
+                {
+                    "id": 17305,
+                    "name": "Boali",
+                    "latitude": "4.80048000",
+                    "longitude": "18.12747000"
+                },
+                {
+                    "id": 17315,
+                    "name": "Damara",
+                    "latitude": "4.96075000",
+                    "longitude": "18.70350000"
+                }
+            ]
+        },
+        {
+            "id": 1265,
+            "name": "Ouaka Prefecture",
+            "state_code": "UK",
+            "cities": [
+                {
+                    "id": 17295,
+                    "name": "Bambari",
+                    "latitude": "5.76795000",
+                    "longitude": "20.67565000"
+                },
+                {
+                    "id": 17318,
+                    "name": "Grimari",
+                    "latitude": "5.73549000",
+                    "longitude": "19.91209000"
+                },
+                {
+                    "id": 17319,
+                    "name": "Ippy",
+                    "latitude": "6.26793000",
+                    "longitude": "21.22468000"
+                },
+                {
+                    "id": 17324,
+                    "name": "Kouango",
+                    "latitude": "4.99337000",
+                    "longitude": "19.96186000"
+                }
+            ]
+        },
+        {
+            "id": 1254,
+            "name": "Ouham Prefecture",
+            "state_code": "AC",
+            "cities": [
+                {
+                    "id": 17300,
+                    "name": "Batangafo",
+                    "latitude": "7.30082000",
+                    "longitude": "18.28330000"
+                },
+                {
+                    "id": 17309,
+                    "name": "Bossangoa",
+                    "latitude": "6.49263000",
+                    "longitude": "17.45518000"
+                },
+                {
+                    "id": 17311,
+                    "name": "Bouca",
+                    "latitude": "6.50734000",
+                    "longitude": "18.27670000"
+                },
+                {
+                    "id": 17320,
+                    "name": "Kabo",
+                    "latitude": "7.69937000",
+                    "longitude": "18.62903000"
+                }
+            ]
+        },
+        {
+            "id": 1267,
+            "name": "Ouham-Pendé Prefecture",
+            "state_code": "OP",
+            "cities": [
+                {
+                    "id": 17306,
+                    "name": "Bocaranga",
+                    "latitude": "6.76546000",
+                    "longitude": "15.77873000"
+                },
+                {
+                    "id": 17312,
+                    "name": "Bozoum",
+                    "latitude": "6.31933000",
+                    "longitude": "16.37992000"
+                },
+                {
+                    "id": 17335,
+                    "name": "Paoua",
+                    "latitude": "7.24269000",
+                    "longitude": "16.44059000"
+                }
+            ]
+        },
+        {
+            "id": 1252,
+            "name": "Sangha-Mbaéré",
+            "state_code": "SE",
+            "cities": [
+                {
+                    "id": 17330,
+                    "name": "Nola",
+                    "latitude": "3.52494000",
+                    "longitude": "16.04583000"
+                }
+            ]
+        },
+        {
+            "id": 1261,
+            "name": "Vakaga Prefecture",
+            "state_code": "VK",
+            "cities": [
+                {
+                    "id": 17304,
+                    "name": "Birao",
+                    "latitude": "10.28488000",
+                    "longitude": "22.78818000"
+                },
+                {
+                    "id": 17333,
+                    "name": "Ouanda-Djallé",
+                    "latitude": "9.05877000",
+                    "longitude": "22.42741000"
+                }
+            ]
+        }
+    ],
+    "expectancy": 44,
+    "dish": null,
+    "symbol": null,
+    "density": 7.490412212,
+    "location": "Central Africa",
+    "religion": "Christianity",
+    "government": "Republic",
+    "temperature": 24.9,
+    "continent": "Africa",
+    "independence": 1960,
+    "wiki": "http://en.wikipedia.org/wiki/central_african_republic"
+}

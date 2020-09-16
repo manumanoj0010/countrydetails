@@ -1,0 +1,438 @@
+{
+    "name": "Mauritania",
+    "altSpellings": [
+        "MR",
+        "Islamic Republic of Mauritania",
+        "al-Jumhūriyyah al-ʾIslāmiyyah al-Mūrītāniyyah"
+    ],
+    "area": 1030700,
+    "borders": [
+        "DZA",
+        "MLI",
+        "SEN",
+        "ESH"
+    ],
+    "callingCodes": [
+        "222"
+    ],
+    "capital": "Nouakchott",
+    "capital_latlng": [
+        18.079238,
+        -15.978007
+    ],
+    "currencies": [
+        "MRO"
+    ],
+    "demonym": "Mauritanian",
+    "flag": "",
+    "geoJSON": {
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "type": "Feature",
+                "id": "MRT",
+                "properties": {
+                    "name": "Mauritania"
+                },
+                "geometry": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                -12.17075,
+                                14.616834
+                            ],
+                            [
+                                -12.830658,
+                                15.303692
+                            ],
+                            [
+                                -13.435738,
+                                16.039383
+                            ],
+                            [
+                                -14.099521,
+                                16.304302
+                            ],
+                            [
+                                -14.577348,
+                                16.598264
+                            ],
+                            [
+                                -15.135737,
+                                16.587282
+                            ],
+                            [
+                                -15.623666,
+                                16.369337
+                            ],
+                            [
+                                -16.12069,
+                                16.455663
+                            ],
+                            [
+                                -16.463098,
+                                16.135036
+                            ],
+                            [
+                                -16.549708,
+                                16.673892
+                            ],
+                            [
+                                -16.270552,
+                                17.166963
+                            ],
+                            [
+                                -16.146347,
+                                18.108482
+                            ],
+                            [
+                                -16.256883,
+                                19.096716
+                            ],
+                            [
+                                -16.377651,
+                                19.593817
+                            ],
+                            [
+                                -16.277838,
+                                20.092521
+                            ],
+                            [
+                                -16.536324,
+                                20.567866
+                            ],
+                            [
+                                -17.063423,
+                                20.999752
+                            ],
+                            [
+                                -16.845194,
+                                21.333323
+                            ],
+                            [
+                                -12.929102,
+                                21.327071
+                            ],
+                            [
+                                -13.118754,
+                                22.77122
+                            ],
+                            [
+                                -12.874222,
+                                23.284832
+                            ],
+                            [
+                                -11.937224,
+                                23.374594
+                            ],
+                            [
+                                -11.969419,
+                                25.933353
+                            ],
+                            [
+                                -8.687294,
+                                25.881056
+                            ],
+                            [
+                                -8.6844,
+                                27.395744
+                            ],
+                            [
+                                -4.923337,
+                                24.974574
+                            ],
+                            [
+                                -6.453787,
+                                24.956591
+                            ],
+                            [
+                                -5.971129,
+                                20.640833
+                            ],
+                            [
+                                -5.488523,
+                                16.325102
+                            ],
+                            [
+                                -5.315277,
+                                16.201854
+                            ],
+                            [
+                                -5.537744,
+                                15.50169
+                            ],
+                            [
+                                -9.550238,
+                                15.486497
+                            ],
+                            [
+                                -9.700255,
+                                15.264107
+                            ],
+                            [
+                                -10.086846,
+                                15.330486
+                            ],
+                            [
+                                -10.650791,
+                                15.132746
+                            ],
+                            [
+                                -11.349095,
+                                15.411256
+                            ],
+                            [
+                                -11.666078,
+                                15.388208
+                            ],
+                            [
+                                -11.834208,
+                                14.799097
+                            ],
+                            [
+                                -12.17075,
+                                14.616834
+                            ]
+                        ]
+                    ]
+                }
+            }
+        ]
+    },
+    "ISO": {
+        "alpha2": "MR",
+        "alpha3": "MRT"
+    },
+    "languages": [
+        "Ful",
+        "Hassaniya",
+        "Soninke",
+        "Tukulor",
+        "Wolof",
+        "Zenaga"
+    ],
+    "latlng": [
+        20,
+        -12
+    ],
+    "nativeName": "موريتانيا",
+    "population": 3545620,
+    "timezones": [
+        "UTC"
+    ],
+    "tld": [
+        ".mr"
+    ],
+    "symbol": null,
+    "expectancy": 50.8,
+    "dish": "Thieboudienne, Couscous",
+    "density": 4.272163578,
+    "temperature": 27.65,
+    "religion": "Islam",
+    "location": "Western Africa",
+    "independence": 1960,
+    "government": "Republic",
+    "continent": "Africa",
+    "states": [
+        {
+            "id": 3344,
+            "name": "Adrar Region",
+            "state_code": "07",
+            "cities": [
+                {
+                    "id": 67746,
+                    "name": "Atar",
+                    "latitude": "20.51770000",
+                    "longitude": "-13.04857000"
+                },
+                {
+                    "id": 67748,
+                    "name": "Chingueṭṭi",
+                    "latitude": "20.46300000",
+                    "longitude": "-12.36200000"
+                }
+            ]
+        },
+        {
+            "id": 3349,
+            "name": "Assaba Region",
+            "state_code": "03",
+            "cities": [
+                {
+                    "id": 67747,
+                    "name": "Barkéwol",
+                    "latitude": "16.64039000",
+                    "longitude": "-12.49849000"
+                },
+                {
+                    "id": 67750,
+                    "name": "Kiffa",
+                    "latitude": "16.62073000",
+                    "longitude": "-11.40208000"
+                }
+            ]
+        },
+        {
+            "id": 3339,
+            "name": "Brakna Region",
+            "state_code": "05",
+            "cities": [
+                {
+                    "id": 67757,
+                    "name": "’Elb el Jmel",
+                    "latitude": "17.01050000",
+                    "longitude": "-13.97102000"
+                },
+                {
+                    "id": 67745,
+                    "name": "Aleg",
+                    "latitude": "17.05314000",
+                    "longitude": "-13.91312000"
+                }
+            ]
+        },
+        {
+            "id": 3346,
+            "name": "Dakhlet Nouadhibou",
+            "state_code": "08",
+            "cities": [
+                {
+                    "id": 67751,
+                    "name": "Nouadhibou",
+                    "latitude": "20.94188000",
+                    "longitude": "-17.03842000"
+                }
+            ]
+        },
+        {
+            "id": 3341,
+            "name": "Gorgol Region",
+            "state_code": "04",
+            "cities": [
+                {
+                    "id": 67749,
+                    "name": "Kaédi",
+                    "latitude": "16.15027000",
+                    "longitude": "-13.50370000"
+                }
+            ]
+        },
+        {
+            "id": 3350,
+            "name": "Guidimaka Region",
+            "state_code": "10",
+            "cities": [
+                {
+                    "id": 67754,
+                    "name": "Sélibaby",
+                    "latitude": "15.15846000",
+                    "longitude": "-12.18430000"
+                }
+            ]
+        },
+        {
+            "id": 3338,
+            "name": "Hodh Ech Chargui Region",
+            "state_code": "01",
+            "cities": [
+                {
+                    "id": 67752,
+                    "name": "Néma",
+                    "latitude": "16.61702000",
+                    "longitude": "-7.25649000"
+                }
+            ]
+        },
+        {
+            "id": 3351,
+            "name": "Hodh El Gharbi Region",
+            "state_code": "02",
+            "cities": [
+                {
+                    "id": 67743,
+                    "name": "Aioun",
+                    "latitude": "16.66140000",
+                    "longitude": "-9.61490000"
+                }
+            ]
+        },
+        {
+            "id": 3342,
+            "name": "Inchiri Region",
+            "state_code": "12",
+            "cities": [
+                {
+                    "id": 67744,
+                    "name": "Akjoujt",
+                    "latitude": "19.74657000",
+                    "longitude": "-14.38531000"
+                }
+            ]
+        },
+        {
+            "id": 3343,
+            "name": "Nouakchott-Nord Region",
+            "state_code": "14",
+            "cities": []
+        },
+        {
+            "id": 3352,
+            "name": "Nouakchott-Ouest Region",
+            "state_code": "13",
+            "cities": []
+        },
+        {
+            "id": 3347,
+            "name": "Nouakchott-Sud Region",
+            "state_code": "15",
+            "cities": []
+        },
+        {
+            "id": 3345,
+            "name": "Tagant Region",
+            "state_code": "09",
+            "cities": []
+        },
+        {
+            "id": 3340,
+            "name": "Tiris Zemmour Region",
+            "state_code": "11",
+            "cities": [
+                {
+                    "id": 67756,
+                    "name": "Zouerate",
+                    "latitude": "22.73542000",
+                    "longitude": "-12.47134000"
+                }
+            ]
+        },
+        {
+            "id": 3348,
+            "name": "Trarza Region",
+            "state_code": "06",
+            "cities": [
+                {
+                    "id": 67753,
+                    "name": "Rosso",
+                    "latitude": "16.51378000",
+                    "longitude": "-15.80503000"
+                },
+                {
+                    "id": 67755,
+                    "name": "Tékane",
+                    "latitude": "16.60175000",
+                    "longitude": "-15.34866000"
+                }
+            ]
+        }
+    ],
+    "translations": {
+        "de": "Mauretanien",
+        "es": "Mauritania",
+        "fr": "Mauritanie",
+        "ja": "モーリタニア",
+        "it": "Mauritania"
+    },
+    "wiki": "http://en.wikipedia.org/wiki/mauritania"
+}

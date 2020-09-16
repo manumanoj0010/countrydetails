@@ -1,0 +1,266 @@
+{
+    "name": "Seychelles",
+    "altSpellings": [
+        "SC",
+        "Republic of Seychelles",
+        "Repiblik Sesel",
+        "République des Seychelles"
+    ],
+    "area": 452,
+    "borders": [],
+    "callingCodes": [
+        "248"
+    ],
+    "capital": "Victoria",
+    "capital_latlng": [
+        -36.59861,
+        144.678005
+    ],
+    "currencies": [
+        "SCR"
+    ],
+    "demonym": "Seychellois",
+    "flag": "",
+    "geoJSON": {},
+    "ISO": {
+        "alpha2": "SC",
+        "alpha3": "SYC"
+    },
+    "states": [
+        {
+            "id": 513,
+            "name": "Anse Boileau",
+            "state_code": "02",
+            "cities": [
+                {
+                    "id": 102906,
+                    "name": "Anse Boileau",
+                    "latitude": "-4.71667000",
+                    "longitude": "55.48333000"
+                }
+            ]
+        },
+        {
+            "id": 502,
+            "name": "Anse Royale",
+            "state_code": "05",
+            "cities": [
+                {
+                    "id": 102907,
+                    "name": "Anse Royale",
+                    "latitude": "-4.73333000",
+                    "longitude": "55.51667000"
+                }
+            ]
+        },
+        {
+            "id": 506,
+            "name": "Anse-aux-Pins",
+            "state_code": "01",
+            "cities": []
+        },
+        {
+            "id": 508,
+            "name": "Au Cap",
+            "state_code": "04",
+            "cities": []
+        },
+        {
+            "id": 497,
+            "name": "Baie Lazare",
+            "state_code": "06",
+            "cities": []
+        },
+        {
+            "id": 514,
+            "name": "Baie Sainte Anne",
+            "state_code": "07",
+            "cities": []
+        },
+        {
+            "id": 512,
+            "name": "Beau Vallon",
+            "state_code": "08",
+            "cities": [
+                {
+                    "id": 102908,
+                    "name": "Beau Vallon",
+                    "latitude": "-4.62091000",
+                    "longitude": "55.43015000"
+                }
+            ]
+        },
+        {
+            "id": 515,
+            "name": "Bel Air",
+            "state_code": "09",
+            "cities": []
+        },
+        {
+            "id": 505,
+            "name": "Bel Ombre",
+            "state_code": "10",
+            "cities": [
+                {
+                    "id": 102909,
+                    "name": "Bel Ombre",
+                    "latitude": "-4.61667000",
+                    "longitude": "55.41667000"
+                }
+            ]
+        },
+        {
+            "id": 517,
+            "name": "Cascade",
+            "state_code": "11",
+            "cities": [
+                {
+                    "id": 102910,
+                    "name": "Cascade",
+                    "latitude": "-4.66667000",
+                    "longitude": "55.50000000"
+                }
+            ]
+        },
+        {
+            "id": 503,
+            "name": "Glacis",
+            "state_code": "12",
+            "cities": []
+        },
+        {
+            "id": 500,
+            "name": "Grand'Anse Mahé",
+            "state_code": "13",
+            "cities": []
+        },
+        {
+            "id": 504,
+            "name": "Grand'Anse Praslin",
+            "state_code": "14",
+            "cities": []
+        },
+        {
+            "id": 495,
+            "name": "La Digue",
+            "state_code": "15",
+            "cities": []
+        },
+        {
+            "id": 516,
+            "name": "La Rivière Anglaise",
+            "state_code": "16",
+            "cities": [
+                {
+                    "id": 102913,
+                    "name": "Victoria",
+                    "latitude": "-4.62001000",
+                    "longitude": "55.45501000"
+                }
+            ]
+        },
+        {
+            "id": 499,
+            "name": "Les Mamelles",
+            "state_code": "24",
+            "cities": []
+        },
+        {
+            "id": 494,
+            "name": "Mont Buxton",
+            "state_code": "17",
+            "cities": []
+        },
+        {
+            "id": 498,
+            "name": "Mont Fleuri",
+            "state_code": "18",
+            "cities": []
+        },
+        {
+            "id": 511,
+            "name": "Plaisance",
+            "state_code": "19",
+            "cities": []
+        },
+        {
+            "id": 510,
+            "name": "Pointe La Rue",
+            "state_code": "20",
+            "cities": []
+        },
+        {
+            "id": 507,
+            "name": "Port Glaud",
+            "state_code": "21",
+            "cities": [
+                {
+                    "id": 102911,
+                    "name": "Port Glaud",
+                    "latitude": "-4.66667000",
+                    "longitude": "55.41667000"
+                }
+            ]
+        },
+        {
+            "id": 501,
+            "name": "Roche Caiman",
+            "state_code": "25",
+            "cities": []
+        },
+        {
+            "id": 496,
+            "name": "Saint Louis",
+            "state_code": "22",
+            "cities": []
+        },
+        {
+            "id": 509,
+            "name": "Takamaka",
+            "state_code": "23",
+            "cities": [
+                {
+                    "id": 102912,
+                    "name": "Takamaka",
+                    "latitude": "-4.76667000",
+                    "longitude": "55.50000000"
+                }
+            ]
+        }
+    ],
+    "languages": [
+        "English",
+            "French",
+            "Seselwa"
+    ],
+    "latlng": [
+        -4.58333333,
+        55.66666666
+    ],
+    "nativeName": "Seychelles",
+    "population": 89949,
+    "timezones": [
+        "UTC+04:00"
+    ],
+    "tld": [
+        ".sc"
+    ],
+    "translations": {
+        "de": "Seychellen",
+        "es": "Seychelles",
+        "fr": "Seychelles",
+        "ja": "セーシェル",
+        "it": "Seychelles"
+    },
+    "continent": "Africa",
+    "government": "Republic",
+    "independence": 1976,
+    "symbol": null,
+    "expectancy": 70.4,
+    "density": 210.3521739,
+    "dish": null,
+    "temperature": 27.15,
+    "religion": "Christianity",
+    "location": "Eastern Africa",
+    "wiki": "http://en.wikipedia.org/wiki/seychelles"
+}

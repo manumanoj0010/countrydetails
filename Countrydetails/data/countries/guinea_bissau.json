@@ -1,0 +1,245 @@
+{
+  "name": "Guinea-Bissau",
+  "altSpellings": ["GW", "Republic of Guinea-Bissau", "República da Guiné-Bissau"],
+  "area": 36125,
+  "borders": ["GIN", "SEN"],
+  "callingCodes": ["245"],
+  "capital": "Bissau",
+  "capital_latlng": [11.861324, -15.583055],
+  "currencies": ["XOF"],
+  "demonym": "Guinea-Bissauan",
+  "flag": "",
+  "geoJSON": {
+    "type": "FeatureCollection",
+    "features": [{
+      "type": "Feature",
+      "id": "GNB",
+      "properties": {
+        "name": "Guinea Bissau"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-15.130311, 11.040412],
+            [-15.66418, 11.458474],
+            [-16.085214, 11.524594],
+            [-16.314787, 11.806515],
+            [-16.308947, 11.958702],
+            [-16.613838, 12.170911],
+            [-16.677452, 12.384852],
+            [-16.147717, 12.547762],
+            [-15.816574, 12.515567],
+            [-15.548477, 12.62817],
+            [-13.700476, 12.586183],
+            [-13.718744, 12.247186],
+            [-13.828272, 12.142644],
+            [-13.743161, 11.811269],
+            [-13.9008, 11.678719],
+            [-14.121406, 11.677117],
+            [-14.382192, 11.509272],
+            [-14.685687, 11.527824],
+            [-15.130311, 11.040412]
+          ]
+        ]
+      }
+    }]
+  },
+  "ISO": {
+    "alpha2": "GW",
+    "alpha3": "GNB"
+  },
+  "languages": ["pt"],
+  "latlng": [12, -15],
+  "nativeName": "Guiné-Bissau",
+  "population": 1746000,
+"independence": 1974,
+"languages": [
+    "Balante",
+    "Crioulo",
+    "Ful",
+    "Malinke",
+    "Mandyako",
+    "Portuguese"
+],
+  "expectancy": 49,
+  "tld": ".gw",
+"government": "Republic",
+  "dish": null,
+"continent": "Africa",
+  "symbol": null,
+"density": 66.65394737,
+"location": "Western Africa",
+  "religion": "Islam",
+    "temperature": 26.75,
+    "states": [
+            {
+                "id": 2720,
+                "name": "Bafatá",
+                "state_code": "BA",
+                "cities": [
+                    {
+                        "id": 53807,
+                        "name": "Bafatá",
+                        "latitude": "12.16583000",
+                        "longitude": "-14.66167000"
+                    },
+                    {
+                        "id": 53815,
+                        "name": "Contuboel Sector",
+                        "latitude": "12.55500000",
+                        "longitude": "-14.64100000"
+                    }
+                ]
+            },
+            {
+                "id": 2714,
+                "name": "Biombo Region",
+                "state_code": "BM",
+                "cities": [
+                    {
+                        "id": 53820,
+                        "name": "Quinhámel",
+                        "latitude": "11.88694000",
+                        "longitude": "-15.85556000"
+                    }
+                ]
+            },
+            {
+                "id": 2722,
+                "name": "Bolama Region",
+                "state_code": "BL",
+                "cities": [
+                    {
+                        "id": 53809,
+                        "name": "Bolama",
+                        "latitude": "11.57694000",
+                        "longitude": "-15.47611000"
+                    },
+                    {
+                        "id": 53811,
+                        "name": "Bubaque",
+                        "latitude": "11.28333000",
+                        "longitude": "-15.83333000"
+                    }
+                ]
+            },
+            {
+                "id": 2713,
+                "name": "Cacheu Region",
+                "state_code": "CA",
+                "cities": [
+                    {
+                        "id": 53812,
+                        "name": "Cacheu",
+                        "latitude": "12.27444000",
+                        "longitude": "-16.16528000"
+                    },
+                    {
+                        "id": 53813,
+                        "name": "Canchungo",
+                        "latitude": "12.06722000",
+                        "longitude": "-16.03333000"
+                    }
+                ]
+            },
+            {
+                "id": 2719,
+                "name": "Gabú Region",
+                "state_code": "GA",
+                "cities": [
+                    {
+                        "id": 53817,
+                        "name": "Gabú",
+                        "latitude": "12.28000000",
+                        "longitude": "-14.22222000"
+                    }
+                ]
+            },
+            {
+                "id": 2721,
+                "name": "Leste Province",
+                "state_code": "L",
+                "cities": []
+            },
+            {
+                "id": 2717,
+                "name": "Norte Province",
+                "state_code": "N",
+                "cities": []
+            },
+            {
+                "id": 2718,
+                "name": "Oio Region",
+                "state_code": "OI",
+                "cities": [
+                    {
+                        "id": 53808,
+                        "name": "Bissorã",
+                        "latitude": "12.22306000",
+                        "longitude": "-15.44750000"
+                    },
+                    {
+                        "id": 53816,
+                        "name": "Farim",
+                        "latitude": "12.48389000",
+                        "longitude": "-15.22167000"
+                    },
+                    {
+                        "id": 53818,
+                        "name": "Mansôa",
+                        "latitude": "12.07333000",
+                        "longitude": "-15.31889000"
+                    }
+                ]
+            },
+            {
+                "id": 2715,
+                "name": "Quinara Region",
+                "state_code": "QU",
+                "cities": [
+                    {
+                        "id": 53810,
+                        "name": "Buba",
+                        "latitude": "11.58889000",
+                        "longitude": "-14.99583000"
+                    }
+                ]
+            },
+            {
+                "id": 2716,
+                "name": "Sul Province",
+                "state_code": "S",
+                "cities": []
+            },
+            {
+                "id": 2712,
+                "name": "Tombali Region",
+                "state_code": "TO",
+                "cities": [
+                    {
+                        "id": 53814,
+                        "name": "Catió",
+                        "latitude": "11.28250000",
+                        "longitude": "-15.25472000"
+                    },
+                    {
+                        "id": 53819,
+                        "name": "Quebo",
+                        "latitude": "11.33333000",
+                        "longitude": "-14.93333000"
+                    }
+                ]
+            }
+        ],
+  "timezones": ["UTC"],
+  "tld": [".gw"],
+  "translations": {
+    "de": "Guinea-Bissau",
+    "es": "Guinea-Bisáu",
+    "fr": "Guinée-Bissau",
+    "ja": "ギニアビサウ",
+    "it": "Guinea-Bissau"
+  },
+  "wiki": "http://en.wikipedia.org/wiki/guinea_bissau"
+}

@@ -1,0 +1,498 @@
+{
+    "name": "Benin",
+    "altSpellings": [
+        "BJ",
+        "Republic of Benin",
+        "République du Bénin"
+    ],
+    "area": 112622,
+    "borders": [
+        "BFA",
+        "NER",
+        "NGA",
+        "TGO"
+    ],
+    "callingCodes": [
+        "229"
+    ],
+    "capital": "Porto-Novo",
+    "capital_latlng": [
+        6.499072,
+        2.625336
+    ],
+    "currencies": [
+        "XOF"
+    ],
+    "demonym": "Beninese",
+    "flag": "",
+    "geoJSON": {
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "type": "Feature",
+                "id": "BEN",
+                "properties": {
+                    "name": "Benin"
+                },
+                "geometry": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                2.691702,
+                                6.258817
+                            ],
+                            [
+                                1.865241,
+                                6.142158
+                            ],
+                            [
+                                1.618951,
+                                6.832038
+                            ],
+                            [
+                                1.664478,
+                                9.12859
+                            ],
+                            [
+                                1.463043,
+                                9.334624
+                            ],
+                            [
+                                1.425061,
+                                9.825395
+                            ],
+                            [
+                                1.077795,
+                                10.175607
+                            ],
+                            [
+                                0.772336,
+                                10.470808
+                            ],
+                            [
+                                0.899563,
+                                10.997339
+                            ],
+                            [
+                                1.24347,
+                                11.110511
+                            ],
+                            [
+                                1.447178,
+                                11.547719
+                            ],
+                            [
+                                1.935986,
+                                11.64115
+                            ],
+                            [
+                                2.154474,
+                                11.94015
+                            ],
+                            [
+                                2.490164,
+                                12.233052
+                            ],
+                            [
+                                2.848643,
+                                12.235636
+                            ],
+                            [
+                                3.61118,
+                                11.660167
+                            ],
+                            [
+                                3.572216,
+                                11.327939
+                            ],
+                            [
+                                3.797112,
+                                10.734746
+                            ],
+                            [
+                                3.60007,
+                                10.332186
+                            ],
+                            [
+                                3.705438,
+                                10.06321
+                            ],
+                            [
+                                3.220352,
+                                9.444153
+                            ],
+                            [
+                                2.912308,
+                                9.137608
+                            ],
+                            [
+                                2.723793,
+                                8.506845
+                            ],
+                            [
+                                2.749063,
+                                7.870734
+                            ],
+                            [
+                                2.691702,
+                                6.258817
+                            ]
+                        ]
+                    ]
+                }
+            }
+        ]
+    },
+    "ISO": {
+        "alpha2": "BJ",
+        "alpha3": "BEN"
+    },
+    "languages": [
+        "Adja",
+            "Aizo",
+            "Bariba",
+            "Fon",
+            "Ful",
+            "Joruba",
+            "Somba"
+    ],
+    "latlng": [
+        9.5,
+        2.25
+    ],
+    "nativeName": "Bénin",
+    "population": 9988068,
+    "timezones": [
+        "UTC+01:00"
+    ],
+    "tld": [
+        ".bj"
+    ],
+    "translations": {
+        "de": "Benin",
+        "es": "Benín",
+        "fr": "Bénin",
+        "ja": "ベナン",
+        "it": "Benin"
+    },
+    "states": [
+        {
+            "id": 3077,
+            "name": "Alibori Department",
+            "state_code": "AL",
+            "cities": [
+                {
+                    "id": 9782,
+                    "name": "Banikoara",
+                    "latitude": "11.29845000",
+                    "longitude": "2.43856000"
+                },
+                {
+                    "id": 9800,
+                    "name": "Kandi",
+                    "latitude": "11.13417000",
+                    "longitude": "2.93861000"
+                },
+                {
+                    "id": 9803,
+                    "name": "Malanville",
+                    "latitude": "11.86819000",
+                    "longitude": "3.38327000"
+                }
+            ]
+        },
+        {
+            "id": 3076,
+            "name": "Atakora Department",
+            "state_code": "AK",
+            "cities": [
+                {
+                    "id": 9797,
+                    "name": "Guilmaro",
+                    "latitude": "10.56583000",
+                    "longitude": "1.72444000"
+                },
+                {
+                    "id": 9804,
+                    "name": "Natitingou",
+                    "latitude": "10.30416000",
+                    "longitude": "1.37962000"
+                },
+                {
+                    "id": 9813,
+                    "name": "Tanguieta",
+                    "latitude": "11.03621000",
+                    "longitude": "1.41757000"
+                },
+                {
+                    "id": 9814,
+                    "name": "Tanguiéta",
+                    "latitude": "10.62118000",
+                    "longitude": "1.26651000"
+                }
+            ]
+        },
+        {
+            "id": 3079,
+            "name": "Atlantique Department",
+            "state_code": "AQ",
+            "cities": [
+                {
+                    "id": 9780,
+                    "name": "Abomey-Calavi",
+                    "latitude": "6.44852000",
+                    "longitude": "2.35566000"
+                },
+                {
+                    "id": 9781,
+                    "name": "Allada",
+                    "latitude": "6.66547000",
+                    "longitude": "2.15138000"
+                },
+                {
+                    "id": 9799,
+                    "name": "Hévié",
+                    "latitude": "6.41667000",
+                    "longitude": "2.25000000"
+                },
+                {
+                    "id": 9798,
+                    "name": "Hinvi",
+                    "latitude": "6.76667000",
+                    "longitude": "2.16667000"
+                },
+                {
+                    "id": 9806,
+                    "name": "Ouidah",
+                    "latitude": "6.36307000",
+                    "longitude": "2.08506000"
+                }
+            ]
+        },
+        {
+            "id": 3078,
+            "name": "Borgou Department",
+            "state_code": "BO",
+            "cities": [
+                {
+                    "id": 9784,
+                    "name": "Bembèrèkè",
+                    "latitude": "10.22827000",
+                    "longitude": "2.66335000"
+                },
+                {
+                    "id": 9786,
+                    "name": "Bétérou",
+                    "latitude": "9.19916000",
+                    "longitude": "2.25855000"
+                },
+                {
+                    "id": 9805,
+                    "name": "Nikki",
+                    "latitude": "9.94009000",
+                    "longitude": "3.21075000"
+                },
+                {
+                    "id": 9807,
+                    "name": "Parakou",
+                    "latitude": "9.33716000",
+                    "longitude": "2.63031000"
+                },
+                {
+                    "id": 9815,
+                    "name": "Tchaourou",
+                    "latitude": "8.88649000",
+                    "longitude": "2.59753000"
+                }
+            ]
+        },
+        {
+            "id": 3070,
+            "name": "Collines Department",
+            "state_code": "CO",
+            "cities": [
+                {
+                    "id": 9790,
+                    "name": "Comé",
+                    "latitude": "6.40764000",
+                    "longitude": "1.88198000"
+                },
+                {
+                    "id": 9793,
+                    "name": "Dassa-Zoumé",
+                    "latitude": "7.75000000",
+                    "longitude": "2.18333000"
+                },
+                {
+                    "id": 9811,
+                    "name": "Savalou",
+                    "latitude": "7.92807000",
+                    "longitude": "1.97558000"
+                },
+                {
+                    "id": 9812,
+                    "name": "Savé",
+                    "latitude": "8.03424000",
+                    "longitude": "2.48660000"
+                }
+            ]
+        },
+        {
+            "id": 3072,
+            "name": "Donga Department",
+            "state_code": "DO",
+            "cities": [
+                {
+                    "id": 9783,
+                    "name": "Bassila",
+                    "latitude": "9.00814000",
+                    "longitude": "1.66540000"
+                },
+                {
+                    "id": 9789,
+                    "name": "Commune of Djougou",
+                    "latitude": "9.64300000",
+                    "longitude": "1.89600000"
+                },
+                {
+                    "id": 9795,
+                    "name": "Djougou",
+                    "latitude": "9.70853000",
+                    "longitude": "1.66598000"
+                }
+            ]
+        },
+        {
+            "id": 3071,
+            "name": "Kouffo Department",
+            "state_code": "KO",
+            "cities": [
+                {
+                    "id": 9794,
+                    "name": "Djakotomey",
+                    "latitude": "6.90000000",
+                    "longitude": "1.71667000"
+                },
+                {
+                    "id": 9796,
+                    "name": "Dogbo",
+                    "latitude": "6.79911000",
+                    "longitude": "1.78073000"
+                }
+            ]
+        },
+        {
+            "id": 3081,
+            "name": "Littoral Department",
+            "state_code": "LI",
+            "cities": [
+                {
+                    "id": 9791,
+                    "name": "Cotonou",
+                    "latitude": "6.36536000",
+                    "longitude": "2.41833000"
+                }
+            ]
+        },
+        {
+            "id": 3075,
+            "name": "Mono Department",
+            "state_code": "MO",
+            "cities": [
+                {
+                    "id": 9788,
+                    "name": "Commune of Athieme",
+                    "latitude": "6.56924000",
+                    "longitude": "1.70259000"
+                },
+                {
+                    "id": 9802,
+                    "name": "Lokossa",
+                    "latitude": "6.63869000",
+                    "longitude": "1.71674000"
+                }
+            ]
+        },
+        {
+            "id": 3080,
+            "name": "Ouémé Department",
+            "state_code": "OU",
+            "cities": [
+                {
+                    "id": 9809,
+                    "name": "Porto-Novo",
+                    "latitude": "6.49646000",
+                    "longitude": "2.60359000"
+                }
+            ]
+        },
+        {
+            "id": 3074,
+            "name": "Plateau Department",
+            "state_code": "PL",
+            "cities": [
+                {
+                    "id": 9801,
+                    "name": "Kétou",
+                    "latitude": "7.36332000",
+                    "longitude": "2.59978000"
+                },
+                {
+                    "id": 9808,
+                    "name": "Pobé",
+                    "latitude": "6.98008000",
+                    "longitude": "2.66490000"
+                },
+                {
+                    "id": 9810,
+                    "name": "Sakété",
+                    "latitude": "6.73618000",
+                    "longitude": "2.65866000"
+                }
+            ]
+        },
+        {
+            "id": 3073,
+            "name": "Zou Department",
+            "state_code": "ZO",
+            "cities": [
+                {
+                    "id": 9779,
+                    "name": "Abomey",
+                    "latitude": "7.18286000",
+                    "longitude": "1.99119000"
+                },
+                {
+                    "id": 9785,
+                    "name": "Bohicon",
+                    "latitude": "7.17826000",
+                    "longitude": "2.06670000"
+                },
+                {
+                    "id": 9787,
+                    "name": "Commune of Agbangnizoun",
+                    "latitude": "7.07600000",
+                    "longitude": "1.96100000"
+                },
+                {
+                    "id": 9792,
+                    "name": "Cové",
+                    "latitude": "7.22097000",
+                    "longitude": "2.34017000"
+                }
+            ]
+        }
+    ],
+    "government": "Republic",
+    "expectancy": 50.2,
+    "dish": null,
+    "symbol": null,
+    "density": 101.8539198,
+    "location": "Western Africa",
+    "religion": "Christianity",
+    "temperature": 27.55,
+    "continent": "Africa",
+    "independence": 1960,
+    "wiki": "http://en.wikipedia.org/wiki/benin"
+}

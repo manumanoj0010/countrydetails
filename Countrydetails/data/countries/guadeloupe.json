@@ -1,0 +1,47 @@
+{
+  "name": "Guadeloupe",
+  "altSpellings": ["GP", "Gwadloup"],
+  "area": null,
+  "borders": [],
+  "callingCodes": ["590"],
+  "capital": "Basse-Terre",
+  "capital_latlng": [16.000078, -61.733337],
+  "currencies": ["EUR"],
+  "demonym": "Guadeloupian",
+  "flag": "",
+  "geoJSON": {},
+  "ISO": {
+    "alpha2": "GP",
+    "alpha3": "GLP"
+  },
+  "languages": ["fr"],
+  "latlng": [16.25, -61.583333],
+  "nativeName": "Guadeloupe",
+  "population": 405739,
+"independence": null,
+"languages": [
+    "Creole French",
+    "French"
+],
+  "expectancy": 77,
+"tld": ".gp",
+"government": "Overseas Department of France",
+"dish": null,
+"continent": "North America",
+  "symbol": null,
+"density": 243.1,
+"location": "Caribbean",
+  "religion": "Christianity",
+"temperature": null,
+"states": [],
+  "timezones": null,
+  "tld": [".gp"],
+  "translations": {
+    "de": "Guadeloupe",
+    "es": "Guadalupe",
+    "fr": "Guadeloupe",
+    "ja": "グアドループ",
+    "it": "Guadeloupa"
+  },
+  "wiki": "http://en.wikipedia.org/wiki/guadeloupe"
+}

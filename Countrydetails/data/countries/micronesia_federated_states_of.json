@@ -1,0 +1,582 @@
+{
+    "name": "Federated States of Micronesia",
+    "altSpellings": [
+        "FM",
+        "Federated States of Micronesia"
+    ],
+    "area": 702,
+    "borders": [],
+    "callingCodes": [
+        "691"
+    ],
+    "capital": "Palikir",
+    "capital_latlng": [
+        6.920744,
+        158.162714
+    ],
+    "currencies": [
+        "USD"
+    ],
+    "demonym": "Micronesian",
+    "flag": "",
+    "geoJSON": {},
+    "ISO": {
+        "alpha2": "FM",
+        "alpha3": "FSM"
+    },
+    "languages": [
+        "Kosrean",
+        "Mortlock",
+        "Pohnpei",
+        "Trukese",
+        "Wolea",
+        "Yap"
+    ],
+    "latlng": [
+        6.91666666,
+        158.25
+    ],
+    "nativeName": "Micronesia",
+    "population": 101351,
+    "timezones": [
+        "UTC+10:00",
+        "UTC+11"
+    ],
+    "states": [
+        {
+            "id": 2580,
+            "name": "Chuuk State",
+            "state_code": "TRK",
+            "cities": [
+                {
+                    "id": 39155,
+                    "name": "Eot Municipality",
+                    "latitude": "7.38540000",
+                    "longitude": "151.73920000"
+                },
+                {
+                    "id": 39156,
+                    "name": "Ettal Municipality",
+                    "latitude": "5.59200000",
+                    "longitude": "153.56000000"
+                },
+                {
+                    "id": 39159,
+                    "name": "Fananu Municipality",
+                    "latitude": "8.55811000",
+                    "longitude": "151.90822000"
+                },
+                {
+                    "id": 39160,
+                    "name": "Fanapanges Municipality",
+                    "latitude": "7.35300000",
+                    "longitude": "151.66760000"
+                },
+                {
+                    "id": 39163,
+                    "name": "Fefen Municipality",
+                    "latitude": "7.35300000",
+                    "longitude": "151.83100000"
+                },
+                {
+                    "id": 39164,
+                    "name": "Fonoton Municipality",
+                    "latitude": "7.48600000",
+                    "longitude": "151.87940000"
+                },
+                {
+                    "id": 39167,
+                    "name": "Houk Municipality",
+                    "latitude": "6.68300000",
+                    "longitude": "149.30000000"
+                },
+                {
+                    "id": 39173,
+                    "name": "Kuttu Municipality",
+                    "latitude": "5.45300000",
+                    "longitude": "153.45600000"
+                },
+                {
+                    "id": 39175,
+                    "name": "Lekinioch Municipality",
+                    "latitude": "5.50700000",
+                    "longitude": "153.81900000"
+                },
+                {
+                    "id": 39177,
+                    "name": "Losap Municipality",
+                    "latitude": "6.89400000",
+                    "longitude": "152.73900000"
+                },
+                {
+                    "id": 39180,
+                    "name": "Makur Municipality",
+                    "latitude": "8.98500000",
+                    "longitude": "150.12600000"
+                },
+                {
+                    "id": 39182,
+                    "name": "Moch Municipality",
+                    "latitude": "5.49180000",
+                    "longitude": "153.53850000"
+                },
+                {
+                    "id": 39184,
+                    "name": "Murilo",
+                    "latitude": "8.69242000",
+                    "longitude": "152.33934000"
+                },
+                {
+                    "id": 39185,
+                    "name": "Murilo Municipality",
+                    "latitude": "8.69200000",
+                    "longitude": "152.34200000"
+                },
+                {
+                    "id": 39186,
+                    "name": "Namoluk Municipality",
+                    "latitude": "5.91500000",
+                    "longitude": "153.13600000"
+                },
+                {
+                    "id": 39187,
+                    "name": "Nema",
+                    "latitude": "6.98922000",
+                    "longitude": "152.57377000"
+                },
+                {
+                    "id": 39188,
+                    "name": "Nema Municipality",
+                    "latitude": "6.99300000",
+                    "longitude": "152.57400000"
+                },
+                {
+                    "id": 39192,
+                    "name": "Nomwin Municipality",
+                    "latitude": "8.43000000",
+                    "longitude": "151.74500000"
+                },
+                {
+                    "id": 39194,
+                    "name": "Oneop Municipality",
+                    "latitude": "5.50660000",
+                    "longitude": "153.70900000"
+                },
+                {
+                    "id": 39195,
+                    "name": "Onou Municipality",
+                    "latitude": "8.79900000",
+                    "longitude": "150.29000000"
+                },
+                {
+                    "id": 39196,
+                    "name": "Onoun Municipality",
+                    "latitude": "8.57500000",
+                    "longitude": "149.68550000"
+                },
+                {
+                    "id": 39197,
+                    "name": "Paata-Tupunion Municipality",
+                    "latitude": "7.37600000",
+                    "longitude": "151.58300000"
+                },
+                {
+                    "id": 39199,
+                    "name": "Parem Municipality",
+                    "latitude": "7.36200000",
+                    "longitude": "151.78900000"
+                },
+                {
+                    "id": 39200,
+                    "name": "Piherarh Municipality",
+                    "latitude": "8.56900000",
+                    "longitude": "150.41800000"
+                },
+                {
+                    "id": 39201,
+                    "name": "Piis-Emwar Municipality",
+                    "latitude": "6.83400000",
+                    "longitude": "152.70000000"
+                },
+                {
+                    "id": 39202,
+                    "name": "Piis-Panewu Municipality",
+                    "latitude": "7.67800000",
+                    "longitude": "151.76340000"
+                },
+                {
+                    "id": 39204,
+                    "name": "Pollap Municipality",
+                    "latitude": "7.63971000",
+                    "longitude": "149.43011000"
+                },
+                {
+                    "id": 39205,
+                    "name": "Polowat Municipality",
+                    "latitude": "7.35500000",
+                    "longitude": "149.18200000"
+                },
+                {
+                    "id": 39206,
+                    "name": "Pwene Municipality",
+                    "latitude": "7.33700000",
+                    "longitude": "151.58400000"
+                },
+                {
+                    "id": 39207,
+                    "name": "Ramanum Municipality",
+                    "latitude": "7.41350000",
+                    "longitude": "151.66460000"
+                },
+                {
+                    "id": 39210,
+                    "name": "Ruo Municipality",
+                    "latitude": "8.60900000",
+                    "longitude": "152.24400000"
+                },
+                {
+                    "id": 39213,
+                    "name": "Satowan Municipality",
+                    "latitude": "5.33400000",
+                    "longitude": "153.73650000"
+                },
+                {
+                    "id": 39214,
+                    "name": "Siis Municipality",
+                    "latitude": "7.29500000",
+                    "longitude": "151.82460000"
+                },
+                {
+                    "id": 39216,
+                    "name": "Ta Municipality",
+                    "latitude": "5.28420000",
+                    "longitude": "153.64650000"
+                },
+                {
+                    "id": 39218,
+                    "name": "Tamatam Municipality",
+                    "latitude": "7.53898000",
+                    "longitude": "149.41175000"
+                },
+                {
+                    "id": 39220,
+                    "name": "Tolensom Municipality",
+                    "latitude": "7.33300000",
+                    "longitude": "151.62300000"
+                },
+                {
+                    "id": 39222,
+                    "name": "Tonoas Municipality",
+                    "latitude": "7.38100000",
+                    "longitude": "151.89000000"
+                },
+                {
+                    "id": 39224,
+                    "name": "Udot-Fonuweisom Municipality",
+                    "latitude": "7.38900000",
+                    "longitude": "151.70800000"
+                },
+                {
+                    "id": 39226,
+                    "name": "Uman-Fonuweisom Municipality",
+                    "latitude": "7.29900000",
+                    "longitude": "151.87700000"
+                },
+                {
+                    "id": 39227,
+                    "name": "Unanu Municipality",
+                    "latitude": "8.75000000",
+                    "longitude": "150.33950000"
+                },
+                {
+                    "id": 39230,
+                    "name": "Weno",
+                    "latitude": "7.44648000",
+                    "longitude": "151.84135000"
+                },
+                {
+                    "id": 39231,
+                    "name": "Weno Municipality",
+                    "latitude": "7.44000000",
+                    "longitude": "151.88100000"
+                },
+                {
+                    "id": 39233,
+                    "name": "Wonei Municipality",
+                    "latitude": "7.38700000",
+                    "longitude": "151.60100000"
+                }
+            ]
+        },
+        {
+            "id": 2583,
+            "name": "Kosrae State",
+            "state_code": "KSA",
+            "cities": [
+                {
+                    "id": 39176,
+                    "name": "Lelu Municipality",
+                    "latitude": "5.34865000",
+                    "longitude": "163.01917000"
+                },
+                {
+                    "id": 39181,
+                    "name": "Malem Municipality",
+                    "latitude": "5.27507000",
+                    "longitude": "163.01685000"
+                },
+                {
+                    "id": 39217,
+                    "name": "Tafunsak Municipality",
+                    "latitude": "5.34993000",
+                    "longitude": "162.96965000"
+                },
+                {
+                    "id": 39219,
+                    "name": "Tofol",
+                    "latitude": "5.32479000",
+                    "longitude": "163.00781000"
+                },
+                {
+                    "id": 39228,
+                    "name": "Utwe Municipality",
+                    "latitude": "5.27511000",
+                    "longitude": "162.95617000"
+                }
+            ]
+        },
+        {
+            "id": 2581,
+            "name": "Pohnpei State",
+            "state_code": "PNI",
+            "cities": [
+                {
+                    "id": 39169,
+                    "name": "Kitti Municipality",
+                    "latitude": "6.82490000",
+                    "longitude": "158.16081000"
+                },
+                {
+                    "id": 39170,
+                    "name": "Kolonia",
+                    "latitude": "6.96400000",
+                    "longitude": "158.20620000"
+                },
+                {
+                    "id": 39171,
+                    "name": "Kolonia Municipality",
+                    "latitude": "6.96400000",
+                    "longitude": "158.20580000"
+                },
+                {
+                    "id": 39172,
+                    "name": "Kolonia Town",
+                    "latitude": "6.96400000",
+                    "longitude": "158.20600000"
+                },
+                {
+                    "id": 39179,
+                    "name": "Madolenihm Municipality",
+                    "latitude": "6.86759000",
+                    "longitude": "158.31277000"
+                },
+                {
+                    "id": 39183,
+                    "name": "Mokil Municipality",
+                    "latitude": "6.68916000",
+                    "longitude": "159.76610000"
+                },
+                {
+                    "id": 39189,
+                    "name": "Nett Municipality",
+                    "latitude": "6.95152000",
+                    "longitude": "158.22437000"
+                },
+                {
+                    "id": 39190,
+                    "name": "Ngatik",
+                    "latitude": "5.78849000",
+                    "longitude": "157.15954000"
+                },
+                {
+                    "id": 39193,
+                    "name": "Nukuoro Municipality",
+                    "latitude": "3.84100000",
+                    "longitude": "154.93000000"
+                },
+                {
+                    "id": 39198,
+                    "name": "Palikir - National Government Center",
+                    "latitude": "6.92477000",
+                    "longitude": "158.16109000"
+                },
+                {
+                    "id": 39203,
+                    "name": "Pingelap Municipality",
+                    "latitude": "6.20908000",
+                    "longitude": "160.71033000"
+                },
+                {
+                    "id": 39211,
+                    "name": "Sapwuahfik Municipality",
+                    "latitude": "5.81500000",
+                    "longitude": "157.28000000"
+                },
+                {
+                    "id": 39215,
+                    "name": "Sokehs Municipality",
+                    "latitude": "6.93273000",
+                    "longitude": "158.14270000"
+                },
+                {
+                    "id": 39223,
+                    "name": "U Municipality",
+                    "latitude": "6.94972000",
+                    "longitude": "158.27361000"
+                }
+            ]
+        },
+        {
+            "id": 2582,
+            "name": "Yap State",
+            "state_code": "YAP",
+            "cities": [
+                {
+                    "id": 39153,
+                    "name": "Colonia",
+                    "latitude": "9.51638000",
+                    "longitude": "138.12167000"
+                },
+                {
+                    "id": 39154,
+                    "name": "Dalipebinaw Municipality",
+                    "latitude": "9.52229000",
+                    "longitude": "138.08540000"
+                },
+                {
+                    "id": 39157,
+                    "name": "Fais",
+                    "latitude": "9.76600000",
+                    "longitude": "140.52000000"
+                },
+                {
+                    "id": 39158,
+                    "name": "Fais Municipality",
+                    "latitude": "9.76600000",
+                    "longitude": "140.51900000"
+                },
+                {
+                    "id": 39161,
+                    "name": "Fanif Municipality",
+                    "latitude": "9.56056000",
+                    "longitude": "138.11333000"
+                },
+                {
+                    "id": 39162,
+                    "name": "Faraulep Municipality",
+                    "latitude": "8.58800000",
+                    "longitude": "144.50650000"
+                },
+                {
+                    "id": 39165,
+                    "name": "Gagil Municipality",
+                    "latitude": "9.54722000",
+                    "longitude": "138.19028000"
+                },
+                {
+                    "id": 39166,
+                    "name": "Gilman Municipality",
+                    "latitude": "9.44611000",
+                    "longitude": "138.06389000"
+                },
+                {
+                    "id": 39168,
+                    "name": "Kanifay Municipality",
+                    "latitude": "9.46735000",
+                    "longitude": "138.05935000"
+                },
+                {
+                    "id": 39174,
+                    "name": "Lamotrek Municipality",
+                    "latitude": "7.49100000",
+                    "longitude": "146.30300000"
+                },
+                {
+                    "id": 39178,
+                    "name": "Maap Municipality",
+                    "latitude": "9.58975000",
+                    "longitude": "138.17119000"
+                },
+                {
+                    "id": 39191,
+                    "name": "Ngulu Municipality",
+                    "latitude": "8.45000000",
+                    "longitude": "137.48100000"
+                },
+                {
+                    "id": 39208,
+                    "name": "Rull Municipality",
+                    "latitude": "9.50773000",
+                    "longitude": "138.11540000"
+                },
+                {
+                    "id": 39209,
+                    "name": "Rumung Municipality",
+                    "latitude": "9.62428000",
+                    "longitude": "138.15745000"
+                },
+                {
+                    "id": 39212,
+                    "name": "Satawal Municipality",
+                    "latitude": "7.38200000",
+                    "longitude": "147.03180000"
+                },
+                {
+                    "id": 39221,
+                    "name": "Tomil Municipality",
+                    "latitude": "9.52517000",
+                    "longitude": "138.15488000"
+                },
+                {
+                    "id": 39225,
+                    "name": "Ulithi Municipality",
+                    "latitude": "9.90000000",
+                    "longitude": "139.60000000"
+                },
+                {
+                    "id": 39229,
+                    "name": "Weloy Municipality",
+                    "latitude": "9.52712000",
+                    "longitude": "138.11909000"
+                },
+                {
+                    "id": 39232,
+                    "name": "Woleai Municipality",
+                    "latitude": "7.34500000",
+                    "longitude": "143.85700000"
+                }
+            ]
+        }
+    ],
+    "tld": [
+        ".fm"
+    ],
+    "translations": {
+        "de": "Mikronesien",
+        "es": "Micronesia",
+        "fr": "Micronésie",
+        "ja": "ミクロネシア連邦",
+        "it": "Micronesia"
+    },
+    "expectancy": null,
+    "dish": null,
+    "symbol": null,
+    "density": 160.9142857,
+    "location": "Micronesia",
+    "religion": "Christianity",
+    "temperature": null,
+    "continent": "Oceania",
+    "government": "Federal Republic",
+    "independence": 1990,
+    "wiki": "http://en.wikipedia.org/wiki/micronesia_federated_states_of"
+}

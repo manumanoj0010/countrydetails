@@ -1,0 +1,244 @@
+{
+    "name": "Saint Kitts and Nevis",
+    "altSpellings": [
+        "KN",
+        "Federation of Saint Christopher and Nevis"
+    ],
+    "area": 261,
+    "borders": [],
+    "callingCodes": [
+        "1869"
+    ],
+    "capital": "Basseterre",
+    "capital_latlng": [
+        17.296092,
+        -62.722301
+    ],
+    "currencies": [
+        "XCD"
+    ],
+    "demonym": "Kittian and Nevisian",
+    "flag": "",
+    "geoJSON": {},
+    "ISO": {
+        "alpha2": "KN",
+        "alpha3": "KNA"
+    },
+    "states": [
+        {
+            "id": 3833,
+            "name": "Christ Church Nichola Town Parish",
+            "state_code": "01",
+            "cities": [
+                {
+                    "id": 65176,
+                    "name": "Nicola Town",
+                    "latitude": "17.37956000",
+                    "longitude": "-62.75318000"
+                }
+            ]
+        },
+        {
+            "id": 3832,
+            "name": "Nevis",
+            "state_code": "N",
+            "cities": []
+        },
+        {
+            "id": 3836,
+            "name": "Saint Anne Sandy Point Parish",
+            "state_code": "02",
+            "cities": [
+                {
+                    "id": 65178,
+                    "name": "Sandy Point Town",
+                    "latitude": "17.35908000",
+                    "longitude": "-62.84858000"
+                }
+            ]
+        },
+        {
+            "id": 3837,
+            "name": "Saint George Gingerland Parish",
+            "state_code": "04",
+            "cities": [
+                {
+                    "id": 65172,
+                    "name": "Market Shop",
+                    "latitude": "17.13218000",
+                    "longitude": "-62.57267000"
+                }
+            ]
+        },
+        {
+            "id": 3835,
+            "name": "Saint James Windward Parish",
+            "state_code": "05",
+            "cities": [
+                {
+                    "id": 65175,
+                    "name": "Newcastle",
+                    "latitude": "17.20000000",
+                    "longitude": "-62.58333000"
+                }
+            ]
+        },
+        {
+            "id": 3845,
+            "name": "Saint John Capisterre Parish",
+            "state_code": "06",
+            "cities": [
+                {
+                    "id": 65170,
+                    "name": "Dieppe Bay Town",
+                    "latitude": "17.41473000",
+                    "longitude": "-62.81390000"
+                }
+            ]
+        },
+        {
+            "id": 3840,
+            "name": "Saint John Figtree Parish",
+            "state_code": "07",
+            "cities": [
+                {
+                    "id": 65171,
+                    "name": "Fig Tree",
+                    "latitude": "17.12623000",
+                    "longitude": "-62.60265000"
+                }
+            ]
+        },
+        {
+            "id": 3841,
+            "name": "Saint Kitts",
+            "state_code": "K",
+            "cities": []
+        },
+        {
+            "id": 3844,
+            "name": "Saint Mary Cayon Parish",
+            "state_code": "08",
+            "cities": [
+                {
+                    "id": 65167,
+                    "name": "Cayon",
+                    "latitude": "17.35000000",
+                    "longitude": "-62.73333000"
+                }
+            ]
+        },
+        {
+            "id": 3834,
+            "name": "Saint Paul Capisterre Parish",
+            "state_code": "09",
+            "cities": [
+                {
+                    "id": 65177,
+                    "name": "Saint Paul’s",
+                    "latitude": "17.40605000",
+                    "longitude": "-62.83562000"
+                }
+            ]
+        },
+        {
+            "id": 3838,
+            "name": "Saint Paul Charlestown Parish",
+            "state_code": "10",
+            "cities": [
+                {
+                    "id": 65168,
+                    "name": "Charlestown",
+                    "latitude": "17.13333000",
+                    "longitude": "-62.61667000"
+                }
+            ]
+        },
+        {
+            "id": 3831,
+            "name": "Saint Peter Basseterre Parish",
+            "state_code": "11",
+            "cities": [
+                {
+                    "id": 65174,
+                    "name": "Monkey Hill",
+                    "latitude": "17.32327000",
+                    "longitude": "-62.72914000"
+                }
+            ]
+        },
+        {
+            "id": 3839,
+            "name": "Saint Thomas Lowland Parish",
+            "state_code": "12",
+            "cities": [
+                {
+                    "id": 65169,
+                    "name": "Cotton Ground",
+                    "latitude": "17.16667000",
+                    "longitude": "-62.61667000"
+                }
+            ]
+        },
+        {
+            "id": 3842,
+            "name": "Saint Thomas Middle Island Parish",
+            "state_code": "13",
+            "cities": [
+                {
+                    "id": 65173,
+                    "name": "Middle Island",
+                    "latitude": "17.32590000",
+                    "longitude": "-62.81055000"
+                }
+            ]
+        },
+        {
+            "id": 3843,
+            "name": "Trinity Palmetto Point Parish",
+            "state_code": "15",
+            "cities": [
+                {
+                    "id": 65179,
+                    "name": "Trinity",
+                    "latitude": "17.30037000",
+                    "longitude": "-62.77584000"
+                }
+            ]
+        }
+    ],
+    "languages": [
+        "Creole English",
+        "English"
+    ],
+    "latlng": [
+        17.33333333,
+        -62.75
+    ],
+    "nativeName": "Saint Kitts and Nevis",
+    "population": 55000,
+    "timezones": [
+        "UTC−04:00"
+    ],
+    "tld": [
+        ".kn"
+    ],
+    "translations": {
+        "de": "St. Kitts und Nevis",
+        "es": "San Cristóbal y Nieves",
+        "fr": "Saint-Christophe-et-Niévès",
+        "ja": "セントクリストファー・ネイビス",
+        "it": "Saint Kitts e Nevis"
+    },
+    "continent": "North America",
+    "government": "Constitutional Monarchy",
+    "independence": 1983,
+    "symbol": null,
+    "religion": "Christianity",
+    "density": 201.6961538,
+    "location": "Caribbean",
+    "dish": null,
+    "temperature": 24.5,
+    "expectancy": 70.7,
+    "wiki": "http://en.wikipedia.org/wiki/saint_kitts_and_nevis"
+}

@@ -1,0 +1,60 @@
+{
+    "name": "Cook Islands",
+    "altSpellings": [
+        "CK",
+        "Kūki 'Āirani"
+    ],
+    "area": 236,
+    "borders": [],
+    "callingCodes": [
+        "682"
+    ],
+    "capital": "Avarua",
+    "capital_latlng": [
+        -21.207474,
+        -159.770814
+    ],
+    "currencies": [
+        "NZD"
+    ],
+    "demonym": "Cook Islander",
+    "flag": "",
+    "geoJSON": {},
+    "ISO": {
+        "alpha2": "CK",
+        "alpha3": "COK"
+    },
+    "languages": [
+        "English",
+        "Maori"
+    ],
+    "latlng": [
+        -21.23333333,
+        -159.76666666
+    ],
+    "nativeName": "Cook Islands",
+    "population": 14974,
+    "timezones": null,
+    "tld": [
+        ".ck"
+    ],
+    "states": [],
+    "translations": {
+        "de": "Cookinseln",
+        "es": "Islas Cook",
+        "fr": "Îles Cook",
+        "ja": "クック諸島",
+        "it": "Isole Cook"
+    },
+    "expectancy": 71.1,
+    "dish": null,
+    "symbol": null,
+    "density": 73,
+    "location": "Polynesia",
+    "religion": "Christianity",
+    "temperature": null,
+    "continent": "Oceania",
+    "government": "Nonmetropolitan Territory of New Zealand",
+    "independence": null,
+    "wiki": "http://en.wikipedia.org/wiki/cook_islands"
+}

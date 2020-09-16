@@ -1,0 +1,276 @@
+{
+    "name": "Lesotho",
+    "altSpellings": [
+        "LS",
+        "Kingdom of Lesotho",
+        "Muso oa Lesotho"
+    ],
+    "area": 30355,
+    "borders": [
+        "ZAF"
+    ],
+    "callingCodes": [
+        "266"
+    ],
+    "capital": "Maseru",
+    "capital_latlng": [
+        -29.310054,
+        27.478222
+    ],
+    "currencies": [
+        "LSL",
+        "ZAR"
+    ],
+    "demonym": "Mosotho",
+    "flag": "",
+    "geoJSON": {
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "type": "Feature",
+                "id": "LSO",
+                "properties": {
+                    "name": "Lesotho"
+                },
+                "geometry": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                28.978263,
+                                -28.955597
+                            ],
+                            [
+                                29.325166,
+                                -29.257387
+                            ],
+                            [
+                                29.018415,
+                                -29.743766
+                            ],
+                            [
+                                28.8484,
+                                -30.070051
+                            ],
+                            [
+                                28.291069,
+                                -30.226217
+                            ],
+                            [
+                                28.107205,
+                                -30.545732
+                            ],
+                            [
+                                27.749397,
+                                -30.645106
+                            ],
+                            [
+                                26.999262,
+                                -29.875954
+                            ],
+                            [
+                                27.532511,
+                                -29.242711
+                            ],
+                            [
+                                28.074338,
+                                -28.851469
+                            ],
+                            [
+                                28.5417,
+                                -28.647502
+                            ],
+                            [
+                                28.978263,
+                                -28.955597
+                            ]
+                        ]
+                    ]
+                }
+            }
+        ]
+    },
+    "ISO": {
+        "alpha2": "LS",
+        "alpha3": "LSO"
+    },
+    "states": [
+        {
+            "id": 3030,
+            "name": "Berea District",
+            "state_code": "D",
+            "cities": [
+                {
+                    "id": 66574,
+                    "name": "Teyateyaneng",
+                    "latitude": "-29.14719000",
+                    "longitude": "27.74895000"
+                }
+            ]
+        },
+        {
+            "id": 3029,
+            "name": "Butha-Buthe District",
+            "state_code": "B",
+            "cities": [
+                {
+                    "id": 66564,
+                    "name": "Butha-Buthe",
+                    "latitude": "-28.76659000",
+                    "longitude": "28.24937000"
+                }
+            ]
+        },
+        {
+            "id": 3026,
+            "name": "Leribe District",
+            "state_code": "C",
+            "cities": [
+                {
+                    "id": 66565,
+                    "name": "Leribe",
+                    "latitude": "-28.87185000",
+                    "longitude": "28.04501000"
+                },
+                {
+                    "id": 66567,
+                    "name": "Maputsoe",
+                    "latitude": "-28.88660000",
+                    "longitude": "27.89915000"
+                }
+            ]
+        },
+        {
+            "id": 3022,
+            "name": "Mafeteng District",
+            "state_code": "E",
+            "cities": [
+                {
+                    "id": 66566,
+                    "name": "Mafeteng",
+                    "latitude": "-29.82299000",
+                    "longitude": "27.23744000"
+                }
+            ]
+        },
+        {
+            "id": 3028,
+            "name": "Maseru District",
+            "state_code": "A",
+            "cities": [
+                {
+                    "id": 66568,
+                    "name": "Maseru",
+                    "latitude": "-29.31667000",
+                    "longitude": "27.48333000"
+                },
+                {
+                    "id": 66571,
+                    "name": "Nako",
+                    "latitude": "-29.61667000",
+                    "longitude": "27.76667000"
+                }
+            ]
+        },
+        {
+            "id": 3023,
+            "name": "Mohale's Hoek District",
+            "state_code": "F",
+            "cities": [
+                {
+                    "id": 66569,
+                    "name": "Mohale’s Hoek",
+                    "latitude": "-30.15137000",
+                    "longitude": "27.47691000"
+                }
+            ]
+        },
+        {
+            "id": 3024,
+            "name": "Mokhotlong District",
+            "state_code": "J",
+            "cities": [
+                {
+                    "id": 66570,
+                    "name": "Mokhotlong",
+                    "latitude": "-29.28939000",
+                    "longitude": "29.06751000"
+                }
+            ]
+        },
+        {
+            "id": 3025,
+            "name": "Qacha's Nek District",
+            "state_code": "H",
+            "cities": [
+                {
+                    "id": 66572,
+                    "name": "Qacha’s Nek",
+                    "latitude": "-30.11537000",
+                    "longitude": "28.68936000"
+                }
+            ]
+        },
+        {
+            "id": 3027,
+            "name": "Quthing District",
+            "state_code": "G",
+            "cities": [
+                {
+                    "id": 66573,
+                    "name": "Quthing",
+                    "latitude": "-30.40001000",
+                    "longitude": "27.70027000"
+                }
+            ]
+        },
+        {
+            "id": 3031,
+            "name": "Thaba-Tseka District",
+            "state_code": "K",
+            "cities": [
+                {
+                    "id": 66575,
+                    "name": "Thaba-Tseka",
+                    "latitude": "-29.52204000",
+                    "longitude": "28.60840000"
+                }
+            ]
+        }
+    ],
+    "languages": [
+        "English",
+        "Sotho",
+        "Zulu"
+    ],
+    "latlng": [
+        -29.5,
+        28.5
+    ],
+    "nativeName": "Lesotho",
+    "population": 2098000,
+    "timezones": [
+        "UTC+02:00"
+    ],
+    "tld": [
+        ".ls"
+    ],
+    "translations": {
+        "de": "Lesotho",
+        "es": "Lesotho",
+        "fr": "Lesotho",
+        "ja": "レソト",
+        "it": "Lesotho"
+    },
+    "continent": "Africa",
+    "government": "Constitutional Monarchy",
+    "independence": 1966,
+    "expectancy": 50.8,
+    "dish": null,
+    "density": 69.43781291,
+    "location": "Southern Africa",
+    "symbol": null,
+    "religion": "Christianity",
+    "temperature": 11.85,
+    "wiki": "http://en.wikipedia.org/wiki/lesotho"
+}

@@ -1,0 +1,69 @@
+{
+    "name": "American Samoa",
+    "altSpellings": [
+        "AS",
+        "Amerika Sāmoa",
+        "Amelika Sāmoa",
+        "Sāmoa Amelika"
+    ],
+    "area": 199,
+    "borders": [],
+    "callingCodes": [
+        "1684"
+    ],
+    "capital": "Pago Pago",
+    "capital_latlng": [
+        -14.275479,
+        -170.70483
+    ],
+    "currencies": [
+        "USD"
+    ],
+    "demonym": "American Samoan",
+    "flag": "",
+    "geoJSON": {},
+    "ISO": {
+        "alpha2": "AS",
+        "alpha3": "ASM"
+    },
+    "languages": [
+        "English",
+        "Samoan",
+        "Tongan"
+    ],
+    "latlng": [
+        -14.33333333,
+        -170
+    ],
+    "nativeName": "American Samoa",
+    "population": 55519,
+    "states": [
+        "Eastern",
+        "Manu'a",
+        "Rose Island",
+        "Swains Island",
+        "Western"
+    ],
+    "timezones": null,
+    "tld": [
+        ".as"
+    ],
+    "translations": {
+        "de": "Amerikanisch-Samoa",
+        "es": "Samoa Americana",
+        "fr": "Samoa américaines",
+        "ja": "アメリカ領サモア",
+        "it": "Samoa Americane"
+    },
+    "government": "US Territory",
+    "continent": "Oceania",
+    "temperature": null,
+    "religion": "Christianity",
+    "location": "Polynesia",
+    "density": 277.325,
+    "symbol": null,
+    "dish": null,
+    "expectancy": 75.1,
+    "independence": null,
+    "wiki": "http://en.wikipedia.org/wiki/american_samoa"
+}

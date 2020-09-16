@@ -1,0 +1,60 @@
+{
+    "name": "Anguilla",
+    "altSpellings": [
+        "AI"
+    ],
+    "area": 91,
+    "borders": [],
+    "callingCodes": [
+        "1264"
+    ],
+    "capital": "The Valley",
+    "capital_latlng": [
+        41.559572,
+        -98.980548
+    ],
+    "currencies": [
+        "XCD"
+    ],
+    "demonym": "Anguillian",
+    "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Anguilla.svg",
+    "geoJSON": {},
+    "ISO": {
+        "alpha2": "AI",
+        "alpha3": "AIA"
+    },
+    "languages": [
+        "English"
+    ],
+    "latlng": [
+        18.25,
+        -63.16666666
+    ],
+    "nativeName": "Anguilla",
+    "population": 13452,
+    "states": [
+        "Anguilla"
+    ],
+    "timezones": null,
+    "tld": [
+        ".ai"
+    ],
+    "translations": {
+        "de": "Anguilla",
+        "es": "Anguilla",
+        "fr": "Anguilla",
+        "ja": "アンギラ",
+        "it": "Anguilla"
+    },
+    "government": "Dependent Territory of the UK",
+    "continent": "North America",
+    "independence": null,
+    "expectancy": 76.1,
+    "dish": null,
+    "temperature": null,
+    "symbol": null,
+    "density": 167,
+    "location": "Caribbean",
+    "religion": "Christianity",
+    "wiki": "http://en.wikipedia.org/wiki/anguilla"
+}

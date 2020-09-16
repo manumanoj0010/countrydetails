@@ -1,0 +1,1478 @@
+{
+    "name": "Lithuania",
+    "altSpellings": [
+        "LT",
+        "Republic of Lithuania",
+        "Lietuvos Respublika"
+    ],
+    "area": 65300,
+    "borders": [
+        "BLR",
+        "LVA",
+        "POL",
+        "RUS"
+    ],
+    "callingCodes": [
+        "370"
+    ],
+    "capital": "Vilnius",
+    "capital_latlng": [
+        54.687046,
+        25.282911
+    ],
+    "currencies": [
+        "EUR"
+    ],
+    "demonym": "Lithuanian",
+    "flag": "",
+    "geoJSON": {
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "type": "Feature",
+                "id": "LTU",
+                "properties": {
+                    "name": "Lithuania"
+                },
+                "geometry": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                22.731099,
+                                54.327537
+                            ],
+                            [
+                                22.651052,
+                                54.582741
+                            ],
+                            [
+                                22.757764,
+                                54.856574
+                            ],
+                            [
+                                22.315724,
+                                55.015299
+                            ],
+                            [
+                                21.268449,
+                                55.190482
+                            ],
+                            [
+                                21.0558,
+                                56.031076
+                            ],
+                            [
+                                22.201157,
+                                56.337802
+                            ],
+                            [
+                                23.878264,
+                                56.273671
+                            ],
+                            [
+                                24.860684,
+                                56.372528
+                            ],
+                            [
+                                25.000934,
+                                56.164531
+                            ],
+                            [
+                                25.533047,
+                                56.100297
+                            ],
+                            [
+                                26.494331,
+                                55.615107
+                            ],
+                            [
+                                26.588279,
+                                55.167176
+                            ],
+                            [
+                                25.768433,
+                                54.846963
+                            ],
+                            [
+                                25.536354,
+                                54.282423
+                            ],
+                            [
+                                24.450684,
+                                53.905702
+                            ],
+                            [
+                                23.484128,
+                                53.912498
+                            ],
+                            [
+                                23.243987,
+                                54.220567
+                            ],
+                            [
+                                22.731099,
+                                54.327537
+                            ]
+                        ]
+                    ]
+                }
+            }
+        ]
+    },
+    "ISO": {
+        "alpha2": "LT",
+        "alpha3": "LTU"
+    },
+    "states": [
+        {
+            "id": 1561,
+            "name": "Akmenė District Municipality",
+            "state_code": "01",
+            "cities": []
+        },
+        {
+            "id": 1605,
+            "name": "Alytus City Municipality",
+            "state_code": "02",
+            "cities": [
+                {
+                    "id": 66580,
+                    "name": "Alytaus rajonas",
+                    "latitude": "54.40000000",
+                    "longitude": "24.05000000"
+                },
+                {
+                    "id": 66581,
+                    "name": "Alytus",
+                    "latitude": "54.39635000",
+                    "longitude": "24.04142000"
+                },
+                {
+                    "id": 66592,
+                    "name": "Daugai",
+                    "latitude": "54.36667000",
+                    "longitude": "24.33333000"
+                },
+                {
+                    "id": 66593,
+                    "name": "Druskininkai",
+                    "latitude": "54.01573000",
+                    "longitude": "23.98703000"
+                },
+                {
+                    "id": 66630,
+                    "name": "Lazdijai",
+                    "latitude": "54.23333000",
+                    "longitude": "23.51667000"
+                },
+                {
+                    "id": 66678,
+                    "name": "Simnas",
+                    "latitude": "54.38200000",
+                    "longitude": "23.64600000"
+                },
+                {
+                    "id": 66694,
+                    "name": "Varėna",
+                    "latitude": "54.21667000",
+                    "longitude": "24.56667000"
+                },
+                {
+                    "id": 66695,
+                    "name": "Veisiejai",
+                    "latitude": "54.10110000",
+                    "longitude": "23.69614000"
+                }
+            ]
+        },
+        {
+            "id": 1574,
+            "name": "Alytus County",
+            "state_code": "AL",
+            "cities": []
+        },
+        {
+            "id": 1599,
+            "name": "Alytus District Municipality",
+            "state_code": "03",
+            "cities": []
+        },
+        {
+            "id": 1603,
+            "name": "Birštonas Municipality",
+            "state_code": "05",
+            "cities": []
+        },
+        {
+            "id": 1566,
+            "name": "Biržai District Municipality",
+            "state_code": "06",
+            "cities": []
+        },
+        {
+            "id": 1579,
+            "name": "Druskininkai municipality",
+            "state_code": "07",
+            "cities": []
+        },
+        {
+            "id": 1559,
+            "name": "Elektrėnai municipality",
+            "state_code": "08",
+            "cities": []
+        },
+        {
+            "id": 1562,
+            "name": "Ignalina District Municipality",
+            "state_code": "09",
+            "cities": []
+        },
+        {
+            "id": 1567,
+            "name": "Jonava District Municipality",
+            "state_code": "10",
+            "cities": []
+        },
+        {
+            "id": 1581,
+            "name": "Joniškis District Municipality",
+            "state_code": "11",
+            "cities": []
+        },
+        {
+            "id": 1555,
+            "name": "Jurbarkas District Municipality",
+            "state_code": "12",
+            "cities": []
+        },
+        {
+            "id": 1583,
+            "name": "Kaišiadorys District Municipality",
+            "state_code": "13",
+            "cities": []
+        },
+        {
+            "id": 1591,
+            "name": "Kalvarija municipality",
+            "state_code": "14",
+            "cities": []
+        },
+        {
+            "id": 1580,
+            "name": "Kaunas City Municipality",
+            "state_code": "15",
+            "cities": [
+                {
+                    "id": 66576,
+                    "name": "Akademija (Kaunas)",
+                    "latitude": "54.89640000",
+                    "longitude": "23.82411000"
+                },
+                {
+                    "id": 66579,
+                    "name": "Aleksotas",
+                    "latitude": "54.88037000",
+                    "longitude": "23.90842000"
+                },
+                {
+                    "id": 66584,
+                    "name": "Ariogala",
+                    "latitude": "55.26200000",
+                    "longitude": "23.47700000"
+                },
+                {
+                    "id": 66588,
+                    "name": "Birštonas",
+                    "latitude": "54.61667000",
+                    "longitude": "24.03333000"
+                },
+                {
+                    "id": 66591,
+                    "name": "Dainava (Kaunas)",
+                    "latitude": "54.91525000",
+                    "longitude": "23.96831000"
+                },
+                {
+                    "id": 66595,
+                    "name": "Eiguliai",
+                    "latitude": "54.93133000",
+                    "longitude": "23.93243000"
+                },
+                {
+                    "id": 66598,
+                    "name": "Ežerėlis",
+                    "latitude": "54.88315000",
+                    "longitude": "23.60396000"
+                },
+                {
+                    "id": 66601,
+                    "name": "Garliava",
+                    "latitude": "54.82139000",
+                    "longitude": "23.87130000"
+                },
+                {
+                    "id": 66605,
+                    "name": "Jieznas",
+                    "latitude": "54.59937000",
+                    "longitude": "24.17593000"
+                },
+                {
+                    "id": 66606,
+                    "name": "Jonava",
+                    "latitude": "55.08333000",
+                    "longitude": "24.28333000"
+                },
+                {
+                    "id": 66611,
+                    "name": "Kaišiadorys",
+                    "latitude": "54.86667000",
+                    "longitude": "24.45000000"
+                },
+                {
+                    "id": 66614,
+                    "name": "Karmėlava",
+                    "latitude": "54.97055000",
+                    "longitude": "24.06182000"
+                },
+                {
+                    "id": 66615,
+                    "name": "Kaunas",
+                    "latitude": "54.90272000",
+                    "longitude": "23.90961000"
+                },
+                {
+                    "id": 66616,
+                    "name": "Kauno rajonas",
+                    "latitude": "54.92410000",
+                    "longitude": "23.96145000"
+                },
+                {
+                    "id": 66629,
+                    "name": "Kėdainiai",
+                    "latitude": "55.28333000",
+                    "longitude": "23.96667000"
+                },
+                {
+                    "id": 66624,
+                    "name": "Kulautuva",
+                    "latitude": "54.94212000",
+                    "longitude": "23.64218000"
+                },
+                {
+                    "id": 66636,
+                    "name": "Mastaiciai",
+                    "latitude": "54.81998000",
+                    "longitude": "23.84462000"
+                },
+                {
+                    "id": 66661,
+                    "name": "Prienai",
+                    "latitude": "54.63333000",
+                    "longitude": "23.95000000"
+                },
+                {
+                    "id": 66664,
+                    "name": "Ramučiai",
+                    "latitude": "54.94830000",
+                    "longitude": "24.03050000"
+                },
+                {
+                    "id": 66666,
+                    "name": "Raseiniai",
+                    "latitude": "55.36667000",
+                    "longitude": "23.11667000"
+                },
+                {
+                    "id": 66674,
+                    "name": "Sargėnai",
+                    "latitude": "54.94933000",
+                    "longitude": "23.88316000"
+                },
+                {
+                    "id": 66714,
+                    "name": "Šilainiai",
+                    "latitude": "54.92911000",
+                    "longitude": "23.88599000"
+                },
+                {
+                    "id": 66701,
+                    "name": "Vilkija",
+                    "latitude": "55.04609000",
+                    "longitude": "23.58552000"
+                },
+                {
+                    "id": 66723,
+                    "name": "Žiežmariai",
+                    "latitude": "54.80725000",
+                    "longitude": "24.44073000"
+                }
+            ]
+        },
+        {
+            "id": 1556,
+            "name": "Kaunas County",
+            "state_code": "KU",
+            "cities": []
+        },
+        {
+            "id": 1565,
+            "name": "Kaunas District Municipality",
+            "state_code": "16",
+            "cities": []
+        },
+        {
+            "id": 1575,
+            "name": "Kazlų Rūda municipality",
+            "state_code": "17",
+            "cities": []
+        },
+        {
+            "id": 1584,
+            "name": "Kėdainiai District Municipality",
+            "state_code": "18",
+            "cities": []
+        },
+        {
+            "id": 1618,
+            "name": "Kelmė District Municipality",
+            "state_code": "19",
+            "cities": []
+        },
+        {
+            "id": 1597,
+            "name": "Klaipeda City Municipality",
+            "state_code": "20",
+            "cities": []
+        },
+        {
+            "id": 1600,
+            "name": "Klaipėda County",
+            "state_code": "KL",
+            "cities": []
+        },
+        {
+            "id": 1604,
+            "name": "Klaipėda District Municipality",
+            "state_code": "21",
+            "cities": [
+                {
+                    "id": 66600,
+                    "name": "Gargždai",
+                    "latitude": "55.70951000",
+                    "longitude": "21.39441000"
+                },
+                {
+                    "id": 66620,
+                    "name": "Klaipėda",
+                    "latitude": "55.71667000",
+                    "longitude": "21.11667000"
+                },
+                {
+                    "id": 66621,
+                    "name": "Klaipėdos rajonas",
+                    "latitude": "55.71667000",
+                    "longitude": "21.40000000"
+                },
+                {
+                    "id": 66622,
+                    "name": "Kretinga",
+                    "latitude": "55.88880000",
+                    "longitude": "21.24448000"
+                },
+                {
+                    "id": 66644,
+                    "name": "Neringa",
+                    "latitude": "55.36667000",
+                    "longitude": "21.06667000"
+                },
+                {
+                    "id": 66645,
+                    "name": "Nida",
+                    "latitude": "55.30860000",
+                    "longitude": "20.99651000"
+                },
+                {
+                    "id": 66650,
+                    "name": "Palanga",
+                    "latitude": "55.91750000",
+                    "longitude": "21.06861000"
+                },
+                {
+                    "id": 66660,
+                    "name": "Priekulė",
+                    "latitude": "55.55427000",
+                    "longitude": "21.31903000"
+                },
+                {
+                    "id": 66670,
+                    "name": "Rusnė",
+                    "latitude": "55.29820000",
+                    "longitude": "21.37120000"
+                },
+                {
+                    "id": 66673,
+                    "name": "Salantai",
+                    "latitude": "56.05650000",
+                    "longitude": "21.56890000"
+                },
+                {
+                    "id": 66677,
+                    "name": "Silute",
+                    "latitude": "55.34889000",
+                    "longitude": "21.48306000"
+                },
+                {
+                    "id": 66716,
+                    "name": "Šilutė",
+                    "latitude": "55.35000000",
+                    "longitude": "21.48333000"
+                },
+                {
+                    "id": 66681,
+                    "name": "Skuodas",
+                    "latitude": "56.26667000",
+                    "longitude": "21.53333000"
+                },
+                {
+                    "id": 66718,
+                    "name": "Šventoji",
+                    "latitude": "56.02610000",
+                    "longitude": "21.08411000"
+                },
+                {
+                    "id": 66722,
+                    "name": "Žemaičių Naumiestis",
+                    "latitude": "55.35941000",
+                    "longitude": "21.70364000"
+                }
+            ]
+        },
+        {
+            "id": 1571,
+            "name": "Kretinga District Municipality",
+            "state_code": "22",
+            "cities": []
+        },
+        {
+            "id": 1585,
+            "name": "Kupiškis District Municipality",
+            "state_code": "23",
+            "cities": []
+        },
+        {
+            "id": 1611,
+            "name": "Lazdijai District Municipality",
+            "state_code": "24",
+            "cities": []
+        },
+        {
+            "id": 1570,
+            "name": "Marijampolė County",
+            "state_code": "MR",
+            "cities": []
+        },
+        {
+            "id": 1610,
+            "name": "Marijampolė Municipality",
+            "state_code": "25",
+            "cities": [
+                {
+                    "id": 66602,
+                    "name": "Gelgaudiškis",
+                    "latitude": "55.07688000",
+                    "longitude": "22.97699000"
+                },
+                {
+                    "id": 66612,
+                    "name": "Kalvarija",
+                    "latitude": "54.41700000",
+                    "longitude": "23.22300000"
+                },
+                {
+                    "id": 66613,
+                    "name": "Kalvarija Municipality",
+                    "latitude": "54.41468000",
+                    "longitude": "23.22484000"
+                },
+                {
+                    "id": 66617,
+                    "name": "Kazlų Rūda",
+                    "latitude": "54.74900000",
+                    "longitude": "23.49000000"
+                },
+                {
+                    "id": 66618,
+                    "name": "Kazlų Rūda Municipality",
+                    "latitude": "54.74751000",
+                    "longitude": "23.49272000"
+                },
+                {
+                    "id": 66623,
+                    "name": "Kudirkos Naumiestis",
+                    "latitude": "54.77353000",
+                    "longitude": "22.86138000"
+                },
+                {
+                    "id": 66628,
+                    "name": "Kybartai",
+                    "latitude": "54.63858000",
+                    "longitude": "22.76316000"
+                },
+                {
+                    "id": 66634,
+                    "name": "Marijampolė",
+                    "latitude": "54.55991000",
+                    "longitude": "23.35412000"
+                },
+                {
+                    "id": 66635,
+                    "name": "Marijampolė Municipality",
+                    "latitude": "54.56667000",
+                    "longitude": "23.35000000"
+                },
+                {
+                    "id": 66672,
+                    "name": "Sakiai",
+                    "latitude": "54.95000000",
+                    "longitude": "23.05000000"
+                },
+                {
+                    "id": 66708,
+                    "name": "Šakiai",
+                    "latitude": "54.95339000",
+                    "longitude": "23.04779000"
+                },
+                {
+                    "id": 66699,
+                    "name": "Vilkaviskis",
+                    "latitude": "54.65167000",
+                    "longitude": "23.03222000"
+                },
+                {
+                    "id": 66700,
+                    "name": "Vilkaviškis District Municipality",
+                    "latitude": "54.65000000",
+                    "longitude": "23.03333000"
+                },
+                {
+                    "id": 66705,
+                    "name": "Virbalis",
+                    "latitude": "54.62858000",
+                    "longitude": "22.82272000"
+                }
+            ]
+        },
+        {
+            "id": 1557,
+            "name": "Mažeikiai District Municipality",
+            "state_code": "26",
+            "cities": []
+        },
+        {
+            "id": 1582,
+            "name": "Molėtai District Municipality",
+            "state_code": "27",
+            "cities": []
+        },
+        {
+            "id": 1563,
+            "name": "Neringa Municipality",
+            "state_code": "28",
+            "cities": []
+        },
+        {
+            "id": 1612,
+            "name": "Pagėgiai municipality",
+            "state_code": "29",
+            "cities": []
+        },
+        {
+            "id": 1595,
+            "name": "Pakruojis District Municipality",
+            "state_code": "30",
+            "cities": []
+        },
+        {
+            "id": 1588,
+            "name": "Palanga City Municipality",
+            "state_code": "31",
+            "cities": []
+        },
+        {
+            "id": 1589,
+            "name": "Panevėžys City Municipality",
+            "state_code": "32",
+            "cities": []
+        },
+        {
+            "id": 1558,
+            "name": "Panevėžys County",
+            "state_code": "PN",
+            "cities": []
+        },
+        {
+            "id": 1614,
+            "name": "Panevėžys District Municipality",
+            "state_code": "33",
+            "cities": [
+                {
+                    "id": 66587,
+                    "name": "Birzai",
+                    "latitude": "56.20000000",
+                    "longitude": "24.75000000"
+                },
+                {
+                    "id": 66589,
+                    "name": "Biržai",
+                    "latitude": "56.20000000",
+                    "longitude": "24.75000000"
+                },
+                {
+                    "id": 66608,
+                    "name": "Juodupė",
+                    "latitude": "56.08700000",
+                    "longitude": "25.60700000"
+                },
+                {
+                    "id": 66625,
+                    "name": "Kupiskis",
+                    "latitude": "55.84027000",
+                    "longitude": "24.97976000"
+                },
+                {
+                    "id": 66626,
+                    "name": "Kupiškis",
+                    "latitude": "55.83333000",
+                    "longitude": "24.96667000"
+                },
+                {
+                    "id": 66646,
+                    "name": "Obeliai",
+                    "latitude": "55.96895000",
+                    "longitude": "25.15648000"
+                },
+                {
+                    "id": 66651,
+                    "name": "Panevėžys",
+                    "latitude": "55.73333000",
+                    "longitude": "24.35000000"
+                },
+                {
+                    "id": 66652,
+                    "name": "Panevėžys City",
+                    "latitude": "55.73600000",
+                    "longitude": "24.34347000"
+                },
+                {
+                    "id": 66653,
+                    "name": "Panevėžys District Municipality",
+                    "latitude": "55.73301000",
+                    "longitude": "24.37609000"
+                },
+                {
+                    "id": 66654,
+                    "name": "Pasvalys",
+                    "latitude": "56.06667000",
+                    "longitude": "24.40000000"
+                },
+                {
+                    "id": 66665,
+                    "name": "Ramygala",
+                    "latitude": "55.51400000",
+                    "longitude": "24.30000000"
+                },
+                {
+                    "id": 66669,
+                    "name": "Rokiškis",
+                    "latitude": "55.96667000",
+                    "longitude": "25.58333000"
+                },
+                {
+                    "id": 66692,
+                    "name": "Vabalninkas",
+                    "latitude": "55.98151000",
+                    "longitude": "24.74828000"
+                }
+            ]
+        },
+        {
+            "id": 1616,
+            "name": "Pasvalys District Municipality",
+            "state_code": "34",
+            "cities": []
+        },
+        {
+            "id": 1553,
+            "name": "Plungė District Municipality",
+            "state_code": "35",
+            "cities": []
+        },
+        {
+            "id": 1578,
+            "name": "Prienai District Municipality",
+            "state_code": "36",
+            "cities": []
+        },
+        {
+            "id": 1568,
+            "name": "Radviliškis District Municipality",
+            "state_code": "37",
+            "cities": []
+        },
+        {
+            "id": 1587,
+            "name": "Raseiniai District Municipality",
+            "state_code": "38",
+            "cities": []
+        },
+        {
+            "id": 1590,
+            "name": "Rietavas municipality",
+            "state_code": "39",
+            "cities": []
+        },
+        {
+            "id": 1615,
+            "name": "Rokiškis District Municipality",
+            "state_code": "40",
+            "cities": []
+        },
+        {
+            "id": 1576,
+            "name": "Šakiai District Municipality",
+            "state_code": "41",
+            "cities": []
+        },
+        {
+            "id": 1577,
+            "name": "Šalčininkai District Municipality",
+            "state_code": "42",
+            "cities": []
+        },
+        {
+            "id": 1609,
+            "name": "Šiauliai City Municipality",
+            "state_code": "43",
+            "cities": [
+                {
+                    "id": 66577,
+                    "name": "Akmenė",
+                    "latitude": "56.25000000",
+                    "longitude": "22.75000000"
+                },
+                {
+                    "id": 66578,
+                    "name": "Akmenės Rajonas",
+                    "latitude": "56.31667000",
+                    "longitude": "22.90000000"
+                },
+                {
+                    "id": 66607,
+                    "name": "Joniškis",
+                    "latitude": "56.23333000",
+                    "longitude": "23.61667000"
+                },
+                {
+                    "id": 66619,
+                    "name": "Kelmė",
+                    "latitude": "55.63333000",
+                    "longitude": "22.93333000"
+                },
+                {
+                    "id": 66627,
+                    "name": "Kuršėnai",
+                    "latitude": "56.00318000",
+                    "longitude": "22.93662000"
+                },
+                {
+                    "id": 66633,
+                    "name": "Linkuva",
+                    "latitude": "56.08596000",
+                    "longitude": "23.97061000"
+                },
+                {
+                    "id": 66642,
+                    "name": "Naujoji Akmene",
+                    "latitude": "56.31667000",
+                    "longitude": "22.90000000"
+                },
+                {
+                    "id": 66649,
+                    "name": "Pakruojis",
+                    "latitude": "55.96667000",
+                    "longitude": "23.86667000"
+                },
+                {
+                    "id": 66662,
+                    "name": "Radviliskis",
+                    "latitude": "55.81667000",
+                    "longitude": "23.53333000"
+                },
+                {
+                    "id": 66663,
+                    "name": "Radviliškis",
+                    "latitude": "55.81667000",
+                    "longitude": "23.53333000"
+                },
+                {
+                    "id": 66710,
+                    "name": "Šeduva",
+                    "latitude": "55.74930000",
+                    "longitude": "23.75610000"
+                },
+                {
+                    "id": 66712,
+                    "name": "Šiauliai",
+                    "latitude": "55.93333000",
+                    "longitude": "23.31667000"
+                },
+                {
+                    "id": 66713,
+                    "name": "Šiaulių rajonas",
+                    "latitude": "55.93333000",
+                    "longitude": "23.31667000"
+                },
+                {
+                    "id": 66688,
+                    "name": "Tytuvėnėliai",
+                    "latitude": "55.62345000",
+                    "longitude": "23.17162000"
+                },
+                {
+                    "id": 66696,
+                    "name": "Venta",
+                    "latitude": "56.19162000",
+                    "longitude": "22.69528000"
+                },
+                {
+                    "id": 66721,
+                    "name": "Žagarė",
+                    "latitude": "56.36149000",
+                    "longitude": "23.25094000"
+                }
+            ]
+        },
+        {
+            "id": 1586,
+            "name": "Šiauliai County",
+            "state_code": "SA",
+            "cities": []
+        },
+        {
+            "id": 1554,
+            "name": "Šiauliai District Municipality",
+            "state_code": "44",
+            "cities": []
+        },
+        {
+            "id": 1613,
+            "name": "Šilalė District Municipality",
+            "state_code": "45",
+            "cities": []
+        },
+        {
+            "id": 1607,
+            "name": "Šilutė District Municipality",
+            "state_code": "46",
+            "cities": []
+        },
+        {
+            "id": 1594,
+            "name": "Širvintos District Municipality",
+            "state_code": "47",
+            "cities": []
+        },
+        {
+            "id": 1617,
+            "name": "Skuodas District Municipality",
+            "state_code": "48",
+            "cities": []
+        },
+        {
+            "id": 1560,
+            "name": "Švenčionys District Municipality",
+            "state_code": "49",
+            "cities": []
+        },
+        {
+            "id": 1573,
+            "name": "Tauragė County",
+            "state_code": "TA",
+            "cities": [
+                {
+                    "id": 66590,
+                    "name": "Būgai",
+                    "latitude": "55.41387000",
+                    "longitude": "22.60894000"
+                },
+                {
+                    "id": 66609,
+                    "name": "Jurbarkas",
+                    "latitude": "55.10859000",
+                    "longitude": "22.79885000"
+                },
+                {
+                    "id": 66648,
+                    "name": "Pagėgiai",
+                    "latitude": "55.13400000",
+                    "longitude": "21.90446000"
+                },
+                {
+                    "id": 66715,
+                    "name": "Šilalė",
+                    "latitude": "55.46667000",
+                    "longitude": "22.20000000"
+                },
+                {
+                    "id": 66683,
+                    "name": "Taurage",
+                    "latitude": "55.25222000",
+                    "longitude": "22.28972000"
+                },
+                {
+                    "id": 66684,
+                    "name": "Tauragė",
+                    "latitude": "55.25000000",
+                    "longitude": "22.28333000"
+                }
+            ]
+        },
+        {
+            "id": 1572,
+            "name": "Tauragė District Municipality",
+            "state_code": "50",
+            "cities": []
+        },
+        {
+            "id": 1569,
+            "name": "Telšiai County",
+            "state_code": "TE",
+            "cities": []
+        },
+        {
+            "id": 1608,
+            "name": "Telšiai District Municipality",
+            "state_code": "51",
+            "cities": [
+                {
+                    "id": 66637,
+                    "name": "Mazeikiai",
+                    "latitude": "56.31667000",
+                    "longitude": "22.33333000"
+                },
+                {
+                    "id": 66638,
+                    "name": "Mažeikiai",
+                    "latitude": "56.31667000",
+                    "longitude": "22.33333000"
+                },
+                {
+                    "id": 66657,
+                    "name": "Plateliai",
+                    "latitude": "56.04657000",
+                    "longitude": "21.81615000"
+                },
+                {
+                    "id": 66658,
+                    "name": "Plunge",
+                    "latitude": "55.91139000",
+                    "longitude": "21.84417000"
+                },
+                {
+                    "id": 66659,
+                    "name": "Plungė",
+                    "latitude": "55.91667000",
+                    "longitude": "21.85000000"
+                },
+                {
+                    "id": 66668,
+                    "name": "Rietavas",
+                    "latitude": "55.72375000",
+                    "longitude": "21.93266000"
+                },
+                {
+                    "id": 66675,
+                    "name": "Seda",
+                    "latitude": "56.16854000",
+                    "longitude": "22.09071000"
+                },
+                {
+                    "id": 66685,
+                    "name": "Telsiai",
+                    "latitude": "55.98139000",
+                    "longitude": "22.24722000"
+                },
+                {
+                    "id": 66686,
+                    "name": "Telšiai",
+                    "latitude": "55.98333000",
+                    "longitude": "22.25000000"
+                },
+                {
+                    "id": 66693,
+                    "name": "Varniai",
+                    "latitude": "55.74435000",
+                    "longitude": "22.37251000"
+                },
+                {
+                    "id": 66697,
+                    "name": "Viekšniai",
+                    "latitude": "56.23598000",
+                    "longitude": "22.51667000"
+                }
+            ]
+        },
+        {
+            "id": 1593,
+            "name": "Trakai District Municipality",
+            "state_code": "52",
+            "cities": []
+        },
+        {
+            "id": 1596,
+            "name": "Ukmergė District Municipality",
+            "state_code": "53",
+            "cities": []
+        },
+        {
+            "id": 1621,
+            "name": "Utena County",
+            "state_code": "UT",
+            "cities": [
+                {
+                    "id": 66582,
+                    "name": "Anyksciai",
+                    "latitude": "55.52557000",
+                    "longitude": "25.10264000"
+                },
+                {
+                    "id": 66583,
+                    "name": "Anykščiai",
+                    "latitude": "55.53333000",
+                    "longitude": "25.10000000"
+                },
+                {
+                    "id": 66594,
+                    "name": "Dūkštas",
+                    "latitude": "55.52200000",
+                    "longitude": "26.32100000"
+                },
+                {
+                    "id": 66604,
+                    "name": "Ignalina",
+                    "latitude": "55.35000000",
+                    "longitude": "26.16667000"
+                },
+                {
+                    "id": 66639,
+                    "name": "Moletai",
+                    "latitude": "55.23333000",
+                    "longitude": "25.41667000"
+                },
+                {
+                    "id": 66640,
+                    "name": "Molėtai",
+                    "latitude": "55.22469000",
+                    "longitude": "25.41688000"
+                },
+                {
+                    "id": 66691,
+                    "name": "Utena",
+                    "latitude": "55.49764000",
+                    "longitude": "25.59918000"
+                },
+                {
+                    "id": 66706,
+                    "name": "Visaginas",
+                    "latitude": "55.60000000",
+                    "longitude": "26.41667000"
+                },
+                {
+                    "id": 66707,
+                    "name": "Zarasai",
+                    "latitude": "55.73333000",
+                    "longitude": "26.25000000"
+                }
+            ]
+        },
+        {
+            "id": 1598,
+            "name": "Utena District Municipality",
+            "state_code": "54",
+            "cities": []
+        },
+        {
+            "id": 1602,
+            "name": "Varėna District Municipality",
+            "state_code": "55",
+            "cities": []
+        },
+        {
+            "id": 1620,
+            "name": "Vilkaviškis District Municipality",
+            "state_code": "56",
+            "cities": []
+        },
+        {
+            "id": 1606,
+            "name": "Vilnius City Municipality",
+            "state_code": "57",
+            "cities": [
+                {
+                    "id": 66585,
+                    "name": "Aukstadvaris",
+                    "latitude": "54.57946000",
+                    "longitude": "24.52683000"
+                },
+                {
+                    "id": 66586,
+                    "name": "Baltoji Vokė",
+                    "latitude": "54.60002000",
+                    "longitude": "25.19318000"
+                },
+                {
+                    "id": 66596,
+                    "name": "Eišiškės",
+                    "latitude": "54.17414000",
+                    "longitude": "24.99917000"
+                },
+                {
+                    "id": 66597,
+                    "name": "Elektrėnai",
+                    "latitude": "54.78544000",
+                    "longitude": "24.66302000"
+                },
+                {
+                    "id": 66599,
+                    "name": "Fabijoniškės",
+                    "latitude": "54.73333000",
+                    "longitude": "25.24167000"
+                },
+                {
+                    "id": 66603,
+                    "name": "Grigiškės",
+                    "latitude": "54.68333000",
+                    "longitude": "25.08333000"
+                },
+                {
+                    "id": 66610,
+                    "name": "Justiniškės",
+                    "latitude": "54.71664000",
+                    "longitude": "25.21740000"
+                },
+                {
+                    "id": 66631,
+                    "name": "Lazdynai",
+                    "latitude": "54.66815000",
+                    "longitude": "25.20684000"
+                },
+                {
+                    "id": 66632,
+                    "name": "Lentvaris",
+                    "latitude": "54.64364000",
+                    "longitude": "25.05162000"
+                },
+                {
+                    "id": 66641,
+                    "name": "Naujamiestis",
+                    "latitude": "54.67951000",
+                    "longitude": "25.26855000"
+                },
+                {
+                    "id": 66643,
+                    "name": "Nemenčinė",
+                    "latitude": "54.84776000",
+                    "longitude": "25.46992000"
+                },
+                {
+                    "id": 66647,
+                    "name": "Pabradė",
+                    "latitude": "54.98100000",
+                    "longitude": "25.76100000"
+                },
+                {
+                    "id": 66655,
+                    "name": "Pašilaičiai",
+                    "latitude": "54.73429000",
+                    "longitude": "25.21912000"
+                },
+                {
+                    "id": 66656,
+                    "name": "Pilaitė",
+                    "latitude": "54.69981000",
+                    "longitude": "25.18393000"
+                },
+                {
+                    "id": 66667,
+                    "name": "Rasos",
+                    "latitude": "54.67877000",
+                    "longitude": "25.31173000"
+                },
+                {
+                    "id": 66671,
+                    "name": "Rūdiškės",
+                    "latitude": "54.51609000",
+                    "longitude": "24.83084000"
+                },
+                {
+                    "id": 66709,
+                    "name": "Šalčininkai",
+                    "latitude": "54.30000000",
+                    "longitude": "25.38333000"
+                },
+                {
+                    "id": 66676,
+                    "name": "Senieji Trakai",
+                    "latitude": "54.60900000",
+                    "longitude": "24.98000000"
+                },
+                {
+                    "id": 66711,
+                    "name": "Šeškinė",
+                    "latitude": "54.70972000",
+                    "longitude": "25.25053000"
+                },
+                {
+                    "id": 66679,
+                    "name": "Sirvintos",
+                    "latitude": "55.05000000",
+                    "longitude": "24.95000000"
+                },
+                {
+                    "id": 66717,
+                    "name": "Širvintos",
+                    "latitude": "55.04400000",
+                    "longitude": "24.95446000"
+                },
+                {
+                    "id": 66680,
+                    "name": "Skaidiškės",
+                    "latitude": "54.61398000",
+                    "longitude": "25.39573000"
+                },
+                {
+                    "id": 66720,
+                    "name": "Švenčionėliai",
+                    "latitude": "55.16163000",
+                    "longitude": "26.00177000"
+                },
+                {
+                    "id": 66682,
+                    "name": "Svencionys",
+                    "latitude": "55.15000000",
+                    "longitude": "26.16667000"
+                },
+                {
+                    "id": 66719,
+                    "name": "Švenčionys",
+                    "latitude": "55.13500000",
+                    "longitude": "26.15900000"
+                },
+                {
+                    "id": 66687,
+                    "name": "Trakai",
+                    "latitude": "54.63783000",
+                    "longitude": "24.93433000"
+                },
+                {
+                    "id": 66689,
+                    "name": "Ukmerge",
+                    "latitude": "55.25000000",
+                    "longitude": "24.75000000"
+                },
+                {
+                    "id": 66690,
+                    "name": "Ukmergė",
+                    "latitude": "55.25000000",
+                    "longitude": "24.75000000"
+                },
+                {
+                    "id": 66698,
+                    "name": "Vievis",
+                    "latitude": "54.76667000",
+                    "longitude": "24.80000000"
+                },
+                {
+                    "id": 66702,
+                    "name": "Vilkpėdė",
+                    "latitude": "54.66969000",
+                    "longitude": "25.24770000"
+                },
+                {
+                    "id": 66703,
+                    "name": "Vilnius",
+                    "latitude": "54.68916000",
+                    "longitude": "25.27980000"
+                },
+                {
+                    "id": 66704,
+                    "name": "Vilnius District Municipality",
+                    "latitude": "54.73333000",
+                    "longitude": "25.38333000"
+                }
+            ]
+        },
+        {
+            "id": 1601,
+            "name": "Vilnius County",
+            "state_code": "VL",
+            "cities": []
+        },
+        {
+            "id": 1592,
+            "name": "Vilnius District Municipality",
+            "state_code": "58",
+            "cities": []
+        },
+        {
+            "id": 1564,
+            "name": "Visaginas Municipality",
+            "state_code": "59",
+            "cities": []
+        },
+        {
+            "id": 1619,
+            "name": "Zarasai District Municipality",
+            "state_code": "60",
+            "cities": []
+        }
+    ],
+    "languages": [
+        "Belorussian",
+        "Lithuanian",
+        "Polish",
+        "Russian",
+        "Ukrainian"
+    ],
+    "latlng": [
+        56,
+        24
+    ],
+    "nativeName": "Lietuva",
+    "population": 2927310,
+    "timezones": [
+        "UTC+02:00"
+    ],
+    "tld": [
+        ".lt"
+    ],
+    "translations": {
+        "de": "Litauen",
+        "es": "Lituania",
+        "fr": "Lituanie",
+        "ja": "リトアニア",
+        "it": "Lituania"
+    },
+    "continent": "Europe",
+    "government": "Republic",
+    "independence": 1991,
+    "expectancy": 69.1,
+    "dish": "Cepelinai",
+    "symbol": null,
+    "religion": "Christianity",
+    "location": "Baltic Countries",
+    "temperature": 6.2,
+    "density": 44.53135138,
+    "wiki": "http://en.wikipedia.org/wiki/lithuania"
+}

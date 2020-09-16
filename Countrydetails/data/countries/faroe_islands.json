@@ -1,0 +1,44 @@
+{
+  "name": "Faroe Islands",
+  "altSpellings": ["FO", "Føroyar", "Færøerne"],
+  "area": 1393,
+  "borders": [],
+  "callingCodes": ["298"],
+  "capital": "Tórshavn",
+  "capital_latlng": [62.012, -6.768],
+  "currencies": ["DKK"],
+  "demonym": "Faroese",
+  "flag": "",
+  "geoJSON": {},
+  "ISO": {
+    "alpha2": "FO",
+    "alpha3": "FRO"
+  },
+  "languages": [
+      "Danish",
+      "Faroese"
+  ],
+  "latlng": [62, -7],
+  "nativeName": "Føroyar",
+  "population": 48605,
+    "continent": "Europe",
+        "government": "Part of Denmark",
+          "independence": null,
+            "expectancy": 78.4,
+                "dish": null,
+                  "symbol": null,
+                    "density": 34.73996983,
+                      "location": "Nordic Countries",
+                        "temperature": null,
+                          "states": [],
+  "timezones": null,
+  "tld": [".fo"],
+  "translations": {
+    "de": "Färöer-Inseln",
+    "es": "Islas Faroe",
+    "fr": "Îles Féroé",
+    "ja": "フェロー諸島",
+    "it": "Isole Far Oer"
+  },
+  "wiki": "http://en.wikipedia.org/wiki/faroe_islands"
+}

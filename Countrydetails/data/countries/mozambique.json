@@ -1,0 +1,710 @@
+{
+    "name": "Mozambique",
+    "altSpellings": [
+        "MZ",
+        "Republic of Mozambique",
+        "República de Moçambique"
+    ],
+    "area": 801590,
+    "borders": [
+        "MWI",
+        "ZAF",
+        "SWZ",
+        "TZA",
+        "ZMB",
+        "ZWE"
+    ],
+    "callingCodes": [
+        "258"
+    ],
+    "capital": "Maputo",
+    "capital_latlng": [
+        -25.966213,
+        32.56745
+    ],
+    "currencies": [
+        "MZN"
+    ],
+    "demonym": "Mozambican",
+    "flag": "",
+    "geoJSON": {
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "type": "Feature",
+                "id": "MOZ",
+                "properties": {
+                    "name": "Mozambique"
+                },
+                "geometry": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                34.559989,
+                                -11.52002
+                            ],
+                            [
+                                35.312398,
+                                -11.439146
+                            ],
+                            [
+                                36.514082,
+                                -11.720938
+                            ],
+                            [
+                                36.775151,
+                                -11.594537
+                            ],
+                            [
+                                37.471284,
+                                -11.568751
+                            ],
+                            [
+                                37.827645,
+                                -11.268769
+                            ],
+                            [
+                                38.427557,
+                                -11.285202
+                            ],
+                            [
+                                39.52103,
+                                -10.896854
+                            ],
+                            [
+                                40.316589,
+                                -10.317096
+                            ],
+                            [
+                                40.478387,
+                                -10.765441
+                            ],
+                            [
+                                40.437253,
+                                -11.761711
+                            ],
+                            [
+                                40.560811,
+                                -12.639177
+                            ],
+                            [
+                                40.59962,
+                                -14.201975
+                            ],
+                            [
+                                40.775475,
+                                -14.691764
+                            ],
+                            [
+                                40.477251,
+                                -15.406294
+                            ],
+                            [
+                                40.089264,
+                                -16.100774
+                            ],
+                            [
+                                39.452559,
+                                -16.720891
+                            ],
+                            [
+                                38.538351,
+                                -17.101023
+                            ],
+                            [
+                                37.411133,
+                                -17.586368
+                            ],
+                            [
+                                36.281279,
+                                -18.659688
+                            ],
+                            [
+                                35.896497,
+                                -18.84226
+                            ],
+                            [
+                                35.1984,
+                                -19.552811
+                            ],
+                            [
+                                34.786383,
+                                -19.784012
+                            ],
+                            [
+                                34.701893,
+                                -20.497043
+                            ],
+                            [
+                                35.176127,
+                                -21.254361
+                            ],
+                            [
+                                35.373428,
+                                -21.840837
+                            ],
+                            [
+                                35.385848,
+                                -22.14
+                            ],
+                            [
+                                35.562546,
+                                -22.09
+                            ],
+                            [
+                                35.533935,
+                                -23.070788
+                            ],
+                            [
+                                35.371774,
+                                -23.535359
+                            ],
+                            [
+                                35.60747,
+                                -23.706563
+                            ],
+                            [
+                                35.458746,
+                                -24.12261
+                            ],
+                            [
+                                35.040735,
+                                -24.478351
+                            ],
+                            [
+                                34.215824,
+                                -24.816314
+                            ],
+                            [
+                                33.01321,
+                                -25.357573
+                            ],
+                            [
+                                32.574632,
+                                -25.727318
+                            ],
+                            [
+                                32.660363,
+                                -26.148584
+                            ],
+                            [
+                                32.915955,
+                                -26.215867
+                            ],
+                            [
+                                32.83012,
+                                -26.742192
+                            ],
+                            [
+                                32.071665,
+                                -26.73382
+                            ],
+                            [
+                                31.985779,
+                                -26.29178
+                            ],
+                            [
+                                31.837778,
+                                -25.843332
+                            ],
+                            [
+                                31.752408,
+                                -25.484284
+                            ],
+                            [
+                                31.930589,
+                                -24.369417
+                            ],
+                            [
+                                31.670398,
+                                -23.658969
+                            ],
+                            [
+                                31.191409,
+                                -22.25151
+                            ],
+                            [
+                                32.244988,
+                                -21.116489
+                            ],
+                            [
+                                32.508693,
+                                -20.395292
+                            ],
+                            [
+                                32.659743,
+                                -20.30429
+                            ],
+                            [
+                                32.772708,
+                                -19.715592
+                            ],
+                            [
+                                32.611994,
+                                -19.419383
+                            ],
+                            [
+                                32.654886,
+                                -18.67209
+                            ],
+                            [
+                                32.849861,
+                                -17.979057
+                            ],
+                            [
+                                32.847639,
+                                -16.713398
+                            ],
+                            [
+                                32.328239,
+                                -16.392074
+                            ],
+                            [
+                                31.852041,
+                                -16.319417
+                            ],
+                            [
+                                31.636498,
+                                -16.07199
+                            ],
+                            [
+                                31.173064,
+                                -15.860944
+                            ],
+                            [
+                                30.338955,
+                                -15.880839
+                            ],
+                            [
+                                30.274256,
+                                -15.507787
+                            ],
+                            [
+                                30.179481,
+                                -14.796099
+                            ],
+                            [
+                                33.214025,
+                                -13.97186
+                            ],
+                            [
+                                33.7897,
+                                -14.451831
+                            ],
+                            [
+                                34.064825,
+                                -14.35995
+                            ],
+                            [
+                                34.459633,
+                                -14.61301
+                            ],
+                            [
+                                34.517666,
+                                -15.013709
+                            ],
+                            [
+                                34.307291,
+                                -15.478641
+                            ],
+                            [
+                                34.381292,
+                                -16.18356
+                            ],
+                            [
+                                35.03381,
+                                -16.8013
+                            ],
+                            [
+                                35.339063,
+                                -16.10744
+                            ],
+                            [
+                                35.771905,
+                                -15.896859
+                            ],
+                            [
+                                35.686845,
+                                -14.611046
+                            ],
+                            [
+                                35.267956,
+                                -13.887834
+                            ],
+                            [
+                                34.907151,
+                                -13.565425
+                            ],
+                            [
+                                34.559989,
+                                -13.579998
+                            ],
+                            [
+                                34.280006,
+                                -12.280025
+                            ],
+                            [
+                                34.559989,
+                                -11.52002
+                            ]
+                        ]
+                    ]
+                }
+            }
+        ]
+    },
+    "ISO": {
+        "alpha2": "MZ",
+        "alpha3": "MOZ"
+    },
+    "languages": [
+        "Chuabo",
+        "Lomwe",
+        "Makua",
+        "Marendje",
+        "Nyanja",
+        "Ronga",
+        "Sena",
+        "Shona",
+        "Tsonga",
+        "Tswa"
+    ],
+    "latlng": [
+        -18.25,
+        35
+    ],
+    "nativeName": "Moçambique",
+    "population": 25041922,
+    "timezones": [
+        "UTC+02:00"
+    ],
+    "tld": [
+        ".mz"
+    ],
+    "translations": {
+        "de": "Mosambik",
+        "es": "Mozambique",
+        "fr": "Mozambique",
+        "ja": "モザンビーク",
+        "it": "Mozambico"
+    },
+    "states": [
+        {
+            "id": 3327,
+            "name": "Cabo Delgado Province",
+            "state_code": "P",
+            "cities": [
+                {
+                    "id": 76595,
+                    "name": "Chiure",
+                    "latitude": "-13.46665000",
+                    "longitude": "39.70317000"
+                },
+                {
+                    "id": 76614,
+                    "name": "Mocímboa",
+                    "latitude": "-11.31667000",
+                    "longitude": "40.35000000"
+                },
+                {
+                    "id": 76615,
+                    "name": "Montepuez",
+                    "latitude": "-13.12556000",
+                    "longitude": "38.99972000"
+                },
+                {
+                    "id": 76621,
+                    "name": "Pemba",
+                    "latitude": "-12.97395000",
+                    "longitude": "40.51775000"
+                }
+            ]
+        },
+        {
+            "id": 3329,
+            "name": "Gaza Province",
+            "state_code": "G",
+            "cities": [
+                {
+                    "id": 76592,
+                    "name": "Chibuto",
+                    "latitude": "-24.68667000",
+                    "longitude": "33.53056000"
+                },
+                {
+                    "id": 76596,
+                    "name": "Chokwé",
+                    "latitude": "-24.53333000",
+                    "longitude": "32.98333000"
+                },
+                {
+                    "id": 76604,
+                    "name": "Macia",
+                    "latitude": "-25.02694000",
+                    "longitude": "33.09889000"
+                },
+                {
+                    "id": 76625,
+                    "name": "Xai-Xai",
+                    "latitude": "-25.05194000",
+                    "longitude": "33.64417000"
+                }
+            ]
+        },
+        {
+            "id": 3330,
+            "name": "Inhambane Province",
+            "state_code": "I",
+            "cities": [
+                {
+                    "id": 76601,
+                    "name": "Inhambane",
+                    "latitude": "-23.86500000",
+                    "longitude": "35.38333000"
+                },
+                {
+                    "id": 76612,
+                    "name": "Maxixe",
+                    "latitude": "-23.85972000",
+                    "longitude": "35.34722000"
+                }
+            ]
+        },
+        {
+            "id": 3337,
+            "name": "Manica Province",
+            "state_code": "B",
+            "cities": [
+                {
+                    "id": 76593,
+                    "name": "Chimoio",
+                    "latitude": "-19.11639000",
+                    "longitude": "33.48333000"
+                }
+            ]
+        },
+        {
+            "id": 3335,
+            "name": "Maputo",
+            "state_code": "MPM",
+            "cities": [
+                {
+                    "id": 76602,
+                    "name": "KaTembe",
+                    "latitude": "-26.02985000",
+                    "longitude": "32.53204000"
+                },
+                {
+                    "id": 76608,
+                    "name": "Maputo",
+                    "latitude": "-25.96553000",
+                    "longitude": "32.58322000"
+                }
+            ]
+        },
+        {
+            "id": 3332,
+            "name": "Maputo Province",
+            "state_code": "L",
+            "cities": [
+                {
+                    "id": 76591,
+                    "name": "Boane District",
+                    "latitude": "-26.02900000",
+                    "longitude": "32.38900000"
+                },
+                {
+                    "id": 76597,
+                    "name": "Concelho de Matola",
+                    "latitude": "-25.83472000",
+                    "longitude": "32.49516000"
+                },
+                {
+                    "id": 76605,
+                    "name": "Magude District",
+                    "latitude": "-25.02389000",
+                    "longitude": "32.65150000"
+                },
+                {
+                    "id": 76607,
+                    "name": "Manhica",
+                    "latitude": "-25.34035000",
+                    "longitude": "32.84234000"
+                },
+                {
+                    "id": 76609,
+                    "name": "Marracuene District",
+                    "latitude": "-25.73938000",
+                    "longitude": "32.67436000"
+                },
+                {
+                    "id": 76610,
+                    "name": "Matola",
+                    "latitude": "-25.96222000",
+                    "longitude": "32.45889000"
+                },
+                {
+                    "id": 76611,
+                    "name": "Matutiune District",
+                    "latitude": "-26.43418000",
+                    "longitude": "32.58820000"
+                },
+                {
+                    "id": 76613,
+                    "name": "Moamba District",
+                    "latitude": "-25.60934000",
+                    "longitude": "32.24321000"
+                },
+                {
+                    "id": 76618,
+                    "name": "Namaacha District",
+                    "latitude": "-26.10900000",
+                    "longitude": "32.18000000"
+                },
+                {
+                    "id": 76623,
+                    "name": "Ressano Garcia",
+                    "latitude": "-25.44278000",
+                    "longitude": "31.99528000"
+                }
+            ]
+        },
+        {
+            "id": 3336,
+            "name": "Nampula Province",
+            "state_code": "N",
+            "cities": [
+                {
+                    "id": 76589,
+                    "name": "António Enes",
+                    "latitude": "-16.23250000",
+                    "longitude": "39.90861000"
+                },
+                {
+                    "id": 76600,
+                    "name": "Ilha de Moçambique",
+                    "latitude": "-15.03417000",
+                    "longitude": "40.73583000"
+                },
+                {
+                    "id": 76616,
+                    "name": "Mutuáli",
+                    "latitude": "-14.87056000",
+                    "longitude": "37.00444000"
+                },
+                {
+                    "id": 76617,
+                    "name": "Nacala",
+                    "latitude": "-14.56257000",
+                    "longitude": "40.68538000"
+                },
+                {
+                    "id": 76619,
+                    "name": "Nampula",
+                    "latitude": "-15.11646000",
+                    "longitude": "39.26660000"
+                }
+            ]
+        },
+        {
+            "id": 3333,
+            "name": "Niassa Province",
+            "state_code": "A",
+            "cities": [
+                {
+                    "id": 76598,
+                    "name": "Cuamba",
+                    "latitude": "-14.80306000",
+                    "longitude": "36.53722000"
+                },
+                {
+                    "id": 76603,
+                    "name": "Lichinga",
+                    "latitude": "-13.31278000",
+                    "longitude": "35.24056000"
+                },
+                {
+                    "id": 76606,
+                    "name": "Mandimba",
+                    "latitude": "-14.35250000",
+                    "longitude": "35.65056000"
+                }
+            ]
+        },
+        {
+            "id": 3331,
+            "name": "Sofala Province",
+            "state_code": "S",
+            "cities": [
+                {
+                    "id": 76590,
+                    "name": "Beira",
+                    "latitude": "-19.84361000",
+                    "longitude": "34.83889000"
+                },
+                {
+                    "id": 76599,
+                    "name": "Dondo",
+                    "latitude": "-19.60944000",
+                    "longitude": "34.74306000"
+                },
+                {
+                    "id": 76620,
+                    "name": "Nhamatanda District",
+                    "latitude": "-19.34900000",
+                    "longitude": "34.26800000"
+                }
+            ]
+        },
+        {
+            "id": 3334,
+            "name": "Tete Province",
+            "state_code": "T",
+            "cities": [
+                {
+                    "id": 76624,
+                    "name": "Tete",
+                    "latitude": "-16.15639000",
+                    "longitude": "33.58667000"
+                }
+            ]
+        },
+        {
+            "id": 3328,
+            "name": "Zambezia Province",
+            "state_code": "Q",
+            "cities": [
+                {
+                    "id": 76588,
+                    "name": "Alto Molócuè",
+                    "latitude": "-15.64932000",
+                    "longitude": "37.66384000"
+                },
+                {
+                    "id": 76594,
+                    "name": "Chinde",
+                    "latitude": "-18.58111000",
+                    "longitude": "36.45861000"
+                },
+                {
+                    "id": 76622,
+                    "name": "Quelimane",
+                    "latitude": "-17.87861000",
+                    "longitude": "36.88833000"
+                }
+            ]
+        }
+    ],
+    "expectancy": 37.5,
+    "dish": null,
+    "symbol": null,
+    "density": 37.50853531,
+    "location": "Eastern Africa",
+    "religion": "Christianity",
+    "temperature": 23.8,
+    "continent": "Africa",
+    "government": "Republic",
+    "independence": 1975,
+    "wiki": "http://en.wikipedia.org/wiki/mozambique"
+}

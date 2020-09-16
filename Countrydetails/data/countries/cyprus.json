@@ -1,0 +1,758 @@
+{
+    "name": "Cyprus",
+    "altSpellings": [
+        "CY",
+        "Kýpros",
+        "Kıbrıs",
+        "Republic of Cyprus",
+        "Κυπριακή Δημοκρατία",
+        "Kıbrıs Cumhuriyeti"
+    ],
+    "area": 9251,
+    "borders": [
+        "GBR"
+    ],
+    "callingCodes": [
+        "357"
+    ],
+    "capital": "Nicosia",
+    "capital_latlng": [
+        35.17393,
+        33.364726
+    ],
+    "currencies": [
+        "EUR"
+    ],
+    "demonym": "Cypriot",
+    "flag": "",
+    "geoJSON": {
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "type": "Feature",
+                "id": "CYP",
+                "properties": {
+                    "name": "Cyprus"
+                },
+                "geometry": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                33.973617,
+                                35.058506
+                            ],
+                            [
+                                34.004881,
+                                34.978098
+                            ],
+                            [
+                                32.979827,
+                                34.571869
+                            ],
+                            [
+                                32.490296,
+                                34.701655
+                            ],
+                            [
+                                32.256667,
+                                35.103232
+                            ],
+                            [
+                                32.73178,
+                                35.140026
+                            ],
+                            [
+                                32.919572,
+                                35.087833
+                            ],
+                            [
+                                33.190977,
+                                35.173125
+                            ],
+                            [
+                                33.383833,
+                                35.162712
+                            ],
+                            [
+                                33.455922,
+                                35.101424
+                            ],
+                            [
+                                33.475817,
+                                35.000345
+                            ],
+                            [
+                                33.525685,
+                                35.038688
+                            ],
+                            [
+                                33.675392,
+                                35.017863
+                            ],
+                            [
+                                33.86644,
+                                35.093595
+                            ],
+                            [
+                                33.973617,
+                                35.058506
+                            ]
+                        ]
+                    ]
+                }
+            }
+        ]
+    },
+    "ISO": {
+        "alpha2": "CY",
+        "alpha3": "CYP"
+    },
+    "states": [
+        {
+            "id": 749,
+            "name": "Famagusta District",
+            "state_code": "04",
+            "cities": [
+                {
+                    "id": 22011,
+                    "name": "Acherítou",
+                    "latitude": "35.10022000",
+                    "longitude": "33.86155000"
+                },
+                {
+                    "id": 22102,
+                    "name": "Áchna",
+                    "latitude": "35.05515000",
+                    "longitude": "33.78388000"
+                },
+                {
+                    "id": 22014,
+                    "name": "Ammochostos Municipality",
+                    "latitude": "35.11755000",
+                    "longitude": "33.94335000"
+                },
+                {
+                    "id": 22020,
+                    "name": "Avgórou",
+                    "latitude": "35.03615000",
+                    "longitude": "33.83918000"
+                },
+                {
+                    "id": 22021,
+                    "name": "Ayia Napa",
+                    "latitude": "34.98213000",
+                    "longitude": "34.00183000"
+                },
+                {
+                    "id": 22023,
+                    "name": "Derýneia",
+                    "latitude": "35.06484000",
+                    "longitude": "33.96083000"
+                },
+                {
+                    "id": 22029,
+                    "name": "Famagusta",
+                    "latitude": "35.12054000",
+                    "longitude": "33.93894000"
+                },
+                {
+                    "id": 22030,
+                    "name": "Frénaros",
+                    "latitude": "35.04121000",
+                    "longitude": "33.92242000"
+                },
+                {
+                    "id": 22052,
+                    "name": "Lefkónoiko",
+                    "latitude": "35.25980000",
+                    "longitude": "33.73189000"
+                },
+                {
+                    "id": 22054,
+                    "name": "Leonárisso",
+                    "latitude": "35.46892000",
+                    "longitude": "34.13886000"
+                },
+                {
+                    "id": 22056,
+                    "name": "Liopétri",
+                    "latitude": "35.00885000",
+                    "longitude": "33.89256000"
+                },
+                {
+                    "id": 22072,
+                    "name": "Paralímni",
+                    "latitude": "35.03945000",
+                    "longitude": "33.98181000"
+                },
+                {
+                    "id": 22078,
+                    "name": "Protaras",
+                    "latitude": "35.01250000",
+                    "longitude": "34.05833000"
+                },
+                {
+                    "id": 22090,
+                    "name": "Rizokárpaso",
+                    "latitude": "35.59719000",
+                    "longitude": "34.37916000"
+                },
+                {
+                    "id": 22095,
+                    "name": "Tríkomo",
+                    "latitude": "35.28628000",
+                    "longitude": "33.89167000"
+                }
+            ]
+        },
+        {
+            "id": 744,
+            "name": "Kyrenia District",
+            "state_code": "06",
+            "cities": [
+                {
+                    "id": 22045,
+                    "name": "Kyrenia",
+                    "latitude": "35.33634000",
+                    "longitude": "33.31729000"
+                },
+                {
+                    "id": 22046,
+                    "name": "Kyrenia Municipality",
+                    "latitude": "35.33672000",
+                    "longitude": "33.31504000"
+                },
+                {
+                    "id": 22059,
+                    "name": "Lápithos",
+                    "latitude": "35.33823000",
+                    "longitude": "33.17368000"
+                }
+            ]
+        },
+        {
+            "id": 747,
+            "name": "Larnaca District",
+            "state_code": "03",
+            "cities": [
+                {
+                    "id": 22104,
+                    "name": "Ágios Týchon",
+                    "latitude": "34.72606000",
+                    "longitude": "33.13872000"
+                },
+                {
+                    "id": 22015,
+                    "name": "Aradíppou",
+                    "latitude": "34.95151000",
+                    "longitude": "33.59199000"
+                },
+                {
+                    "id": 22019,
+                    "name": "Athíenou",
+                    "latitude": "35.06180000",
+                    "longitude": "33.54156000"
+                },
+                {
+                    "id": 22024,
+                    "name": "Dhromolaxia",
+                    "latitude": "34.87551000",
+                    "longitude": "33.58684000"
+                },
+                {
+                    "id": 22049,
+                    "name": "Kíti",
+                    "latitude": "34.84696000",
+                    "longitude": "33.57344000"
+                },
+                {
+                    "id": 22039,
+                    "name": "Kofínou",
+                    "latitude": "34.82449000",
+                    "longitude": "33.39130000"
+                },
+                {
+                    "id": 22042,
+                    "name": "Kolossi",
+                    "latitude": "34.66865000",
+                    "longitude": "32.93375000"
+                },
+                {
+                    "id": 22050,
+                    "name": "Kórnos",
+                    "latitude": "34.92396000",
+                    "longitude": "33.39764000"
+                },
+                {
+                    "id": 22051,
+                    "name": "Larnaca",
+                    "latitude": "34.92291000",
+                    "longitude": "33.62330000"
+                },
+                {
+                    "id": 22057,
+                    "name": "Livádia",
+                    "latitude": "34.95118000",
+                    "longitude": "33.62658000"
+                },
+                {
+                    "id": 22062,
+                    "name": "Meneou",
+                    "latitude": "34.86114000",
+                    "longitude": "33.59516000"
+                },
+                {
+                    "id": 22064,
+                    "name": "Mosfilotí",
+                    "latitude": "34.95256000",
+                    "longitude": "33.42511000"
+                },
+                {
+                    "id": 22087,
+                    "name": "Pérgamos",
+                    "latitude": "35.04167000",
+                    "longitude": "33.70833000"
+                },
+                {
+                    "id": 22076,
+                    "name": "Perivólia",
+                    "latitude": "34.83355000",
+                    "longitude": "33.58196000"
+                },
+                {
+                    "id": 22079,
+                    "name": "Psevdás",
+                    "latitude": "34.94653000",
+                    "longitude": "33.46277000"
+                },
+                {
+                    "id": 22089,
+                    "name": "Pýla",
+                    "latitude": "35.01237000",
+                    "longitude": "33.69188000"
+                },
+                {
+                    "id": 22093,
+                    "name": "Tersefánou",
+                    "latitude": "34.85411000",
+                    "longitude": "33.54746000"
+                },
+                {
+                    "id": 22094,
+                    "name": "Troúlloi",
+                    "latitude": "35.03203000",
+                    "longitude": "33.61501000"
+                },
+                {
+                    "id": 22099,
+                    "name": "Voróklini",
+                    "latitude": "34.98600000",
+                    "longitude": "33.65387000"
+                },
+                {
+                    "id": 22100,
+                    "name": "Xylofágou",
+                    "latitude": "34.97743000",
+                    "longitude": "33.84894000"
+                },
+                {
+                    "id": 22101,
+                    "name": "Xylotymbou",
+                    "latitude": "35.01720000",
+                    "longitude": "33.74245000"
+                }
+            ]
+        },
+        {
+            "id": 748,
+            "name": "Limassol District",
+            "state_code": "02",
+            "cities": [
+                {
+                    "id": 22103,
+                    "name": "Ágios Tomás",
+                    "latitude": "34.71158000",
+                    "longitude": "32.73129000"
+                },
+                {
+                    "id": 22028,
+                    "name": "Erími",
+                    "latitude": "34.67766000",
+                    "longitude": "32.91815000"
+                },
+                {
+                    "id": 22031,
+                    "name": "Germasógeia",
+                    "latitude": "34.72207000",
+                    "longitude": "33.08254000"
+                },
+                {
+                    "id": 22044,
+                    "name": "Kyperoúnta",
+                    "latitude": "34.93815000",
+                    "longitude": "32.97551000"
+                },
+                {
+                    "id": 22053,
+                    "name": "Lemesós",
+                    "latitude": "34.69218000",
+                    "longitude": "33.02854000"
+                },
+                {
+                    "id": 22055,
+                    "name": "Limassol",
+                    "latitude": "34.68406000",
+                    "longitude": "33.03794000"
+                },
+                {
+                    "id": 22065,
+                    "name": "Mouttagiáka",
+                    "latitude": "34.72022000",
+                    "longitude": "33.10066000"
+                },
+                {
+                    "id": 22082,
+                    "name": "Páchna",
+                    "latitude": "34.77874000",
+                    "longitude": "32.79355000"
+                },
+                {
+                    "id": 22084,
+                    "name": "Páno Polemídia",
+                    "latitude": "34.70559000",
+                    "longitude": "32.99269000"
+                },
+                {
+                    "id": 22073,
+                    "name": "Parekklisha",
+                    "latitude": "34.74583000",
+                    "longitude": "33.15833000"
+                },
+                {
+                    "id": 22074,
+                    "name": "Peléndri",
+                    "latitude": "34.89597000",
+                    "longitude": "32.96817000"
+                },
+                {
+                    "id": 22077,
+                    "name": "Pissoúri",
+                    "latitude": "34.66942000",
+                    "longitude": "32.70132000"
+                },
+                {
+                    "id": 22081,
+                    "name": "Pyrgos",
+                    "latitude": "34.74167000",
+                    "longitude": "33.18333000"
+                },
+                {
+                    "id": 22091,
+                    "name": "Sotíra",
+                    "latitude": "34.71189000",
+                    "longitude": "32.86340000"
+                },
+                {
+                    "id": 22092,
+                    "name": "Soúni-Zanakiá",
+                    "latitude": "34.73570000",
+                    "longitude": "32.88437000"
+                },
+                {
+                    "id": 22105,
+                    "name": "Ýpsonas",
+                    "latitude": "34.68797000",
+                    "longitude": "32.96191000"
+                }
+            ]
+        },
+        {
+            "id": 745,
+            "name": "Nicosia District",
+            "state_code": "01",
+            "cities": [
+                {
+                    "id": 22012,
+                    "name": "Akáki",
+                    "latitude": "35.13341000",
+                    "longitude": "33.12873000"
+                },
+                {
+                    "id": 22013,
+                    "name": "Alámpra",
+                    "latitude": "34.98898000",
+                    "longitude": "33.39887000"
+                },
+                {
+                    "id": 22016,
+                    "name": "Aredioú",
+                    "latitude": "35.04844000",
+                    "longitude": "33.19610000"
+                },
+                {
+                    "id": 22018,
+                    "name": "Astromerítis",
+                    "latitude": "35.14096000",
+                    "longitude": "33.03793000"
+                },
+                {
+                    "id": 22025,
+                    "name": "Dáli",
+                    "latitude": "35.02294000",
+                    "longitude": "33.42195000"
+                },
+                {
+                    "id": 22027,
+                    "name": "Ergátes",
+                    "latitude": "35.05365000",
+                    "longitude": "33.24292000"
+                },
+                {
+                    "id": 22035,
+                    "name": "Géri",
+                    "latitude": "35.10560000",
+                    "longitude": "33.41977000"
+                },
+                {
+                    "id": 22036,
+                    "name": "Kakopetriá",
+                    "latitude": "34.98768000",
+                    "longitude": "32.90468000"
+                },
+                {
+                    "id": 22047,
+                    "name": "Káto Defterá",
+                    "latitude": "35.08489000",
+                    "longitude": "33.27558000"
+                },
+                {
+                    "id": 22048,
+                    "name": "Káto Pýrgos",
+                    "latitude": "35.17897000",
+                    "longitude": "32.68600000"
+                },
+                {
+                    "id": 22038,
+                    "name": "Klírou",
+                    "latitude": "35.02004000",
+                    "longitude": "33.17806000"
+                },
+                {
+                    "id": 22040,
+                    "name": "Kokkinotrimithiá",
+                    "latitude": "35.15303000",
+                    "longitude": "33.19966000"
+                },
+                {
+                    "id": 22060,
+                    "name": "Léfka",
+                    "latitude": "35.11199000",
+                    "longitude": "32.84997000"
+                },
+                {
+                    "id": 22061,
+                    "name": "Lýmpia",
+                    "latitude": "34.99889000",
+                    "longitude": "33.46175000"
+                },
+                {
+                    "id": 22058,
+                    "name": "Lythrodóntas",
+                    "latitude": "34.95105000",
+                    "longitude": "33.29777000"
+                },
+                {
+                    "id": 22066,
+                    "name": "Mámmari",
+                    "latitude": "35.17604000",
+                    "longitude": "33.20435000"
+                },
+                {
+                    "id": 22067,
+                    "name": "Méniko",
+                    "latitude": "35.10945000",
+                    "longitude": "33.14474000"
+                },
+                {
+                    "id": 22068,
+                    "name": "Mórfou",
+                    "latitude": "35.19869000",
+                    "longitude": "32.99338000"
+                },
+                {
+                    "id": 22069,
+                    "name": "Nicosia",
+                    "latitude": "35.17531000",
+                    "longitude": "33.36420000"
+                },
+                {
+                    "id": 22070,
+                    "name": "Nicosia Municipality",
+                    "latitude": "35.16944000",
+                    "longitude": "33.36081000"
+                },
+                {
+                    "id": 22083,
+                    "name": "Páno Defterá",
+                    "latitude": "35.07778000",
+                    "longitude": "33.26584000"
+                },
+                {
+                    "id": 22086,
+                    "name": "Péra",
+                    "latitude": "35.03350000",
+                    "longitude": "33.25413000"
+                },
+                {
+                    "id": 22075,
+                    "name": "Peristeróna",
+                    "latitude": "35.12928000",
+                    "longitude": "33.07858000"
+                },
+                {
+                    "id": 22080,
+                    "name": "Psimolofou",
+                    "latitude": "35.06250000",
+                    "longitude": "33.26250000"
+                },
+                {
+                    "id": 22097,
+                    "name": "Tséri",
+                    "latitude": "35.07307000",
+                    "longitude": "33.32344000"
+                }
+            ]
+        },
+        {
+            "id": 746,
+            "name": "Paphos District",
+            "state_code": "05",
+            "cities": [
+                {
+                    "id": 22017,
+                    "name": "Argáka",
+                    "latitude": "35.06646000",
+                    "longitude": "32.49446000"
+                },
+                {
+                    "id": 22022,
+                    "name": "Chlórakas",
+                    "latitude": "34.79768000",
+                    "longitude": "32.41207000"
+                },
+                {
+                    "id": 22026,
+                    "name": "Emba",
+                    "latitude": "34.80700000",
+                    "longitude": "32.42406000"
+                },
+                {
+                    "id": 22032,
+                    "name": "Geroskipou",
+                    "latitude": "34.75498000",
+                    "longitude": "32.45155000"
+                },
+                {
+                    "id": 22033,
+                    "name": "Geroskípou (quarter)",
+                    "latitude": "34.76190000",
+                    "longitude": "32.45135000"
+                },
+                {
+                    "id": 22034,
+                    "name": "Geroskípou Municipality",
+                    "latitude": "34.75142000",
+                    "longitude": "32.45449000"
+                },
+                {
+                    "id": 22037,
+                    "name": "Kissonerga",
+                    "latitude": "34.82279000",
+                    "longitude": "32.40131000"
+                },
+                {
+                    "id": 22041,
+                    "name": "Koloni",
+                    "latitude": "34.75228000",
+                    "longitude": "32.46487000"
+                },
+                {
+                    "id": 22043,
+                    "name": "Konia",
+                    "latitude": "34.78516000",
+                    "longitude": "32.45900000"
+                },
+                {
+                    "id": 22063,
+                    "name": "Mesógi",
+                    "latitude": "34.81577000",
+                    "longitude": "32.45542000"
+                },
+                {
+                    "id": 22071,
+                    "name": "Paphos",
+                    "latitude": "34.77679000",
+                    "longitude": "32.42451000"
+                },
+                {
+                    "id": 22085,
+                    "name": "Pégeia",
+                    "latitude": "34.88341000",
+                    "longitude": "32.38166000"
+                },
+                {
+                    "id": 22088,
+                    "name": "Pólis",
+                    "latitude": "35.03534000",
+                    "longitude": "32.42575000"
+                },
+                {
+                    "id": 22098,
+                    "name": "Tála",
+                    "latitude": "34.83745000",
+                    "longitude": "32.43272000"
+                },
+                {
+                    "id": 22096,
+                    "name": "Tsáda",
+                    "latitude": "34.83801000",
+                    "longitude": "32.47547000"
+                }
+            ]
+        }
+    ],
+    "languages": [
+        "Greek",
+        "Turkish"
+    ],
+    "latlng": [
+        35,
+        33
+    ],
+    "nativeName": "Κύπρος",
+    "population": 858000,
+    "timezones": [
+        "UTC+02:00"
+    ],
+    "tld": [
+        ".cy"
+    ],
+    "translations": {
+        "de": "Zypern",
+        "es": "Chipre",
+        "fr": "Chypre",
+        "ja": "キプロス",
+        "it": "Cipro"
+    },
+    "expectancy": 76.7,
+    "symbol": null,
+    "dish": "Fasolada",
+    "density": 128.7083333,
+    "location": "Middle East",
+    "religion": "Christianity",
+    "temperature": 18.45,
+    "continent": "Asia",
+    "government": "Republic",
+    "wiki": "http://en.wikipedia.org/wiki/cyprus"
+}

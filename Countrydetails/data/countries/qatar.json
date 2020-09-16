@@ -1,0 +1,265 @@
+{
+    "name": "Qatar",
+    "altSpellings": [
+        "QA",
+        "State of Qatar",
+        "Dawlat Qaṭar"
+    ],
+    "area": 11586,
+    "borders": [
+        "SAU"
+    ],
+    "callingCodes": [
+        "974"
+    ],
+    "capital": "Doha",
+    "capital_latlng": [
+        25.285633,
+        51.526416
+    ],
+    "currencies": [
+        "QAR"
+    ],
+    "demonym": "Qatari",
+    "flag": "",
+    "geoJSON": {
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "type": "Feature",
+                "id": "QAT",
+                "properties": {
+                    "name": "Qatar"
+                },
+                "geometry": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                50.810108,
+                                24.754743
+                            ],
+                            [
+                                50.743911,
+                                25.482424
+                            ],
+                            [
+                                51.013352,
+                                26.006992
+                            ],
+                            [
+                                51.286462,
+                                26.114582
+                            ],
+                            [
+                                51.589079,
+                                25.801113
+                            ],
+                            [
+                                51.6067,
+                                25.21567
+                            ],
+                            [
+                                51.389608,
+                                24.627386
+                            ],
+                            [
+                                51.112415,
+                                24.556331
+                            ],
+                            [
+                                50.810108,
+                                24.754743
+                            ]
+                        ]
+                    ]
+                }
+            }
+        ]
+    },
+    "ISO": {
+        "alpha2": "QA",
+        "alpha3": "QAT"
+    },
+    "states": [
+        {
+            "id": 3182,
+            "name": "Al Daayen",
+            "state_code": "ZA",
+            "cities": []
+        },
+        {
+            "id": 3183,
+            "name": "Al Khor",
+            "state_code": "KH",
+            "cities": [
+                {
+                    "id": 89856,
+                    "name": "Al Ghuwayrīyah",
+                    "latitude": "25.82882000",
+                    "longitude": "51.24567000"
+                },
+                {
+                    "id": 89858,
+                    "name": "Al Khawr",
+                    "latitude": "25.68389000",
+                    "longitude": "51.50583000"
+                }
+            ]
+        },
+        {
+            "id": 3177,
+            "name": "Al Rayyan Municipality",
+            "state_code": "RA",
+            "cities": [
+                {
+                    "id": 89861,
+                    "name": "Ar Rayyān",
+                    "latitude": "25.29194000",
+                    "longitude": "51.42444000"
+                },
+                {
+                    "id": 89869,
+                    "name": "Umm Bāb",
+                    "latitude": "25.21417000",
+                    "longitude": "50.80722000"
+                }
+            ]
+        },
+        {
+            "id": 3179,
+            "name": "Al Wakrah",
+            "state_code": "WA",
+            "cities": [
+                {
+                    "id": 89859,
+                    "name": "Al Wakrah",
+                    "latitude": "25.17151000",
+                    "longitude": "51.60337000"
+                },
+                {
+                    "id": 89860,
+                    "name": "Al Wukayr",
+                    "latitude": "25.15107000",
+                    "longitude": "51.53718000"
+                },
+                {
+                    "id": 89868,
+                    "name": "Musay‘īd",
+                    "latitude": "24.99226000",
+                    "longitude": "51.55067000"
+                }
+            ]
+        },
+        {
+            "id": 3178,
+            "name": "Al-Shahaniya",
+            "state_code": "SH",
+            "cities": [
+                {
+                    "id": 89857,
+                    "name": "Al Jumaylīyah",
+                    "latitude": "25.61068000",
+                    "longitude": "51.09108000"
+                },
+                {
+                    "id": 89863,
+                    "name": "Ash Shīḩānīyah",
+                    "latitude": "25.37088000",
+                    "longitude": "51.22264000"
+                },
+                {
+                    "id": 89865,
+                    "name": "Dukhān",
+                    "latitude": "25.42485000",
+                    "longitude": "50.78227000"
+                }
+            ]
+        },
+        {
+            "id": 3181,
+            "name": "Doha",
+            "state_code": "DA",
+            "cities": [
+                {
+                    "id": 89864,
+                    "name": "Doha",
+                    "latitude": "25.28545000",
+                    "longitude": "51.53096000"
+                }
+            ]
+        },
+        {
+            "id": 3180,
+            "name": "Madinat ash Shamal",
+            "state_code": "MS",
+            "cities": [
+                {
+                    "id": 89862,
+                    "name": "Ar Ruways",
+                    "latitude": "26.13978000",
+                    "longitude": "51.21493000"
+                },
+                {
+                    "id": 89866,
+                    "name": "Fuwayriţ",
+                    "latitude": "26.02565000",
+                    "longitude": "51.36971000"
+                },
+                {
+                    "id": 89867,
+                    "name": "Madīnat ash Shamāl",
+                    "latitude": "26.12933000",
+                    "longitude": "51.20090000"
+                }
+            ]
+        },
+        {
+            "id": 3184,
+            "name": "Umm Salal Municipality",
+            "state_code": "US",
+            "cities": [
+                {
+                    "id": 89870,
+                    "name": "Umm Şalāl Muḩammad",
+                    "latitude": "25.41524000",
+                    "longitude": "51.40647000"
+                }
+            ]
+        }
+    ],
+    "languages": [
+        "Arabic",
+            "Urdu"
+    ],
+    "latlng": [
+        25.5,
+        51.25
+    ],
+    "nativeName": "قطر",
+    "population": 2269672,
+    "timezones": [
+        "UTC+03:00"
+    ],
+    "tld": [
+        ".qa"
+    ],
+    "translations": {
+        "de": "Katar",
+        "es": "Catar",
+        "fr": "Qatar",
+        "ja": "カタール",
+        "it": "Qatar"
+    },
+    "continent": "Asia",
+    "government": "Monarchy",
+    "independence": 1971,
+    "symbol": null,
+    "dish": null,
+    "expectancy": 72.4,
+    "density": 239.5931955,
+    "location": "Middle East",
+    "temperature": 27.15,
+    "religion": "Islam",
+    "wiki": "http://en.wikipedia.org/wiki/qatar"
+}

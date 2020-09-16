@@ -1,0 +1,25 @@
+{
+    "flag": "",
+    "geoJSON": {},
+    "ISO": {
+        "alpha2": "",
+        "alpha3": "ANT"
+    },
+    "independence": null,
+    "government": "Nonmetropolitan Territory of The Netherlands",
+    "continent": "North America",
+    "temperature": null,
+    "location": "Caribbean",
+    "density": 80,
+    "symbol": null,
+    "dish": null,
+    "expectancy": 74.7,
+    "languages": [
+        "Dutch",
+        "English",
+        "Papiamento"
+    ],
+    
+    "tld": [],
+    "wiki": "http://en.wikipedia.org/wiki/Netherlands_Antilles"
+}

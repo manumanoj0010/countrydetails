@@ -1,0 +1,1175 @@
+{
+    "name": "Papua New Guinea",
+    "altSpellings": [
+        "PG",
+        "Independent State of Papua New Guinea",
+        "Independen Stet bilong Papua Niugini"
+    ],
+    "area": 462840,
+    "borders": [
+        "IDN"
+    ],
+    "callingCodes": [
+        "675"
+    ],
+    "capital": "Port Moresby",
+    "capital_latlng": [
+        -9.47433,
+        147.15995
+    ],
+    "currencies": [
+        "PGK"
+    ],
+    "demonym": "Papua New Guinean",
+    "flag": "",
+    "geoJSON": {
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "type": "Feature",
+                "id": "PNG",
+                "properties": {
+                    "name": "Papua New Guinea"
+                },
+                "geometry": {
+                    "type": "MultiPolygon",
+                    "coordinates": [
+                        [
+                            [
+                                [
+                                    155.880026,
+                                    -6.819997
+                                ],
+                                [
+                                    155.599991,
+                                    -6.919991
+                                ],
+                                [
+                                    155.166994,
+                                    -6.535931
+                                ],
+                                [
+                                    154.729192,
+                                    -5.900828
+                                ],
+                                [
+                                    154.514114,
+                                    -5.139118
+                                ],
+                                [
+                                    154.652504,
+                                    -5.042431
+                                ],
+                                [
+                                    154.759991,
+                                    -5.339984
+                                ],
+                                [
+                                    155.062918,
+                                    -5.566792
+                                ],
+                                [
+                                    155.547746,
+                                    -6.200655
+                                ],
+                                [
+                                    156.019965,
+                                    -6.540014
+                                ],
+                                [
+                                    155.880026,
+                                    -6.819997
+                                ]
+                            ]
+                        ],
+                        [
+                            [
+                                [
+                                    151.982796,
+                                    -5.478063
+                                ],
+                                [
+                                    151.459107,
+                                    -5.56028
+                                ],
+                                [
+                                    151.30139,
+                                    -5.840728
+                                ],
+                                [
+                                    150.754447,
+                                    -6.083763
+                                ],
+                                [
+                                    150.241197,
+                                    -6.317754
+                                ],
+                                [
+                                    149.709963,
+                                    -6.316513
+                                ],
+                                [
+                                    148.890065,
+                                    -6.02604
+                                ],
+                                [
+                                    148.318937,
+                                    -5.747142
+                                ],
+                                [
+                                    148.401826,
+                                    -5.437756
+                                ],
+                                [
+                                    149.298412,
+                                    -5.583742
+                                ],
+                                [
+                                    149.845562,
+                                    -5.505503
+                                ],
+                                [
+                                    149.99625,
+                                    -5.026101
+                                ],
+                                [
+                                    150.139756,
+                                    -5.001348
+                                ],
+                                [
+                                    150.236908,
+                                    -5.53222
+                                ],
+                                [
+                                    150.807467,
+                                    -5.455842
+                                ],
+                                [
+                                    151.089672,
+                                    -5.113693
+                                ],
+                                [
+                                    151.647881,
+                                    -4.757074
+                                ],
+                                [
+                                    151.537862,
+                                    -4.167807
+                                ],
+                                [
+                                    152.136792,
+                                    -4.14879
+                                ],
+                                [
+                                    152.338743,
+                                    -4.312966
+                                ],
+                                [
+                                    152.318693,
+                                    -4.867661
+                                ],
+                                [
+                                    151.982796,
+                                    -5.478063
+                                ]
+                            ]
+                        ],
+                        [
+                            [
+                                [
+                                    147.191874,
+                                    -7.388024
+                                ],
+                                [
+                                    148.084636,
+                                    -8.044108
+                                ],
+                                [
+                                    148.734105,
+                                    -9.104664
+                                ],
+                                [
+                                    149.306835,
+                                    -9.071436
+                                ],
+                                [
+                                    149.266631,
+                                    -9.514406
+                                ],
+                                [
+                                    150.038728,
+                                    -9.684318
+                                ],
+                                [
+                                    149.738798,
+                                    -9.872937
+                                ],
+                                [
+                                    150.801628,
+                                    -10.293687
+                                ],
+                                [
+                                    150.690575,
+                                    -10.582713
+                                ],
+                                [
+                                    150.028393,
+                                    -10.652476
+                                ],
+                                [
+                                    149.78231,
+                                    -10.393267
+                                ],
+                                [
+                                    148.923138,
+                                    -10.280923
+                                ],
+                                [
+                                    147.913018,
+                                    -10.130441
+                                ],
+                                [
+                                    147.135443,
+                                    -9.492444
+                                ],
+                                [
+                                    146.567881,
+                                    -8.942555
+                                ],
+                                [
+                                    146.048481,
+                                    -8.067414
+                                ],
+                                [
+                                    144.744168,
+                                    -7.630128
+                                ],
+                                [
+                                    143.897088,
+                                    -7.91533
+                                ],
+                                [
+                                    143.286376,
+                                    -8.245491
+                                ],
+                                [
+                                    143.413913,
+                                    -8.983069
+                                ],
+                                [
+                                    142.628431,
+                                    -9.326821
+                                ],
+                                [
+                                    142.068259,
+                                    -9.159596
+                                ],
+                                [
+                                    141.033852,
+                                    -9.117893
+                                ],
+                                [
+                                    141.017057,
+                                    -5.859022
+                                ],
+                                [
+                                    141.00021,
+                                    -2.600151
+                                ],
+                                [
+                                    142.735247,
+                                    -3.289153
+                                ],
+                                [
+                                    144.583971,
+                                    -3.861418
+                                ],
+                                [
+                                    145.27318,
+                                    -4.373738
+                                ],
+                                [
+                                    145.829786,
+                                    -4.876498
+                                ],
+                                [
+                                    145.981922,
+                                    -5.465609
+                                ],
+                                [
+                                    147.648073,
+                                    -6.083659
+                                ],
+                                [
+                                    147.891108,
+                                    -6.614015
+                                ],
+                                [
+                                    146.970905,
+                                    -6.721657
+                                ],
+                                [
+                                    147.191874,
+                                    -7.388024
+                                ]
+                            ]
+                        ],
+                        [
+                            [
+                                [
+                                    153.140038,
+                                    -4.499983
+                                ],
+                                [
+                                    152.827292,
+                                    -4.766427
+                                ],
+                                [
+                                    152.638673,
+                                    -4.176127
+                                ],
+                                [
+                                    152.406026,
+                                    -3.789743
+                                ],
+                                [
+                                    151.953237,
+                                    -3.462062
+                                ],
+                                [
+                                    151.384279,
+                                    -3.035422
+                                ],
+                                [
+                                    150.66205,
+                                    -2.741486
+                                ],
+                                [
+                                    150.939965,
+                                    -2.500002
+                                ],
+                                [
+                                    151.479984,
+                                    -2.779985
+                                ],
+                                [
+                                    151.820015,
+                                    -2.999972
+                                ],
+                                [
+                                    152.239989,
+                                    -3.240009
+                                ],
+                                [
+                                    152.640017,
+                                    -3.659983
+                                ],
+                                [
+                                    153.019994,
+                                    -3.980015
+                                ],
+                                [
+                                    153.140038,
+                                    -4.499983
+                                ]
+                            ]
+                        ]
+                    ]
+                }
+            }
+        ]
+    },
+    "ISO": {
+        "alpha2": "PG",
+        "alpha3": "PNG"
+    },
+    "states": [
+        {
+            "id": 4831,
+            "name": "Bougainville",
+            "state_code": "NSB",
+            "cities": [
+                {
+                    "id": 81029,
+                    "name": "Arawa",
+                    "latitude": "-6.22977000",
+                    "longitude": "155.56598000"
+                },
+                {
+                    "id": 81033,
+                    "name": "Central Bougainville",
+                    "latitude": "-6.22806000",
+                    "longitude": "155.56583000"
+                },
+                {
+                    "id": 81063,
+                    "name": "Kieta",
+                    "latitude": "-6.21462000",
+                    "longitude": "155.63251000"
+                },
+                {
+                    "id": 81091,
+                    "name": "North Bougainville",
+                    "latitude": "-5.42194000",
+                    "longitude": "154.67278000"
+                },
+                {
+                    "id": 81097,
+                    "name": "Panguna",
+                    "latitude": "-6.31639000",
+                    "longitude": "155.48483000"
+                },
+                {
+                    "id": 81109,
+                    "name": "South Bougainville",
+                    "latitude": "-6.74593000",
+                    "longitude": "155.69640000"
+                }
+            ]
+        },
+        {
+            "id": 4847,
+            "name": "Central Province",
+            "state_code": "CPM",
+            "cities": [
+                {
+                    "id": 81024,
+                    "name": "Abau",
+                    "latitude": "-10.08333000",
+                    "longitude": "148.91667000"
+                },
+                {
+                    "id": 81041,
+                    "name": "Goilala",
+                    "latitude": "-8.33333000",
+                    "longitude": "147.00000000"
+                },
+                {
+                    "id": 81055,
+                    "name": "Kairuku-Hiri",
+                    "latitude": "-9.13648000",
+                    "longitude": "147.27905000"
+                },
+                {
+                    "id": 81104,
+                    "name": "Rigo",
+                    "latitude": "-9.75000000",
+                    "longitude": "147.83333000"
+                }
+            ]
+        },
+        {
+            "id": 4846,
+            "name": "Chimbu Province",
+            "state_code": "CPK",
+            "cities": [
+                {
+                    "id": 81034,
+                    "name": "Chuave",
+                    "latitude": "-6.16667000",
+                    "longitude": "145.08333000"
+                },
+                {
+                    "id": 81043,
+                    "name": "Gumine",
+                    "latitude": "-6.25000000",
+                    "longitude": "144.88333000"
+                },
+                {
+                    "id": 81059,
+                    "name": "Karimui Nomane",
+                    "latitude": "-6.58333000",
+                    "longitude": "144.83333000"
+                },
+                {
+                    "id": 81062,
+                    "name": "Kerowagi",
+                    "latitude": "-5.93333000",
+                    "longitude": "144.88333000"
+                },
+                {
+                    "id": 81073,
+                    "name": "Kundiawa",
+                    "latitude": "-5.91667000",
+                    "longitude": "145.05000000"
+                },
+                {
+                    "id": 81107,
+                    "name": "Sinasina Yonggamugl",
+                    "latitude": "-6.08333000",
+                    "longitude": "145.01667000"
+                }
+            ]
+        },
+        {
+            "id": 4834,
+            "name": "East New Britain",
+            "state_code": "EBR",
+            "cities": [
+                {
+                    "id": 81040,
+                    "name": "Gazelle",
+                    "latitude": "-4.48333000",
+                    "longitude": "151.86667000"
+                },
+                {
+                    "id": 81069,
+                    "name": "Kokopo",
+                    "latitude": "-4.40000000",
+                    "longitude": "152.28333000"
+                },
+                {
+                    "id": 81098,
+                    "name": "Pomio",
+                    "latitude": "-5.50000000",
+                    "longitude": "151.33333000"
+                },
+                {
+                    "id": 81102,
+                    "name": "Rabaul",
+                    "latitude": "-4.18333000",
+                    "longitude": "152.16667000"
+                }
+            ]
+        },
+        {
+            "id": 4845,
+            "name": "Eastern Highlands Province",
+            "state_code": "EHG",
+            "cities": [
+                {
+                    "id": 81036,
+                    "name": "Daulo",
+                    "latitude": "-5.98333000",
+                    "longitude": "145.23333000"
+                },
+                {
+                    "id": 81042,
+                    "name": "Goroka",
+                    "latitude": "-6.05000000",
+                    "longitude": "145.38333000"
+                },
+                {
+                    "id": 81045,
+                    "name": "Henganofi",
+                    "latitude": "-6.21667000",
+                    "longitude": "145.66667000"
+                },
+                {
+                    "id": 81054,
+                    "name": "Kainantu",
+                    "latitude": "-6.41667000",
+                    "longitude": "145.91667000"
+                },
+                {
+                    "id": 81077,
+                    "name": "Lufa",
+                    "latitude": "-6.45000000",
+                    "longitude": "145.25000000"
+                },
+                {
+                    "id": 81095,
+                    "name": "Obura Wonenara",
+                    "latitude": "-6.55434000",
+                    "longitude": "145.97328000"
+                },
+                {
+                    "id": 81096,
+                    "name": "Okapa",
+                    "latitude": "-6.63333000",
+                    "longitude": "145.50000000"
+                },
+                {
+                    "id": 81118,
+                    "name": "Unggai Bena",
+                    "latitude": "-6.11667000",
+                    "longitude": "145.51667000"
+                }
+            ]
+        },
+        {
+            "id": 4848,
+            "name": "Enga Province",
+            "state_code": "EPW",
+            "cities": [
+                {
+                    "id": 81056,
+                    "name": "Kandep",
+                    "latitude": "-5.83333000",
+                    "longitude": "143.55000000"
+                },
+                {
+                    "id": 81071,
+                    "name": "Kompiam Ambum",
+                    "latitude": "-5.25000000",
+                    "longitude": "144.00000000"
+                },
+                {
+                    "id": 81075,
+                    "name": "Lagaip Porgera",
+                    "latitude": "-5.38333000",
+                    "longitude": "143.16667000"
+                },
+                {
+                    "id": 81100,
+                    "name": "Porgera",
+                    "latitude": "-5.46300000",
+                    "longitude": "143.14800000"
+                },
+                {
+                    "id": 81122,
+                    "name": "Wabag",
+                    "latitude": "-5.33333000",
+                    "longitude": "143.65000000"
+                },
+                {
+                    "id": 81123,
+                    "name": "Wapenamanda",
+                    "latitude": "-5.66667000",
+                    "longitude": "143.91667000"
+                }
+            ]
+        },
+        {
+            "id": 4839,
+            "name": "Gulf",
+            "state_code": "GPK",
+            "cities": [
+                {
+                    "id": 81061,
+                    "name": "Kerema",
+                    "latitude": "-7.79600000",
+                    "longitude": "146.09300000"
+                },
+                {
+                    "id": 81064,
+                    "name": "Kikori",
+                    "latitude": "-7.25000000",
+                    "longitude": "144.33333000"
+                }
+            ]
+        },
+        {
+            "id": 4833,
+            "name": "Hela",
+            "state_code": "HLA",
+            "cities": [
+                {
+                    "id": 81070,
+                    "name": "Komo Margarima",
+                    "latitude": "-6.11667000",
+                    "longitude": "143.00000000"
+                },
+                {
+                    "id": 81072,
+                    "name": "Koroba-Lake Kopiago",
+                    "latitude": "-5.41667000",
+                    "longitude": "142.50000000"
+                },
+                {
+                    "id": 81114,
+                    "name": "Tari",
+                    "latitude": "-5.84500000",
+                    "longitude": "142.94667000"
+                },
+                {
+                    "id": 81115,
+                    "name": "Tari Pori",
+                    "latitude": "-6.28333000",
+                    "longitude": "142.83333000"
+                }
+            ]
+        },
+        {
+            "id": 4832,
+            "name": "Jiwaka Province",
+            "state_code": "JWK",
+            "cities": [
+                {
+                    "id": 81028,
+                    "name": "Angalimp South Wahgi",
+                    "latitude": "-6.05000000",
+                    "longitude": "144.56667000"
+                },
+                {
+                    "id": 81051,
+                    "name": "Jimi",
+                    "latitude": "-5.53333000",
+                    "longitude": "144.56667000"
+                },
+                {
+                    "id": 81093,
+                    "name": "North Wahgi",
+                    "latitude": "-5.80000000",
+                    "longitude": "144.68333000"
+                }
+            ]
+        },
+        {
+            "id": 4843,
+            "name": "Madang Province",
+            "state_code": "MPM",
+            "cities": [
+                {
+                    "id": 81031,
+                    "name": "Bogia",
+                    "latitude": "-4.50000000",
+                    "longitude": "145.00000000"
+                },
+                {
+                    "id": 81078,
+                    "name": "Madang",
+                    "latitude": "-5.22152000",
+                    "longitude": "145.78695000"
+                },
+                {
+                    "id": 81084,
+                    "name": "Middle Ramu",
+                    "latitude": "-4.91667000",
+                    "longitude": "144.75000000"
+                },
+                {
+                    "id": 81103,
+                    "name": "Rai Coast",
+                    "latitude": "-5.72303000",
+                    "longitude": "146.46149000"
+                },
+                {
+                    "id": 81111,
+                    "name": "Sumkar",
+                    "latitude": "-4.80000000",
+                    "longitude": "145.55000000"
+                },
+                {
+                    "id": 81119,
+                    "name": "Usino Bundi",
+                    "latitude": "-5.53333000",
+                    "longitude": "145.16667000"
+                }
+            ]
+        },
+        {
+            "id": 4842,
+            "name": "Manus Province",
+            "state_code": "MRL",
+            "cities": [
+                {
+                    "id": 81076,
+                    "name": "Lorengau",
+                    "latitude": "-2.03410000",
+                    "longitude": "147.27173000"
+                },
+                {
+                    "id": 81079,
+                    "name": "Manus",
+                    "latitude": "-2.09626000",
+                    "longitude": "146.96612000"
+                }
+            ]
+        },
+        {
+            "id": 4849,
+            "name": "Milne Bay Province",
+            "state_code": "MBA",
+            "cities": [
+                {
+                    "id": 81027,
+                    "name": "Alotau",
+                    "latitude": "-10.25000000",
+                    "longitude": "150.08333000"
+                },
+                {
+                    "id": 81038,
+                    "name": "Esa’ala",
+                    "latitude": "-9.58333000",
+                    "longitude": "150.75000000"
+                },
+                {
+                    "id": 81066,
+                    "name": "Kiriwina Goodenough",
+                    "latitude": "-8.48333000",
+                    "longitude": "151.06667000"
+                },
+                {
+                    "id": 81105,
+                    "name": "Samarai",
+                    "latitude": "-10.61038000",
+                    "longitude": "150.66207000"
+                },
+                {
+                    "id": 81106,
+                    "name": "Samarai Murua",
+                    "latitude": "-10.49636000",
+                    "longitude": "150.54703000"
+                }
+            ]
+        },
+        {
+            "id": 4835,
+            "name": "Morobe Province",
+            "state_code": "MPL",
+            "cities": [
+                {
+                    "id": 81032,
+                    "name": "Bulolo",
+                    "latitude": "-7.41667000",
+                    "longitude": "146.75000000"
+                },
+                {
+                    "id": 81039,
+                    "name": "Finschhafen",
+                    "latitude": "-6.41667000",
+                    "longitude": "147.50000000"
+                },
+                {
+                    "id": 81046,
+                    "name": "Huon Gulf",
+                    "latitude": "-7.18333000",
+                    "longitude": "146.95000000"
+                },
+                {
+                    "id": 81052,
+                    "name": "Kabwum",
+                    "latitude": "-6.08333000",
+                    "longitude": "147.00000000"
+                },
+                {
+                    "id": 81074,
+                    "name": "Lae",
+                    "latitude": "-6.50000000",
+                    "longitude": "146.83333000"
+                },
+                {
+                    "id": 81080,
+                    "name": "Markham",
+                    "latitude": "-6.64153000",
+                    "longitude": "146.86043000"
+                },
+                {
+                    "id": 81082,
+                    "name": "Menyamya",
+                    "latitude": "-7.25000000",
+                    "longitude": "146.16667000"
+                },
+                {
+                    "id": 81089,
+                    "name": "Nawae",
+                    "latitude": "-6.46667000",
+                    "longitude": "146.96667000"
+                },
+                {
+                    "id": 81117,
+                    "name": "Tewai Siassi",
+                    "latitude": "-6.15000000",
+                    "longitude": "147.53333000"
+                },
+                {
+                    "id": 81124,
+                    "name": "Wau",
+                    "latitude": "-7.33778000",
+                    "longitude": "146.71649000"
+                }
+            ]
+        },
+        {
+            "id": 4841,
+            "name": "New Ireland Province",
+            "state_code": "NIK",
+            "cities": [
+                {
+                    "id": 81060,
+                    "name": "Kavieng",
+                    "latitude": "-3.00000000",
+                    "longitude": "151.41667000"
+                },
+                {
+                    "id": 81087,
+                    "name": "Namatanai",
+                    "latitude": "-4.33333000",
+                    "longitude": "152.83333000"
+                }
+            ]
+        },
+        {
+            "id": 4838,
+            "name": "Oro Province",
+            "state_code": "NPP",
+            "cities": [
+                {
+                    "id": 81049,
+                    "name": "Ijivitari",
+                    "latitude": "-9.33333000",
+                    "longitude": "148.58333000"
+                },
+                {
+                    "id": 81068,
+                    "name": "Kokoda",
+                    "latitude": "-8.87778000",
+                    "longitude": "147.73642000"
+                },
+                {
+                    "id": 81099,
+                    "name": "Popondetta",
+                    "latitude": "-8.76536000",
+                    "longitude": "148.23252000"
+                },
+                {
+                    "id": 81108,
+                    "name": "Sohe",
+                    "latitude": "-9.00000000",
+                    "longitude": "147.91667000"
+                }
+            ]
+        },
+        {
+            "id": 4837,
+            "name": "Port Moresby",
+            "state_code": "NCD",
+            "cities": [
+                {
+                    "id": 81088,
+                    "name": "National Capital District",
+                    "latitude": "-9.42257000",
+                    "longitude": "147.16641000"
+                },
+                {
+                    "id": 81101,
+                    "name": "Port Moresby",
+                    "latitude": "-9.47723000",
+                    "longitude": "147.15089000"
+                }
+            ]
+        },
+        {
+            "id": 4836,
+            "name": "Sandaun Province",
+            "state_code": "SAN",
+            "cities": [
+                {
+                    "id": 81025,
+                    "name": "Aitape",
+                    "latitude": "-3.13697000",
+                    "longitude": "142.34913000"
+                },
+                {
+                    "id": 81026,
+                    "name": "Aitape Lumi",
+                    "latitude": "-3.25000000",
+                    "longitude": "142.08333000"
+                },
+                {
+                    "id": 81094,
+                    "name": "Nuku",
+                    "latitude": "-3.66667000",
+                    "longitude": "142.41667000"
+                },
+                {
+                    "id": 81116,
+                    "name": "Telefomin",
+                    "latitude": "-4.91667000",
+                    "longitude": "141.66667000"
+                },
+                {
+                    "id": 81120,
+                    "name": "Vanimo",
+                    "latitude": "-2.68372000",
+                    "longitude": "141.30195000"
+                },
+                {
+                    "id": 81121,
+                    "name": "Vanimo Green",
+                    "latitude": "-3.36667000",
+                    "longitude": "141.35000000"
+                }
+            ]
+        },
+        {
+            "id": 4844,
+            "name": "Southern Highlands Province",
+            "state_code": "SHM",
+            "cities": [
+                {
+                    "id": 81047,
+                    "name": "Ialibu",
+                    "latitude": "-6.28208000",
+                    "longitude": "143.99354000"
+                },
+                {
+                    "id": 81048,
+                    "name": "Ialibu Pangia",
+                    "latitude": "-6.16667000",
+                    "longitude": "144.00000000"
+                },
+                {
+                    "id": 81050,
+                    "name": "Imbonggu",
+                    "latitude": "-6.16667000",
+                    "longitude": "144.00000000"
+                },
+                {
+                    "id": 81053,
+                    "name": "Kagua Erave",
+                    "latitude": "-6.66667000",
+                    "longitude": "144.00000000"
+                },
+                {
+                    "id": 81081,
+                    "name": "Mendi",
+                    "latitude": "-6.14755000",
+                    "longitude": "143.65633000"
+                },
+                {
+                    "id": 81090,
+                    "name": "Nipa Kutubu",
+                    "latitude": "-6.33333000",
+                    "longitude": "143.33333000"
+                }
+            ]
+        },
+        {
+            "id": 4830,
+            "name": "West New Britain Province",
+            "state_code": "WBK",
+            "cities": [
+                {
+                    "id": 81057,
+                    "name": "Kandrian",
+                    "latitude": "-6.20655000",
+                    "longitude": "149.54744000"
+                },
+                {
+                    "id": 81058,
+                    "name": "Kandrian Gloucester",
+                    "latitude": "-6.08333000",
+                    "longitude": "149.91667000"
+                },
+                {
+                    "id": 81065,
+                    "name": "Kimbe",
+                    "latitude": "-5.55085000",
+                    "longitude": "150.13766000"
+                },
+                {
+                    "id": 81112,
+                    "name": "Talasea",
+                    "latitude": "-5.66667000",
+                    "longitude": "149.58333000"
+                }
+            ]
+        },
+        {
+            "id": 4840,
+            "name": "Western Highlands Province",
+            "state_code": "WHM",
+            "cities": [
+                {
+                    "id": 81030,
+                    "name": "Baiyer Mul",
+                    "latitude": "-5.53333000",
+                    "longitude": "144.15000000"
+                },
+                {
+                    "id": 81037,
+                    "name": "Dei",
+                    "latitude": "-5.68333000",
+                    "longitude": "144.36667000"
+                },
+                {
+                    "id": 81044,
+                    "name": "Hagen",
+                    "latitude": "-5.83333000",
+                    "longitude": "144.28333000"
+                },
+                {
+                    "id": 81086,
+                    "name": "Mount Hagen",
+                    "latitude": "-5.85746000",
+                    "longitude": "144.23058000"
+                },
+                {
+                    "id": 81113,
+                    "name": "Tambul Nebilyer",
+                    "latitude": "-5.98333000",
+                    "longitude": "144.15000000"
+                }
+            ]
+        },
+        {
+            "id": 4850,
+            "name": "Western Province",
+            "state_code": "WPD",
+            "cities": [
+                {
+                    "id": 81035,
+                    "name": "Daru",
+                    "latitude": "-9.07786000",
+                    "longitude": "143.20893000"
+                },
+                {
+                    "id": 81067,
+                    "name": "Kiunga",
+                    "latitude": "-6.12193000",
+                    "longitude": "141.29061000"
+                },
+                {
+                    "id": 81083,
+                    "name": "Middle Fly",
+                    "latitude": "-7.16667000",
+                    "longitude": "142.03333000"
+                },
+                {
+                    "id": 81085,
+                    "name": "Morehead",
+                    "latitude": "-8.71065000",
+                    "longitude": "141.63668000"
+                },
+                {
+                    "id": 81092,
+                    "name": "North Fly",
+                    "latitude": "-5.72896000",
+                    "longitude": "141.37482000"
+                },
+                {
+                    "id": 81110,
+                    "name": "South Fly",
+                    "latitude": "-8.61667000",
+                    "longitude": "142.11667000"
+                }
+            ]
+        }
+    ],
+    "languages": [
+        "Malenasian Languages",
+        "Papuan Languages"
+    ],
+    "latlng": [
+        -6,
+        147
+    ],
+    "nativeName": "Papua Niugini",
+    "population": 7398500,
+    "timezones": [
+        "UTC+10:00"
+    ],
+    "tld": [
+        ".pg"
+    ],
+    "translations": {
+        "de": "Papua-Neuguinea",
+        "es": "Papúa Nueva Guinea",
+        "fr": "Papouasie-Nouvelle-Guinée",
+        "ja": "パプアニューギニア",
+        "it": "Papua Nuova Guinea"
+    },
+    "continent": "Oceania",
+    "government": "Constitutional Monarchy",
+    "independence": 1975,
+    "symbol": null,
+    "expectancy": 63.1,
+    "dish": null,
+    "density": 19.00436338,
+    "temperature": 25.25,
+    "religion": "Christianity",
+    "location": "Melanesia",
+    "wiki": "http://en.wikipedia.org/wiki/papua_new_guinea"
+}

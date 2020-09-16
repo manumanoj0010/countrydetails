@@ -1,0 +1,336 @@
+{
+    "name": "Togo",
+    "altSpellings": [
+        "TG",
+        "Togolese",
+        "Togolese Republic",
+        "République Togolaise"
+    ],
+    "area": 56785,
+    "borders": [
+        "BEN",
+        "BFA",
+        "GHA"
+    ],
+    "callingCodes": [
+        "228"
+    ],
+    "capital": "Lomé",
+    "capital_latlng": [
+        6.130419,
+        1.215829
+    ],
+    "currencies": [
+        "XOF"
+    ],
+    "demonym": "Togolese",
+    "flag": "",
+    "geoJSON": {
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "type": "Feature",
+                "id": "TGO",
+                "properties": {
+                    "name": "Togo"
+                },
+                "geometry": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                1.865241,
+                                6.142158
+                            ],
+                            [
+                                1.060122,
+                                5.928837
+                            ],
+                            [
+                                0.836931,
+                                6.279979
+                            ],
+                            [
+                                0.570384,
+                                6.914359
+                            ],
+                            [
+                                0.490957,
+                                7.411744
+                            ],
+                            [
+                                0.712029,
+                                8.312465
+                            ],
+                            [
+                                0.461192,
+                                8.677223
+                            ],
+                            [
+                                0.365901,
+                                9.465004
+                            ],
+                            [
+                                0.36758,
+                                10.191213
+                            ],
+                            [
+                                -0.049785,
+                                10.706918
+                            ],
+                            [
+                                0.023803,
+                                11.018682
+                            ],
+                            [
+                                0.899563,
+                                10.997339
+                            ],
+                            [
+                                0.772336,
+                                10.470808
+                            ],
+                            [
+                                1.077795,
+                                10.175607
+                            ],
+                            [
+                                1.425061,
+                                9.825395
+                            ],
+                            [
+                                1.463043,
+                                9.334624
+                            ],
+                            [
+                                1.664478,
+                                9.12859
+                            ],
+                            [
+                                1.618951,
+                                6.832038
+                            ],
+                            [
+                                1.865241,
+                                6.142158
+                            ]
+                        ]
+                    ]
+                }
+            }
+        ]
+    },
+    "ISO": {
+        "alpha2": "TG",
+        "alpha3": "TGO"
+    },
+    "languages": [
+        "Ane",
+            "Ewe",
+            "Gurma",
+            "Kaby√©",
+            "Kotokoli",
+            "Moba",
+            "Naudemba",
+            "Watyi"
+    ],
+    "states": [
+        {
+            "id": 2575,
+            "name": "Centrale Region",
+            "state_code": "C",
+            "cities": [
+                {
+                    "id": 105173,
+                    "name": "Sokodé",
+                    "latitude": "8.98333000",
+                    "longitude": "1.13333000"
+                },
+                {
+                    "id": 105174,
+                    "name": "Sotouboua",
+                    "latitude": "8.56340000",
+                    "longitude": "0.98399000"
+                },
+                {
+                    "id": 105176,
+                    "name": "Tchamba",
+                    "latitude": "9.03333000",
+                    "longitude": "1.41667000"
+                }
+            ]
+        },
+        {
+            "id": 2579,
+            "name": "Kara Region",
+            "state_code": "K",
+            "cities": [
+                {
+                    "id": 105161,
+                    "name": "Bafilo",
+                    "latitude": "9.35000000",
+                    "longitude": "1.26667000"
+                },
+                {
+                    "id": 105162,
+                    "name": "Bassar",
+                    "latitude": "9.25025000",
+                    "longitude": "0.78213000"
+                },
+                {
+                    "id": 105164,
+                    "name": "Kandé",
+                    "latitude": "9.95778000",
+                    "longitude": "1.04472000"
+                },
+                {
+                    "id": 105165,
+                    "name": "Kara",
+                    "latitude": "9.55111000",
+                    "longitude": "1.18611000"
+                },
+                {
+                    "id": 105168,
+                    "name": "Niamtougou",
+                    "latitude": "9.76806000",
+                    "longitude": "1.10528000"
+                },
+                {
+                    "id": 105170,
+                    "name": "Pagouda",
+                    "latitude": "9.75250000",
+                    "longitude": "1.32778000"
+                },
+                {
+                    "id": 105171,
+                    "name": "Préfecture de Bassar",
+                    "latitude": "9.25000000",
+                    "longitude": "0.75000000"
+                }
+            ]
+        },
+        {
+            "id": 2576,
+            "name": "Maritime",
+            "state_code": "M",
+            "cities": [
+                {
+                    "id": 105158,
+                    "name": "Aného",
+                    "latitude": "6.22798000",
+                    "longitude": "1.59190000"
+                },
+                {
+                    "id": 105167,
+                    "name": "Lomé",
+                    "latitude": "6.12874000",
+                    "longitude": "1.22154000"
+                },
+                {
+                    "id": 105175,
+                    "name": "Tabligbo",
+                    "latitude": "6.58333000",
+                    "longitude": "1.50000000"
+                },
+                {
+                    "id": 105177,
+                    "name": "Tsévié",
+                    "latitude": "6.42611000",
+                    "longitude": "1.21333000"
+                },
+                {
+                    "id": 105178,
+                    "name": "Vogan",
+                    "latitude": "6.33333000",
+                    "longitude": "1.53333000"
+                }
+            ]
+        },
+        {
+            "id": 2577,
+            "name": "Plateaux Region",
+            "state_code": "P",
+            "cities": [
+                {
+                    "id": 105157,
+                    "name": "Amlamé",
+                    "latitude": "7.46667000",
+                    "longitude": "0.90000000"
+                },
+                {
+                    "id": 105159,
+                    "name": "Atakpamé",
+                    "latitude": "7.53333000",
+                    "longitude": "1.13333000"
+                },
+                {
+                    "id": 105160,
+                    "name": "Badou",
+                    "latitude": "7.58333000",
+                    "longitude": "0.60000000"
+                },
+                {
+                    "id": 105166,
+                    "name": "Kpalimé",
+                    "latitude": "6.90000000",
+                    "longitude": "0.63333000"
+                },
+                {
+                    "id": 105169,
+                    "name": "Notsé",
+                    "latitude": "6.95000000",
+                    "longitude": "1.16667000"
+                }
+            ]
+        },
+        {
+            "id": 2578,
+            "name": "Savanes Region",
+            "state_code": "S",
+            "cities": [
+                {
+                    "id": 105163,
+                    "name": "Dapaong",
+                    "latitude": "10.86225000",
+                    "longitude": "0.20762000"
+                },
+                {
+                    "id": 105172,
+                    "name": "Sansanné-Mango",
+                    "latitude": "10.35917000",
+                    "longitude": "0.47083000"
+                }
+            ]
+        }
+    ],
+    "latlng": [
+        8,
+        1.16666666
+    ],
+    "nativeName": "Togo",
+    "population": 6993000,
+    "timezones": [
+        "UTC"
+    ],
+    "tld": [
+        ".tg"
+    ],
+    "translations": {
+        "de": "Togo",
+        "es": "Togo",
+        "fr": "Togo",
+        "ja": "トーゴ",
+        "it": "Togo"
+    },
+    "expectancy": 54.7,
+    "dish": null,
+    "symbol": null,
+    "density": 145.0467733,
+    "location": "Western Africa",
+    "religion": "Christianity",
+    "temperature": 27.15,
+    "continent": "Africa",
+    "government": "Republic",
+    "independence": 1960,
+    "wiki": "http://en.wikipedia.org/wiki/toga"
+}

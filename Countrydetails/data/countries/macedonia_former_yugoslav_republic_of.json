@@ -1,0 +1,1923 @@
+{
+    "name": "Macedonia",
+    "altSpellings": [
+        "MK",
+        "Republic of Macedonia",
+        "Република Македонија"
+    ],
+    "area": 25713,
+    "borders": [
+        "ALB",
+        "BGR",
+        "GRC",
+        "KOS",
+        "SRB"
+    ],
+    "callingCodes": [
+        "389"
+    ],
+    "capital": "Skopje",
+    "capital_latlng": [
+        41.996092,
+        21.43165
+    ],
+    "currencies": [
+        "MKD"
+    ],
+    "demonym": "Macedonian",
+    "flag": "",
+    "geoJSON": {
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "type": "Feature",
+                "id": "MKD",
+                "properties": {
+                    "name": "Macedonia"
+                },
+                "geometry": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                20.59023,
+                                41.85541
+                            ],
+                            [
+                                20.71731,
+                                41.84711
+                            ],
+                            [
+                                20.76216,
+                                42.05186
+                            ],
+                            [
+                                21.3527,
+                                42.2068
+                            ],
+                            [
+                                21.576636,
+                                42.245224
+                            ],
+                            [
+                                21.91708,
+                                42.30364
+                            ],
+                            [
+                                22.380526,
+                                42.32026
+                            ],
+                            [
+                                22.881374,
+                                41.999297
+                            ],
+                            [
+                                22.952377,
+                                41.337994
+                            ],
+                            [
+                                22.76177,
+                                41.3048
+                            ],
+                            [
+                                22.597308,
+                                41.130487
+                            ],
+                            [
+                                22.055378,
+                                41.149866
+                            ],
+                            [
+                                21.674161,
+                                40.931275
+                            ],
+                            [
+                                21.02004,
+                                40.842727
+                            ],
+                            [
+                                20.60518,
+                                41.08622
+                            ],
+                            [
+                                20.46315,
+                                41.51509
+                            ],
+                            [
+                                20.59023,
+                                41.85541
+                            ]
+                        ]
+                    ]
+                }
+            }
+        ]
+    },
+    "ISO": {
+        "alpha2": "MK",
+        "alpha3": "MKD"
+    },
+    "languages": [
+        "Albaniana",
+        "Macedonian",
+        "Romani",
+        "Serbo-Croatian",
+        "Turkish"
+    ],
+    "latlng": [
+        41.83333333,
+        22
+    ],
+    "nativeName": "Македонија",
+    "population": 2058539,
+    "timezones": [
+        "UTC+01:00"
+    ],
+    "tld": [
+        ".mk"
+    ],
+    "translations": {
+        "de": "Mazedonien",
+        "es": "Macedonia",
+        "fr": "Macédoine",
+        "ja": "マケドニア旧ユーゴスラビア共和国",
+        "it": "Macedonia"
+    },
+    "states": [
+        {
+            "id": 703,
+            "name": "Aerodrom Municipality",
+            "state_code": "01",
+            "cities": []
+        },
+        {
+            "id": 656,
+            "name": "Aračinovo Municipality",
+            "state_code": "02",
+            "cities": [
+                {
+                    "id": 67574,
+                    "name": "Арачиново",
+                    "latitude": "42.02639000",
+                    "longitude": "21.56194000"
+                }
+            ]
+        },
+        {
+            "id": 716,
+            "name": "Berovo Municipality",
+            "state_code": "03",
+            "cities": [
+                {
+                    "id": 67390,
+                    "name": "Berovo",
+                    "latitude": "41.70306000",
+                    "longitude": "22.85778000"
+                },
+                {
+                    "id": 67519,
+                    "name": "Rusinovo",
+                    "latitude": "41.68728000",
+                    "longitude": "22.80849000"
+                },
+                {
+                    "id": 67556,
+                    "name": "Vladimirovo",
+                    "latitude": "41.71000000",
+                    "longitude": "22.79278000"
+                }
+            ]
+        },
+        {
+            "id": 679,
+            "name": "Bitola Municipality",
+            "state_code": "04",
+            "cities": [
+                {
+                    "id": 67391,
+                    "name": "Bistrica",
+                    "latitude": "40.97892000",
+                    "longitude": "21.36580000"
+                },
+                {
+                    "id": 67392,
+                    "name": "Bitola",
+                    "latitude": "41.03143000",
+                    "longitude": "21.33474000"
+                },
+                {
+                    "id": 67403,
+                    "name": "Capari",
+                    "latitude": "41.05656000",
+                    "longitude": "21.17884000"
+                },
+                {
+                    "id": 67420,
+                    "name": "Dolno Orizari",
+                    "latitude": "41.05028000",
+                    "longitude": "21.37944000"
+                },
+                {
+                    "id": 67430,
+                    "name": "Gorno Orizari",
+                    "latitude": "41.05188000",
+                    "longitude": "21.34548000"
+                },
+                {
+                    "id": 67464,
+                    "name": "Kukurečani",
+                    "latitude": "41.09562000",
+                    "longitude": "21.32454000"
+                },
+                {
+                    "id": 67472,
+                    "name": "Logovardi",
+                    "latitude": "41.03096000",
+                    "longitude": "21.40967000"
+                }
+            ]
+        },
+        {
+            "id": 649,
+            "name": "Bogdanci Municipality",
+            "state_code": "05",
+            "cities": [
+                {
+                    "id": 67394,
+                    "name": "Bogdanci",
+                    "latitude": "41.20306000",
+                    "longitude": "22.57556000"
+                },
+                {
+                    "id": 67534,
+                    "name": "Stojakovo",
+                    "latitude": "41.15556000",
+                    "longitude": "22.57750000"
+                }
+            ]
+        },
+        {
+            "id": 721,
+            "name": "Bogovinje Municipality",
+            "state_code": "06",
+            "cities": [
+                {
+                    "id": 67396,
+                    "name": "Bogovinje",
+                    "latitude": "41.92361000",
+                    "longitude": "20.91361000"
+                },
+                {
+                    "id": 67421,
+                    "name": "Dolno Palčište",
+                    "latitude": "41.96859000",
+                    "longitude": "20.92899000"
+                },
+                {
+                    "id": 67434,
+                    "name": "Gradec",
+                    "latitude": "41.89611000",
+                    "longitude": "20.90417000"
+                },
+                {
+                    "id": 67447,
+                    "name": "Kamenjane",
+                    "latitude": "41.94568000",
+                    "longitude": "20.92894000"
+                }
+            ]
+        },
+        {
+            "id": 652,
+            "name": "Bosilovo Municipality",
+            "state_code": "07",
+            "cities": [
+                {
+                    "id": 67398,
+                    "name": "Bosilovo",
+                    "latitude": "41.44056000",
+                    "longitude": "22.72778000"
+                },
+                {
+                    "id": 67441,
+                    "name": "Ilovica",
+                    "latitude": "41.47224000",
+                    "longitude": "22.80480000"
+                },
+                {
+                    "id": 67523,
+                    "name": "Sekirnik",
+                    "latitude": "41.43999000",
+                    "longitude": "22.79536000"
+                }
+            ]
+        },
+        {
+            "id": 660,
+            "name": "Brvenica Municipality",
+            "state_code": "08",
+            "cities": [
+                {
+                    "id": 67399,
+                    "name": "Brvenica",
+                    "latitude": "41.96722000",
+                    "longitude": "20.98083000"
+                },
+                {
+                    "id": 67568,
+                    "name": "Čelopek",
+                    "latitude": "41.93167000",
+                    "longitude": "21.01333000"
+                },
+                {
+                    "id": 67439,
+                    "name": "Gurgurnica",
+                    "latitude": "41.84508000",
+                    "longitude": "21.10538000"
+                },
+                {
+                    "id": 67483,
+                    "name": "Miletino",
+                    "latitude": "41.90753000",
+                    "longitude": "21.01601000"
+                }
+            ]
+        },
+        {
+            "id": 694,
+            "name": "Butel Municipality",
+            "state_code": "09",
+            "cities": [
+                {
+                    "id": 67401,
+                    "name": "Butel",
+                    "latitude": "42.03083000",
+                    "longitude": "21.44667000"
+                },
+                {
+                    "id": 67512,
+                    "name": "Radishani",
+                    "latitude": "42.06111000",
+                    "longitude": "21.44778000"
+                }
+            ]
+        },
+        {
+            "id": 704,
+            "name": "Čair Municipality",
+            "state_code": "79",
+            "cities": [
+                {
+                    "id": 67566,
+                    "name": "Čair",
+                    "latitude": "42.01528000",
+                    "longitude": "21.44111000"
+                }
+            ]
+        },
+        {
+            "id": 676,
+            "name": "Čaška Municipality",
+            "state_code": "80",
+            "cities": [
+                {
+                    "id": 67395,
+                    "name": "Bogomila",
+                    "latitude": "41.59306000",
+                    "longitude": "21.47167000"
+                },
+                {
+                    "id": 67567,
+                    "name": "Čaška",
+                    "latitude": "41.65056000",
+                    "longitude": "21.66222000"
+                }
+            ]
+        },
+        {
+            "id": 702,
+            "name": "Centar Municipality",
+            "state_code": "77",
+            "cities": []
+        },
+        {
+            "id": 720,
+            "name": "Centar Župa Municipality",
+            "state_code": "78",
+            "cities": [
+                {
+                    "id": 67405,
+                    "name": "Centar Župa",
+                    "latitude": "41.47849000",
+                    "longitude": "20.55945000"
+                }
+            ]
+        },
+        {
+            "id": 644,
+            "name": "Češinovo-Obleševo Municipality",
+            "state_code": "81",
+            "cities": [
+                {
+                    "id": 67569,
+                    "name": "Češinovo",
+                    "latitude": "41.87148000",
+                    "longitude": "22.28961000"
+                },
+                {
+                    "id": 67494,
+                    "name": "Oblesevo",
+                    "latitude": "41.88333000",
+                    "longitude": "22.33389000"
+                }
+            ]
+        },
+        {
+            "id": 715,
+            "name": "Čučer-Sandevo Municipality",
+            "state_code": "82",
+            "cities": [
+                {
+                    "id": 67582,
+                    "name": "Чучер - Сандево",
+                    "latitude": "42.10361000",
+                    "longitude": "21.38222000"
+                }
+            ]
+        },
+        {
+            "id": 645,
+            "name": "Debarca Municipality",
+            "state_code": "22",
+            "cities": [
+                {
+                    "id": 67388,
+                    "name": "Belčišta",
+                    "latitude": "41.30278000",
+                    "longitude": "20.83028000"
+                },
+                {
+                    "id": 67481,
+                    "name": "Mešeišta",
+                    "latitude": "41.23814000",
+                    "longitude": "20.77414000"
+                }
+            ]
+        },
+        {
+            "id": 695,
+            "name": "Delčevo Municipality",
+            "state_code": "23",
+            "cities": [
+                {
+                    "id": 67408,
+                    "name": "Delcevo",
+                    "latitude": "41.96722000",
+                    "longitude": "22.76944000"
+                }
+            ]
+        },
+        {
+            "id": 687,
+            "name": "Demir Hisar Municipality",
+            "state_code": "25",
+            "cities": [
+                {
+                    "id": 67410,
+                    "name": "Demir Hisar",
+                    "latitude": "41.22097000",
+                    "longitude": "21.20302000"
+                },
+                {
+                    "id": 67528,
+                    "name": "Slepče",
+                    "latitude": "41.23333000",
+                    "longitude": "21.17500000"
+                },
+                {
+                    "id": 67529,
+                    "name": "Sopotnica",
+                    "latitude": "41.29594000",
+                    "longitude": "21.15357000"
+                }
+            ]
+        },
+        {
+            "id": 655,
+            "name": "Demir Kapija Municipality",
+            "state_code": "24",
+            "cities": [
+                {
+                    "id": 67411,
+                    "name": "Demir Kapija",
+                    "latitude": "41.40613000",
+                    "longitude": "22.24631000"
+                }
+            ]
+        },
+        {
+            "id": 697,
+            "name": "Dojran Municipality",
+            "state_code": "26",
+            "cities": [
+                {
+                    "id": 67533,
+                    "name": "Star Dojran",
+                    "latitude": "41.18647000",
+                    "longitude": "22.72030000"
+                }
+            ]
+        },
+        {
+            "id": 675,
+            "name": "Dolneni Municipality",
+            "state_code": "27",
+            "cities": [
+                {
+                    "id": 67407,
+                    "name": "Crnilište",
+                    "latitude": "41.53025000",
+                    "longitude": "21.41416000"
+                },
+                {
+                    "id": 67412,
+                    "name": "Desovo",
+                    "latitude": "41.46278000",
+                    "longitude": "21.49111000"
+                },
+                {
+                    "id": 67418,
+                    "name": "Dolneni",
+                    "latitude": "41.42579000",
+                    "longitude": "21.45402000"
+                },
+                {
+                    "id": 67468,
+                    "name": "Lažani",
+                    "latitude": "41.44222000",
+                    "longitude": "21.31583000"
+                },
+                {
+                    "id": 67572,
+                    "name": "Žitoše",
+                    "latitude": "41.41991000",
+                    "longitude": "21.29078000"
+                }
+            ]
+        },
+        {
+            "id": 657,
+            "name": "Drugovo Municipality",
+            "state_code": "28",
+            "cities": []
+        },
+        {
+            "id": 707,
+            "name": "Gazi Baba Municipality",
+            "state_code": "17",
+            "cities": [
+                {
+                    "id": 67406,
+                    "name": "Cresevo",
+                    "latitude": "42.05083000",
+                    "longitude": "21.50972000"
+                }
+            ]
+        },
+        {
+            "id": 648,
+            "name": "Gevgelija Municipality",
+            "state_code": "18",
+            "cities": [
+                {
+                    "id": 67427,
+                    "name": "Gevgelija",
+                    "latitude": "41.14166000",
+                    "longitude": "22.50141000"
+                },
+                {
+                    "id": 67484,
+                    "name": "Miravci",
+                    "latitude": "41.30925000",
+                    "longitude": "22.43641000"
+                }
+            ]
+        },
+        {
+            "id": 722,
+            "name": "Gjorče Petrov Municipality",
+            "state_code": "29",
+            "cities": [
+                {
+                    "id": 67428,
+                    "name": "Gjorče Petro",
+                    "latitude": "42.00778000",
+                    "longitude": "21.35306000"
+                }
+            ]
+        },
+        {
+            "id": 693,
+            "name": "Gostivar Municipality",
+            "state_code": "19",
+            "cities": [
+                {
+                    "id": 67404,
+                    "name": "Cegrane",
+                    "latitude": "41.83889000",
+                    "longitude": "20.97583000"
+                },
+                {
+                    "id": 67417,
+                    "name": "Dolna Banjica",
+                    "latitude": "41.78611000",
+                    "longitude": "20.90611000"
+                },
+                {
+                    "id": 67426,
+                    "name": "Forino",
+                    "latitude": "41.82334000",
+                    "longitude": "20.96174000"
+                },
+                {
+                    "id": 67433,
+                    "name": "Gostivar",
+                    "latitude": "41.79601000",
+                    "longitude": "20.90819000"
+                },
+                {
+                    "id": 67531,
+                    "name": "Srbinovo",
+                    "latitude": "41.70586000",
+                    "longitude": "20.95859000"
+                },
+                {
+                    "id": 67560,
+                    "name": "Vrutok",
+                    "latitude": "41.76861000",
+                    "longitude": "20.83917000"
+                }
+            ]
+        },
+        {
+            "id": 708,
+            "name": "Gradsko Municipality",
+            "state_code": "20",
+            "cities": [
+                {
+                    "id": 67436,
+                    "name": "Gradsko",
+                    "latitude": "41.57750000",
+                    "longitude": "21.94278000"
+                }
+            ]
+        },
+        {
+            "id": 684,
+            "name": "Greater Skopje",
+            "state_code": "85",
+            "cities": [
+                {
+                    "id": 67397,
+                    "name": "Bojane",
+                    "latitude": "42.00009000",
+                    "longitude": "21.19265000"
+                },
+                {
+                    "id": 67423,
+                    "name": "Dračevo",
+                    "latitude": "41.93667000",
+                    "longitude": "21.52167000"
+                },
+                {
+                    "id": 67471,
+                    "name": "Ljubin",
+                    "latitude": "42.00139000",
+                    "longitude": "21.30917000"
+                },
+                {
+                    "id": 67521,
+                    "name": "Saraj",
+                    "latitude": "42.00000000",
+                    "longitude": "21.32778000"
+                },
+                {
+                    "id": 67546,
+                    "name": "Usje",
+                    "latitude": "41.95871000",
+                    "longitude": "21.45835000"
+                }
+            ]
+        },
+        {
+            "id": 690,
+            "name": "Ilinden Municipality",
+            "state_code": "34",
+            "cities": [
+                {
+                    "id": 67440,
+                    "name": "Ilinden",
+                    "latitude": "41.99451000",
+                    "longitude": "21.58002000"
+                },
+                {
+                    "id": 67446,
+                    "name": "Kadino",
+                    "latitude": "41.96889000",
+                    "longitude": "21.60139000"
+                },
+                {
+                    "id": 67478,
+                    "name": "Marino",
+                    "latitude": "41.98776000",
+                    "longitude": "21.59148000"
+                },
+                {
+                    "id": 67482,
+                    "name": "Miladinovci",
+                    "latitude": "41.98029000",
+                    "longitude": "21.64982000"
+                },
+                {
+                    "id": 67575,
+                    "name": "Идризово",
+                    "latitude": "41.96083000",
+                    "longitude": "21.57556000"
+                },
+                {
+                    "id": 67573,
+                    "name": "Јурумлери",
+                    "latitude": "41.96722000",
+                    "longitude": "21.55694000"
+                }
+            ]
+        },
+        {
+            "id": 678,
+            "name": "Jegunovce Municipality",
+            "state_code": "35",
+            "cities": [
+                {
+                    "id": 67445,
+                    "name": "Jegunovce",
+                    "latitude": "42.07238000",
+                    "longitude": "21.12367000"
+                },
+                {
+                    "id": 67559,
+                    "name": "Vratnica",
+                    "latitude": "42.14333000",
+                    "longitude": "21.11694000"
+                }
+            ]
+        },
+        {
+            "id": 674,
+            "name": "Karbinci",
+            "state_code": "37",
+            "cities": [
+                {
+                    "id": 67449,
+                    "name": "Karbinci",
+                    "latitude": "41.81758000",
+                    "longitude": "22.23529000"
+                }
+            ]
+        },
+        {
+            "id": 681,
+            "name": "Karpoš Municipality",
+            "state_code": "38",
+            "cities": [
+                {
+                    "id": 67526,
+                    "name": "Skopje",
+                    "latitude": "41.99646000",
+                    "longitude": "21.43141000"
+                }
+            ]
+        },
+        {
+            "id": 713,
+            "name": "Kavadarci Municipality",
+            "state_code": "36",
+            "cities": [
+                {
+                    "id": 67450,
+                    "name": "Kavadarci",
+                    "latitude": "41.43306000",
+                    "longitude": "22.01194000"
+                },
+                {
+                    "id": 67550,
+                    "name": "Vataša",
+                    "latitude": "41.41694000",
+                    "longitude": "22.01889000"
+                }
+            ]
+        },
+        {
+            "id": 688,
+            "name": "Kičevo Municipality",
+            "state_code": "40",
+            "cities": [
+                {
+                    "id": 67424,
+                    "name": "Drugovo",
+                    "latitude": "41.48490000",
+                    "longitude": "20.92636000"
+                },
+                {
+                    "id": 67452,
+                    "name": "Kičevo",
+                    "latitude": "41.51267000",
+                    "longitude": "20.95886000"
+                },
+                {
+                    "id": 67530,
+                    "name": "Srbica",
+                    "latitude": "41.58672000",
+                    "longitude": "21.03027000"
+                },
+                {
+                    "id": 67535,
+                    "name": "Strelci",
+                    "latitude": "41.54046000",
+                    "longitude": "21.00563000"
+                },
+                {
+                    "id": 67545,
+                    "name": "Tuin",
+                    "latitude": "41.61944000",
+                    "longitude": "21.04528000"
+                },
+                {
+                    "id": 67557,
+                    "name": "Vraneštica",
+                    "latitude": "41.44496000",
+                    "longitude": "21.02683000"
+                },
+                {
+                    "id": 67561,
+                    "name": "Zajas",
+                    "latitude": "41.60722000",
+                    "longitude": "20.93833000"
+                }
+            ]
+        },
+        {
+            "id": 686,
+            "name": "Kisela Voda Municipality",
+            "state_code": "39",
+            "cities": [
+                {
+                    "id": 67451,
+                    "name": "Kisela Voda",
+                    "latitude": "41.94889000",
+                    "longitude": "21.50278000"
+                }
+            ]
+        },
+        {
+            "id": 723,
+            "name": "Kočani Municipality",
+            "state_code": "42",
+            "cities": [
+                {
+                    "id": 67453,
+                    "name": "Kochani",
+                    "latitude": "41.91639000",
+                    "longitude": "22.41278000"
+                },
+                {
+                    "id": 67501,
+                    "name": "Orizari",
+                    "latitude": "41.92262000",
+                    "longitude": "22.44628000"
+                }
+            ]
+        },
+        {
+            "id": 665,
+            "name": "Konče Municipality",
+            "state_code": "41",
+            "cities": [
+                {
+                    "id": 67455,
+                    "name": "Konče",
+                    "latitude": "41.49511000",
+                    "longitude": "22.38359000"
+                }
+            ]
+        },
+        {
+            "id": 641,
+            "name": "Kratovo Municipality",
+            "state_code": "43",
+            "cities": [
+                {
+                    "id": 67458,
+                    "name": "Kratovo",
+                    "latitude": "42.07838000",
+                    "longitude": "22.18070000"
+                }
+            ]
+        },
+        {
+            "id": 677,
+            "name": "Kriva Palanka Municipality",
+            "state_code": "44",
+            "cities": [
+                {
+                    "id": 67459,
+                    "name": "Kriva Palanka",
+                    "latitude": "42.20088000",
+                    "longitude": "22.33244000"
+                }
+            ]
+        },
+        {
+            "id": 647,
+            "name": "Krivogaštani Municipality",
+            "state_code": "45",
+            "cities": [
+                {
+                    "id": 67460,
+                    "name": "Krivogashtani",
+                    "latitude": "41.33611000",
+                    "longitude": "21.33306000"
+                },
+                {
+                    "id": 67495,
+                    "name": "Obršani",
+                    "latitude": "41.28168000",
+                    "longitude": "21.36150000"
+                },
+                {
+                    "id": 67576,
+                    "name": "Клечовце",
+                    "latitude": "42.11611000",
+                    "longitude": "21.85722000"
+                }
+            ]
+        },
+        {
+            "id": 714,
+            "name": "Kruševo Municipality",
+            "state_code": "46",
+            "cities": [
+                {
+                    "id": 67402,
+                    "name": "Bučin",
+                    "latitude": "41.27377000",
+                    "longitude": "21.31692000"
+                },
+                {
+                    "id": 67461,
+                    "name": "Krusevo",
+                    "latitude": "41.36889000",
+                    "longitude": "21.24889000"
+                }
+            ]
+        },
+        {
+            "id": 683,
+            "name": "Kumanovo Municipality",
+            "state_code": "47",
+            "cities": [
+                {
+                    "id": 67387,
+                    "name": "Bedinje",
+                    "latitude": "42.14167000",
+                    "longitude": "21.69639000"
+                },
+                {
+                    "id": 67465,
+                    "name": "Kumanovo",
+                    "latitude": "42.13222000",
+                    "longitude": "21.71444000"
+                },
+                {
+                    "id": 67516,
+                    "name": "Romanovci",
+                    "latitude": "42.09472000",
+                    "longitude": "21.69306000"
+                }
+            ]
+        },
+        {
+            "id": 659,
+            "name": "Lipkovo Municipality",
+            "state_code": "48",
+            "cities": [
+                {
+                    "id": 67443,
+                    "name": "Izvor",
+                    "latitude": "42.20322000",
+                    "longitude": "21.57812000"
+                },
+                {
+                    "id": 67469,
+                    "name": "Lipkovo",
+                    "latitude": "42.15639000",
+                    "longitude": "21.58528000"
+                },
+                {
+                    "id": 67473,
+                    "name": "Lojane",
+                    "latitude": "42.23276000",
+                    "longitude": "21.66550000"
+                },
+                {
+                    "id": 67480,
+                    "name": "Matejce",
+                    "latitude": "42.12556000",
+                    "longitude": "21.59778000"
+                },
+                {
+                    "id": 67502,
+                    "name": "Otlja",
+                    "latitude": "42.14315000",
+                    "longitude": "21.58675000"
+                },
+                {
+                    "id": 67547,
+                    "name": "Vaksince",
+                    "latitude": "42.20611000",
+                    "longitude": "21.66306000"
+                },
+                {
+                    "id": 67579,
+                    "name": "Слупчане",
+                    "latitude": "42.17333000",
+                    "longitude": "21.62778000"
+                }
+            ]
+        },
+        {
+            "id": 705,
+            "name": "Lozovo Municipality",
+            "state_code": "49",
+            "cities": [
+                {
+                    "id": 67474,
+                    "name": "Lozovo",
+                    "latitude": "41.78389000",
+                    "longitude": "21.90556000"
+                }
+            ]
+        },
+        {
+            "id": 701,
+            "name": "Makedonska Kamenica Municipality",
+            "state_code": "51",
+            "cities": [
+                {
+                    "id": 67476,
+                    "name": "Makedonska Kamenica",
+                    "latitude": "42.02079000",
+                    "longitude": "22.58760000"
+                }
+            ]
+        },
+        {
+            "id": 692,
+            "name": "Makedonski Brod Municipality",
+            "state_code": "52",
+            "cities": [
+                {
+                    "id": 67477,
+                    "name": "Makedonski Brod",
+                    "latitude": "41.51361000",
+                    "longitude": "21.21528000"
+                },
+                {
+                    "id": 67520,
+                    "name": "Samokov",
+                    "latitude": "41.68331000",
+                    "longitude": "21.14625000"
+                }
+            ]
+        },
+        {
+            "id": 669,
+            "name": "Mavrovo and Rostuša Municipality",
+            "state_code": "50",
+            "cities": [
+                {
+                    "id": 67518,
+                    "name": "Rostusa",
+                    "latitude": "41.61000000",
+                    "longitude": "20.60000000"
+                }
+            ]
+        },
+        {
+            "id": 653,
+            "name": "Mogila Municipality",
+            "state_code": "53",
+            "cities": [
+                {
+                    "id": 67389,
+                    "name": "Beranci",
+                    "latitude": "41.15969000",
+                    "longitude": "21.35963000"
+                },
+                {
+                    "id": 67416,
+                    "name": "Dobruševo",
+                    "latitude": "41.16861000",
+                    "longitude": "21.48250000"
+                },
+                {
+                    "id": 67422,
+                    "name": "Dolno Srpci",
+                    "latitude": "41.17480000",
+                    "longitude": "21.36464000"
+                },
+                {
+                    "id": 67486,
+                    "name": "Mogila",
+                    "latitude": "41.10833000",
+                    "longitude": "21.37861000"
+                }
+            ]
+        },
+        {
+            "id": 664,
+            "name": "Negotino Municipality",
+            "state_code": "54",
+            "cities": [
+                {
+                    "id": 67490,
+                    "name": "Negotino",
+                    "latitude": "41.48456000",
+                    "longitude": "22.09056000"
+                }
+            ]
+        },
+        {
+            "id": 696,
+            "name": "Novaci Municipality",
+            "state_code": "55",
+            "cities": [
+                {
+                    "id": 67492,
+                    "name": "Novaci",
+                    "latitude": "41.04197000",
+                    "longitude": "21.45866000"
+                }
+            ]
+        },
+        {
+            "id": 718,
+            "name": "Novo Selo Municipality",
+            "state_code": "56",
+            "cities": [
+                {
+                    "id": 67493,
+                    "name": "Novo Selo",
+                    "latitude": "41.41486000",
+                    "longitude": "22.88164000"
+                },
+                {
+                    "id": 67540,
+                    "name": "Sušica",
+                    "latitude": "41.43982000",
+                    "longitude": "22.83676000"
+                }
+            ]
+        },
+        {
+            "id": 699,
+            "name": "Ohrid Municipality",
+            "state_code": "58",
+            "cities": [
+                {
+                    "id": 67456,
+                    "name": "Kosel",
+                    "latitude": "41.17444000",
+                    "longitude": "20.83556000"
+                },
+                {
+                    "id": 67496,
+                    "name": "Ohrid",
+                    "latitude": "41.11722000",
+                    "longitude": "20.80194000"
+                },
+                {
+                    "id": 67497,
+                    "name": "Ohrid Opština",
+                    "latitude": "41.16667000",
+                    "longitude": "20.83333000"
+                }
+            ]
+        },
+        {
+            "id": 682,
+            "name": "Oslomej Municipality",
+            "state_code": "57",
+            "cities": []
+        },
+        {
+            "id": 685,
+            "name": "Pehčevo Municipality",
+            "state_code": "60",
+            "cities": [
+                {
+                    "id": 67503,
+                    "name": "Pehčevo",
+                    "latitude": "41.76226000",
+                    "longitude": "22.88921000"
+                }
+            ]
+        },
+        {
+            "id": 698,
+            "name": "Petrovec Municipality",
+            "state_code": "59",
+            "cities": [
+                {
+                    "id": 67532,
+                    "name": "Sredno Konjare",
+                    "latitude": "41.95743000",
+                    "longitude": "21.71494000"
+                },
+                {
+                    "id": 67577,
+                    "name": "Петровец",
+                    "latitude": "41.93889000",
+                    "longitude": "21.61500000"
+                }
+            ]
+        },
+        {
+            "id": 670,
+            "name": "Plasnica Municipality",
+            "state_code": "61",
+            "cities": [
+                {
+                    "id": 67470,
+                    "name": "Lisičani",
+                    "latitude": "41.46139000",
+                    "longitude": "21.05444000"
+                },
+                {
+                    "id": 67506,
+                    "name": "Plasnica",
+                    "latitude": "41.46722000",
+                    "longitude": "21.12306000"
+                }
+            ]
+        },
+        {
+            "id": 666,
+            "name": "Prilep Municipality",
+            "state_code": "62",
+            "cities": [
+                {
+                    "id": 67448,
+                    "name": "Kanatlarci",
+                    "latitude": "41.21028000",
+                    "longitude": "21.50333000"
+                },
+                {
+                    "id": 67479,
+                    "name": "Markov Grad",
+                    "latitude": "41.35722000",
+                    "longitude": "21.53250000"
+                },
+                {
+                    "id": 67509,
+                    "name": "Prilep",
+                    "latitude": "41.34514000",
+                    "longitude": "21.55504000"
+                },
+                {
+                    "id": 67544,
+                    "name": "Topolčani",
+                    "latitude": "41.22772000",
+                    "longitude": "21.43113000"
+                }
+            ]
+        },
+        {
+            "id": 646,
+            "name": "Probištip Municipality",
+            "state_code": "63",
+            "cities": [
+                {
+                    "id": 67510,
+                    "name": "Probishtip",
+                    "latitude": "42.00306000",
+                    "longitude": "22.17861000"
+                },
+                {
+                    "id": 67564,
+                    "name": "Zletovo",
+                    "latitude": "41.98861000",
+                    "longitude": "22.23611000"
+                }
+            ]
+        },
+        {
+            "id": 709,
+            "name": "Radoviš Municipality",
+            "state_code": "64",
+            "cities": [
+                {
+                    "id": 67499,
+                    "name": "Oraovica",
+                    "latitude": "41.62583000",
+                    "longitude": "22.51333000"
+                },
+                {
+                    "id": 67507,
+                    "name": "Podareš",
+                    "latitude": "41.61389000",
+                    "longitude": "22.54222000"
+                },
+                {
+                    "id": 67514,
+                    "name": "Radovis",
+                    "latitude": "41.63833000",
+                    "longitude": "22.46472000"
+                }
+            ]
+        },
+        {
+            "id": 717,
+            "name": "Rankovce Municipality",
+            "state_code": "65",
+            "cities": [
+                {
+                    "id": 67578,
+                    "name": "Ранковце",
+                    "latitude": "42.16964000",
+                    "longitude": "22.11617000"
+                }
+            ]
+        },
+        {
+            "id": 712,
+            "name": "Resen Municipality",
+            "state_code": "66",
+            "cities": [
+                {
+                    "id": 67437,
+                    "name": "Grnčari",
+                    "latitude": "41.01722000",
+                    "longitude": "21.05333000"
+                },
+                {
+                    "id": 67444,
+                    "name": "Jankovec",
+                    "latitude": "41.11028000",
+                    "longitude": "21.01139000"
+                },
+                {
+                    "id": 67457,
+                    "name": "Krani",
+                    "latitude": "40.93934000",
+                    "longitude": "21.10911000"
+                },
+                {
+                    "id": 67515,
+                    "name": "Resen",
+                    "latitude": "41.08934000",
+                    "longitude": "21.01092000"
+                }
+            ]
+        },
+        {
+            "id": 691,
+            "name": "Rosoman Municipality",
+            "state_code": "67",
+            "cities": [
+                {
+                    "id": 67517,
+                    "name": "Rosoman",
+                    "latitude": "41.51671000",
+                    "longitude": "21.94585000"
+                }
+            ]
+        },
+        {
+            "id": 667,
+            "name": "Saraj Municipality",
+            "state_code": "68",
+            "cities": [
+                {
+                    "id": 67400,
+                    "name": "Bukovik",
+                    "latitude": "41.96833000",
+                    "longitude": "21.23694000"
+                },
+                {
+                    "id": 67438,
+                    "name": "Grčec",
+                    "latitude": "41.98806000",
+                    "longitude": "21.33028000"
+                },
+                {
+                    "id": 67454,
+                    "name": "Kondovo",
+                    "latitude": "42.01167000",
+                    "longitude": "21.31361000"
+                },
+                {
+                    "id": 67462,
+                    "name": "Krušopek",
+                    "latitude": "41.97833000",
+                    "longitude": "21.35444000"
+                }
+            ]
+        },
+        {
+            "id": 719,
+            "name": "Sopište Municipality",
+            "state_code": "70",
+            "cities": [
+                {
+                    "id": 67580,
+                    "name": "Сопиште",
+                    "latitude": "41.95472000",
+                    "longitude": "21.42750000"
+                }
+            ]
+        },
+        {
+            "id": 643,
+            "name": "Staro Nagoričane Municipality",
+            "state_code": "71",
+            "cities": [
+                {
+                    "id": 67581,
+                    "name": "Старо Нагоричане",
+                    "latitude": "42.19806000",
+                    "longitude": "21.82861000"
+                }
+            ]
+        },
+        {
+            "id": 661,
+            "name": "Štip Municipality",
+            "state_code": "83",
+            "cities": [
+                {
+                    "id": 67525,
+                    "name": "Shtip",
+                    "latitude": "41.74583000",
+                    "longitude": "22.19583000"
+                }
+            ]
+        },
+        {
+            "id": 700,
+            "name": "Struga Municipality",
+            "state_code": "72",
+            "cities": [
+                {
+                    "id": 67409,
+                    "name": "Delogožda",
+                    "latitude": "41.25728000",
+                    "longitude": "20.72180000"
+                },
+                {
+                    "id": 67466,
+                    "name": "Labunista",
+                    "latitude": "41.26861000",
+                    "longitude": "20.59611000"
+                },
+                {
+                    "id": 67475,
+                    "name": "Lukovo",
+                    "latitude": "41.35339000",
+                    "longitude": "20.60637000"
+                },
+                {
+                    "id": 67485,
+                    "name": "Mislesevo",
+                    "latitude": "41.18500000",
+                    "longitude": "20.70861000"
+                },
+                {
+                    "id": 67498,
+                    "name": "Oktisi",
+                    "latitude": "41.23250000",
+                    "longitude": "20.60722000"
+                },
+                {
+                    "id": 67513,
+                    "name": "Radolista",
+                    "latitude": "41.16417000",
+                    "longitude": "20.62333000"
+                },
+                {
+                    "id": 67537,
+                    "name": "Struga",
+                    "latitude": "41.17799000",
+                    "longitude": "20.67784000"
+                },
+                {
+                    "id": 67552,
+                    "name": "Velesta",
+                    "latitude": "41.24083000",
+                    "longitude": "20.64389000"
+                }
+            ]
+        },
+        {
+            "id": 710,
+            "name": "Strumica Municipality",
+            "state_code": "73",
+            "cities": [
+                {
+                    "id": 67463,
+                    "name": "Kuklis",
+                    "latitude": "41.40528000",
+                    "longitude": "22.66528000"
+                },
+                {
+                    "id": 67488,
+                    "name": "Murtino",
+                    "latitude": "41.41537000",
+                    "longitude": "22.72589000"
+                },
+                {
+                    "id": 67538,
+                    "name": "Strumica",
+                    "latitude": "41.43750000",
+                    "longitude": "22.64333000"
+                },
+                {
+                    "id": 67553,
+                    "name": "Veljusa",
+                    "latitude": "41.47611000",
+                    "longitude": "22.56750000"
+                }
+            ]
+        },
+        {
+            "id": 711,
+            "name": "Studeničani Municipality",
+            "state_code": "74",
+            "cities": [
+                {
+                    "id": 67386,
+                    "name": "Batinci",
+                    "latitude": "41.91909000",
+                    "longitude": "21.47978000"
+                },
+                {
+                    "id": 67419,
+                    "name": "Dolno Količani",
+                    "latitude": "41.88639000",
+                    "longitude": "21.48556000"
+                },
+                {
+                    "id": 67487,
+                    "name": "Morani",
+                    "latitude": "41.90978000",
+                    "longitude": "21.54997000"
+                },
+                {
+                    "id": 67539,
+                    "name": "Studeničane",
+                    "latitude": "41.92208000",
+                    "longitude": "21.53483000"
+                }
+            ]
+        },
+        {
+            "id": 680,
+            "name": "Šuto Orizari Municipality",
+            "state_code": "84",
+            "cities": [
+                {
+                    "id": 67571,
+                    "name": "Šuto Orizare",
+                    "latitude": "42.04000000",
+                    "longitude": "21.42500000"
+                }
+            ]
+        },
+        {
+            "id": 640,
+            "name": "Sveti Nikole Municipality",
+            "state_code": "69",
+            "cities": [
+                {
+                    "id": 67432,
+                    "name": "Gorobinci",
+                    "latitude": "41.87507000",
+                    "longitude": "21.87599000"
+                },
+                {
+                    "id": 67541,
+                    "name": "Sveti Nikole",
+                    "latitude": "41.86956000",
+                    "longitude": "21.95274000"
+                }
+            ]
+        },
+        {
+            "id": 654,
+            "name": "Tearce Municipality",
+            "state_code": "75",
+            "cities": [
+                {
+                    "id": 67491,
+                    "name": "Nerašte",
+                    "latitude": "42.10711000",
+                    "longitude": "21.10810000"
+                },
+                {
+                    "id": 67500,
+                    "name": "Orashac",
+                    "latitude": "42.06250000",
+                    "longitude": "21.79972000"
+                },
+                {
+                    "id": 67511,
+                    "name": "Pršovce",
+                    "latitude": "42.08336000",
+                    "longitude": "21.05994000"
+                },
+                {
+                    "id": 67527,
+                    "name": "Slatino",
+                    "latitude": "42.06784000",
+                    "longitude": "21.03902000"
+                },
+                {
+                    "id": 67542,
+                    "name": "Tearce",
+                    "latitude": "42.07666000",
+                    "longitude": "21.05310000"
+                }
+            ]
+        },
+        {
+            "id": 663,
+            "name": "Tetovo Municipality",
+            "state_code": "76",
+            "cities": [
+                {
+                    "id": 67415,
+                    "name": "Dobrošte",
+                    "latitude": "42.10333000",
+                    "longitude": "21.07778000"
+                },
+                {
+                    "id": 67425,
+                    "name": "Džepčište",
+                    "latitude": "42.03287000",
+                    "longitude": "20.99817000"
+                },
+                {
+                    "id": 67429,
+                    "name": "Golema Rečica",
+                    "latitude": "41.98803000",
+                    "longitude": "20.94517000"
+                },
+                {
+                    "id": 67505,
+                    "name": "Pirok",
+                    "latitude": "41.91083000",
+                    "longitude": "20.91056000"
+                },
+                {
+                    "id": 67508,
+                    "name": "Poroj",
+                    "latitude": "42.02913000",
+                    "longitude": "20.99266000"
+                },
+                {
+                    "id": 67524,
+                    "name": "Selce",
+                    "latitude": "42.03482000",
+                    "longitude": "20.94035000"
+                },
+                {
+                    "id": 67570,
+                    "name": "Šipkovica",
+                    "latitude": "42.03500000",
+                    "longitude": "20.91556000"
+                },
+                {
+                    "id": 67543,
+                    "name": "Tetovo",
+                    "latitude": "42.00973000",
+                    "longitude": "20.97155000"
+                }
+            ]
+        },
+        {
+            "id": 671,
+            "name": "Valandovo Municipality",
+            "state_code": "10",
+            "cities": [
+                {
+                    "id": 67504,
+                    "name": "Pirava",
+                    "latitude": "41.32042000",
+                    "longitude": "22.53047000"
+                },
+                {
+                    "id": 67548,
+                    "name": "Valandovo",
+                    "latitude": "41.31744000",
+                    "longitude": "22.56002000"
+                }
+            ]
+        },
+        {
+            "id": 658,
+            "name": "Vasilevo Municipality",
+            "state_code": "11",
+            "cities": [
+                {
+                    "id": 67549,
+                    "name": "Vasilevo",
+                    "latitude": "41.47408000",
+                    "longitude": "22.64301000"
+                }
+            ]
+        },
+        {
+            "id": 651,
+            "name": "Veles Municipality",
+            "state_code": "13",
+            "cities": [
+                {
+                    "id": 67431,
+                    "name": "Gorno Orizari",
+                    "latitude": "41.68583000",
+                    "longitude": "21.73475000"
+                },
+                {
+                    "id": 67442,
+                    "name": "Ivankovci",
+                    "latitude": "41.84889000",
+                    "longitude": "21.82028000"
+                },
+                {
+                    "id": 67551,
+                    "name": "Veles",
+                    "latitude": "41.71556000",
+                    "longitude": "21.77556000"
+                }
+            ]
+        },
+        {
+            "id": 662,
+            "name": "Vevčani Municipality",
+            "state_code": "12",
+            "cities": [
+                {
+                    "id": 67554,
+                    "name": "Vevčani",
+                    "latitude": "41.24056000",
+                    "longitude": "20.59333000"
+                }
+            ]
+        },
+        {
+            "id": 672,
+            "name": "Vinica Municipality",
+            "state_code": "14",
+            "cities": [
+                {
+                    "id": 67393,
+                    "name": "Blatec",
+                    "latitude": "41.83668000",
+                    "longitude": "22.57909000"
+                },
+                {
+                    "id": 67435,
+                    "name": "Gradec",
+                    "latitude": "41.85068000",
+                    "longitude": "22.51132000"
+                },
+                {
+                    "id": 67555,
+                    "name": "Vinica",
+                    "latitude": "41.88278000",
+                    "longitude": "22.50917000"
+                }
+            ]
+        },
+        {
+            "id": 650,
+            "name": "Vraneštica Municipality",
+            "state_code": "15",
+            "cities": []
+        },
+        {
+            "id": 689,
+            "name": "Vrapčište Municipality",
+            "state_code": "16",
+            "cities": [
+                {
+                    "id": 67414,
+                    "name": "Dobri Dol",
+                    "latitude": "41.86520000",
+                    "longitude": "20.89009000"
+                },
+                {
+                    "id": 67489,
+                    "name": "Negotino",
+                    "latitude": "41.87792000",
+                    "longitude": "20.88389000"
+                },
+                {
+                    "id": 67558,
+                    "name": "Vrapčište",
+                    "latitude": "41.83439000",
+                    "longitude": "20.88563000"
+                }
+            ]
+        },
+        {
+            "id": 642,
+            "name": "Zajas Municipality",
+            "state_code": "31",
+            "cities": []
+        },
+        {
+            "id": 706,
+            "name": "Zelenikovo Municipality",
+            "state_code": "32",
+            "cities": [
+                {
+                    "id": 67562,
+                    "name": "Zelenikovo",
+                    "latitude": "41.88413000",
+                    "longitude": "21.58848000"
+                }
+            ]
+        },
+        {
+            "id": 668,
+            "name": "Želino Municipality",
+            "state_code": "30",
+            "cities": [
+                {
+                    "id": 67413,
+                    "name": "Dobarce",
+                    "latitude": "41.95530000",
+                    "longitude": "21.08875000"
+                },
+                {
+                    "id": 67467,
+                    "name": "Larce",
+                    "latitude": "41.93319000",
+                    "longitude": "21.12628000"
+                },
+                {
+                    "id": 67522,
+                    "name": "Sedlarevo",
+                    "latitude": "41.88306000",
+                    "longitude": "21.12750000"
+                },
+                {
+                    "id": 67536,
+                    "name": "Strimnica",
+                    "latitude": "41.96719000",
+                    "longitude": "21.03598000"
+                },
+                {
+                    "id": 67563,
+                    "name": "Zelino",
+                    "latitude": "41.98028000",
+                    "longitude": "21.06417000"
+                }
+            ]
+        },
+        {
+            "id": 673,
+            "name": "Zrnovci Municipality",
+            "state_code": "33",
+            "cities": [
+                {
+                    "id": 67565,
+                    "name": "Zrnovci",
+                    "latitude": "41.85417000",
+                    "longitude": "22.44444000"
+                }
+            ]
+        }
+    ],
+    "independence": 1991,
+    "government": "Republic",
+    "continent": "Europe",
+    "temperature": null,
+    "religion": "Christianity",
+    "location": "Southern Europe",
+    "density": 82.6,
+    "symbol": null,
+    "expectancy": 81.6,
+    "dish": null,
+    "wiki": "http://en.wikipedia.org/wiki/macedonia_former_yugoslav_republic_of"
+}

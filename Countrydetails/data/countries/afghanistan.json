@@ -1,0 +1,1151 @@
+{
+    "name": "Afghanistan",
+    "altSpellings": [
+      "AF",
+      "Afġānistān"
+    ],
+    "area": 652230,
+    "borders": [
+      "IRN",
+      "PAK",
+      "TKM",
+      "UZB",
+      "TJK",
+      "CHN"
+    ],
+    "callingCodes": [
+      "93"
+    ],
+    "capital": "Kabul",
+    "capital_latlng": [
+      34.526011,
+      69.177684
+    ],
+    "currencies": [
+      "AFN"
+    ],
+    "demonym": "Afghan",
+    "flag": "http://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Afghanistan.svg",
+    "geoJSON": {
+      "type": "FeatureCollection",
+      "features": [
+        {
+          "type": "Feature",
+          "id": "AFG",
+          "properties": {
+            "name": "Afghanistan"
+          },
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  61.210817,
+                  35.650072
+                ],
+                [
+                  62.230651,
+                  35.270664
+                ],
+                [
+                  62.984662,
+                  35.404041
+                ],
+                [
+                  63.193538,
+                  35.857166
+                ],
+                [
+                  63.982896,
+                  36.007957
+                ],
+                [
+                  64.546479,
+                  36.312073
+                ],
+                [
+                  64.746105,
+                  37.111818
+                ],
+                [
+                  65.588948,
+                  37.305217
+                ],
+                [
+                  65.745631,
+                  37.661164
+                ],
+                [
+                  66.217385,
+                  37.39379
+                ],
+                [
+                  66.518607,
+                  37.362784
+                ],
+                [
+                  67.075782,
+                  37.356144
+                ],
+                [
+                  67.83,
+                  37.144994
+                ],
+                [
+                  68.135562,
+                  37.023115
+                ],
+                [
+                  68.859446,
+                  37.344336
+                ],
+                [
+                  69.196273,
+                  37.151144
+                ],
+                [
+                  69.518785,
+                  37.608997
+                ],
+                [
+                  70.116578,
+                  37.588223
+                ],
+                [
+                  70.270574,
+                  37.735165
+                ],
+                [
+                  70.376304,
+                  38.138396
+                ],
+                [
+                  70.806821,
+                  38.486282
+                ],
+                [
+                  71.348131,
+                  38.258905
+                ],
+                [
+                  71.239404,
+                  37.953265
+                ],
+                [
+                  71.541918,
+                  37.905774
+                ],
+                [
+                  71.448693,
+                  37.065645
+                ],
+                [
+                  71.844638,
+                  36.738171
+                ],
+                [
+                  72.193041,
+                  36.948288
+                ],
+                [
+                  72.63689,
+                  37.047558
+                ],
+                [
+                  73.260056,
+                  37.495257
+                ],
+                [
+                  73.948696,
+                  37.421566
+                ],
+                [
+                  74.980002,
+                  37.41999
+                ],
+                [
+                  75.158028,
+                  37.133031
+                ],
+                [
+                  74.575893,
+                  37.020841
+                ],
+                [
+                  74.067552,
+                  36.836176
+                ],
+                [
+                  72.920025,
+                  36.720007
+                ],
+                [
+                  71.846292,
+                  36.509942
+                ],
+                [
+                  71.262348,
+                  36.074388
+                ],
+                [
+                  71.498768,
+                  35.650563
+                ],
+                [
+                  71.613076,
+                  35.153203
+                ],
+                [
+                  71.115019,
+                  34.733126
+                ],
+                [
+                  71.156773,
+                  34.348911
+                ],
+                [
+                  70.881803,
+                  33.988856
+                ],
+                [
+                  69.930543,
+                  34.02012
+                ],
+                [
+                  70.323594,
+                  33.358533
+                ],
+                [
+                  69.687147,
+                  33.105499
+                ],
+                [
+                  69.262522,
+                  32.501944
+                ],
+                [
+                  69.317764,
+                  31.901412
+                ],
+                [
+                  68.926677,
+                  31.620189
+                ],
+                [
+                  68.556932,
+                  31.71331
+                ],
+                [
+                  67.792689,
+                  31.58293
+                ],
+                [
+                  67.683394,
+                  31.303154
+                ],
+                [
+                  66.938891,
+                  31.304911
+                ],
+                [
+                  66.381458,
+                  30.738899
+                ],
+                [
+                  66.346473,
+                  29.887943
+                ],
+                [
+                  65.046862,
+                  29.472181
+                ],
+                [
+                  64.350419,
+                  29.560031
+                ],
+                [
+                  64.148002,
+                  29.340819
+                ],
+                [
+                  63.550261,
+                  29.468331
+                ],
+                [
+                  62.549857,
+                  29.318572
+                ],
+                [
+                  60.874248,
+                  29.829239
+                ],
+                [
+                  61.781222,
+                  30.73585
+                ],
+                [
+                  61.699314,
+                  31.379506
+                ],
+                [
+                  60.941945,
+                  31.548075
+                ],
+                [
+                  60.863655,
+                  32.18292
+                ],
+                [
+                  60.536078,
+                  32.981269
+                ],
+                [
+                  60.9637,
+                  33.528832
+                ],
+                [
+                  60.52843,
+                  33.676446
+                ],
+                [
+                  60.803193,
+                  34.404102
+                ],
+                [
+                  61.210817,
+                  35.650072
+                ]
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    "ISO": {
+      "alpha2": "AF",
+      "alpha3": "AFG"
+    },
+    "languages": [
+      "Balochi",
+      "Dari",
+      "Pashto",
+      "Turkmenian",
+      "Uzbek"
+    ],
+    "latlng": [
+      33,
+      65
+    ],
+    "nativeName": "افغانستان",
+    "population": 26023100,
+    "states": [
+      {
+          "id": 3901,
+          "name": "Badakhshan",
+          "state_code": "BDS",
+          "cities": [
+              {
+                  "id": 52,
+                  "name": "Ashkāsham",
+                  "latitude": "36.68333000",
+                  "longitude": "71.53333000"
+              },
+              {
+                  "id": 68,
+                  "name": "Fayzabad",
+                  "latitude": "37.11664000",
+                  "longitude": "70.58002000"
+              },
+              {
+                  "id": 78,
+                  "name": "Jurm",
+                  "latitude": "36.86477000",
+                  "longitude": "70.83421000"
+              },
+              {
+                  "id": 84,
+                  "name": "Khandūd",
+                  "latitude": "36.95127000",
+                  "longitude": "72.31800000"
+              },
+              {
+                  "id": 115,
+                  "name": "Rāghistān",
+                  "latitude": "37.66079000",
+                  "longitude": "70.67346000"
+              },
+              {
+                  "id": 131,
+                  "name": "Wākhān",
+                  "latitude": "37.05710000",
+                  "longitude": "73.34928000"
+              }
+          ]
+      },
+      {
+          "id": 3871,
+          "name": "Badghis",
+          "state_code": "BDG",
+          "cities": [
+              {
+                  "id": 72,
+                  "name": "Ghormach",
+                  "latitude": "35.73062000",
+                  "longitude": "63.78264000"
+              },
+              {
+                  "id": 108,
+                  "name": "Qala i Naw",
+                  "latitude": "34.98735000",
+                  "longitude": "63.12891000"
+              }
+          ]
+      },
+      {
+          "id": 3875,
+          "name": "Baghlan",
+          "state_code": "BGL",
+          "cities": [
+              {
+                  "id": 54,
+                  "name": "Baghlān",
+                  "latitude": "36.13068000",
+                  "longitude": "68.70829000"
+              },
+              {
+                  "id": 140,
+                  "name": "Ḩukūmatī Dahanah-ye Ghōrī",
+                  "latitude": "35.90617000",
+                  "longitude": "68.48869000"
+              },
+              {
+                  "id": 101,
+                  "name": "Nahrīn",
+                  "latitude": "36.06490000",
+                  "longitude": "69.13343000"
+              },
+              {
+                  "id": 105,
+                  "name": "Pul-e Khumrī",
+                  "latitude": "35.94458000",
+                  "longitude": "68.71512000"
+              }
+          ]
+      },
+      {
+          "id": 3884,
+          "name": "Balkh",
+          "state_code": "BAL",
+          "cities": [
+              {
+                  "id": 55,
+                  "name": "Balkh",
+                  "latitude": "36.75635000",
+                  "longitude": "66.89720000"
+              },
+              {
+                  "id": 65,
+                  "name": "Dowlatābād",
+                  "latitude": "36.98821000",
+                  "longitude": "66.82069000"
+              },
+              {
+                  "id": 85,
+                  "name": "Khulm",
+                  "latitude": "36.69736000",
+                  "longitude": "67.69826000"
+              },
+              {
+                  "id": 91,
+                  "name": "Lab-Sar",
+                  "latitude": "36.02634000",
+                  "longitude": "66.83799000"
+              },
+              {
+                  "id": 97,
+                  "name": "Mazār-e Sharīf",
+                  "latitude": "36.70904000",
+                  "longitude": "67.11087000"
+              },
+              {
+                  "id": 112,
+                  "name": "Qarchī Gak",
+                  "latitude": "37.03999000",
+                  "longitude": "66.78891000"
+              }
+          ]
+      },
+      {
+          "id": 3872,
+          "name": "Bamyan",
+          "state_code": "BAM",
+          "cities": [
+              {
+                  "id": 57,
+                  "name": "Bāmyān",
+                  "latitude": "34.82156000",
+                  "longitude": "67.82734000"
+              },
+              {
+                  "id": 104,
+                  "name": "Panjāb",
+                  "latitude": "34.38795000",
+                  "longitude": "67.02327000"
+              }
+          ]
+      },
+      {
+          "id": 3892,
+          "name": "Daykundi",
+          "state_code": "DAY",
+          "cities": [
+              {
+                  "id": 102,
+                  "name": "Nīlī",
+                  "latitude": "33.76329000",
+                  "longitude": "66.07617000"
+              }
+          ]
+      },
+      {
+          "id": 3899,
+          "name": "Farah",
+          "state_code": "FRA",
+          "cities": [
+              {
+                  "id": 66,
+                  "name": "Farah",
+                  "latitude": "32.37451000",
+                  "longitude": "62.11638000"
+              }
+          ]
+      },
+      {
+          "id": 3889,
+          "name": "Faryab",
+          "state_code": "FYB",
+          "cities": [
+              {
+                  "id": 50,
+                  "name": "Andkhoy",
+                  "latitude": "36.95293000",
+                  "longitude": "65.12376000"
+              },
+              {
+                  "id": 96,
+                  "name": "Maymana",
+                  "latitude": "35.92139000",
+                  "longitude": "64.78361000"
+              }
+          ]
+      },
+      {
+          "id": 3870,
+          "name": "Ghazni",
+          "state_code": "GHA",
+          "cities": [
+              {
+                  "id": 71,
+                  "name": "Ghazni",
+                  "latitude": "33.55391000",
+                  "longitude": "68.42096000"
+              }
+          ]
+      },
+      {
+          "id": 3888,
+          "name": "Ghōr",
+          "state_code": "GHO",
+          "cities": [
+              {
+                  "id": 67,
+                  "name": "Fayrōz Kōh",
+                  "latitude": "34.51952000",
+                  "longitude": "65.25093000"
+              },
+              {
+                  "id": 121,
+                  "name": "Shahrak",
+                  "latitude": "34.10737000",
+                  "longitude": "64.30520000"
+              }
+          ]
+      },
+      {
+          "id": 3873,
+          "name": "Helmand",
+          "state_code": "HEL",
+          "cities": [
+              {
+                  "id": 141,
+                  "name": "‘Alāqahdārī Dīshū",
+                  "latitude": "30.43206000",
+                  "longitude": "63.29802000"
+              },
+              {
+                  "id": 70,
+                  "name": "Gereshk",
+                  "latitude": "31.82089000",
+                  "longitude": "64.57005000"
+              },
+              {
+                  "id": 93,
+                  "name": "Lashkar Gāh",
+                  "latitude": "31.59382000",
+                  "longitude": "64.37161000"
+              },
+              {
+                  "id": 95,
+                  "name": "Markaz-e Ḩukūmat-e Darwēshān",
+                  "latitude": "31.13231000",
+                  "longitude": "64.19340000"
+              },
+              {
+                  "id": 118,
+                  "name": "Sangīn",
+                  "latitude": "32.07275000",
+                  "longitude": "64.83590000"
+              }
+          ]
+      },
+      {
+          "id": 3887,
+          "name": "Herat",
+          "state_code": "HER",
+          "cities": [
+              {
+                  "id": 60,
+                  "name": "Chahār Burj",
+                  "latitude": "34.24475000",
+                  "longitude": "62.19165000"
+              },
+              {
+                  "id": 73,
+                  "name": "Ghōriyān",
+                  "latitude": "34.34480000",
+                  "longitude": "61.49321000"
+              },
+              {
+                  "id": 74,
+                  "name": "Herāt",
+                  "latitude": "34.34817000",
+                  "longitude": "62.19967000"
+              },
+              {
+                  "id": 80,
+                  "name": "Kafir Qala",
+                  "latitude": "34.66667000",
+                  "longitude": "61.06667000"
+              },
+              {
+                  "id": 82,
+                  "name": "Karukh",
+                  "latitude": "34.48108000",
+                  "longitude": "62.58630000"
+              },
+              {
+                  "id": 88,
+                  "name": "Kuhsān",
+                  "latitude": "34.65389000",
+                  "longitude": "61.19778000"
+              },
+              {
+                  "id": 90,
+                  "name": "Kushk",
+                  "latitude": "33.29565000",
+                  "longitude": "61.95221000"
+              },
+              {
+                  "id": 111,
+                  "name": "Qarah Bāgh",
+                  "latitude": "34.94023000",
+                  "longitude": "61.77589000"
+              },
+              {
+                  "id": 123,
+                  "name": "Shīnḏanḏ",
+                  "latitude": "33.30294000",
+                  "longitude": "62.14740000"
+              },
+              {
+                  "id": 129,
+                  "name": "Tīr Pul",
+                  "latitude": "34.59431000",
+                  "longitude": "61.26895000"
+              },
+              {
+                  "id": 135,
+                  "name": "Zindah Jān",
+                  "latitude": "34.34264000",
+                  "longitude": "61.74675000"
+              }
+          ]
+      },
+      {
+          "id": 3886,
+          "name": "Jowzjan",
+          "state_code": "JOW",
+          "cities": [
+              {
+                  "id": 136,
+                  "name": "Āqchah",
+                  "latitude": "36.90500000",
+                  "longitude": "66.18341000"
+              },
+              {
+                  "id": 63,
+                  "name": "Darzāb",
+                  "latitude": "35.97744000",
+                  "longitude": "65.37828000"
+              },
+              {
+                  "id": 113,
+                  "name": "Qarqīn",
+                  "latitude": "37.41853000",
+                  "longitude": "66.04358000"
+              },
+              {
+                  "id": 122,
+                  "name": "Shibirghān",
+                  "latitude": "36.66757000",
+                  "longitude": "65.75290000"
+              }
+          ]
+      },
+      {
+          "id": 3902,
+          "name": "Kabul",
+          "state_code": "KAB",
+          "cities": [
+              {
+                  "id": 79,
+                  "name": "Kabul",
+                  "latitude": "34.52813000",
+                  "longitude": "69.17233000"
+              },
+              {
+                  "id": 99,
+                  "name": "Mīr Bachah Kōṯ",
+                  "latitude": "34.74999000",
+                  "longitude": "69.11899000"
+              },
+              {
+                  "id": 103,
+                  "name": "Paghmān",
+                  "latitude": "34.58787000",
+                  "longitude": "68.95091000"
+              }
+          ]
+      },
+      {
+          "id": 3890,
+          "name": "Kandahar",
+          "state_code": "KAN",
+          "cities": [
+              {
+                  "id": 81,
+                  "name": "Kandahār",
+                  "latitude": "31.61332000",
+                  "longitude": "65.71013000"
+              }
+          ]
+      },
+      {
+          "id": 3879,
+          "name": "Kapisa",
+          "state_code": "KAP",
+          "cities": [
+              {
+                  "id": 124,
+                  "name": "Sidqābād",
+                  "latitude": "35.02298000",
+                  "longitude": "69.35112000"
+              }
+          ]
+      },
+      {
+          "id": 3878,
+          "name": "Khost",
+          "state_code": "KHO",
+          "cities": [
+              {
+                  "id": 87,
+                  "name": "Khōst",
+                  "latitude": "33.33951000",
+                  "longitude": "69.92041000"
+              }
+          ]
+      },
+      {
+          "id": 3876,
+          "name": "Kunar",
+          "state_code": "KNR",
+          "cities": [
+              {
+                  "id": 51,
+                  "name": "Asadabad",
+                  "latitude": "34.87311000",
+                  "longitude": "71.14697000"
+              },
+              {
+                  "id": 138,
+                  "name": "Āsmār",
+                  "latitude": "35.03333000",
+                  "longitude": "71.35809000"
+              }
+          ]
+      },
+      {
+          "id": 3900,
+          "name": "Kunduz Province",
+          "state_code": "KDZ",
+          "cities": [
+              {
+                  "id": 64,
+                  "name": "Dasht-e Archī",
+                  "latitude": "37.13333000",
+                  "longitude": "69.16667000"
+              },
+              {
+                  "id": 75,
+                  "name": "Imām Şāḩib",
+                  "latitude": "37.18897000",
+                  "longitude": "68.93644000"
+              },
+              {
+                  "id": 83,
+                  "name": "Khanabad",
+                  "latitude": "36.68250000",
+                  "longitude": "69.11556000"
+              },
+              {
+                  "id": 89,
+                  "name": "Kunduz",
+                  "latitude": "36.72895000",
+                  "longitude": "68.85700000"
+              },
+              {
+                  "id": 114,
+                  "name": "Qarāwul",
+                  "latitude": "37.21959000",
+                  "longitude": "68.78020000"
+              }
+          ]
+      },
+      {
+          "id": 3891,
+          "name": "Laghman",
+          "state_code": "LAG",
+          "cities": [
+              {
+                  "id": 98,
+                  "name": "Mehtar Lām",
+                  "latitude": "34.67139000",
+                  "longitude": "70.20944000"
+              }
+          ]
+      },
+      {
+          "id": 3897,
+          "name": "Logar",
+          "state_code": "LOG",
+          "cities": [
+              {
+                  "id": 56,
+                  "name": "Baraki Barak",
+                  "latitude": "33.96744000",
+                  "longitude": "68.94920000"
+              },
+              {
+                  "id": 139,
+                  "name": "Ḩukūmatī Azrah",
+                  "latitude": "34.17355000",
+                  "longitude": "69.64573000"
+              },
+              {
+                  "id": 106,
+                  "name": "Pul-e ‘Alam",
+                  "latitude": "33.99529000",
+                  "longitude": "69.02274000"
+              }
+          ]
+      },
+      {
+          "id": 3882,
+          "name": "Nangarhar",
+          "state_code": "NAN",
+          "cities": [
+              {
+                  "id": 58,
+                  "name": "Bāsawul",
+                  "latitude": "34.24749000",
+                  "longitude": "70.87218000"
+              },
+              {
+                  "id": 77,
+                  "name": "Jalālābād",
+                  "latitude": "34.42647000",
+                  "longitude": "70.45153000"
+              },
+              {
+                  "id": 94,
+                  "name": "Markaz-e Woluswalī-ye Āchīn",
+                  "latitude": "34.12583000",
+                  "longitude": "70.70778000"
+              }
+          ]
+      },
+      {
+          "id": 3896,
+          "name": "Nimruz",
+          "state_code": "NIM",
+          "cities": [
+              {
+                  "id": 86,
+                  "name": "Khāsh",
+                  "latitude": "31.52919000",
+                  "longitude": "62.79055000"
+              },
+              {
+                  "id": 100,
+                  "name": "Mīrābād",
+                  "latitude": "30.43624000",
+                  "longitude": "61.83830000"
+              },
+              {
+                  "id": 116,
+                  "name": "Rūdbār",
+                  "latitude": "30.15000000",
+                  "longitude": "62.60000000"
+              },
+              {
+                  "id": 132,
+                  "name": "Zaranj",
+                  "latitude": "30.95962000",
+                  "longitude": "61.86037000"
+              }
+          ]
+      },
+      {
+          "id": 3880,
+          "name": "Nuristan",
+          "state_code": "NUR",
+          "cities": [
+              {
+                  "id": 107,
+                  "name": "Pārūn",
+                  "latitude": "35.42064000",
+                  "longitude": "70.92261000"
+              }
+          ]
+      },
+      {
+          "id": 3894,
+          "name": "Paktia",
+          "state_code": "PIA",
+          "cities": [
+              {
+                  "id": 69,
+                  "name": "Gardez",
+                  "latitude": "33.59744000",
+                  "longitude": "69.22592000"
+              }
+          ]
+      },
+      {
+          "id": 3877,
+          "name": "Paktika",
+          "state_code": "PKA",
+          "cities": [
+              {
+                  "id": 120,
+                  "name": "Saṟōbī",
+                  "latitude": "32.75221000",
+                  "longitude": "69.04587000"
+              },
+              {
+                  "id": 134,
+                  "name": "Zaṟah Sharan",
+                  "latitude": "33.14641000",
+                  "longitude": "68.79213000"
+              },
+              {
+                  "id": 133,
+                  "name": "Zarghūn Shahr",
+                  "latitude": "32.84734000",
+                  "longitude": "68.44573000"
+              }
+          ]
+      },
+      {
+          "id": 3881,
+          "name": "Panjshir",
+          "state_code": "PAN",
+          "cities": [
+              {
+                  "id": 59,
+                  "name": "Bāzārak",
+                  "latitude": "35.31292000",
+                  "longitude": "69.51519000"
+              }
+          ]
+      },
+      {
+          "id": 3895,
+          "name": "Parwan",
+          "state_code": "PAR",
+          "cities": [
+              {
+                  "id": 61,
+                  "name": "Charikar",
+                  "latitude": "35.01361000",
+                  "longitude": "69.17139000"
+              },
+              {
+                  "id": 76,
+                  "name": "Jabal os Saraj",
+                  "latitude": "35.11833000",
+                  "longitude": "69.23778000"
+              }
+          ]
+      },
+      {
+          "id": 3883,
+          "name": "Samangan",
+          "state_code": "SAM",
+          "cities": [
+              {
+                  "id": 53,
+                  "name": "Aībak",
+                  "latitude": "36.26468000",
+                  "longitude": "68.01551000"
+              }
+          ]
+      },
+      {
+          "id": 3885,
+          "name": "Sar-e Pol",
+          "state_code": "SAR",
+          "cities": [
+              {
+                  "id": 62,
+                  "name": "Chīras",
+                  "latitude": "35.41674000",
+                  "longitude": "65.98234000"
+              },
+              {
+                  "id": 92,
+                  "name": "Larkird",
+                  "latitude": "35.48936000",
+                  "longitude": "66.66409000"
+              },
+              {
+                  "id": 110,
+                  "name": "Qal‘ah-ye Shahr",
+                  "latitude": "35.54729000",
+                  "longitude": "65.56760000"
+              },
+              {
+                  "id": 117,
+                  "name": "Sang-e Chārak",
+                  "latitude": "35.84972000",
+                  "longitude": "66.43694000"
+              },
+              {
+                  "id": 119,
+                  "name": "Sar-e Pul",
+                  "latitude": "36.21544000",
+                  "longitude": "65.93249000"
+              },
+              {
+                  "id": 125,
+                  "name": "Tagāw-Bāy",
+                  "latitude": "35.69941000",
+                  "longitude": "66.06164000"
+              },
+              {
+                  "id": 128,
+                  "name": "Tukzār",
+                  "latitude": "35.94831000",
+                  "longitude": "66.42132000"
+              }
+          ]
+      },
+      {
+          "id": 3893,
+          "name": "Takhar",
+          "state_code": "TAK",
+          "cities": [
+              {
+                  "id": 137,
+                  "name": "Ārt Khwājah",
+                  "latitude": "37.08571000",
+                  "longitude": "69.47958000"
+              },
+              {
+                  "id": 126,
+                  "name": "Taloqan",
+                  "latitude": "36.73605000",
+                  "longitude": "69.53451000"
+              }
+          ]
+      },
+      {
+          "id": 3898,
+          "name": "Urozgan",
+          "state_code": "URU",
+          "cities": [
+              {
+                  "id": 127,
+                  "name": "Tarinkot",
+                  "latitude": "32.62998000",
+                  "longitude": "65.87806000"
+              },
+              {
+                  "id": 130,
+                  "name": "Uruzgān",
+                  "latitude": "32.92775000",
+                  "longitude": "66.63253000"
+              }
+          ]
+      },
+      {
+          "id": 3874,
+          "name": "Zabul",
+          "state_code": "ZAB",
+          "cities": [
+              {
+                  "id": 109,
+                  "name": "Qalāt",
+                  "latitude": "32.10575000",
+                  "longitude": "66.90833000"
+              }
+          ]
+      }
+  ],
+    "timezones": [
+      "UTC+04:30"
+    ],
+    "tld": [
+      ".af",
+      "افغانستان."
+    ],
+    "translations": {
+      "de": "Afghanistan",
+      "es": "Afganistán",
+      "fr": "Afghanistan",
+      "ja": "アフガニスタン",
+      "it": "Afghanistan"
+    },
+    "continent": "Asia",
+    "government": "Islamic Emirate",
+    "independence": 1919,
+    "temperature": 12.6,
+    "expectancy": 45.9,
+    "dish": "Kabuli Palaw",
+    "symbol": null,
+    "density": 56.93776001,
+    "location": "Southern and Central Asia",
+    "religion": "Islam",
+    "wiki": "http://en.wikipedia.org/wiki/afghanistan"
+  }

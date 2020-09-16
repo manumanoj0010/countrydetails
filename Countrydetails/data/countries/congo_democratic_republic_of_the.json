@@ -1,0 +1,472 @@
+{
+    "name": "Republic of the Congo",
+    "altSpellings": [
+        "CG",
+        "Congo-Brazzaville"
+    ],
+    "area": 342000,
+    "borders": [
+        "AGO",
+        "CMR",
+        "CAF",
+        "COD",
+        "GAB"
+    ],
+    "callingCodes": [
+        "242"
+    ],
+    "capital": "Brazzaville",
+    "capital_latlng": [
+        -4.269441,
+        15.271226
+    ],
+    "currencies": [
+        "XAF"
+    ],
+    "demonym": "Congolese",
+    "flag": "",
+    "geoJSON": {
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "type": "Feature",
+                "id": "COG",
+                "properties": {
+                    "name": "Republic of the Congo"
+                },
+                "geometry": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                12.995517,
+                                -4.781103
+                            ],
+                            [
+                                12.62076,
+                                -4.438023
+                            ],
+                            [
+                                12.318608,
+                                -4.60623
+                            ],
+                            [
+                                11.914963,
+                                -5.037987
+                            ],
+                            [
+                                11.093773,
+                                -3.978827
+                            ],
+                            [
+                                11.855122,
+                                -3.426871
+                            ],
+                            [
+                                11.478039,
+                                -2.765619
+                            ],
+                            [
+                                11.820964,
+                                -2.514161
+                            ],
+                            [
+                                12.495703,
+                                -2.391688
+                            ],
+                            [
+                                12.575284,
+                                -1.948511
+                            ],
+                            [
+                                13.109619,
+                                -2.42874
+                            ],
+                            [
+                                13.992407,
+                                -2.470805
+                            ],
+                            [
+                                14.29921,
+                                -1.998276
+                            ],
+                            [
+                                14.425456,
+                                -1.333407
+                            ],
+                            [
+                                14.316418,
+                                -0.552627
+                            ],
+                            [
+                                13.843321,
+                                0.038758
+                            ],
+                            [
+                                14.276266,
+                                1.19693
+                            ],
+                            [
+                                14.026669,
+                                1.395677
+                            ],
+                            [
+                                13.282631,
+                                1.314184
+                            ],
+                            [
+                                13.003114,
+                                1.830896
+                            ],
+                            [
+                                13.075822,
+                                2.267097
+                            ],
+                            [
+                                14.337813,
+                                2.227875
+                            ],
+                            [
+                                15.146342,
+                                1.964015
+                            ],
+                            [
+                                15.940919,
+                                1.727673
+                            ],
+                            [
+                                16.012852,
+                                2.26764
+                            ],
+                            [
+                                16.537058,
+                                3.198255
+                            ],
+                            [
+                                17.133042,
+                                3.728197
+                            ],
+                            [
+                                17.8099,
+                                3.560196
+                            ],
+                            [
+                                18.453065,
+                                3.504386
+                            ],
+                            [
+                                18.393792,
+                                2.900443
+                            ],
+                            [
+                                18.094276,
+                                2.365722
+                            ],
+                            [
+                                17.898835,
+                                1.741832
+                            ],
+                            [
+                                17.774192,
+                                0.855659
+                            ],
+                            [
+                                17.82654,
+                                0.288923
+                            ],
+                            [
+                                17.663553,
+                                -0.058084
+                            ],
+                            [
+                                17.638645,
+                                -0.424832
+                            ],
+                            [
+                                17.523716,
+                                -0.74383
+                            ],
+                            [
+                                16.865307,
+                                -1.225816
+                            ],
+                            [
+                                16.407092,
+                                -1.740927
+                            ],
+                            [
+                                15.972803,
+                                -2.712392
+                            ],
+                            [
+                                16.00629,
+                                -3.535133
+                            ],
+                            [
+                                15.75354,
+                                -3.855165
+                            ],
+                            [
+                                15.170992,
+                                -4.343507
+                            ],
+                            [
+                                14.582604,
+                                -4.970239
+                            ],
+                            [
+                                14.209035,
+                                -4.793092
+                            ],
+                            [
+                                14.144956,
+                                -4.510009
+                            ],
+                            [
+                                13.600235,
+                                -4.500138
+                            ],
+                            [
+                                13.25824,
+                                -4.882957
+                            ],
+                            [
+                                12.995517,
+                                -4.781103
+                            ]
+                        ]
+                    ]
+                }
+            }
+        ]
+    },
+    "ISO": {
+        "alpha2": "CG",
+        "alpha3": "COG"
+    },
+    "languages": [
+        "Kongo",
+        "Mbete",
+        "Mboshi",
+        "Punu",
+        "Sango",
+        "Teke"
+    ],
+    "latlng": [
+        -1,
+        15
+    ],
+    "states": [
+        {
+            "id": 2866,
+            "name": "Bouenza Department",
+            "state_code": "11",
+            "cities": [
+                {
+                    "id": 17345,
+                    "name": "Kayes",
+                    "latitude": "-4.20493000",
+                    "longitude": "13.28608000"
+                },
+                {
+                    "id": 17348,
+                    "name": "Madingou",
+                    "latitude": "-4.15361000",
+                    "longitude": "13.55000000"
+                }
+            ]
+        },
+        {
+            "id": 2870,
+            "name": "Brazzaville",
+            "state_code": "BZV",
+            "cities": [
+                {
+                    "id": 17339,
+                    "name": "Brazzaville",
+                    "latitude": "-4.26613000",
+                    "longitude": "15.28318000"
+                }
+            ]
+        },
+        {
+            "id": 2864,
+            "name": "Cuvette Department",
+            "state_code": "8",
+            "cities": [
+                {
+                    "id": 17349,
+                    "name": "Makoua",
+                    "latitude": "0.00694000",
+                    "longitude": "15.63333000"
+                },
+                {
+                    "id": 17352,
+                    "name": "Owando",
+                    "latitude": "-0.48193000",
+                    "longitude": "15.89988000"
+                }
+            ]
+        },
+        {
+            "id": 2869,
+            "name": "Cuvette-Ouest Department",
+            "state_code": "15",
+            "cities": [
+                {
+                    "id": 17342,
+                    "name": "Ewo",
+                    "latitude": "-0.87250000",
+                    "longitude": "14.82056000"
+                }
+            ]
+        },
+        {
+            "id": 2867,
+            "name": "Kouilou Department",
+            "state_code": "5",
+            "cities": []
+        },
+        {
+            "id": 2868,
+            "name": "Lékoumou Department",
+            "state_code": "2",
+            "cities": [
+                {
+                    "id": 17354,
+                    "name": "Sibiti",
+                    "latitude": "-3.68192000",
+                    "longitude": "13.34985000"
+                }
+            ]
+        },
+        {
+            "id": 2865,
+            "name": "Likouala Department",
+            "state_code": "7",
+            "cities": [
+                {
+                    "id": 17344,
+                    "name": "Impfondo",
+                    "latitude": "1.61804000",
+                    "longitude": "18.05981000"
+                }
+            ]
+        },
+        {
+            "id": 2872,
+            "name": "Niari Department",
+            "state_code": "9",
+            "cities": [
+                {
+                    "id": 17341,
+                    "name": "Dolisie",
+                    "latitude": "-4.19834000",
+                    "longitude": "12.66664000"
+                },
+                {
+                    "id": 17350,
+                    "name": "Mossendjo",
+                    "latitude": "-2.94968000",
+                    "longitude": "12.70423000"
+                }
+            ]
+        },
+        {
+            "id": 2862,
+            "name": "Plateaux Department",
+            "state_code": "14",
+            "cities": [
+                {
+                    "id": 17340,
+                    "name": "Djambala",
+                    "latitude": "-2.54472000",
+                    "longitude": "14.75333000"
+                },
+                {
+                    "id": 17343,
+                    "name": "Gamboma",
+                    "latitude": "-1.87639000",
+                    "longitude": "15.86444000"
+                }
+            ]
+        },
+        {
+            "id": 2863,
+            "name": "Pointe-Noire",
+            "state_code": "16",
+            "cities": [
+                {
+                    "id": 17347,
+                    "name": "Loandjili",
+                    "latitude": "-4.75611000",
+                    "longitude": "11.85778000"
+                },
+                {
+                    "id": 17353,
+                    "name": "Pointe-Noire",
+                    "latitude": "-4.77609000",
+                    "longitude": "11.86352000"
+                }
+            ]
+        },
+        {
+            "id": 2873,
+            "name": "Pool Department",
+            "state_code": "12",
+            "cities": [
+                {
+                    "id": 17346,
+                    "name": "Kinkala",
+                    "latitude": "-4.36139000",
+                    "longitude": "14.76444000"
+                }
+            ]
+        },
+        {
+            "id": 2871,
+            "name": "Sangha Department",
+            "state_code": "13",
+            "cities": [
+                {
+                    "id": 17351,
+                    "name": "Ouésso",
+                    "latitude": "1.61361000",
+                    "longitude": "16.05167000"
+                },
+                {
+                    "id": 17355,
+                    "name": "Sémbé",
+                    "latitude": "1.64806000",
+                    "longitude": "14.58056000"
+                }
+            ]
+        }
+    ],
+    "nativeName": "République du Congo",
+    "population": 4559000,
+    "timezones": [
+        "UTC+01:00"
+    ],
+    "tld": [
+        ".cg"
+    ],
+    "translations": {
+        "de": "Kongo",
+        "es": "Congo",
+        "fr": "Congo",
+        "ja": "コンゴ共和国",
+        "it": "Congo"
+    },
+    "expectancy": 47.4,
+    "dish": null,
+    "symbol": null,
+    "density": 15.35684627,
+    "location": "Central Africa",
+    "religion": "Christianity",
+    "temperature": null,
+    "continent": "Africa",
+    "government": "Republic",
+    "independence": 1960,
+    "wiki": "http://en.wikipedia.org/wiki/congo_democratic_republic_of_the"
+}

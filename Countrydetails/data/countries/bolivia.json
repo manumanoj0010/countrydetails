@@ -1,0 +1,1767 @@
+{
+    "name": "Bolivia",
+    "altSpellings": [
+        "BO",
+        "Buliwya",
+        "Wuliwya",
+        "Plurinational State of Bolivia",
+        "Estado Plurinacional de Bolivia",
+        "Buliwya Mamallaqta",
+        "Wuliwya Suyu",
+        "Tetã Volívia"
+    ],
+    "area": 1098581,
+    "borders": [
+        "ARG",
+        "BRA",
+        "CHL",
+        "PRY",
+        "PER"
+    ],
+    "callingCodes": [
+        "591"
+    ],
+    "capital": "Sucre",
+    "capital_latlng": [
+        -19.047725,
+        -65.259431
+    ],
+    "currencies": [
+        "BOB",
+        "BOV"
+    ],
+    "demonym": "Bolivian",
+    "flag": "",
+    "geoJSON": {
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "type": "Feature",
+                "id": "BOL",
+                "properties": {
+                    "name": "Bolivia"
+                },
+                "geometry": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                -62.846468,
+                                -22.034985
+                            ],
+                            [
+                                -63.986838,
+                                -21.993644
+                            ],
+                            [
+                                -64.377021,
+                                -22.798091
+                            ],
+                            [
+                                -64.964892,
+                                -22.075862
+                            ],
+                            [
+                                -66.273339,
+                                -21.83231
+                            ],
+                            [
+                                -67.106674,
+                                -22.735925
+                            ],
+                            [
+                                -67.82818,
+                                -22.872919
+                            ],
+                            [
+                                -68.219913,
+                                -21.494347
+                            ],
+                            [
+                                -68.757167,
+                                -20.372658
+                            ],
+                            [
+                                -68.442225,
+                                -19.405068
+                            ],
+                            [
+                                -68.966818,
+                                -18.981683
+                            ],
+                            [
+                                -69.100247,
+                                -18.260125
+                            ],
+                            [
+                                -69.590424,
+                                -17.580012
+                            ],
+                            [
+                                -68.959635,
+                                -16.500698
+                            ],
+                            [
+                                -69.389764,
+                                -15.660129
+                            ],
+                            [
+                                -69.160347,
+                                -15.323974
+                            ],
+                            [
+                                -69.339535,
+                                -14.953195
+                            ],
+                            [
+                                -68.948887,
+                                -14.453639
+                            ],
+                            [
+                                -68.929224,
+                                -13.602684
+                            ],
+                            [
+                                -68.88008,
+                                -12.899729
+                            ],
+                            [
+                                -68.66508,
+                                -12.5613
+                            ],
+                            [
+                                -69.529678,
+                                -10.951734
+                            ],
+                            [
+                                -68.786158,
+                                -11.03638
+                            ],
+                            [
+                                -68.271254,
+                                -11.014521
+                            ],
+                            [
+                                -68.048192,
+                                -10.712059
+                            ],
+                            [
+                                -67.173801,
+                                -10.306812
+                            ],
+                            [
+                                -66.646908,
+                                -9.931331
+                            ],
+                            [
+                                -65.338435,
+                                -9.761988
+                            ],
+                            [
+                                -65.444837,
+                                -10.511451
+                            ],
+                            [
+                                -65.321899,
+                                -10.895872
+                            ],
+                            [
+                                -65.402281,
+                                -11.56627
+                            ],
+                            [
+                                -64.316353,
+                                -12.461978
+                            ],
+                            [
+                                -63.196499,
+                                -12.627033
+                            ],
+                            [
+                                -62.80306,
+                                -13.000653
+                            ],
+                            [
+                                -62.127081,
+                                -13.198781
+                            ],
+                            [
+                                -61.713204,
+                                -13.489202
+                            ],
+                            [
+                                -61.084121,
+                                -13.479384
+                            ],
+                            [
+                                -60.503304,
+                                -13.775955
+                            ],
+                            [
+                                -60.459198,
+                                -14.354007
+                            ],
+                            [
+                                -60.264326,
+                                -14.645979
+                            ],
+                            [
+                                -60.251149,
+                                -15.077219
+                            ],
+                            [
+                                -60.542966,
+                                -15.09391
+                            ],
+                            [
+                                -60.15839,
+                                -16.258284
+                            ],
+                            [
+                                -58.24122,
+                                -16.299573
+                            ],
+                            [
+                                -58.388058,
+                                -16.877109
+                            ],
+                            [
+                                -58.280804,
+                                -17.27171
+                            ],
+                            [
+                                -57.734558,
+                                -17.552468
+                            ],
+                            [
+                                -57.498371,
+                                -18.174188
+                            ],
+                            [
+                                -57.676009,
+                                -18.96184
+                            ],
+                            [
+                                -57.949997,
+                                -19.400004
+                            ],
+                            [
+                                -57.853802,
+                                -19.969995
+                            ],
+                            [
+                                -58.166392,
+                                -20.176701
+                            ],
+                            [
+                                -58.183471,
+                                -19.868399
+                            ],
+                            [
+                                -59.115042,
+                                -19.356906
+                            ],
+                            [
+                                -60.043565,
+                                -19.342747
+                            ],
+                            [
+                                -61.786326,
+                                -19.633737
+                            ],
+                            [
+                                -62.265961,
+                                -20.513735
+                            ],
+                            [
+                                -62.291179,
+                                -21.051635
+                            ],
+                            [
+                                -62.685057,
+                                -22.249029
+                            ],
+                            [
+                                -62.846468,
+                                -22.034985
+                            ]
+                        ]
+                    ]
+                }
+            }
+        ]
+    },
+    "ISO": {
+        "alpha2": "BO",
+        "alpha3": "BOL"
+    },
+    "languages": [
+        "Aimar√°",
+        "Guaran√≠",
+        "Ket¬öua",
+        "Spanish"
+    ],
+    "latlng": [
+        -17,
+        -65
+    ],
+    "states": [
+        {
+            "id": 3375,
+            "name": "Beni Department",
+            "state_code": "B",
+            "cities": [
+                {
+                    "id": 9867,
+                    "name": "Guayaramerín",
+                    "latitude": "-10.82580000",
+                    "longitude": "-65.35810000"
+                },
+                {
+                    "id": 9920,
+                    "name": "Provincia Cercado",
+                    "latitude": "-14.50000000",
+                    "longitude": "-64.33333000"
+                },
+                {
+                    "id": 9932,
+                    "name": "Provincia General José Ballivián",
+                    "latitude": "-14.00000000",
+                    "longitude": "-67.08333000"
+                },
+                {
+                    "id": 9941,
+                    "name": "Provincia Iténez",
+                    "latitude": "-13.41667000",
+                    "longitude": "-63.50000000"
+                },
+                {
+                    "id": 9949,
+                    "name": "Provincia Mamoré",
+                    "latitude": "-13.00000000",
+                    "longitude": "-64.91667000"
+                },
+                {
+                    "id": 9953,
+                    "name": "Provincia Marbán",
+                    "latitude": "-15.66667000",
+                    "longitude": "-64.33333000"
+                },
+                {
+                    "id": 9956,
+                    "name": "Provincia Moxos",
+                    "latitude": "-15.16667000",
+                    "longitude": "-65.50000000"
+                },
+                {
+                    "id": 9990,
+                    "name": "Provincia Vaca Diez",
+                    "latitude": "-11.66667000",
+                    "longitude": "-66.00000000"
+                },
+                {
+                    "id": 9994,
+                    "name": "Provincia Yacuma",
+                    "latitude": "-13.50000000",
+                    "longitude": "-66.00000000"
+                },
+                {
+                    "id": 10005,
+                    "name": "Reyes",
+                    "latitude": "-14.29520000",
+                    "longitude": "-67.33624000"
+                },
+                {
+                    "id": 10006,
+                    "name": "Riberalta",
+                    "latitude": "-11.00654000",
+                    "longitude": "-66.06312000"
+                },
+                {
+                    "id": 10008,
+                    "name": "Rurrenabaque",
+                    "latitude": "-14.44125000",
+                    "longitude": "-67.52781000"
+                },
+                {
+                    "id": 10011,
+                    "name": "San Borja",
+                    "latitude": "-14.81667000",
+                    "longitude": "-66.85000000"
+                },
+                {
+                    "id": 10020,
+                    "name": "San Ramón",
+                    "latitude": "-13.28333000",
+                    "longitude": "-64.71667000"
+                },
+                {
+                    "id": 10021,
+                    "name": "Santa Ana de Yacuma",
+                    "latitude": "-13.74406000",
+                    "longitude": "-65.42688000"
+                },
+                {
+                    "id": 10025,
+                    "name": "Santa Rosa",
+                    "latitude": "-14.16667000",
+                    "longitude": "-66.88333000"
+                },
+                {
+                    "id": 10041,
+                    "name": "Trinidad",
+                    "latitude": "-14.83333000",
+                    "longitude": "-64.90000000"
+                }
+            ]
+        },
+        {
+            "id": 3382,
+            "name": "Chuquisaca Department",
+            "state_code": "H",
+            "cities": [
+                {
+                    "id": 9839,
+                    "name": "Camargo",
+                    "latitude": "-20.64064000",
+                    "longitude": "-65.20893000"
+                },
+                {
+                    "id": 9887,
+                    "name": "Monteagudo",
+                    "latitude": "-19.79989000",
+                    "longitude": "-63.95461000"
+                },
+                {
+                    "id": 9892,
+                    "name": "Padilla",
+                    "latitude": "-19.30878000",
+                    "longitude": "-64.30273000"
+                },
+                {
+                    "id": 9909,
+                    "name": "Provincia Azurduy",
+                    "latitude": "-20.00000000",
+                    "longitude": "-64.50000000"
+                },
+                {
+                    "id": 9911,
+                    "name": "Provincia Belisario Boeto",
+                    "latitude": "-18.91667000",
+                    "longitude": "-64.33333000"
+                },
+                {
+                    "id": 9936,
+                    "name": "Provincia Hernando Siles",
+                    "latitude": "-20.16667000",
+                    "longitude": "-64.25000000"
+                },
+                {
+                    "id": 9947,
+                    "name": "Provincia Luis Calvo",
+                    "latitude": "-20.66667000",
+                    "longitude": "-63.50000000"
+                },
+                {
+                    "id": 9962,
+                    "name": "Provincia Nor Cinti",
+                    "latitude": "-20.33333000",
+                    "longitude": "-65.00000000"
+                },
+                {
+                    "id": 9966,
+                    "name": "Provincia Oropeza",
+                    "latitude": "-18.66667000",
+                    "longitude": "-65.16667000"
+                },
+                {
+                    "id": 9983,
+                    "name": "Provincia Sud Cinti",
+                    "latitude": "-20.91667000",
+                    "longitude": "-64.91667000"
+                },
+                {
+                    "id": 9987,
+                    "name": "Provincia Tomina",
+                    "latitude": "-19.50000000",
+                    "longitude": "-64.16667000"
+                },
+                {
+                    "id": 9995,
+                    "name": "Provincia Yamparáez",
+                    "latitude": "-19.16667000",
+                    "longitude": "-64.91667000"
+                },
+                {
+                    "id": 9996,
+                    "name": "Provincia Zudáñez",
+                    "latitude": "-18.91667000",
+                    "longitude": "-64.83333000"
+                },
+                {
+                    "id": 10031,
+                    "name": "Sucre",
+                    "latitude": "-19.03332000",
+                    "longitude": "-65.26274000"
+                },
+                {
+                    "id": 10033,
+                    "name": "Tarabuco",
+                    "latitude": "-19.18168000",
+                    "longitude": "-64.91517000"
+                }
+            ]
+        },
+        {
+            "id": 3381,
+            "name": "Cochabamba Department",
+            "state_code": "C",
+            "cities": [
+                {
+                    "id": 9827,
+                    "name": "Aiquile",
+                    "latitude": "-18.20408000",
+                    "longitude": "-65.18068000"
+                },
+                {
+                    "id": 9829,
+                    "name": "Arani",
+                    "latitude": "-17.56854000",
+                    "longitude": "-65.76883000"
+                },
+                {
+                    "id": 9836,
+                    "name": "Bolivar",
+                    "latitude": "-17.96667000",
+                    "longitude": "-66.53333000"
+                },
+                {
+                    "id": 9841,
+                    "name": "Capinota",
+                    "latitude": "-17.71113000",
+                    "longitude": "-66.26082000"
+                },
+                {
+                    "id": 9845,
+                    "name": "Chimoré",
+                    "latitude": "-16.99417000",
+                    "longitude": "-65.15330000"
+                },
+                {
+                    "id": 9847,
+                    "name": "Cliza",
+                    "latitude": "-17.58777000",
+                    "longitude": "-65.93253000"
+                },
+                {
+                    "id": 9849,
+                    "name": "Cochabamba",
+                    "latitude": "-17.38950000",
+                    "longitude": "-66.15680000"
+                },
+                {
+                    "id": 9850,
+                    "name": "Colchani",
+                    "latitude": "-17.31667000",
+                    "longitude": "-66.71667000"
+                },
+                {
+                    "id": 9852,
+                    "name": "Colomi",
+                    "latitude": "-17.35000000",
+                    "longitude": "-65.86667000"
+                },
+                {
+                    "id": 9871,
+                    "name": "Independencia",
+                    "latitude": "-17.08389000",
+                    "longitude": "-66.81804000"
+                },
+                {
+                    "id": 9872,
+                    "name": "Irpa Irpa",
+                    "latitude": "-17.71667000",
+                    "longitude": "-66.26667000"
+                },
+                {
+                    "id": 9886,
+                    "name": "Mizque",
+                    "latitude": "-17.94101000",
+                    "longitude": "-65.34016000"
+                },
+                {
+                    "id": 9902,
+                    "name": "Provincia Arani",
+                    "latitude": "-17.50000000",
+                    "longitude": "-65.50000000"
+                },
+                {
+                    "id": 9905,
+                    "name": "Provincia Arque",
+                    "latitude": "-17.75000000",
+                    "longitude": "-66.66667000"
+                },
+                {
+                    "id": 9908,
+                    "name": "Provincia Ayopaya",
+                    "latitude": "-16.50000000",
+                    "longitude": "-66.58333000"
+                },
+                {
+                    "id": 9913,
+                    "name": "Provincia Campero",
+                    "latitude": "-18.33333000",
+                    "longitude": "-65.00000000"
+                },
+                {
+                    "id": 9914,
+                    "name": "Provincia Capinota",
+                    "latitude": "-17.83333000",
+                    "longitude": "-66.16667000"
+                },
+                {
+                    "id": 9916,
+                    "name": "Provincia Carrasco",
+                    "latitude": "-17.50000000",
+                    "longitude": "-65.00000000"
+                },
+                {
+                    "id": 9918,
+                    "name": "Provincia Cercado",
+                    "latitude": "-17.33333000",
+                    "longitude": "-66.16667000"
+                },
+                {
+                    "id": 9921,
+                    "name": "Provincia Chaparé",
+                    "latitude": "-16.50000000",
+                    "longitude": "-65.50000000"
+                },
+                {
+                    "id": 9927,
+                    "name": "Provincia Esteban Arce",
+                    "latitude": "-17.66667000",
+                    "longitude": "-66.00000000"
+                },
+                {
+                    "id": 9933,
+                    "name": "Provincia Germán Jordán",
+                    "latitude": "-17.58333000",
+                    "longitude": "-65.91667000"
+                },
+                {
+                    "id": 9954,
+                    "name": "Provincia Mizque",
+                    "latitude": "-17.90655000",
+                    "longitude": "-65.39440000"
+                },
+                {
+                    "id": 9971,
+                    "name": "Provincia Punata",
+                    "latitude": "-17.50000000",
+                    "longitude": "-65.91667000"
+                },
+                {
+                    "id": 9973,
+                    "name": "Provincia Quillacollo",
+                    "latitude": "-17.50000000",
+                    "longitude": "-66.50000000"
+                },
+                {
+                    "id": 9986,
+                    "name": "Provincia Tapacarí",
+                    "latitude": "-17.51146000",
+                    "longitude": "-66.61965000"
+                },
+                {
+                    "id": 10002,
+                    "name": "Punata",
+                    "latitude": "-17.54234000",
+                    "longitude": "-65.83472000"
+                },
+                {
+                    "id": 10003,
+                    "name": "Quillacollo",
+                    "latitude": "-17.39228000",
+                    "longitude": "-66.27838000"
+                },
+                {
+                    "id": 10009,
+                    "name": "Sacaba",
+                    "latitude": "-17.39799000",
+                    "longitude": "-66.03825000"
+                },
+                {
+                    "id": 10029,
+                    "name": "Sipe Sipe",
+                    "latitude": "-17.45000000",
+                    "longitude": "-66.38333000"
+                },
+                {
+                    "id": 10034,
+                    "name": "Tarata",
+                    "latitude": "-17.60898000",
+                    "longitude": "-66.02135000"
+                },
+                {
+                    "id": 10037,
+                    "name": "Tiquipaya",
+                    "latitude": "-17.33801000",
+                    "longitude": "-66.21579000"
+                },
+                {
+                    "id": 10038,
+                    "name": "Tiraque Province",
+                    "latitude": "-17.33333000",
+                    "longitude": "-65.91667000"
+                },
+                {
+                    "id": 10039,
+                    "name": "Totora",
+                    "latitude": "-17.72662000",
+                    "longitude": "-65.19320000"
+                }
+            ]
+        },
+        {
+            "id": 3380,
+            "name": "La Paz Department",
+            "state_code": "L",
+            "cities": [
+                {
+                    "id": 9826,
+                    "name": "Achacachi",
+                    "latitude": "-16.05000000",
+                    "longitude": "-68.68333000"
+                },
+                {
+                    "id": 9828,
+                    "name": "Amarete",
+                    "latitude": "-15.23675000",
+                    "longitude": "-68.98462000"
+                },
+                {
+                    "id": 9833,
+                    "name": "Batallas",
+                    "latitude": "-16.30000000",
+                    "longitude": "-68.53333000"
+                },
+                {
+                    "id": 9842,
+                    "name": "Caranavi",
+                    "latitude": "-15.83652000",
+                    "longitude": "-67.56901000"
+                },
+                {
+                    "id": 9846,
+                    "name": "Chulumani",
+                    "latitude": "-16.40855000",
+                    "longitude": "-67.52940000"
+                },
+                {
+                    "id": 9854,
+                    "name": "Colquiri",
+                    "latitude": "-17.38918000",
+                    "longitude": "-67.12671000"
+                },
+                {
+                    "id": 9857,
+                    "name": "Coripata",
+                    "latitude": "-16.30000000",
+                    "longitude": "-67.60000000"
+                },
+                {
+                    "id": 9858,
+                    "name": "Coroico",
+                    "latitude": "-16.19386000",
+                    "longitude": "-67.72998000"
+                },
+                {
+                    "id": 9860,
+                    "name": "Curahuara de Carangas",
+                    "latitude": "-17.86667000",
+                    "longitude": "-68.43333000"
+                },
+                {
+                    "id": 9863,
+                    "name": "Eucaliptus",
+                    "latitude": "-17.58333000",
+                    "longitude": "-67.51667000"
+                },
+                {
+                    "id": 9865,
+                    "name": "Guanay",
+                    "latitude": "-15.49756000",
+                    "longitude": "-67.88332000"
+                },
+                {
+                    "id": 9869,
+                    "name": "Huarina",
+                    "latitude": "-16.20000000",
+                    "longitude": "-68.63333000"
+                },
+                {
+                    "id": 9870,
+                    "name": "Huatajata",
+                    "latitude": "-16.20000000",
+                    "longitude": "-68.68333000"
+                },
+                {
+                    "id": 9874,
+                    "name": "José Manuel Pando",
+                    "latitude": "-16.18970000",
+                    "longitude": "-67.72664000"
+                },
+                {
+                    "id": 9876,
+                    "name": "La Paz",
+                    "latitude": "-16.50000000",
+                    "longitude": "-68.15000000"
+                },
+                {
+                    "id": 9877,
+                    "name": "Lahuachaca",
+                    "latitude": "-17.37054000",
+                    "longitude": "-67.67501000"
+                },
+                {
+                    "id": 9884,
+                    "name": "Mapiri",
+                    "latitude": "-15.25000000",
+                    "longitude": "-68.16667000"
+                },
+                {
+                    "id": 9894,
+                    "name": "Patacamaya",
+                    "latitude": "-17.23580000",
+                    "longitude": "-67.92169000"
+                },
+                {
+                    "id": 9904,
+                    "name": "Provincia Aroma",
+                    "latitude": "-17.50000000",
+                    "longitude": "-68.00000000"
+                },
+                {
+                    "id": 9910,
+                    "name": "Provincia Bautista Saavedra",
+                    "latitude": "-15.00000000",
+                    "longitude": "-68.91667000"
+                },
+                {
+                    "id": 9912,
+                    "name": "Provincia Camacho",
+                    "latitude": "-15.50000000",
+                    "longitude": "-69.00000000"
+                },
+                {
+                    "id": 9929,
+                    "name": "Provincia Franz Tamayo",
+                    "latitude": "-14.50000000",
+                    "longitude": "-68.33333000"
+                },
+                {
+                    "id": 9935,
+                    "name": "Provincia Gualberto Villarroel",
+                    "latitude": "-17.58333000",
+                    "longitude": "-68.00000000"
+                },
+                {
+                    "id": 9938,
+                    "name": "Provincia Ingavi",
+                    "latitude": "-16.83333000",
+                    "longitude": "-68.66667000"
+                },
+                {
+                    "id": 9939,
+                    "name": "Provincia Inquisivi",
+                    "latitude": "-17.00000000",
+                    "longitude": "-67.08333000"
+                },
+                {
+                    "id": 9940,
+                    "name": "Provincia Iturralde",
+                    "latitude": "-13.00000000",
+                    "longitude": "-68.00000000"
+                },
+                {
+                    "id": 9943,
+                    "name": "Provincia Larecaja",
+                    "latitude": "-15.50000000",
+                    "longitude": "-68.33333000"
+                },
+                {
+                    "id": 9945,
+                    "name": "Provincia Loayza",
+                    "latitude": "-17.00000000",
+                    "longitude": "-67.66667000"
+                },
+                {
+                    "id": 9946,
+                    "name": "Provincia Los Andes",
+                    "latitude": "-16.33333000",
+                    "longitude": "-68.50000000"
+                },
+                {
+                    "id": 9950,
+                    "name": "Provincia Manco Kapac",
+                    "latitude": "-16.00000000",
+                    "longitude": "-69.16667000"
+                },
+                {
+                    "id": 9958,
+                    "name": "Provincia Muñecas",
+                    "latitude": "-15.33333000",
+                    "longitude": "-68.66667000"
+                },
+                {
+                    "id": 9957,
+                    "name": "Provincia Murillo",
+                    "latitude": "-16.33333000",
+                    "longitude": "-68.00000000"
+                },
+                {
+                    "id": 9964,
+                    "name": "Provincia Nor Yungas",
+                    "latitude": "-16.00000000",
+                    "longitude": "-67.50000000"
+                },
+                {
+                    "id": 9965,
+                    "name": "Provincia Omasuyos",
+                    "latitude": "-15.91667000",
+                    "longitude": "-68.83333000"
+                },
+                {
+                    "id": 9968,
+                    "name": "Provincia Pacajes",
+                    "latitude": "-17.50000000",
+                    "longitude": "-69.00000000"
+                },
+                {
+                    "id": 9985,
+                    "name": "Provincia Sud Yungas",
+                    "latitude": "-16.50000000",
+                    "longitude": "-67.50000000"
+                },
+                {
+                    "id": 10004,
+                    "name": "Quime",
+                    "latitude": "-16.98333000",
+                    "longitude": "-67.21667000"
+                },
+                {
+                    "id": 10017,
+                    "name": "San Pablo",
+                    "latitude": "-16.21667000",
+                    "longitude": "-68.83333000"
+                },
+                {
+                    "id": 10019,
+                    "name": "San Pedro",
+                    "latitude": "-16.23717000",
+                    "longitude": "-68.85063000"
+                },
+                {
+                    "id": 10030,
+                    "name": "Sorata",
+                    "latitude": "-15.77305000",
+                    "longitude": "-68.64973000"
+                },
+                {
+                    "id": 10036,
+                    "name": "Tiahuanaco",
+                    "latitude": "-16.55228000",
+                    "longitude": "-68.67953000"
+                },
+                {
+                    "id": 10049,
+                    "name": "Viloco",
+                    "latitude": "-16.95000000",
+                    "longitude": "-67.55000000"
+                },
+                {
+                    "id": 10052,
+                    "name": "Yumani",
+                    "latitude": "-16.03574000",
+                    "longitude": "-69.14843000"
+                }
+            ]
+        },
+        {
+            "id": 3376,
+            "name": "Oruro Department",
+            "state_code": "O",
+            "cities": [
+                {
+                    "id": 9843,
+                    "name": "Challapata",
+                    "latitude": "-18.90208000",
+                    "longitude": "-66.77048000"
+                },
+                {
+                    "id": 9868,
+                    "name": "Huanuni",
+                    "latitude": "-18.28900000",
+                    "longitude": "-66.83583000"
+                },
+                {
+                    "id": 9879,
+                    "name": "Litoral de Atacama",
+                    "latitude": "-18.76071000",
+                    "longitude": "-68.24295000"
+                },
+                {
+                    "id": 9882,
+                    "name": "Machacamarca",
+                    "latitude": "-18.17251000",
+                    "longitude": "-67.02099000"
+                },
+                {
+                    "id": 9889,
+                    "name": "Nor Carangas Province",
+                    "latitude": "-17.83750000",
+                    "longitude": "-67.94330000"
+                },
+                {
+                    "id": 9891,
+                    "name": "Oruro",
+                    "latitude": "-17.98333000",
+                    "longitude": "-67.15000000"
+                },
+                {
+                    "id": 9896,
+                    "name": "Poopó",
+                    "latitude": "-18.38026000",
+                    "longitude": "-66.96695000"
+                },
+                {
+                    "id": 9906,
+                    "name": "Provincia Avaroa",
+                    "latitude": "-19.00000000",
+                    "longitude": "-66.66667000"
+                },
+                {
+                    "id": 9915,
+                    "name": "Provincia Carangas",
+                    "latitude": "-18.33333000",
+                    "longitude": "-67.75000000"
+                },
+                {
+                    "id": 9917,
+                    "name": "Provincia Cercado",
+                    "latitude": "-17.91667000",
+                    "longitude": "-67.08333000"
+                },
+                {
+                    "id": 9942,
+                    "name": "Provincia Ladislao Cabrera",
+                    "latitude": "-19.50000000",
+                    "longitude": "-67.66667000"
+                },
+                {
+                    "id": 9969,
+                    "name": "Provincia Pantaleón Dalence",
+                    "latitude": "-18.33333000",
+                    "longitude": "-66.91667000"
+                },
+                {
+                    "id": 9970,
+                    "name": "Provincia Poopó",
+                    "latitude": "-18.50000000",
+                    "longitude": "-66.91667000"
+                },
+                {
+                    "id": 9976,
+                    "name": "Provincia Sabaya",
+                    "latitude": "-19.00000000",
+                    "longitude": "-68.58333000"
+                },
+                {
+                    "id": 9977,
+                    "name": "Provincia Sajama",
+                    "latitude": "-18.20000000",
+                    "longitude": "-68.55000000"
+                },
+                {
+                    "id": 9978,
+                    "name": "Provincia San Pedro de Totora",
+                    "latitude": "-17.83333000",
+                    "longitude": "-68.20000000"
+                },
+                {
+                    "id": 9981,
+                    "name": "Provincia Saucari",
+                    "latitude": "-18.25000000",
+                    "longitude": "-67.41667000"
+                },
+                {
+                    "id": 9988,
+                    "name": "Provincia Tomás Barron",
+                    "latitude": "-17.83333000",
+                    "longitude": "-68.25000000"
+                },
+                {
+                    "id": 10000,
+                    "name": "Puerto de Mejillones",
+                    "latitude": "-18.99266000",
+                    "longitude": "-68.68446000"
+                },
+                {
+                    "id": 10028,
+                    "name": "Sebastian Pagador Province",
+                    "latitude": "-19.21667000",
+                    "longitude": "-66.21667000"
+                },
+                {
+                    "id": 10032,
+                    "name": "Sud Carangas Province",
+                    "latitude": "-18.50000000",
+                    "longitude": "-68.25000000"
+                },
+                {
+                    "id": 10040,
+                    "name": "Totoral",
+                    "latitude": "-18.49587000",
+                    "longitude": "-66.87380000"
+                }
+            ]
+        },
+        {
+            "id": 3379,
+            "name": "Pando Department",
+            "state_code": "N",
+            "cities": [
+                {
+                    "id": 9848,
+                    "name": "Cobija",
+                    "latitude": "-11.02671000",
+                    "longitude": "-68.76918000"
+                },
+                {
+                    "id": 9899,
+                    "name": "Provincia Abuná",
+                    "latitude": "-10.50000000",
+                    "longitude": "-66.50000000"
+                },
+                {
+                    "id": 9931,
+                    "name": "Provincia General Federico Román",
+                    "latitude": "-10.33333000",
+                    "longitude": "-65.88333000"
+                },
+                {
+                    "id": 9948,
+                    "name": "Provincia Madre de Dios",
+                    "latitude": "-11.58333000",
+                    "longitude": "-67.00000000"
+                },
+                {
+                    "id": 9952,
+                    "name": "Provincia Manuripi",
+                    "latitude": "-11.33333000",
+                    "longitude": "-67.50000000"
+                },
+                {
+                    "id": 9960,
+                    "name": "Provincia Nicolás Suárez",
+                    "latitude": "-11.33333000",
+                    "longitude": "-68.50000000"
+                }
+            ]
+        },
+        {
+            "id": 3383,
+            "name": "Potosí Department",
+            "state_code": "P",
+            "cities": [
+                {
+                    "id": 9832,
+                    "name": "Atocha",
+                    "latitude": "-20.93515000",
+                    "longitude": "-66.22139000"
+                },
+                {
+                    "id": 9835,
+                    "name": "Betanzos",
+                    "latitude": "-19.55293000",
+                    "longitude": "-65.45395000"
+                },
+                {
+                    "id": 9851,
+                    "name": "Colchani",
+                    "latitude": "-20.30000000",
+                    "longitude": "-66.93333000"
+                },
+                {
+                    "id": 9853,
+                    "name": "Colquechaca",
+                    "latitude": "-18.70031000",
+                    "longitude": "-66.00397000"
+                },
+                {
+                    "id": 9861,
+                    "name": "Enrique Baldivieso",
+                    "latitude": "-21.38323000",
+                    "longitude": "-67.60368000"
+                },
+                {
+                    "id": 9880,
+                    "name": "Llallagua",
+                    "latitude": "-18.42426000",
+                    "longitude": "-66.58388000"
+                },
+                {
+                    "id": 9898,
+                    "name": "Potosí",
+                    "latitude": "-19.58361000",
+                    "longitude": "-65.75306000"
+                },
+                {
+                    "id": 9900,
+                    "name": "Provincia Alonzo de Ibáñez",
+                    "latitude": "-18.50000000",
+                    "longitude": "-66.33333000"
+                },
+                {
+                    "id": 9922,
+                    "name": "Provincia Charcas",
+                    "latitude": "-18.33333000",
+                    "longitude": "-65.83333000"
+                },
+                {
+                    "id": 9923,
+                    "name": "Provincia Chayanta",
+                    "latitude": "-18.91667000",
+                    "longitude": "-66.00000000"
+                },
+                {
+                    "id": 9926,
+                    "name": "Provincia Daniel Campos",
+                    "latitude": "-20.25000000",
+                    "longitude": "-68.25000000"
+                },
+                {
+                    "id": 9930,
+                    "name": "Provincia General Bilbao",
+                    "latitude": "-18.08333000",
+                    "longitude": "-66.00000000"
+                },
+                {
+                    "id": 9944,
+                    "name": "Provincia Linares",
+                    "latitude": "-19.83333000",
+                    "longitude": "-65.50000000"
+                },
+                {
+                    "id": 9955,
+                    "name": "Provincia Modesto Omiste",
+                    "latitude": "-21.91667000",
+                    "longitude": "-65.58333000"
+                },
+                {
+                    "id": 9961,
+                    "name": "Provincia Nor Chichas",
+                    "latitude": "-20.66667000",
+                    "longitude": "-66.00000000"
+                },
+                {
+                    "id": 9963,
+                    "name": "Provincia Nor Lípez",
+                    "latitude": "-20.50000000",
+                    "longitude": "-67.83333000"
+                },
+                {
+                    "id": 9972,
+                    "name": "Provincia Quijarro",
+                    "latitude": "-20.00000000",
+                    "longitude": "-66.33333000"
+                },
+                {
+                    "id": 9974,
+                    "name": "Provincia Rafael Bustillo",
+                    "latitude": "-18.33333000",
+                    "longitude": "-66.50000000"
+                },
+                {
+                    "id": 9975,
+                    "name": "Provincia Saavedra",
+                    "latitude": "-19.25000000",
+                    "longitude": "-65.50000000"
+                },
+                {
+                    "id": 9982,
+                    "name": "Provincia Sud Chichas",
+                    "latitude": "-21.50000000",
+                    "longitude": "-66.00000000"
+                },
+                {
+                    "id": 9984,
+                    "name": "Provincia Sud Lípez",
+                    "latitude": "-22.00000000",
+                    "longitude": "-67.50000000"
+                },
+                {
+                    "id": 9989,
+                    "name": "Provincia Tomás Frías",
+                    "latitude": "-19.33333000",
+                    "longitude": "-66.00000000"
+                },
+                {
+                    "id": 10022,
+                    "name": "Santa Bárbara",
+                    "latitude": "-20.91667000",
+                    "longitude": "-66.05000000"
+                },
+                {
+                    "id": 10042,
+                    "name": "Tupiza",
+                    "latitude": "-21.44345000",
+                    "longitude": "-65.71875000"
+                },
+                {
+                    "id": 10044,
+                    "name": "Uyuni",
+                    "latitude": "-20.45967000",
+                    "longitude": "-66.82503000"
+                },
+                {
+                    "id": 10048,
+                    "name": "Villazón",
+                    "latitude": "-22.08659000",
+                    "longitude": "-65.59422000"
+                }
+            ]
+        },
+        {
+            "id": 3377,
+            "name": "Santa Cruz Department",
+            "state_code": "S",
+            "cities": [
+                {
+                    "id": 9825,
+                    "name": "Abapó",
+                    "latitude": "-18.88279000",
+                    "longitude": "-63.38026000"
+                },
+                {
+                    "id": 9830,
+                    "name": "Ascención de Guarayos",
+                    "latitude": "-15.89299000",
+                    "longitude": "-63.18855000"
+                },
+                {
+                    "id": 9831,
+                    "name": "Ascensión",
+                    "latitude": "-15.70000000",
+                    "longitude": "-63.08333000"
+                },
+                {
+                    "id": 9837,
+                    "name": "Boyuibe",
+                    "latitude": "-20.43227000",
+                    "longitude": "-63.28147000"
+                },
+                {
+                    "id": 9838,
+                    "name": "Buena Vista",
+                    "latitude": "-17.45830000",
+                    "longitude": "-63.67126000"
+                },
+                {
+                    "id": 9840,
+                    "name": "Camiri",
+                    "latitude": "-20.03849000",
+                    "longitude": "-63.51833000"
+                },
+                {
+                    "id": 9844,
+                    "name": "Charagua",
+                    "latitude": "-19.79151000",
+                    "longitude": "-63.19864000"
+                },
+                {
+                    "id": 9855,
+                    "name": "Comarapa",
+                    "latitude": "-17.91537000",
+                    "longitude": "-64.53163000"
+                },
+                {
+                    "id": 9856,
+                    "name": "Concepción",
+                    "latitude": "-16.43333000",
+                    "longitude": "-60.90000000"
+                },
+                {
+                    "id": 9859,
+                    "name": "Cotoca",
+                    "latitude": "-17.81667000",
+                    "longitude": "-63.05000000"
+                },
+                {
+                    "id": 9864,
+                    "name": "German Busch",
+                    "latitude": "-17.77317000",
+                    "longitude": "-63.19087000"
+                },
+                {
+                    "id": 9866,
+                    "name": "Guarayos",
+                    "latitude": "-15.82132000",
+                    "longitude": "-63.24280000"
+                },
+                {
+                    "id": 9873,
+                    "name": "Jorochito",
+                    "latitude": "-18.05514000",
+                    "longitude": "-63.42821000"
+                },
+                {
+                    "id": 9875,
+                    "name": "La Bélgica",
+                    "latitude": "-17.55000000",
+                    "longitude": "-63.21667000"
+                },
+                {
+                    "id": 9878,
+                    "name": "Limoncito",
+                    "latitude": "-18.03104000",
+                    "longitude": "-63.40523000"
+                },
+                {
+                    "id": 9881,
+                    "name": "Los Negros",
+                    "latitude": "-17.73333000",
+                    "longitude": "-63.43333000"
+                },
+                {
+                    "id": 9883,
+                    "name": "Mairana",
+                    "latitude": "-18.11919000",
+                    "longitude": "-63.95965000"
+                },
+                {
+                    "id": 9885,
+                    "name": "Mineros",
+                    "latitude": "-17.11876000",
+                    "longitude": "-63.23100000"
+                },
+                {
+                    "id": 9888,
+                    "name": "Montero",
+                    "latitude": "-17.33866000",
+                    "longitude": "-63.25050000"
+                },
+                {
+                    "id": 9890,
+                    "name": "Okinawa Número Uno",
+                    "latitude": "-17.23333000",
+                    "longitude": "-62.81667000"
+                },
+                {
+                    "id": 9893,
+                    "name": "Pailón",
+                    "latitude": "-17.65000000",
+                    "longitude": "-62.75000000"
+                },
+                {
+                    "id": 9895,
+                    "name": "Paurito",
+                    "latitude": "-17.88333000",
+                    "longitude": "-62.96667000"
+                },
+                {
+                    "id": 9897,
+                    "name": "Portachuelo",
+                    "latitude": "-17.35168000",
+                    "longitude": "-63.39282000"
+                },
+                {
+                    "id": 9901,
+                    "name": "Provincia Andrés Ibáñez",
+                    "latitude": "-17.75000000",
+                    "longitude": "-63.25000000"
+                },
+                {
+                    "id": 9997,
+                    "name": "Provincia Ángel Sandoval",
+                    "latitude": "-17.50000000",
+                    "longitude": "-58.50000000"
+                },
+                {
+                    "id": 9924,
+                    "name": "Provincia Chiquitos",
+                    "latitude": "-18.00000000",
+                    "longitude": "-60.00000000"
+                },
+                {
+                    "id": 9925,
+                    "name": "Provincia Cordillera",
+                    "latitude": "-19.00000000",
+                    "longitude": "-61.50000000"
+                },
+                {
+                    "id": 9928,
+                    "name": "Provincia Florida",
+                    "latitude": "-18.00000000",
+                    "longitude": "-63.91667000"
+                },
+                {
+                    "id": 9937,
+                    "name": "Provincia Ichilo",
+                    "latitude": "-17.00000000",
+                    "longitude": "-64.00000000"
+                },
+                {
+                    "id": 9951,
+                    "name": "Provincia Manuel María Caballero",
+                    "latitude": "-17.83333000",
+                    "longitude": "-64.41667000"
+                },
+                {
+                    "id": 9998,
+                    "name": "Provincia Ñuflo de Chávez",
+                    "latitude": "-15.91667000",
+                    "longitude": "-62.50000000"
+                },
+                {
+                    "id": 9979,
+                    "name": "Provincia Santiesteban",
+                    "latitude": "-16.50000000",
+                    "longitude": "-63.50000000"
+                },
+                {
+                    "id": 9980,
+                    "name": "Provincia Sara",
+                    "latitude": "-16.83333000",
+                    "longitude": "-63.91667000"
+                },
+                {
+                    "id": 9991,
+                    "name": "Provincia Vallegrande",
+                    "latitude": "-18.50000000",
+                    "longitude": "-64.16667000"
+                },
+                {
+                    "id": 9992,
+                    "name": "Provincia Velasco",
+                    "latitude": "-15.50000000",
+                    "longitude": "-61.00000000"
+                },
+                {
+                    "id": 9993,
+                    "name": "Provincia Warnes",
+                    "latitude": "-17.33333000",
+                    "longitude": "-63.00000000"
+                },
+                {
+                    "id": 9999,
+                    "name": "Puerto Quijarro",
+                    "latitude": "-17.78333000",
+                    "longitude": "-57.76667000"
+                },
+                {
+                    "id": 10001,
+                    "name": "Puesto de Pailas",
+                    "latitude": "-17.65000000",
+                    "longitude": "-62.80000000"
+                },
+                {
+                    "id": 10007,
+                    "name": "Roboré",
+                    "latitude": "-18.33473000",
+                    "longitude": "-59.76142000"
+                },
+                {
+                    "id": 10010,
+                    "name": "Samaipata",
+                    "latitude": "-18.18005000",
+                    "longitude": "-63.87552000"
+                },
+                {
+                    "id": 10012,
+                    "name": "San Carlos",
+                    "latitude": "-17.40000000",
+                    "longitude": "-63.75000000"
+                },
+                {
+                    "id": 10013,
+                    "name": "San Ignacio de Velasco",
+                    "latitude": "-16.36667000",
+                    "longitude": "-60.95000000"
+                },
+                {
+                    "id": 10014,
+                    "name": "San Juan del Surutú",
+                    "latitude": "-17.48333000",
+                    "longitude": "-63.70000000"
+                },
+                {
+                    "id": 10015,
+                    "name": "San Julian",
+                    "latitude": "-17.78333000",
+                    "longitude": "-62.86667000"
+                },
+                {
+                    "id": 10016,
+                    "name": "San Matías",
+                    "latitude": "-16.36667000",
+                    "longitude": "-58.40000000"
+                },
+                {
+                    "id": 10018,
+                    "name": "San Pedro",
+                    "latitude": "-18.28333000",
+                    "longitude": "-59.81667000"
+                },
+                {
+                    "id": 10023,
+                    "name": "Santa Cruz de la Sierra",
+                    "latitude": "-17.78629000",
+                    "longitude": "-63.18117000"
+                },
+                {
+                    "id": 10024,
+                    "name": "Santa Rita",
+                    "latitude": "-17.96667000",
+                    "longitude": "-63.35000000"
+                },
+                {
+                    "id": 10026,
+                    "name": "Santa Rosa del Sara",
+                    "latitude": "-17.10916000",
+                    "longitude": "-63.59514000"
+                },
+                {
+                    "id": 10027,
+                    "name": "Santiago del Torno",
+                    "latitude": "-17.98674000",
+                    "longitude": "-63.38118000"
+                },
+                {
+                    "id": 10043,
+                    "name": "Urubichá",
+                    "latitude": "-15.39286000",
+                    "longitude": "-62.94661000"
+                },
+                {
+                    "id": 10045,
+                    "name": "Vallegrande",
+                    "latitude": "-18.48923000",
+                    "longitude": "-64.10609000"
+                },
+                {
+                    "id": 10046,
+                    "name": "Villa Yapacaní",
+                    "latitude": "-17.40000000",
+                    "longitude": "-63.83333000"
+                },
+                {
+                    "id": 10050,
+                    "name": "Warnes",
+                    "latitude": "-17.51630000",
+                    "longitude": "-63.16778000"
+                }
+            ]
+        },
+        {
+            "id": 3378,
+            "name": "Tarija Department",
+            "state_code": "T",
+            "cities": [
+                {
+                    "id": 9834,
+                    "name": "Bermejo",
+                    "latitude": "-22.73206000",
+                    "longitude": "-64.33724000"
+                },
+                {
+                    "id": 9862,
+                    "name": "Entre Ríos",
+                    "latitude": "-21.52661000",
+                    "longitude": "-64.17299000"
+                },
+                {
+                    "id": 9903,
+                    "name": "Provincia Arce",
+                    "latitude": "-22.16667000",
+                    "longitude": "-64.33333000"
+                },
+                {
+                    "id": 9907,
+                    "name": "Provincia Avilez",
+                    "latitude": "-21.66667000",
+                    "longitude": "-65.00000000"
+                },
+                {
+                    "id": 9919,
+                    "name": "Provincia Cercado",
+                    "latitude": "-21.58333000",
+                    "longitude": "-64.58333000"
+                },
+                {
+                    "id": 9934,
+                    "name": "Provincia Gran Chaco",
+                    "latitude": "-21.66667000",
+                    "longitude": "-63.00000000"
+                },
+                {
+                    "id": 9959,
+                    "name": "Provincia Méndez",
+                    "latitude": "-21.16667000",
+                    "longitude": "-64.91667000"
+                },
+                {
+                    "id": 9967,
+                    "name": "Provincia O’Connor",
+                    "latitude": "-21.58333000",
+                    "longitude": "-64.16667000"
+                },
+                {
+                    "id": 10035,
+                    "name": "Tarija",
+                    "latitude": "-21.53549000",
+                    "longitude": "-64.72956000"
+                },
+                {
+                    "id": 10047,
+                    "name": "Villamontes",
+                    "latitude": "-21.26235000",
+                    "longitude": "-63.46903000"
+                },
+                {
+                    "id": 10051,
+                    "name": "Yacuiba",
+                    "latitude": "-22.01643000",
+                    "longitude": "-63.67753000"
+                }
+            ]
+        }
+    ],
+    "nativeName": "Bolivia",
+    "population": 10027254,
+    "timezones": [
+        "UTC−04:00"
+    ],
+    "tld": [
+        ".bo"
+    ],
+    "translations": {
+        "de": "Bolivien",
+        "es": "Bolivia",
+        "fr": "Bolivie",
+        "ja": "ボリビア多民族国",
+        "it": "Bolivia"
+    },
+    "expectancy": 63.7,
+    "government": "Republic",
+    "dish": "Salteñas",
+    "symbol": null,
+    "density": 10.48014585,
+    "location": "South America",
+    "religion": "Christianity",
+    "temperature": 21.55,
+    "continent": "South America",
+    "independence": 1825,
+    "wiki": "http://en.wikipedia.org/wiki/bolivia"
+}

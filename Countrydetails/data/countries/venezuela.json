@@ -1,0 +1,1431 @@
+{
+    "name": "Venezuela",
+    "altSpellings": [
+        "VE",
+        "Bolivarian Republic of Venezuela",
+        "República Bolivariana de Venezuela"
+    ],
+    "area": 916445,
+    "borders": [
+        "BRA",
+        "COL",
+        "GUY"
+    ],
+    "callingCodes": [
+        "58"
+    ],
+    "capital": "Caracas",
+    "capital_latlng": [
+        10.506098,
+        -66.914602
+    ],
+    "currencies": [
+        "VEF"
+    ],
+    "demonym": "Venezuelan",
+    "flag": "",
+    "geoJSON": {
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "type": "Feature",
+                "id": "VEN",
+                "properties": {
+                    "name": "Venezuela"
+                },
+                "geometry": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                -71.331584,
+                                11.776284
+                            ],
+                            [
+                                -71.360006,
+                                11.539994
+                            ],
+                            [
+                                -71.94705,
+                                11.423282
+                            ],
+                            [
+                                -71.620868,
+                                10.96946
+                            ],
+                            [
+                                -71.633064,
+                                10.446494
+                            ],
+                            [
+                                -72.074174,
+                                9.865651
+                            ],
+                            [
+                                -71.695644,
+                                9.072263
+                            ],
+                            [
+                                -71.264559,
+                                9.137195
+                            ],
+                            [
+                                -71.039999,
+                                9.859993
+                            ],
+                            [
+                                -71.350084,
+                                10.211935
+                            ],
+                            [
+                                -71.400623,
+                                10.968969
+                            ],
+                            [
+                                -70.155299,
+                                11.375482
+                            ],
+                            [
+                                -70.293843,
+                                11.846822
+                            ],
+                            [
+                                -69.943245,
+                                12.162307
+                            ],
+                            [
+                                -69.5843,
+                                11.459611
+                            ],
+                            [
+                                -68.882999,
+                                11.443385
+                            ],
+                            [
+                                -68.233271,
+                                10.885744
+                            ],
+                            [
+                                -68.194127,
+                                10.554653
+                            ],
+                            [
+                                -67.296249,
+                                10.545868
+                            ],
+                            [
+                                -66.227864,
+                                10.648627
+                            ],
+                            [
+                                -65.655238,
+                                10.200799
+                            ],
+                            [
+                                -64.890452,
+                                10.077215
+                            ],
+                            [
+                                -64.329479,
+                                10.389599
+                            ],
+                            [
+                                -64.318007,
+                                10.641418
+                            ],
+                            [
+                                -63.079322,
+                                10.701724
+                            ],
+                            [
+                                -61.880946,
+                                10.715625
+                            ],
+                            [
+                                -62.730119,
+                                10.420269
+                            ],
+                            [
+                                -62.388512,
+                                9.948204
+                            ],
+                            [
+                                -61.588767,
+                                9.873067
+                            ],
+                            [
+                                -60.830597,
+                                9.38134
+                            ],
+                            [
+                                -60.671252,
+                                8.580174
+                            ],
+                            [
+                                -60.150096,
+                                8.602757
+                            ],
+                            [
+                                -59.758285,
+                                8.367035
+                            ],
+                            [
+                                -60.550588,
+                                7.779603
+                            ],
+                            [
+                                -60.637973,
+                                7.415
+                            ],
+                            [
+                                -60.295668,
+                                7.043911
+                            ],
+                            [
+                                -60.543999,
+                                6.856584
+                            ],
+                            [
+                                -61.159336,
+                                6.696077
+                            ],
+                            [
+                                -61.139415,
+                                6.234297
+                            ],
+                            [
+                                -61.410303,
+                                5.959068
+                            ],
+                            [
+                                -60.733574,
+                                5.200277
+                            ],
+                            [
+                                -60.601179,
+                                4.918098
+                            ],
+                            [
+                                -60.966893,
+                                4.536468
+                            ],
+                            [
+                                -62.08543,
+                                4.162124
+                            ],
+                            [
+                                -62.804533,
+                                4.006965
+                            ],
+                            [
+                                -63.093198,
+                                3.770571
+                            ],
+                            [
+                                -63.888343,
+                                4.02053
+                            ],
+                            [
+                                -64.628659,
+                                4.148481
+                            ],
+                            [
+                                -64.816064,
+                                4.056445
+                            ],
+                            [
+                                -64.368494,
+                                3.79721
+                            ],
+                            [
+                                -64.408828,
+                                3.126786
+                            ],
+                            [
+                                -64.269999,
+                                2.497006
+                            ],
+                            [
+                                -63.422867,
+                                2.411068
+                            ],
+                            [
+                                -63.368788,
+                                2.2009
+                            ],
+                            [
+                                -64.083085,
+                                1.916369
+                            ],
+                            [
+                                -64.199306,
+                                1.492855
+                            ],
+                            [
+                                -64.611012,
+                                1.328731
+                            ],
+                            [
+                                -65.354713,
+                                1.095282
+                            ],
+                            [
+                                -65.548267,
+                                0.789254
+                            ],
+                            [
+                                -66.325765,
+                                0.724452
+                            ],
+                            [
+                                -66.876326,
+                                1.253361
+                            ],
+                            [
+                                -67.181294,
+                                2.250638
+                            ],
+                            [
+                                -67.447092,
+                                2.600281
+                            ],
+                            [
+                                -67.809938,
+                                2.820655
+                            ],
+                            [
+                                -67.303173,
+                                3.318454
+                            ],
+                            [
+                                -67.337564,
+                                3.542342
+                            ],
+                            [
+                                -67.621836,
+                                3.839482
+                            ],
+                            [
+                                -67.823012,
+                                4.503937
+                            ],
+                            [
+                                -67.744697,
+                                5.221129
+                            ],
+                            [
+                                -67.521532,
+                                5.55687
+                            ],
+                            [
+                                -67.34144,
+                                6.095468
+                            ],
+                            [
+                                -67.695087,
+                                6.267318
+                            ],
+                            [
+                                -68.265052,
+                                6.153268
+                            ],
+                            [
+                                -68.985319,
+                                6.206805
+                            ],
+                            [
+                                -69.38948,
+                                6.099861
+                            ],
+                            [
+                                -70.093313,
+                                6.960376
+                            ],
+                            [
+                                -70.674234,
+                                7.087785
+                            ],
+                            [
+                                -71.960176,
+                                6.991615
+                            ],
+                            [
+                                -72.198352,
+                                7.340431
+                            ],
+                            [
+                                -72.444487,
+                                7.423785
+                            ],
+                            [
+                                -72.479679,
+                                7.632506
+                            ],
+                            [
+                                -72.360901,
+                                8.002638
+                            ],
+                            [
+                                -72.439862,
+                                8.405275
+                            ],
+                            [
+                                -72.660495,
+                                8.625288
+                            ],
+                            [
+                                -72.78873,
+                                9.085027
+                            ],
+                            [
+                                -73.304952,
+                                9.152
+                            ],
+                            [
+                                -73.027604,
+                                9.73677
+                            ],
+                            [
+                                -72.905286,
+                                10.450344
+                            ],
+                            [
+                                -72.614658,
+                                10.821975
+                            ],
+                            [
+                                -72.227575,
+                                11.108702
+                            ],
+                            [
+                                -71.973922,
+                                11.608672
+                            ],
+                            [
+                                -71.331584,
+                                11.776284
+                            ]
+                        ]
+                    ]
+                }
+            }
+        ]
+    },
+    "ISO": {
+        "alpha2": "VE",
+        "alpha3": "VEN"
+    },
+    "states": [
+        {
+            "id": 2044,
+            "name": "Amazonas",
+            "state_code": "Z",
+            "cities": [
+                {
+                    "id": 130106,
+                    "name": "Maroa",
+                    "latitude": "2.71880000",
+                    "longitude": "-67.56046000"
+                },
+                {
+                    "id": 130110,
+                    "name": "Municipio Autónomo Alto Orinoco",
+                    "latitude": "2.73456000",
+                    "longitude": "-64.83032000"
+                },
+                {
+                    "id": 130131,
+                    "name": "Puerto Ayacucho",
+                    "latitude": "5.66049000",
+                    "longitude": "-67.58343000"
+                },
+                {
+                    "id": 130142,
+                    "name": "San Carlos de Río Negro",
+                    "latitude": "1.92027000",
+                    "longitude": "-67.06089000"
+                },
+                {
+                    "id": 130146,
+                    "name": "San Fernando de Atabapo",
+                    "latitude": "4.04564000",
+                    "longitude": "-67.69934000"
+                },
+                {
+                    "id": 130149,
+                    "name": "San Juan de Manapiare",
+                    "latitude": "5.32665000",
+                    "longitude": "-66.05402000"
+                }
+            ]
+        },
+        {
+            "id": 2050,
+            "name": "Anzoátegui",
+            "state_code": "B",
+            "cities": [
+                {
+                    "id": 130041,
+                    "name": "Anaco",
+                    "latitude": "9.42958000",
+                    "longitude": "-64.46428000"
+                },
+                {
+                    "id": 130042,
+                    "name": "Aragua de Barcelona",
+                    "latitude": "9.45588000",
+                    "longitude": "-64.82928000"
+                },
+                {
+                    "id": 130044,
+                    "name": "Barcelona",
+                    "latitude": "10.13625000",
+                    "longitude": "-64.68618000"
+                },
+                {
+                    "id": 130054,
+                    "name": "Cantaura",
+                    "latitude": "9.30571000",
+                    "longitude": "-64.35841000"
+                },
+                {
+                    "id": 130078,
+                    "name": "El Tigre",
+                    "latitude": "8.88902000",
+                    "longitude": "-64.25270000"
+                },
+                {
+                    "id": 130113,
+                    "name": "Municipio José Gregorio Monagas",
+                    "latitude": "7.73874000",
+                    "longitude": "-64.71876000"
+                },
+                {
+                    "id": 130127,
+                    "name": "Onoto",
+                    "latitude": "9.59714000",
+                    "longitude": "-65.19350000"
+                },
+                {
+                    "id": 130133,
+                    "name": "Puerto La Cruz",
+                    "latitude": "10.21382000",
+                    "longitude": "-64.63280000"
+                },
+                {
+                    "id": 130134,
+                    "name": "Puerto Píritu",
+                    "latitude": "10.05896000",
+                    "longitude": "-65.03698000"
+                },
+                {
+                    "id": 130148,
+                    "name": "San José de Guanipa",
+                    "latitude": "8.88724000",
+                    "longitude": "-64.16512000"
+                }
+            ]
+        },
+        {
+            "id": 4856,
+            "name": "Apure",
+            "state_code": "C",
+            "cities": []
+        },
+        {
+            "id": 2047,
+            "name": "Aragua",
+            "state_code": "D",
+            "cities": [
+                {
+                    "id": 130052,
+                    "name": "Cagua",
+                    "latitude": "10.18634000",
+                    "longitude": "-67.45935000"
+                },
+                {
+                    "id": 130077,
+                    "name": "El Limón",
+                    "latitude": "10.30589000",
+                    "longitude": "-67.63212000"
+                },
+                {
+                    "id": 130093,
+                    "name": "La Victoria",
+                    "latitude": "10.22677000",
+                    "longitude": "-67.33122000"
+                },
+                {
+                    "id": 130096,
+                    "name": "Las Tejerías",
+                    "latitude": "10.25416000",
+                    "longitude": "-67.17333000"
+                },
+                {
+                    "id": 130104,
+                    "name": "Maracay",
+                    "latitude": "10.23535000",
+                    "longitude": "-67.59113000"
+                },
+                {
+                    "id": 130128,
+                    "name": "Palo Negro",
+                    "latitude": "10.17389000",
+                    "longitude": "-67.54194000"
+                },
+                {
+                    "id": 130151,
+                    "name": "San Mateo",
+                    "latitude": "10.21302000",
+                    "longitude": "-67.42365000"
+                },
+                {
+                    "id": 130153,
+                    "name": "Santa Rita",
+                    "latitude": "10.20540000",
+                    "longitude": "-67.55948000"
+                },
+                {
+                    "id": 130162,
+                    "name": "Turmero",
+                    "latitude": "10.22856000",
+                    "longitude": "-67.47421000"
+                },
+                {
+                    "id": 130169,
+                    "name": "Villa de Cura",
+                    "latitude": "10.03863000",
+                    "longitude": "-67.48938000"
+                }
+            ]
+        },
+        {
+            "id": 2049,
+            "name": "Barinas",
+            "state_code": "E",
+            "cities": [
+                {
+                    "id": 130040,
+                    "name": "Alto Barinas",
+                    "latitude": "8.59310000",
+                    "longitude": "-70.22610000"
+                },
+                {
+                    "id": 130045,
+                    "name": "Barinas",
+                    "latitude": "8.62261000",
+                    "longitude": "-70.20749000"
+                },
+                {
+                    "id": 130046,
+                    "name": "Barinitas",
+                    "latitude": "8.76171000",
+                    "longitude": "-70.41199000"
+                },
+                {
+                    "id": 130111,
+                    "name": "Municipio Barinas",
+                    "latitude": "8.61497000",
+                    "longitude": "-70.19852000"
+                }
+            ]
+        },
+        {
+            "id": 2039,
+            "name": "Bolívar",
+            "state_code": "F",
+            "cities": [
+                {
+                    "id": 130067,
+                    "name": "Ciudad Bolívar",
+                    "latitude": "8.12923000",
+                    "longitude": "-63.54086000"
+                },
+                {
+                    "id": 130068,
+                    "name": "Ciudad Guayana",
+                    "latitude": "8.35122000",
+                    "longitude": "-62.64102000"
+                },
+                {
+                    "id": 130119,
+                    "name": "Municipio Padre Pedro Chien",
+                    "latitude": "8.02455000",
+                    "longitude": "-61.88187000"
+                },
+                {
+                    "id": 130152,
+                    "name": "Santa Elena de Uairén",
+                    "latitude": "4.60226000",
+                    "longitude": "-61.11025000"
+                },
+                {
+                    "id": 130164,
+                    "name": "Upata",
+                    "latitude": "8.01620000",
+                    "longitude": "-62.40561000"
+                }
+            ]
+        },
+        {
+            "id": 4855,
+            "name": "Capital District",
+            "state_code": "A",
+            "cities": []
+        },
+        {
+            "id": 2040,
+            "name": "Carabobo",
+            "state_code": "G",
+            "cities": [
+                {
+                    "id": 130081,
+                    "name": "Guacara",
+                    "latitude": "10.22609000",
+                    "longitude": "-67.87700000"
+                },
+                {
+                    "id": 130085,
+                    "name": "Güigüe",
+                    "latitude": "10.08344000",
+                    "longitude": "-67.77799000"
+                },
+                {
+                    "id": 130098,
+                    "name": "Los Guayos",
+                    "latitude": "10.18932000",
+                    "longitude": "-67.93828000"
+                },
+                {
+                    "id": 130105,
+                    "name": "Mariara",
+                    "latitude": "10.29532000",
+                    "longitude": "-67.71770000"
+                },
+                {
+                    "id": 130108,
+                    "name": "Morón",
+                    "latitude": "10.48715000",
+                    "longitude": "-68.20078000"
+                },
+                {
+                    "id": 130132,
+                    "name": "Puerto Cabello",
+                    "latitude": "10.47306000",
+                    "longitude": "-68.01250000"
+                },
+                {
+                    "id": 130147,
+                    "name": "San Joaquín",
+                    "latitude": "10.26061000",
+                    "longitude": "-67.79348000"
+                },
+                {
+                    "id": 130156,
+                    "name": "Tacarigua",
+                    "latitude": "10.08621000",
+                    "longitude": "-67.91982000"
+                },
+                {
+                    "id": 130158,
+                    "name": "Tocuyito",
+                    "latitude": "10.11347000",
+                    "longitude": "-68.06783000"
+                },
+                {
+                    "id": 130165,
+                    "name": "Valencia",
+                    "latitude": "10.16202000",
+                    "longitude": "-68.00765000"
+                }
+            ]
+        },
+        {
+            "id": 2034,
+            "name": "Cojedes",
+            "state_code": "H",
+            "cities": [
+                {
+                    "id": 130141,
+                    "name": "San Carlos",
+                    "latitude": "9.66124000",
+                    "longitude": "-68.58268000"
+                },
+                {
+                    "id": 130157,
+                    "name": "Tinaquillo",
+                    "latitude": "9.91861000",
+                    "longitude": "-68.30472000"
+                }
+            ]
+        },
+        {
+            "id": 2051,
+            "name": "Delta Amacuro",
+            "state_code": "Y",
+            "cities": [
+                {
+                    "id": 130161,
+                    "name": "Tucupita",
+                    "latitude": "9.05806000",
+                    "longitude": "-62.05000000"
+                }
+            ]
+        },
+        {
+            "id": 2035,
+            "name": "Falcón",
+            "state_code": "I",
+            "cities": [
+                {
+                    "id": 130065,
+                    "name": "Chichiriviche",
+                    "latitude": "10.92872000",
+                    "longitude": "-68.27283000"
+                },
+                {
+                    "id": 130071,
+                    "name": "Coro",
+                    "latitude": "11.40450000",
+                    "longitude": "-69.67344000"
+                },
+                {
+                    "id": 130116,
+                    "name": "Municipio Los Taques",
+                    "latitude": "11.82308000",
+                    "longitude": "-70.25353000"
+                },
+                {
+                    "id": 130118,
+                    "name": "Municipio Miranda",
+                    "latitude": "11.31667000",
+                    "longitude": "-69.86667000"
+                },
+                {
+                    "id": 130135,
+                    "name": "Punta Cardón",
+                    "latitude": "11.65806000",
+                    "longitude": "-70.21500000"
+                },
+                {
+                    "id": 130136,
+                    "name": "Punto Fijo",
+                    "latitude": "11.69152000",
+                    "longitude": "-70.19918000"
+                },
+                {
+                    "id": 130160,
+                    "name": "Tucacas",
+                    "latitude": "10.79006000",
+                    "longitude": "-68.32564000"
+                }
+            ]
+        },
+        {
+            "id": 2046,
+            "name": "Federal Dependencies of Venezuela",
+            "state_code": "W",
+            "cities": []
+        },
+        {
+            "id": 2045,
+            "name": "Guárico",
+            "state_code": "J",
+            "cities": [
+                {
+                    "id": 130039,
+                    "name": "Altagracia de Orituco",
+                    "latitude": "9.86005000",
+                    "longitude": "-66.38139000"
+                },
+                {
+                    "id": 130053,
+                    "name": "Calabozo",
+                    "latitude": "8.92416000",
+                    "longitude": "-67.42929000"
+                },
+                {
+                    "id": 130150,
+                    "name": "San Juan de los Morros",
+                    "latitude": "9.91152000",
+                    "longitude": "-67.35381000"
+                },
+                {
+                    "id": 130167,
+                    "name": "Valle de La Pascua",
+                    "latitude": "9.21554000",
+                    "longitude": "-66.00734000"
+                },
+                {
+                    "id": 130171,
+                    "name": "Zaraza",
+                    "latitude": "9.35029000",
+                    "longitude": "-65.32452000"
+                }
+            ]
+        },
+        {
+            "id": 2038,
+            "name": "Lara",
+            "state_code": "K",
+            "cities": [
+                {
+                    "id": 130047,
+                    "name": "Barquisimeto",
+                    "latitude": "10.06470000",
+                    "longitude": "-69.35703000"
+                },
+                {
+                    "id": 130051,
+                    "name": "Cabudare",
+                    "latitude": "10.02658000",
+                    "longitude": "-69.26203000"
+                },
+                {
+                    "id": 130057,
+                    "name": "Carora",
+                    "latitude": "10.17283000",
+                    "longitude": "-70.08100000"
+                },
+                {
+                    "id": 130079,
+                    "name": "El Tocuyo",
+                    "latitude": "9.78709000",
+                    "longitude": "-69.79294000"
+                },
+                {
+                    "id": 130099,
+                    "name": "Los Rastrojos",
+                    "latitude": "10.02588000",
+                    "longitude": "-69.24166000"
+                },
+                {
+                    "id": 130137,
+                    "name": "Quíbor",
+                    "latitude": "9.92866000",
+                    "longitude": "-69.62010000"
+                }
+            ]
+        },
+        {
+            "id": 2053,
+            "name": "Mérida",
+            "state_code": "L",
+            "cities": [
+                {
+                    "id": 130074,
+                    "name": "Ejido",
+                    "latitude": "8.54665000",
+                    "longitude": "-71.24087000"
+                },
+                {
+                    "id": 130080,
+                    "name": "El Vigía",
+                    "latitude": "8.61350000",
+                    "longitude": "-71.65702000"
+                },
+                {
+                    "id": 130124,
+                    "name": "Mérida",
+                    "latitude": "8.58972000",
+                    "longitude": "-71.15611000"
+                },
+                {
+                    "id": 130109,
+                    "name": "Mucumpiz",
+                    "latitude": "8.41667000",
+                    "longitude": "-71.13333000"
+                },
+                {
+                    "id": 130115,
+                    "name": "Municipio Libertador",
+                    "latitude": "8.33333000",
+                    "longitude": "-71.11667000"
+                }
+            ]
+        },
+        {
+            "id": 2037,
+            "name": "Miranda",
+            "state_code": "M",
+            "cities": [
+                {
+                    "id": 130048,
+                    "name": "Baruta",
+                    "latitude": "10.43424000",
+                    "longitude": "-66.87558000"
+                },
+                {
+                    "id": 130058,
+                    "name": "Carrizal",
+                    "latitude": "10.34985000",
+                    "longitude": "-66.98632000"
+                },
+                {
+                    "id": 130061,
+                    "name": "Caucaguita",
+                    "latitude": "10.35782000",
+                    "longitude": "-66.80252000"
+                },
+                {
+                    "id": 130062,
+                    "name": "Caucagüito",
+                    "latitude": "10.48666000",
+                    "longitude": "-66.73799000"
+                },
+                {
+                    "id": 130063,
+                    "name": "Chacao",
+                    "latitude": "10.49581000",
+                    "longitude": "-66.85367000"
+                },
+                {
+                    "id": 130064,
+                    "name": "Charallave",
+                    "latitude": "10.24247000",
+                    "longitude": "-66.85723000"
+                },
+                {
+                    "id": 130073,
+                    "name": "Cúa",
+                    "latitude": "10.16245000",
+                    "longitude": "-66.88248000"
+                },
+                {
+                    "id": 130075,
+                    "name": "El Cafetal",
+                    "latitude": "10.46541000",
+                    "longitude": "-66.82951000"
+                },
+                {
+                    "id": 130076,
+                    "name": "El Hatillo",
+                    "latitude": "10.42411000",
+                    "longitude": "-66.82581000"
+                },
+                {
+                    "id": 130083,
+                    "name": "Guarenas",
+                    "latitude": "10.47027000",
+                    "longitude": "-66.61934000"
+                },
+                {
+                    "id": 130084,
+                    "name": "Guatire",
+                    "latitude": "10.47400000",
+                    "longitude": "-66.54241000"
+                },
+                {
+                    "id": 130089,
+                    "name": "La Dolorita",
+                    "latitude": "10.48830000",
+                    "longitude": "-66.78608000"
+                },
+                {
+                    "id": 130097,
+                    "name": "Los Dos Caminos",
+                    "latitude": "10.49389000",
+                    "longitude": "-66.82863000"
+                },
+                {
+                    "id": 130100,
+                    "name": "Los Teques",
+                    "latitude": "10.34447000",
+                    "longitude": "-67.04325000"
+                },
+                {
+                    "id": 130126,
+                    "name": "Ocumare del Tuy",
+                    "latitude": "10.11820000",
+                    "longitude": "-66.77513000"
+                },
+                {
+                    "id": 130129,
+                    "name": "Petare",
+                    "latitude": "10.47679000",
+                    "longitude": "-66.80786000"
+                },
+                {
+                    "id": 130139,
+                    "name": "San Antonio de Los Altos",
+                    "latitude": "10.38853000",
+                    "longitude": "-66.95179000"
+                },
+                {
+                    "id": 130155,
+                    "name": "Santa Teresa del Tuy",
+                    "latitude": "10.23291000",
+                    "longitude": "-66.66474000"
+                }
+            ]
+        },
+        {
+            "id": 2054,
+            "name": "Monagas",
+            "state_code": "N",
+            "cities": [
+                {
+                    "id": 130056,
+                    "name": "Caripito",
+                    "latitude": "10.11135000",
+                    "longitude": "-63.09985000"
+                },
+                {
+                    "id": 130107,
+                    "name": "Maturín",
+                    "latitude": "9.74569000",
+                    "longitude": "-63.18323000"
+                },
+                {
+                    "id": 130117,
+                    "name": "Municipio Maturín",
+                    "latitude": "9.40000000",
+                    "longitude": "-63.03333000"
+                },
+                {
+                    "id": 130122,
+                    "name": "Municipio Uracoa",
+                    "latitude": "8.99960000",
+                    "longitude": "-62.35164000"
+                }
+            ]
+        },
+        {
+            "id": 2052,
+            "name": "Nueva Esparta",
+            "state_code": "O",
+            "cities": [
+                {
+                    "id": 130087,
+                    "name": "Juan Griego",
+                    "latitude": "11.08172000",
+                    "longitude": "-63.96549000"
+                },
+                {
+                    "id": 130088,
+                    "name": "La Asunción",
+                    "latitude": "11.03333000",
+                    "longitude": "-63.86278000"
+                },
+                {
+                    "id": 130130,
+                    "name": "Porlamar",
+                    "latitude": "10.95771000",
+                    "longitude": "-63.86971000"
+                }
+            ]
+        },
+        {
+            "id": 2036,
+            "name": "Portuguesa",
+            "state_code": "P",
+            "cities": [
+                {
+                    "id": 130038,
+                    "name": "Acarigua",
+                    "latitude": "9.55451000",
+                    "longitude": "-69.19564000"
+                },
+                {
+                    "id": 130043,
+                    "name": "Araure",
+                    "latitude": "9.58144000",
+                    "longitude": "-69.23851000"
+                },
+                {
+                    "id": 130082,
+                    "name": "Guanare",
+                    "latitude": "9.04183000",
+                    "longitude": "-69.74206000"
+                },
+                {
+                    "id": 130168,
+                    "name": "Villa Bruzual",
+                    "latitude": "9.33186000",
+                    "longitude": "-69.11968000"
+                }
+            ]
+        },
+        {
+            "id": 2056,
+            "name": "Sucre",
+            "state_code": "R",
+            "cities": [
+                {
+                    "id": 130059,
+                    "name": "Carúpano",
+                    "latitude": "10.66516000",
+                    "longitude": "-63.25387000"
+                },
+                {
+                    "id": 130072,
+                    "name": "Cumaná",
+                    "latitude": "10.45397000",
+                    "longitude": "-64.18256000"
+                },
+                {
+                    "id": 130086,
+                    "name": "Güiria",
+                    "latitude": "10.57721000",
+                    "longitude": "-62.29841000"
+                },
+                {
+                    "id": 130123,
+                    "name": "Municipio Valdez",
+                    "latitude": "10.57945000",
+                    "longitude": "-62.30029000"
+                }
+            ]
+        },
+        {
+            "id": 2048,
+            "name": "Táchira",
+            "state_code": "S",
+            "cities": [
+                {
+                    "id": 130070,
+                    "name": "Colón",
+                    "latitude": "8.03125000",
+                    "longitude": "-72.26053000"
+                },
+                {
+                    "id": 130090,
+                    "name": "La Fría",
+                    "latitude": "8.21523000",
+                    "longitude": "-72.24888000"
+                },
+                {
+                    "id": 130091,
+                    "name": "La Grita",
+                    "latitude": "8.13316000",
+                    "longitude": "-71.98390000"
+                },
+                {
+                    "id": 130114,
+                    "name": "Municipio José María Vargas",
+                    "latitude": "8.03514000",
+                    "longitude": "-72.05675000"
+                },
+                {
+                    "id": 130138,
+                    "name": "Rubio",
+                    "latitude": "7.70131000",
+                    "longitude": "-72.35569000"
+                },
+                {
+                    "id": 130140,
+                    "name": "San Antonio del Táchira",
+                    "latitude": "7.81454000",
+                    "longitude": "-72.44310000"
+                },
+                {
+                    "id": 130144,
+                    "name": "San Cristóbal",
+                    "latitude": "7.76694000",
+                    "longitude": "-72.22500000"
+                },
+                {
+                    "id": 130163,
+                    "name": "Táriba",
+                    "latitude": "7.81880000",
+                    "longitude": "-72.22427000"
+                }
+            ]
+        },
+        {
+            "id": 2043,
+            "name": "Trujillo",
+            "state_code": "T",
+            "cities": [
+                {
+                    "id": 130049,
+                    "name": "Boconó",
+                    "latitude": "9.25385000",
+                    "longitude": "-70.25105000"
+                },
+                {
+                    "id": 130120,
+                    "name": "Municipio Pampanito",
+                    "latitude": "9.41147000",
+                    "longitude": "-70.49592000"
+                },
+                {
+                    "id": 130121,
+                    "name": "Municipio San Rafael de Carvajal",
+                    "latitude": "9.30756000",
+                    "longitude": "-70.58965000"
+                },
+                {
+                    "id": 130159,
+                    "name": "Trujillo",
+                    "latitude": "9.36583000",
+                    "longitude": "-70.43694000"
+                },
+                {
+                    "id": 130166,
+                    "name": "Valera",
+                    "latitude": "9.31778000",
+                    "longitude": "-70.60361000"
+                }
+            ]
+        },
+        {
+            "id": 2055,
+            "name": "Vargas",
+            "state_code": "X",
+            "cities": [
+                {
+                    "id": 130055,
+                    "name": "Caraballeda",
+                    "latitude": "10.61216000",
+                    "longitude": "-66.85192000"
+                },
+                {
+                    "id": 130060,
+                    "name": "Catia La Mar",
+                    "latitude": "10.60545000",
+                    "longitude": "-67.03238000"
+                },
+                {
+                    "id": 130092,
+                    "name": "La Guaira",
+                    "latitude": "10.60156000",
+                    "longitude": "-66.93293000"
+                },
+                {
+                    "id": 130102,
+                    "name": "Maiquetía",
+                    "latitude": "10.59450000",
+                    "longitude": "-66.95624000"
+                }
+            ]
+        },
+        {
+            "id": 2041,
+            "name": "Yaracuy",
+            "state_code": "U",
+            "cities": [
+                {
+                    "id": 130066,
+                    "name": "Chivacoa",
+                    "latitude": "10.15951000",
+                    "longitude": "-68.89453000"
+                },
+                {
+                    "id": 130112,
+                    "name": "Municipio Independencia",
+                    "latitude": "10.33472000",
+                    "longitude": "-68.75555000"
+                },
+                {
+                    "id": 130125,
+                    "name": "Nirgua",
+                    "latitude": "10.15039000",
+                    "longitude": "-68.56478000"
+                },
+                {
+                    "id": 130145,
+                    "name": "San Felipe",
+                    "latitude": "10.33991000",
+                    "longitude": "-68.74247000"
+                },
+                {
+                    "id": 130170,
+                    "name": "Yaritagua",
+                    "latitude": "10.08081000",
+                    "longitude": "-69.12420000"
+                }
+            ]
+        },
+        {
+            "id": 2042,
+            "name": "Zulia",
+            "state_code": "V",
+            "cities": [
+                {
+                    "id": 130050,
+                    "name": "Cabimas",
+                    "latitude": "10.39907000",
+                    "longitude": "-71.45206000"
+                },
+                {
+                    "id": 130069,
+                    "name": "Ciudad Ojeda",
+                    "latitude": "10.20161000",
+                    "longitude": "-71.31480000"
+                },
+                {
+                    "id": 130094,
+                    "name": "La Villa del Rosario",
+                    "latitude": "10.32580000",
+                    "longitude": "-72.31343000"
+                },
+                {
+                    "id": 130095,
+                    "name": "Lagunillas",
+                    "latitude": "10.13008000",
+                    "longitude": "-71.25946000"
+                },
+                {
+                    "id": 130101,
+                    "name": "Machiques",
+                    "latitude": "10.06077000",
+                    "longitude": "-72.55212000"
+                },
+                {
+                    "id": 130103,
+                    "name": "Maracaibo",
+                    "latitude": "10.66663000",
+                    "longitude": "-71.61245000"
+                },
+                {
+                    "id": 130143,
+                    "name": "San Carlos del Zulia",
+                    "latitude": "9.00098000",
+                    "longitude": "-71.92683000"
+                },
+                {
+                    "id": 130154,
+                    "name": "Santa Rita",
+                    "latitude": "10.53642000",
+                    "longitude": "-71.51104000"
+                }
+            ]
+        }
+    ],
+    "languages": [
+        "Goajiro",
+        "Spanish",
+        "Warrau"
+    ],
+    "latlng": [
+        8,
+        -66
+    ],
+    "nativeName": "Venezuela",
+    "population": 30206307,
+    "timezones": [
+        "UTC−04:30"
+    ],
+    "tld": [
+        ".ve"
+    ],
+    "translations": {
+        "de": "Venezuela",
+        "es": "Venezuela",
+        "fr": "Venezuela",
+        "ja": "ベネズエラ・ボリバル共和国",
+        "it": "Venezuela"
+    },
+    "government": "Federal Republic",
+    "independence": 1811,
+    "symbol": null,
+    "dish": "Pabellón criollo",
+    "expectancy": 73.1,
+    "temperature": 25.35,
+    "religion": "Christianity",
+    "density": 32.73079191,
+    "location": "South America",
+    "continent": "South America",
+    "wiki": "http://en.wikipedia.org/wiki/venezuela"
+}

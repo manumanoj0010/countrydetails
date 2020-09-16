@@ -1,0 +1,48 @@
+{
+  "name": "Hong Kong",
+  "altSpellings": ["HK", "香港"],
+  "area": 1104,
+  "borders": ["CHN"],
+  "callingCodes": ["852"],
+  "capital": "City of Victoria",
+  "capital_latlng": [-36.59861, 144.678005],
+  "currencies": ["HKD"],
+  "demonym": "Chinese",
+  "flag": "",
+  "geoJSON": {},
+  "ISO": {
+    "alpha2": "HK",
+    "alpha3": "HKG"
+  },
+  "languages": [
+      "Canton Chinese",
+      "Chiu chau",
+      "English",
+      "Fukien",
+      "Hakka"
+  ],
+  "latlng": [22.25, 114.16666666],
+  "nativeName": "香港",
+  "population": 7234800,
+    "continent": "Asia",
+      "government": "Special Administrative Region of China",
+        "independence": null,
+  "expectancy": 79.5,
+    "dish": "Char siu",
+      "symbol": "Flower",
+          "density": 7096.190476,
+            "location": "Eastern Asia",
+            "religion": "Unaffiliated Religions",
+              "temperature": null,
+                "states": [],
+  "timezones": ["UTC+08:00"],
+  "tld": [".hk"],
+  "translations": {
+    "de": "Hong Kong",
+    "es": "Hong Kong",
+    "fr": "Hong Kong",
+    "ja": "香港",
+    "it": "Hong Kong"
+  },
+  "wiki": "http://en.wikipedia.org/wiki/hong_kong"
+}

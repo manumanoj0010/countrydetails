@@ -1,0 +1,615 @@
+{
+    "name": "Kyrgyzstan",
+    "altSpellings": [
+        "KG",
+        "Киргизия",
+        "Kyrgyz Republic",
+        "Кыргыз Республикасы",
+        "Kyrgyz Respublikasy"
+    ],
+    "area": 199951,
+    "borders": [
+        "CHN",
+        "KAZ",
+        "TJK",
+        "UZB"
+    ],
+    "callingCodes": [
+        "996"
+    ],
+    "capital": "Bishkek",
+    "capital_latlng": [
+        42.876562,
+        74.607008
+    ],
+    "currencies": [
+        "KGS"
+    ],
+    "demonym": "Kirghiz",
+    "flag": "",
+    "geoJSON": {
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "type": "Feature",
+                "id": "KGZ",
+                "properties": {
+                    "name": "Kyrgyzstan"
+                },
+                "geometry": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                70.962315,
+                                42.266154
+                            ],
+                            [
+                                71.186281,
+                                42.704293
+                            ],
+                            [
+                                71.844638,
+                                42.845395
+                            ],
+                            [
+                                73.489758,
+                                42.500894
+                            ],
+                            [
+                                73.645304,
+                                43.091272
+                            ],
+                            [
+                                74.212866,
+                                43.298339
+                            ],
+                            [
+                                75.636965,
+                                42.8779
+                            ],
+                            [
+                                76.000354,
+                                42.988022
+                            ],
+                            [
+                                77.658392,
+                                42.960686
+                            ],
+                            [
+                                79.142177,
+                                42.856092
+                            ],
+                            [
+                                79.643645,
+                                42.496683
+                            ],
+                            [
+                                80.25999,
+                                42.349999
+                            ],
+                            [
+                                80.11943,
+                                42.123941
+                            ],
+                            [
+                                78.543661,
+                                41.582243
+                            ],
+                            [
+                                78.187197,
+                                41.185316
+                            ],
+                            [
+                                76.904484,
+                                41.066486
+                            ],
+                            [
+                                76.526368,
+                                40.427946
+                            ],
+                            [
+                                75.467828,
+                                40.562072
+                            ],
+                            [
+                                74.776862,
+                                40.366425
+                            ],
+                            [
+                                73.822244,
+                                39.893973
+                            ],
+                            [
+                                73.960013,
+                                39.660008
+                            ],
+                            [
+                                73.675379,
+                                39.431237
+                            ],
+                            [
+                                71.784694,
+                                39.279463
+                            ],
+                            [
+                                70.549162,
+                                39.604198
+                            ],
+                            [
+                                69.464887,
+                                39.526683
+                            ],
+                            [
+                                69.55961,
+                                40.103211
+                            ],
+                            [
+                                70.648019,
+                                39.935754
+                            ],
+                            [
+                                71.014198,
+                                40.244366
+                            ],
+                            [
+                                71.774875,
+                                40.145844
+                            ],
+                            [
+                                73.055417,
+                                40.866033
+                            ],
+                            [
+                                71.870115,
+                                41.3929
+                            ],
+                            [
+                                71.157859,
+                                41.143587
+                            ],
+                            [
+                                70.420022,
+                                41.519998
+                            ],
+                            [
+                                71.259248,
+                                42.167711
+                            ],
+                            [
+                                70.962315,
+                                42.266154
+                            ]
+                        ]
+                    ]
+                }
+            }
+        ]
+    },
+    "ISO": {
+        "alpha2": "KG",
+        "alpha3": "KGZ"
+    },
+    "languages": [
+        "Kazakh",
+        "Kirgiz",
+        "Russian",
+        "Tadzhik",
+        "Tatar",
+        "Ukrainian",
+        "Uzbek"
+    ],
+    "independence": 1991,
+    "government": "Republic",
+    "continent": "Asia",
+    "religion": "Islam",
+    "location": "Southern and Central Asia",
+    "temperature": 1.55,
+    "symbol": null,
+    "dish": "Beshbarmak, Laghman, Kuurdak",
+    "expectancy": 63.4,
+    "density": 32.92909281,
+    "states": [
+        {
+            "id": 998,
+            "name": "Batken Region",
+            "state_code": "B",
+            "cities": [
+                {
+                    "id": 64886,
+                    "name": "Aydarken",
+                    "latitude": "39.94319000",
+                    "longitude": "71.34184000"
+                },
+                {
+                    "id": 64888,
+                    "name": "Batken",
+                    "latitude": "40.06259000",
+                    "longitude": "70.81939000"
+                },
+                {
+                    "id": 64896,
+                    "name": "Iradan",
+                    "latitude": "40.26667000",
+                    "longitude": "72.10000000"
+                },
+                {
+                    "id": 64897,
+                    "name": "Isfana",
+                    "latitude": "39.83895000",
+                    "longitude": "69.52760000"
+                },
+                {
+                    "id": 64909,
+                    "name": "Karavan",
+                    "latitude": "40.29513000",
+                    "longitude": "72.18627000"
+                },
+                {
+                    "id": 64915,
+                    "name": "Kyzyl-Kyya",
+                    "latitude": "40.25684000",
+                    "longitude": "72.12793000"
+                },
+                {
+                    "id": 64923,
+                    "name": "Suluktu",
+                    "latitude": "39.93652000",
+                    "longitude": "69.56779000"
+                }
+            ]
+        },
+        {
+            "id": 1001,
+            "name": "Bishkek",
+            "state_code": "GB",
+            "cities": [
+                {
+                    "id": 64891,
+                    "name": "Bishkek",
+                    "latitude": "42.87000000",
+                    "longitude": "74.59000000"
+                }
+            ]
+        },
+        {
+            "id": 1004,
+            "name": "Chuy Region",
+            "state_code": "C",
+            "cities": [
+                {
+                    "id": 64884,
+                    "name": "Alamudunskiy Rayon",
+                    "latitude": "42.81985000",
+                    "longitude": "74.59398000"
+                },
+                {
+                    "id": 64890,
+                    "name": "Belovodskoye",
+                    "latitude": "42.82944000",
+                    "longitude": "74.10830000"
+                },
+                {
+                    "id": 64894,
+                    "name": "Chuyskiy Rayon",
+                    "latitude": "42.66667000",
+                    "longitude": "75.33333000"
+                },
+                {
+                    "id": 64898,
+                    "name": "Ivanovka",
+                    "latitude": "42.88778000",
+                    "longitude": "75.08500000"
+                },
+                {
+                    "id": 64902,
+                    "name": "Kaindy",
+                    "latitude": "42.82469000",
+                    "longitude": "73.67585000"
+                },
+                {
+                    "id": 64903,
+                    "name": "Kant",
+                    "latitude": "42.89106000",
+                    "longitude": "74.85077000"
+                },
+                {
+                    "id": 64906,
+                    "name": "Kara-Balta",
+                    "latitude": "42.81423000",
+                    "longitude": "73.84813000"
+                },
+                {
+                    "id": 64911,
+                    "name": "Kemin",
+                    "latitude": "42.78611000",
+                    "longitude": "75.69167000"
+                },
+                {
+                    "id": 64917,
+                    "name": "Lebedinovka",
+                    "latitude": "42.88454000",
+                    "longitude": "74.67819000"
+                },
+                {
+                    "id": 64921,
+                    "name": "Sokulukskiy Rayon",
+                    "latitude": "42.83333000",
+                    "longitude": "74.33333000"
+                },
+                {
+                    "id": 64922,
+                    "name": "Sosnovka",
+                    "latitude": "42.63707000",
+                    "longitude": "73.89608000"
+                },
+                {
+                    "id": 64928,
+                    "name": "Tokmok",
+                    "latitude": "42.84194000",
+                    "longitude": "75.30149000"
+                },
+                {
+                    "id": 64934,
+                    "name": "Ysyk-Ata",
+                    "latitude": "42.72665000",
+                    "longitude": "75.07444000"
+                }
+            ]
+        },
+        {
+            "id": 1002,
+            "name": "Issyk-Kul Region",
+            "state_code": "Y",
+            "cities": [
+                {
+                    "id": 64882,
+                    "name": "Ak-Suu",
+                    "latitude": "42.49948000",
+                    "longitude": "78.52702000"
+                },
+                {
+                    "id": 64887,
+                    "name": "Balykchy",
+                    "latitude": "42.46017000",
+                    "longitude": "76.18709000"
+                },
+                {
+                    "id": 64892,
+                    "name": "Cholpon-Ata",
+                    "latitude": "42.64944000",
+                    "longitude": "77.08225000"
+                },
+                {
+                    "id": 64901,
+                    "name": "Kadzhi-Say",
+                    "latitude": "42.14107000",
+                    "longitude": "77.17848000"
+                },
+                {
+                    "id": 64908,
+                    "name": "Karakol",
+                    "latitude": "42.49068000",
+                    "longitude": "78.39362000"
+                },
+                {
+                    "id": 64916,
+                    "name": "Kyzyl-Suu",
+                    "latitude": "42.34211000",
+                    "longitude": "78.00644000"
+                },
+                {
+                    "id": 64931,
+                    "name": "Tyup",
+                    "latitude": "42.72760000",
+                    "longitude": "78.36476000"
+                }
+            ]
+        },
+        {
+            "id": 1000,
+            "name": "Jalal-Abad Region",
+            "state_code": "J",
+            "cities": [
+                {
+                    "id": 64883,
+                    "name": "Ala-Buka",
+                    "latitude": "41.40806000",
+                    "longitude": "71.46306000"
+                },
+                {
+                    "id": 64889,
+                    "name": "Bazar-Korgon",
+                    "latitude": "41.03760000",
+                    "longitude": "72.74586000"
+                },
+                {
+                    "id": 64899,
+                    "name": "Jalal-Abad",
+                    "latitude": "40.93333000",
+                    "longitude": "73.00000000"
+                },
+                {
+                    "id": 64910,
+                    "name": "Kazarman",
+                    "latitude": "41.40500000",
+                    "longitude": "74.03700000"
+                },
+                {
+                    "id": 64912,
+                    "name": "Kerben",
+                    "latitude": "41.49399000",
+                    "longitude": "71.75826000"
+                },
+                {
+                    "id": 64913,
+                    "name": "Kochkor-Ata",
+                    "latitude": "41.03709000",
+                    "longitude": "72.48320000"
+                },
+                {
+                    "id": 64924,
+                    "name": "Suzak",
+                    "latitude": "40.89820000",
+                    "longitude": "72.90481000"
+                },
+                {
+                    "id": 64927,
+                    "name": "Tash-Kumyr",
+                    "latitude": "41.34612000",
+                    "longitude": "72.21707000"
+                },
+                {
+                    "id": 64929,
+                    "name": "Toktogul",
+                    "latitude": "41.87442000",
+                    "longitude": "72.94192000"
+                },
+                {
+                    "id": 64930,
+                    "name": "Toktogul District",
+                    "latitude": "41.75000000",
+                    "longitude": "73.00000000"
+                }
+            ]
+        },
+        {
+            "id": 999,
+            "name": "Naryn Region",
+            "state_code": "N",
+            "cities": [
+                {
+                    "id": 64885,
+                    "name": "At-Bashi",
+                    "latitude": "41.16951000",
+                    "longitude": "75.80099000"
+                },
+                {
+                    "id": 64900,
+                    "name": "Jumgal",
+                    "latitude": "41.94924000",
+                    "longitude": "74.40566000"
+                },
+                {
+                    "id": 64918,
+                    "name": "Naryn",
+                    "latitude": "41.42866000",
+                    "longitude": "75.99111000"
+                }
+            ]
+        },
+        {
+            "id": 1003,
+            "name": "Osh",
+            "state_code": "GO",
+            "cities": []
+        },
+        {
+            "id": 1005,
+            "name": "Osh Region",
+            "state_code": "O",
+            "cities": [
+                {
+                    "id": 64893,
+                    "name": "Chong-Alay District",
+                    "latitude": "39.47614000",
+                    "longitude": "72.33017000"
+                },
+                {
+                    "id": 64895,
+                    "name": "Daroot-Korgon",
+                    "latitude": "39.55274000",
+                    "longitude": "72.20518000"
+                },
+                {
+                    "id": 64904,
+                    "name": "Kara Kulja",
+                    "latitude": "40.64095000",
+                    "longitude": "73.49411000"
+                },
+                {
+                    "id": 64905,
+                    "name": "Kara Suu",
+                    "latitude": "40.70460000",
+                    "longitude": "72.86666000"
+                },
+                {
+                    "id": 64914,
+                    "name": "Kyzyl-Eshme",
+                    "latitude": "39.56559000",
+                    "longitude": "72.27153000"
+                },
+                {
+                    "id": 64919,
+                    "name": "Nookat",
+                    "latitude": "40.26597000",
+                    "longitude": "72.61834000"
+                },
+                {
+                    "id": 64920,
+                    "name": "Osh",
+                    "latitude": "40.52828000",
+                    "longitude": "72.79850000"
+                },
+                {
+                    "id": 64932,
+                    "name": "Uzgen",
+                    "latitude": "40.76994000",
+                    "longitude": "73.30068000"
+                },
+                {
+                    "id": 64933,
+                    "name": "Uzgen District",
+                    "latitude": "40.55000000",
+                    "longitude": "73.30000000"
+                }
+            ]
+        },
+        {
+            "id": 997,
+            "name": "Talas Region",
+            "state_code": "T",
+            "cities": [
+                {
+                    "id": 64907,
+                    "name": "Kara-Buurinskiy Rayon",
+                    "latitude": "42.50000000",
+                    "longitude": "71.41667000"
+                },
+                {
+                    "id": 64925,
+                    "name": "Talas",
+                    "latitude": "42.52277000",
+                    "longitude": "72.24274000"
+                },
+                {
+                    "id": 64926,
+                    "name": "Talasskiy Rayon",
+                    "latitude": "42.18647000",
+                    "longitude": "72.69408000"
+                }
+            ]
+        }
+    ],
+    "latlng": [
+        41,
+        75
+    ],
+    "nativeName": "Кыргызстан",
+    "population": 5776570,
+    
+    "timezones": [
+        "UTC+06:00"
+    ],
+    "tld": [
+        ".kg"
+    ],
+    "translations": {
+        "de": "Kirgisistan",
+        "es": "Kirguizistán",
+        "fr": "Kirghizistan",
+        "ja": "キルギス",
+        "it": "Kirghizistan"
+    },
+    "wiki": "http://en.wikipedia.org/wiki/kyrgyzstan"
+}

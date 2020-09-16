@@ -1,0 +1,20 @@
+{
+    "name": "Wales",
+    "flag": "",
+    "geoJSON": {},
+    "ISO": {
+        "alpha2": "GB",
+        "alpha3": "GBR"
+    },
+    "tld": [],
+    "continent": "Europe",
+    "government": "",
+    "independence": null,
+    "symbol": "animal",
+    "temperature": null,
+    "expectancy": null,
+    "location": null,
+    "density": 151.4,
+    "dish": "Cawl",
+    "wiki": "http://en.wikipedia.org/wiki/wales"
+}

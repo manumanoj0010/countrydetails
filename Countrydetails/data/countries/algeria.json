@@ -1,0 +1,2186 @@
+{
+    "name": "Algeria",
+    "altSpellings": [
+        "DZ",
+        "Dzayer",
+        "Algérie"
+    ],
+    "area": 2381741,
+    "borders": [
+        "TUN",
+        "LBY",
+        "NER",
+        "ESH",
+        "MRT",
+        "MLI",
+        "MAR"
+    ],
+    "states": [
+        {
+            "id": 1118,
+            "name": "Adrar Province",
+            "state_code": "01",
+            "cities": [
+                {
+                    "id": 31227,
+                    "name": "Adrar",
+                    "latitude": "27.87429000",
+                    "longitude": "-0.29388000"
+                },
+                {
+                    "id": 31234,
+                    "name": "Aoulef",
+                    "latitude": "26.96667000",
+                    "longitude": "1.08333000"
+                },
+                {
+                    "id": 31406,
+                    "name": "Reggane",
+                    "latitude": "26.71576000",
+                    "longitude": "0.17140000"
+                },
+                {
+                    "id": 31450,
+                    "name": "Timimoun",
+                    "latitude": "29.26388000",
+                    "longitude": "0.23098000"
+                }
+            ]
+        },
+        {
+            "id": 1119,
+            "name": "Aïn Defla Province",
+            "state_code": "44",
+            "cities": [
+                {
+                    "id": 31243,
+                    "name": "Aïn Defla",
+                    "latitude": "36.26405000",
+                    "longitude": "1.96790000"
+                },
+                {
+                    "id": 31325,
+                    "name": "El Abadia",
+                    "latitude": "36.26951000",
+                    "longitude": "1.68609000"
+                },
+                {
+                    "id": 31331,
+                    "name": "El Attaf",
+                    "latitude": "36.22393000",
+                    "longitude": "1.67187000"
+                },
+                {
+                    "id": 31361,
+                    "name": "Khemis Miliana",
+                    "latitude": "36.26104000",
+                    "longitude": "2.22015000"
+                },
+                {
+                    "id": 31448,
+                    "name": "Theniet el Had",
+                    "latitude": "35.87111000",
+                    "longitude": "2.02806000"
+                }
+            ]
+        },
+        {
+            "id": 1122,
+            "name": "Aïn Témouchent Province",
+            "state_code": "46",
+            "cities": [
+                {
+                    "id": 31250,
+                    "name": "Aïn Temouchent",
+                    "latitude": "35.29749000",
+                    "longitude": "-1.14037000"
+                },
+                {
+                    "id": 31265,
+                    "name": "Beni Saf",
+                    "latitude": "35.30099000",
+                    "longitude": "-1.38226000"
+                },
+                {
+                    "id": 31329,
+                    "name": "El Amria",
+                    "latitude": "35.52439000",
+                    "longitude": "-1.01577000"
+                },
+                {
+                    "id": 31340,
+                    "name": "El Malah",
+                    "latitude": "35.39137000",
+                    "longitude": "-1.09238000"
+                },
+                {
+                    "id": 31351,
+                    "name": "Hammam Bou Hadjar",
+                    "latitude": "35.37889000",
+                    "longitude": "-0.96778000"
+                }
+            ]
+        },
+        {
+            "id": 1144,
+            "name": "Algiers Province",
+            "state_code": "16",
+            "cities": [
+                {
+                    "id": 31249,
+                    "name": "Aïn Taya",
+                    "latitude": "36.79333000",
+                    "longitude": "3.28694000"
+                },
+                {
+                    "id": 31230,
+                    "name": "Algiers",
+                    "latitude": "36.73225000",
+                    "longitude": "3.08746000"
+                },
+                {
+                    "id": 31254,
+                    "name": "Bab Ezzouar",
+                    "latitude": "36.72615000",
+                    "longitude": "3.18291000"
+                },
+                {
+                    "id": 31274,
+                    "name": "Birkhadem",
+                    "latitude": "36.71499000",
+                    "longitude": "3.05002000"
+                },
+                {
+                    "id": 31281,
+                    "name": "Bordj el Kiffan",
+                    "latitude": "36.74871000",
+                    "longitude": "3.19249000"
+                },
+                {
+                    "id": 31312,
+                    "name": "Dar el Beïda",
+                    "latitude": "36.71333000",
+                    "longitude": "3.21250000"
+                },
+                {
+                    "id": 31413,
+                    "name": "Rouiba",
+                    "latitude": "36.73829000",
+                    "longitude": "3.28079000"
+                }
+            ]
+        },
+        {
+            "id": 1103,
+            "name": "Annaba Province",
+            "state_code": "23",
+            "cities": [
+                {
+                    "id": 31233,
+                    "name": "Annaba",
+                    "latitude": "36.90000000",
+                    "longitude": "7.76667000"
+                },
+                {
+                    "id": 31267,
+                    "name": "Berrahal",
+                    "latitude": "36.83528000",
+                    "longitude": "7.45333000"
+                },
+                {
+                    "id": 31323,
+                    "name": "Drean",
+                    "latitude": "36.68482000",
+                    "longitude": "7.75111000"
+                },
+                {
+                    "id": 31334,
+                    "name": "El Hadjar",
+                    "latitude": "36.80377000",
+                    "longitude": "7.73684000"
+                }
+            ]
+        },
+        {
+            "id": 1142,
+            "name": "Batna Province",
+            "state_code": "05",
+            "cities": [
+                {
+                    "id": 31251,
+                    "name": "Aïn Touta",
+                    "latitude": "35.37675000",
+                    "longitude": "5.90001000"
+                },
+                {
+                    "id": 31237,
+                    "name": "Arris",
+                    "latitude": "35.25881000",
+                    "longitude": "6.34706000"
+                },
+                {
+                    "id": 31257,
+                    "name": "Barika",
+                    "latitude": "35.38901000",
+                    "longitude": "5.36584000"
+                },
+                {
+                    "id": 31258,
+                    "name": "Batna",
+                    "latitude": "35.55597000",
+                    "longitude": "6.17414000"
+                },
+                {
+                    "id": 31292,
+                    "name": "Boumagueur",
+                    "latitude": "35.50520000",
+                    "longitude": "5.55250000"
+                },
+                {
+                    "id": 31382,
+                    "name": "Merouana",
+                    "latitude": "35.63106000",
+                    "longitude": "5.91186000"
+                },
+                {
+                    "id": 31415,
+                    "name": "Râs el Aïoun",
+                    "latitude": "35.67384000",
+                    "longitude": "5.64530000"
+                },
+                {
+                    "id": 31444,
+                    "name": "Tazoult-Lambese",
+                    "latitude": "35.48171000",
+                    "longitude": "6.26074000"
+                }
+            ]
+        },
+        {
+            "id": 1108,
+            "name": "Béchar Province",
+            "state_code": "08",
+            "cities": [
+                {
+                    "id": 31298,
+                    "name": "Béchar",
+                    "latitude": "31.61667000",
+                    "longitude": "-2.21667000"
+                }
+            ]
+        },
+        {
+            "id": 1128,
+            "name": "Béjaïa Province",
+            "state_code": "06",
+            "cities": [
+                {
+                    "id": 31229,
+                    "name": "Akbou",
+                    "latitude": "36.45750000",
+                    "longitude": "4.53494000"
+                },
+                {
+                    "id": 31231,
+                    "name": "Amizour",
+                    "latitude": "36.64022000",
+                    "longitude": "4.90131000"
+                },
+                {
+                    "id": 31256,
+                    "name": "Barbacha",
+                    "latitude": "36.56667000",
+                    "longitude": "4.96667000"
+                },
+                {
+                    "id": 31259,
+                    "name": "Bejaïa",
+                    "latitude": "36.75587000",
+                    "longitude": "5.08433000"
+                },
+                {
+                    "id": 31467,
+                    "name": "el hed",
+                    "latitude": "36.65000000",
+                    "longitude": "4.77361000"
+                },
+                {
+                    "id": 31339,
+                    "name": "El Kseur",
+                    "latitude": "36.67942000",
+                    "longitude": "4.85550000"
+                },
+                {
+                    "id": 31344,
+                    "name": "Feraoun",
+                    "latitude": "36.56041000",
+                    "longitude": "4.85454000"
+                },
+                {
+                    "id": 31421,
+                    "name": "Seddouk",
+                    "latitude": "36.54722000",
+                    "longitude": "4.68611000"
+                }
+            ]
+        },
+        {
+            "id": 1114,
+            "name": "Biskra",
+            "state_code": "07",
+            "cities": [
+                {
+                    "id": 31275,
+                    "name": "Biskra",
+                    "latitude": "34.85038000",
+                    "longitude": "5.72805000"
+                },
+                {
+                    "id": 31405,
+                    "name": "Oumache",
+                    "latitude": "34.69292000",
+                    "longitude": "5.68092000"
+                },
+                {
+                    "id": 31427,
+                    "name": "Sidi Khaled",
+                    "latitude": "34.38700000",
+                    "longitude": "4.98785000"
+                },
+                {
+                    "id": 31430,
+                    "name": "Sidi Okba",
+                    "latitude": "34.74512000",
+                    "longitude": "5.89833000"
+                },
+                {
+                    "id": 31461,
+                    "name": "Tolga",
+                    "latitude": "34.72224000",
+                    "longitude": "5.37845000"
+                },
+                {
+                    "id": 31466,
+                    "name": "Zeribet el Oued",
+                    "latitude": "34.68284000",
+                    "longitude": "6.51109000"
+                }
+            ]
+        },
+        {
+            "id": 1111,
+            "name": "Blida Province",
+            "state_code": "09",
+            "cities": [
+                {
+                    "id": 31263,
+                    "name": "Beni Mered",
+                    "latitude": "36.52389000",
+                    "longitude": "2.86131000"
+                },
+                {
+                    "id": 31276,
+                    "name": "Blida",
+                    "latitude": "36.47004000",
+                    "longitude": "2.82770000"
+                },
+                {
+                    "id": 31296,
+                    "name": "Boû Arfa",
+                    "latitude": "36.46298000",
+                    "longitude": "2.81464000"
+                },
+                {
+                    "id": 31287,
+                    "name": "Boufarik",
+                    "latitude": "36.57413000",
+                    "longitude": "2.91214000"
+                },
+                {
+                    "id": 31289,
+                    "name": "Bougara",
+                    "latitude": "36.54178000",
+                    "longitude": "3.08100000"
+                },
+                {
+                    "id": 31290,
+                    "name": "Bouinan",
+                    "latitude": "36.53167000",
+                    "longitude": "2.99194000"
+                },
+                {
+                    "id": 31301,
+                    "name": "Chebli",
+                    "latitude": "36.57722000",
+                    "longitude": "3.00917000"
+                },
+                {
+                    "id": 31307,
+                    "name": "Chiffa",
+                    "latitude": "36.46293000",
+                    "longitude": "2.73873000"
+                },
+                {
+                    "id": 31369,
+                    "name": "Larbaâ",
+                    "latitude": "36.56471000",
+                    "longitude": "3.15434000"
+                },
+                {
+                    "id": 31377,
+                    "name": "Meftah",
+                    "latitude": "36.62040000",
+                    "longitude": "3.22248000"
+                },
+                {
+                    "id": 31428,
+                    "name": "Sidi Moussa",
+                    "latitude": "36.60637000",
+                    "longitude": "3.08783000"
+                },
+                {
+                    "id": 31438,
+                    "name": "Souma",
+                    "latitude": "36.51833000",
+                    "longitude": "2.90528000"
+                }
+            ]
+        },
+        {
+            "id": 1116,
+            "name": "Bordj Bou Arréridj Province",
+            "state_code": "34",
+            "cities": [
+                {
+                    "id": 31278,
+                    "name": "Bordj Bou Arreridj",
+                    "latitude": "36.07321000",
+                    "longitude": "4.76108000"
+                },
+                {
+                    "id": 31279,
+                    "name": "Bordj Ghdir",
+                    "latitude": "35.90111000",
+                    "longitude": "4.89806000"
+                },
+                {
+                    "id": 31280,
+                    "name": "Bordj Zemoura",
+                    "latitude": "36.27462000",
+                    "longitude": "4.85668000"
+                },
+                {
+                    "id": 31327,
+                    "name": "El Achir",
+                    "latitude": "36.06386000",
+                    "longitude": "4.62744000"
+                },
+                {
+                    "id": 31373,
+                    "name": "Mansourah",
+                    "latitude": "36.08725000",
+                    "longitude": "4.45192000"
+                },
+                {
+                    "id": 31381,
+                    "name": "Melouza",
+                    "latitude": "35.97999000",
+                    "longitude": "4.18665000"
+                },
+                {
+                    "id": 31416,
+                    "name": "Râs el Oued",
+                    "latitude": "35.94410000",
+                    "longitude": "5.03107000"
+                }
+            ]
+        },
+        {
+            "id": 1104,
+            "name": "Bouïra Province",
+            "state_code": "10",
+            "cities": [
+                {
+                    "id": 31241,
+                    "name": "Aïn Bessem",
+                    "latitude": "36.29333000",
+                    "longitude": "3.67319000"
+                },
+                {
+                    "id": 31295,
+                    "name": "Bouïra",
+                    "latitude": "36.37489000",
+                    "longitude": "3.90200000"
+                },
+                {
+                    "id": 31309,
+                    "name": "Chorfa",
+                    "latitude": "36.36505000",
+                    "longitude": "4.32636000"
+                },
+                {
+                    "id": 31322,
+                    "name": "Draa el Mizan",
+                    "latitude": "36.53628000",
+                    "longitude": "3.83340000"
+                },
+                {
+                    "id": 31368,
+                    "name": "Lakhdaria",
+                    "latitude": "36.56463000",
+                    "longitude": "3.59330000"
+                },
+                {
+                    "id": 31439,
+                    "name": "Sour el Ghozlane",
+                    "latitude": "36.14766000",
+                    "longitude": "3.69123000"
+                }
+            ]
+        },
+        {
+            "id": 1125,
+            "name": "Boumerdès Province",
+            "state_code": "35",
+            "cities": [
+                {
+                    "id": 31235,
+                    "name": "Arbatache",
+                    "latitude": "36.63773000",
+                    "longitude": "3.37127000"
+                },
+                {
+                    "id": 31261,
+                    "name": "Beni Amrane",
+                    "latitude": "36.66774000",
+                    "longitude": "3.59115000"
+                },
+                {
+                    "id": 31286,
+                    "name": "Boudouaou",
+                    "latitude": "36.72735000",
+                    "longitude": "3.40995000"
+                },
+                {
+                    "id": 31294,
+                    "name": "Boumerdas",
+                    "latitude": "36.76639000",
+                    "longitude": "3.47717000"
+                },
+                {
+                    "id": 31299,
+                    "name": "Chabet el Ameur",
+                    "latitude": "36.63709000",
+                    "longitude": "3.69474000"
+                },
+                {
+                    "id": 31314,
+                    "name": "Dellys",
+                    "latitude": "36.91716000",
+                    "longitude": "3.91311000"
+                },
+                {
+                    "id": 31362,
+                    "name": "Khemis el Khechna",
+                    "latitude": "36.64997000",
+                    "longitude": "3.33080000"
+                },
+                {
+                    "id": 31372,
+                    "name": "Makouda",
+                    "latitude": "36.78567000",
+                    "longitude": "4.06273000"
+                },
+                {
+                    "id": 31393,
+                    "name": "Naciria",
+                    "latitude": "36.74625000",
+                    "longitude": "3.83163000"
+                },
+                {
+                    "id": 31403,
+                    "name": "Ouled Moussa",
+                    "latitude": "36.68394000",
+                    "longitude": "3.36661000"
+                },
+                {
+                    "id": 31407,
+                    "name": "Reghaïa",
+                    "latitude": "36.73587000",
+                    "longitude": "3.34018000"
+                },
+                {
+                    "id": 31441,
+                    "name": "Tadmaït",
+                    "latitude": "36.74413000",
+                    "longitude": "3.90045000"
+                },
+                {
+                    "id": 31447,
+                    "name": "Thenia",
+                    "latitude": "36.72544000",
+                    "longitude": "3.55665000"
+                },
+                {
+                    "id": 31456,
+                    "name": "Tizi Gheniff",
+                    "latitude": "36.58839000",
+                    "longitude": "3.77445000"
+                }
+            ]
+        },
+        {
+            "id": 1105,
+            "name": "Chlef Province",
+            "state_code": "02",
+            "cities": [
+                {
+                    "id": 31226,
+                    "name": "Abou el Hassan",
+                    "latitude": "36.41657000",
+                    "longitude": "1.19616000"
+                },
+                {
+                    "id": 31291,
+                    "name": "Boukadir",
+                    "latitude": "36.06629000",
+                    "longitude": "1.12602000"
+                },
+                {
+                    "id": 31308,
+                    "name": "Chlef",
+                    "latitude": "36.16525000",
+                    "longitude": "1.33452000"
+                },
+                {
+                    "id": 31324,
+                    "name": "Ech Chettia",
+                    "latitude": "36.19591000",
+                    "longitude": "1.25537000"
+                },
+                {
+                    "id": 31397,
+                    "name": "Oued Fodda",
+                    "latitude": "36.18503000",
+                    "longitude": "1.53299000"
+                },
+                {
+                    "id": 31399,
+                    "name": "Oued Sly",
+                    "latitude": "36.10124000",
+                    "longitude": "1.19949000"
+                },
+                {
+                    "id": 31424,
+                    "name": "Sidi Akkacha",
+                    "latitude": "36.46472000",
+                    "longitude": "1.30258000"
+                }
+            ]
+        },
+        {
+            "id": 1121,
+            "name": "Constantine Province",
+            "state_code": "25",
+            "cities": [
+                {
+                    "id": 31469,
+                    "name": "’Aïn Abid",
+                    "latitude": "36.23194000",
+                    "longitude": "6.94333000"
+                },
+                {
+                    "id": 31248,
+                    "name": "Aïn Smara",
+                    "latitude": "36.26740000",
+                    "longitude": "6.50135000"
+                },
+                {
+                    "id": 31310,
+                    "name": "Constantine",
+                    "latitude": "36.36500000",
+                    "longitude": "6.61472000"
+                },
+                {
+                    "id": 31315,
+                    "name": "Didouche Mourad",
+                    "latitude": "36.45250000",
+                    "longitude": "6.63639000"
+                },
+                {
+                    "id": 31338,
+                    "name": "El Khroub",
+                    "latitude": "36.26333000",
+                    "longitude": "6.69361000"
+                },
+                {
+                    "id": 31350,
+                    "name": "Hamma Bouziane",
+                    "latitude": "36.41205000",
+                    "longitude": "6.59603000"
+                }
+            ]
+        },
+        {
+            "id": 1098,
+            "name": "Djelfa Province",
+            "state_code": "17",
+            "cities": [
+                {
+                    "id": 31474,
+                    "name": "’Aïn el Bell",
+                    "latitude": "34.34381000",
+                    "longitude": "3.22475000"
+                },
+                {
+                    "id": 31246,
+                    "name": "Aïn Oussera",
+                    "latitude": "35.45139000",
+                    "longitude": "2.90583000"
+                },
+                {
+                    "id": 31273,
+                    "name": "Birine",
+                    "latitude": "35.63500000",
+                    "longitude": "3.22500000"
+                },
+                {
+                    "id": 31300,
+                    "name": "Charef",
+                    "latitude": "34.62098000",
+                    "longitude": "2.79503000"
+                },
+                {
+                    "id": 31311,
+                    "name": "Dar Chioukh",
+                    "latitude": "34.89638000",
+                    "longitude": "3.48543000"
+                },
+                {
+                    "id": 31318,
+                    "name": "Djelfa",
+                    "latitude": "34.67279000",
+                    "longitude": "3.26300000"
+                },
+                {
+                    "id": 31336,
+                    "name": "El Idrissia",
+                    "latitude": "34.44542000",
+                    "longitude": "2.52749000"
+                },
+                {
+                    "id": 31385,
+                    "name": "Messaad",
+                    "latitude": "34.15429000",
+                    "longitude": "3.50309000"
+                }
+            ]
+        },
+        {
+            "id": 1129,
+            "name": "El Bayadh Province",
+            "state_code": "32",
+            "cities": [
+                {
+                    "id": 31297,
+                    "name": "Brezina",
+                    "latitude": "33.09892000",
+                    "longitude": "1.26082000"
+                },
+                {
+                    "id": 31326,
+                    "name": "El Abiodh Sidi Cheikh",
+                    "latitude": "32.89300000",
+                    "longitude": "0.54839000"
+                },
+                {
+                    "id": 31332,
+                    "name": "El Bayadh",
+                    "latitude": "33.68318000",
+                    "longitude": "1.01927000"
+                }
+            ]
+        },
+        {
+            "id": 1099,
+            "name": "El Oued Province",
+            "state_code": "39",
+            "cities": [
+                {
+                    "id": 31313,
+                    "name": "Debila",
+                    "latitude": "33.51667000",
+                    "longitude": "6.95000000"
+                },
+                {
+                    "id": 31341,
+                    "name": "El Oued",
+                    "latitude": "33.35608000",
+                    "longitude": "6.86319000"
+                },
+                {
+                    "id": 31408,
+                    "name": "Reguiba",
+                    "latitude": "33.56391000",
+                    "longitude": "6.70326000"
+                },
+                {
+                    "id": 31411,
+                    "name": "Robbah",
+                    "latitude": "33.27967000",
+                    "longitude": "6.90984000"
+                }
+            ]
+        },
+        {
+            "id": 1100,
+            "name": "El Tarf Province",
+            "state_code": "36",
+            "cities": [
+                {
+                    "id": 31260,
+                    "name": "Ben Mehidi",
+                    "latitude": "36.76967000",
+                    "longitude": "7.90641000"
+                },
+                {
+                    "id": 31270,
+                    "name": "Besbes",
+                    "latitude": "36.70222000",
+                    "longitude": "7.84722000"
+                },
+                {
+                    "id": 31337,
+                    "name": "El Kala",
+                    "latitude": "36.89556000",
+                    "longitude": "8.44333000"
+                },
+                {
+                    "id": 31342,
+                    "name": "El Tarf",
+                    "latitude": "36.76720000",
+                    "longitude": "8.31377000"
+                }
+            ]
+        },
+        {
+            "id": 1127,
+            "name": "Ghardaïa Province",
+            "state_code": "47",
+            "cities": [
+                {
+                    "id": 31268,
+                    "name": "Berriane",
+                    "latitude": "32.82648000",
+                    "longitude": "3.76689000"
+                },
+                {
+                    "id": 31347,
+                    "name": "Ghardaïa",
+                    "latitude": "32.49094000",
+                    "longitude": "3.67347000"
+                },
+                {
+                    "id": 31386,
+                    "name": "Metlili Chaamba",
+                    "latitude": "32.26667000",
+                    "longitude": "3.63333000"
+                }
+            ]
+        },
+        {
+            "id": 1137,
+            "name": "Guelma Province",
+            "state_code": "24",
+            "cities": [
+                {
+                    "id": 31293,
+                    "name": "Boumahra Ahmed",
+                    "latitude": "36.45833000",
+                    "longitude": "7.51389000"
+                },
+                {
+                    "id": 31348,
+                    "name": "Guelma",
+                    "latitude": "36.46214000",
+                    "longitude": "7.42608000"
+                },
+                {
+                    "id": 31355,
+                    "name": "Héliopolis",
+                    "latitude": "36.50361000",
+                    "longitude": "7.44278000"
+                }
+            ]
+        },
+        {
+            "id": 1112,
+            "name": "Illizi Province",
+            "state_code": "33",
+            "cities": [
+                {
+                    "id": 31358,
+                    "name": "Illizi",
+                    "latitude": "26.48333000",
+                    "longitude": "8.46667000"
+                }
+            ]
+        },
+        {
+            "id": 1113,
+            "name": "Jijel Province",
+            "state_code": "18",
+            "cities": [
+                {
+                    "id": 31359,
+                    "name": "Jijel",
+                    "latitude": "36.82055000",
+                    "longitude": "5.76671000"
+                }
+            ]
+        },
+        {
+            "id": 1126,
+            "name": "Khenchela Province",
+            "state_code": "40",
+            "cities": [
+                {
+                    "id": 31363,
+                    "name": "Khenchela",
+                    "latitude": "35.43583000",
+                    "longitude": "7.14333000"
+                }
+            ]
+        },
+        {
+            "id": 1138,
+            "name": "Laghouat Province",
+            "state_code": "03",
+            "cities": [
+                {
+                    "id": 31228,
+                    "name": "Aflou",
+                    "latitude": "34.11279000",
+                    "longitude": "2.10228000"
+                },
+                {
+                    "id": 31367,
+                    "name": "Laghouat",
+                    "latitude": "33.80000000",
+                    "longitude": "2.86514000"
+                }
+            ]
+        },
+        {
+            "id": 1134,
+            "name": "M'Sila Province",
+            "state_code": "28",
+            "cities": [
+                {
+                    "id": 31468,
+                    "name": "‘Aïn el Hadjel",
+                    "latitude": "35.67003000",
+                    "longitude": "3.88153000"
+                },
+                {
+                    "id": 31477,
+                    "name": "’Aïn el Melh",
+                    "latitude": "34.84146000",
+                    "longitude": "4.16383000"
+                },
+                {
+                    "id": 31391,
+                    "name": "M’Sila",
+                    "latitude": "35.70583000",
+                    "longitude": "4.54194000"
+                },
+                {
+                    "id": 31426,
+                    "name": "Sidi Aïssa",
+                    "latitude": "35.88548000",
+                    "longitude": "3.77236000"
+                }
+            ]
+        },
+        {
+            "id": 1124,
+            "name": "Mascara Province",
+            "state_code": "29",
+            "cities": [
+                {
+                    "id": 31282,
+                    "name": "Bou Hanifia el Hamamat",
+                    "latitude": "35.31473000",
+                    "longitude": "-0.05037000"
+                },
+                {
+                    "id": 31375,
+                    "name": "Mascara",
+                    "latitude": "35.39664000",
+                    "longitude": "0.14027000"
+                },
+                {
+                    "id": 31400,
+                    "name": "Oued el Abtal",
+                    "latitude": "35.45595000",
+                    "longitude": "0.68778000"
+                },
+                {
+                    "id": 31433,
+                    "name": "Sig",
+                    "latitude": "35.52832000",
+                    "longitude": "-0.19369000"
+                }
+            ]
+        },
+        {
+            "id": 1109,
+            "name": "Médéa Province",
+            "state_code": "26",
+            "cities": [
+                {
+                    "id": 31471,
+                    "name": "’Aïn Boucif",
+                    "latitude": "35.89123000",
+                    "longitude": "3.15850000"
+                },
+                {
+                    "id": 31269,
+                    "name": "Berrouaghia",
+                    "latitude": "36.13516000",
+                    "longitude": "2.91085000"
+                },
+                {
+                    "id": 31366,
+                    "name": "Ksar el Boukhari",
+                    "latitude": "35.88889000",
+                    "longitude": "2.74905000"
+                },
+                {
+                    "id": 31390,
+                    "name": "Médéa",
+                    "latitude": "36.26417000",
+                    "longitude": "2.75393000"
+                }
+            ]
+        },
+        {
+            "id": 1132,
+            "name": "Mila Province",
+            "state_code": "43",
+            "cities": [
+                {
+                    "id": 31302,
+                    "name": "Chelghoum el Aïd",
+                    "latitude": "36.16286000",
+                    "longitude": "6.16651000"
+                },
+                {
+                    "id": 31387,
+                    "name": "Mila",
+                    "latitude": "36.45028000",
+                    "longitude": "6.26444000"
+                },
+                {
+                    "id": 31412,
+                    "name": "Rouached",
+                    "latitude": "36.45774000",
+                    "longitude": "6.04267000"
+                },
+                {
+                    "id": 31429,
+                    "name": "Sidi Mérouane",
+                    "latitude": "36.52056000",
+                    "longitude": "6.26111000"
+                },
+                {
+                    "id": 31446,
+                    "name": "Telerghma",
+                    "latitude": "36.11653000",
+                    "longitude": "6.35434000"
+                }
+            ]
+        },
+        {
+            "id": 1140,
+            "name": "Mostaganem Province",
+            "state_code": "27",
+            "cities": [
+                {
+                    "id": 31388,
+                    "name": "Mostaganem",
+                    "latitude": "35.93115000",
+                    "longitude": "0.08918000"
+                }
+            ]
+        },
+        {
+            "id": 1102,
+            "name": "Naama Province",
+            "state_code": "45",
+            "cities": [
+                {
+                    "id": 31247,
+                    "name": "Aïn Sefra",
+                    "latitude": "32.75000000",
+                    "longitude": "-0.58333000"
+                },
+                {
+                    "id": 31392,
+                    "name": "Naama",
+                    "latitude": "33.26667000",
+                    "longitude": "-0.31667000"
+                }
+            ]
+        },
+        {
+            "id": 1101,
+            "name": "Oran Province",
+            "state_code": "31",
+            "cities": [
+                {
+                    "id": 31478,
+                    "name": "’Aïn el Turk",
+                    "latitude": "35.74381000",
+                    "longitude": "-0.76930000"
+                },
+                {
+                    "id": 31252,
+                    "name": "Aïn el Bya",
+                    "latitude": "35.80389000",
+                    "longitude": "-0.30178000"
+                },
+                {
+                    "id": 31272,
+                    "name": "Bir el Djir",
+                    "latitude": "35.72000000",
+                    "longitude": "-0.54500000"
+                },
+                {
+                    "id": 31284,
+                    "name": "Bou Tlelis",
+                    "latitude": "35.57272000",
+                    "longitude": "-0.89960000"
+                },
+                {
+                    "id": 31343,
+                    "name": "Es Senia",
+                    "latitude": "35.64779000",
+                    "longitude": "-0.62397000"
+                },
+                {
+                    "id": 31383,
+                    "name": "Mers el Kebir",
+                    "latitude": "35.72790000",
+                    "longitude": "-0.70810000"
+                },
+                {
+                    "id": 31395,
+                    "name": "Oran",
+                    "latitude": "35.69906000",
+                    "longitude": "-0.63588000"
+                },
+                {
+                    "id": 31432,
+                    "name": "Sidi ech Chahmi",
+                    "latitude": "35.65903000",
+                    "longitude": "-0.52168000"
+                }
+            ]
+        },
+        {
+            "id": 1139,
+            "name": "Ouargla Province",
+            "state_code": "30",
+            "cities": [
+                {
+                    "id": 31316,
+                    "name": "Djamaa",
+                    "latitude": "33.53388000",
+                    "longitude": "5.99306000"
+                },
+                {
+                    "id": 31335,
+                    "name": "El Hadjira",
+                    "latitude": "32.61336000",
+                    "longitude": "5.51259000"
+                },
+                {
+                    "id": 31353,
+                    "name": "Hassi Messaoud",
+                    "latitude": "31.68041000",
+                    "longitude": "6.07286000"
+                },
+                {
+                    "id": 31378,
+                    "name": "Megarine",
+                    "latitude": "33.19195000",
+                    "longitude": "6.08695000"
+                },
+                {
+                    "id": 31396,
+                    "name": "Ouargla",
+                    "latitude": "31.94932000",
+                    "longitude": "5.32502000"
+                },
+                {
+                    "id": 31414,
+                    "name": "Rouissat",
+                    "latitude": "31.92427000",
+                    "longitude": "5.35018000"
+                },
+                {
+                    "id": 31425,
+                    "name": "Sidi Amrane",
+                    "latitude": "33.49885000",
+                    "longitude": "6.00803000"
+                },
+                {
+                    "id": 31445,
+                    "name": "Tebesbest",
+                    "latitude": "33.11667000",
+                    "longitude": "6.08333000"
+                },
+                {
+                    "id": 31462,
+                    "name": "Touggourt",
+                    "latitude": "33.10527000",
+                    "longitude": "6.05796000"
+                }
+            ]
+        },
+        {
+            "id": 1136,
+            "name": "Oum El Bouaghi Province",
+            "state_code": "04",
+            "cities": [
+                {
+                    "id": 31242,
+                    "name": "Aïn Beïda",
+                    "latitude": "35.79639000",
+                    "longitude": "7.39278000"
+                },
+                {
+                    "id": 31244,
+                    "name": "Aïn Fakroun",
+                    "latitude": "35.97108000",
+                    "longitude": "6.87374000"
+                },
+                {
+                    "id": 31245,
+                    "name": "Aïn Kercha",
+                    "latitude": "35.92472000",
+                    "longitude": "6.69528000"
+                },
+                {
+                    "id": 31330,
+                    "name": "El Aouinet",
+                    "latitude": "35.86691000",
+                    "longitude": "7.88673000"
+                },
+                {
+                    "id": 31384,
+                    "name": "Meskiana",
+                    "latitude": "35.63058000",
+                    "longitude": "7.66606000"
+                },
+                {
+                    "id": 31404,
+                    "name": "Oum el Bouaghi",
+                    "latitude": "35.87541000",
+                    "longitude": "7.11353000"
+                }
+            ]
+        },
+        {
+            "id": 1130,
+            "name": "Relizane Province",
+            "state_code": "48",
+            "cities": [
+                {
+                    "id": 31473,
+                    "name": "’Aïn Merane",
+                    "latitude": "36.16277000",
+                    "longitude": "0.97037000"
+                },
+                {
+                    "id": 31232,
+                    "name": "Ammi Moussa",
+                    "latitude": "35.86781000",
+                    "longitude": "1.11143000"
+                },
+                {
+                    "id": 31319,
+                    "name": "Djidiouia",
+                    "latitude": "35.92989000",
+                    "longitude": "0.82871000"
+                },
+                {
+                    "id": 31376,
+                    "name": "Mazouna",
+                    "latitude": "36.12232000",
+                    "longitude": "0.89865000"
+                },
+                {
+                    "id": 31398,
+                    "name": "Oued Rhiou",
+                    "latitude": "35.96124000",
+                    "longitude": "0.91896000"
+                },
+                {
+                    "id": 31409,
+                    "name": "Relizane",
+                    "latitude": "35.73734000",
+                    "longitude": "0.55599000"
+                },
+                {
+                    "id": 31435,
+                    "name": "Smala",
+                    "latitude": "35.71652000",
+                    "longitude": "0.75437000"
+                },
+                {
+                    "id": 31464,
+                    "name": "Zemoura",
+                    "latitude": "35.72251000",
+                    "longitude": "0.75509000"
+                }
+            ]
+        },
+        {
+            "id": 1123,
+            "name": "Saïda Province",
+            "state_code": "20",
+            "cities": [
+                {
+                    "id": 31475,
+                    "name": "’Aïn el Hadjar",
+                    "latitude": "34.75846000",
+                    "longitude": "0.14528000"
+                },
+                {
+                    "id": 31419,
+                    "name": "Saïda",
+                    "latitude": "34.83033000",
+                    "longitude": "0.15171000"
+                }
+            ]
+        },
+        {
+            "id": 1141,
+            "name": "Sétif Province",
+            "state_code": "19",
+            "cities": [
+                {
+                    "id": 31240,
+                    "name": "Aïn Arnat",
+                    "latitude": "36.18683000",
+                    "longitude": "5.31347000"
+                },
+                {
+                    "id": 31253,
+                    "name": "BABOR - VILLE",
+                    "latitude": "36.48994000",
+                    "longitude": "5.53930000"
+                },
+                {
+                    "id": 31288,
+                    "name": "Bougaa",
+                    "latitude": "36.33293000",
+                    "longitude": "5.08843000"
+                },
+                {
+                    "id": 31333,
+                    "name": "El Eulma",
+                    "latitude": "36.15281000",
+                    "longitude": "5.69016000"
+                },
+                {
+                    "id": 31417,
+                    "name": "Salah Bey",
+                    "latitude": "35.85451000",
+                    "longitude": "5.29053000"
+                },
+                {
+                    "id": 31440,
+                    "name": "Sétif",
+                    "latitude": "36.19112000",
+                    "longitude": "5.41373000"
+                }
+            ]
+        },
+        {
+            "id": 1110,
+            "name": "Skikda Province",
+            "state_code": "21",
+            "cities": [
+                {
+                    "id": 31239,
+                    "name": "Azzaba",
+                    "latitude": "36.73944000",
+                    "longitude": "7.10528000"
+                },
+                {
+                    "id": 31360,
+                    "name": "Karkira",
+                    "latitude": "36.92917000",
+                    "longitude": "6.58556000"
+                },
+                {
+                    "id": 31434,
+                    "name": "Skikda",
+                    "latitude": "36.87617000",
+                    "longitude": "6.90921000"
+                },
+                {
+                    "id": 31442,
+                    "name": "Tamalous",
+                    "latitude": "36.83763000",
+                    "longitude": "6.64018000"
+                }
+            ]
+        },
+        {
+            "id": 1143,
+            "name": "Souk Ahras Province",
+            "state_code": "41",
+            "cities": [
+                {
+                    "id": 31422,
+                    "name": "Sedrata",
+                    "latitude": "36.12868000",
+                    "longitude": "7.53376000"
+                },
+                {
+                    "id": 31437,
+                    "name": "Souk Ahras",
+                    "latitude": "36.28639000",
+                    "longitude": "7.95111000"
+                }
+            ]
+        },
+        {
+            "id": 1135,
+            "name": "Tamanghasset Province",
+            "state_code": "11",
+            "cities": [
+                {
+                    "id": 31356,
+                    "name": "I-n-Salah",
+                    "latitude": "27.19351000",
+                    "longitude": "2.46069000"
+                },
+                {
+                    "id": 31443,
+                    "name": "Tamanrasset",
+                    "latitude": "22.78500000",
+                    "longitude": "5.52278000"
+                }
+            ]
+        },
+        {
+            "id": 1117,
+            "name": "Tébessa Province",
+            "state_code": "12",
+            "cities": [
+                {
+                    "id": 31271,
+                    "name": "Bir el Ater",
+                    "latitude": "34.74488000",
+                    "longitude": "8.06024000"
+                },
+                {
+                    "id": 31305,
+                    "name": "Cheria",
+                    "latitude": "35.27306000",
+                    "longitude": "7.75194000"
+                },
+                {
+                    "id": 31352,
+                    "name": "Hammamet",
+                    "latitude": "35.44862000",
+                    "longitude": "7.95184000"
+                },
+                {
+                    "id": 31463,
+                    "name": "Tébessa",
+                    "latitude": "35.40417000",
+                    "longitude": "8.12417000"
+                }
+            ]
+        },
+        {
+            "id": 1106,
+            "name": "Tiaret Province",
+            "state_code": "14",
+            "cities": [
+                {
+                    "id": 31472,
+                    "name": "’Aïn Deheb",
+                    "latitude": "34.84218000",
+                    "longitude": "1.54697000"
+                },
+                {
+                    "id": 31317,
+                    "name": "Djebilet Rosfa",
+                    "latitude": "34.86375000",
+                    "longitude": "0.83496000"
+                },
+                {
+                    "id": 31346,
+                    "name": "Frenda",
+                    "latitude": "35.06544000",
+                    "longitude": "1.04945000"
+                },
+                {
+                    "id": 31365,
+                    "name": "Ksar Chellala",
+                    "latitude": "35.21222000",
+                    "longitude": "2.31889000"
+                },
+                {
+                    "id": 31379,
+                    "name": "Mehdia daira de meghila",
+                    "latitude": "35.43058000",
+                    "longitude": "1.75714000"
+                },
+                {
+                    "id": 31436,
+                    "name": "Sougueur",
+                    "latitude": "35.18568000",
+                    "longitude": "1.49612000"
+                },
+                {
+                    "id": 31449,
+                    "name": "Tiaret",
+                    "latitude": "35.37103000",
+                    "longitude": "1.31699000"
+                }
+            ]
+        },
+        {
+            "id": 1120,
+            "name": "Tindouf Province",
+            "state_code": "37",
+            "cities": [
+                {
+                    "id": 31452,
+                    "name": "Tindouf",
+                    "latitude": "27.67111000",
+                    "longitude": "-8.14743000"
+                }
+            ]
+        },
+        {
+            "id": 1115,
+            "name": "Tipasa Province",
+            "state_code": "42",
+            "cities": [
+                {
+                    "id": 31470,
+                    "name": "’Aïn Benian",
+                    "latitude": "36.80277000",
+                    "longitude": "2.92185000"
+                },
+                {
+                    "id": 31255,
+                    "name": "Baraki",
+                    "latitude": "36.66655000",
+                    "longitude": "3.09606000"
+                },
+                {
+                    "id": 31283,
+                    "name": "Bou Ismaïl",
+                    "latitude": "36.64262000",
+                    "longitude": "2.69007000"
+                },
+                {
+                    "id": 31304,
+                    "name": "Cheraga",
+                    "latitude": "36.76775000",
+                    "longitude": "2.95924000"
+                },
+                {
+                    "id": 31320,
+                    "name": "Douera",
+                    "latitude": "36.67000000",
+                    "longitude": "2.94444000"
+                },
+                {
+                    "id": 31328,
+                    "name": "El Affroun",
+                    "latitude": "36.47010000",
+                    "longitude": "2.62528000"
+                },
+                {
+                    "id": 31349,
+                    "name": "Hadjout",
+                    "latitude": "36.51257000",
+                    "longitude": "2.41382000"
+                },
+                {
+                    "id": 31364,
+                    "name": "Kolea",
+                    "latitude": "36.63888000",
+                    "longitude": "2.76845000"
+                },
+                {
+                    "id": 31389,
+                    "name": "Mouzaïa",
+                    "latitude": "36.46695000",
+                    "longitude": "2.68991000"
+                },
+                {
+                    "id": 31401,
+                    "name": "Oued el Alleug",
+                    "latitude": "36.55528000",
+                    "longitude": "2.79028000"
+                },
+                {
+                    "id": 31418,
+                    "name": "Saoula",
+                    "latitude": "36.70456000",
+                    "longitude": "3.02462000"
+                },
+                {
+                    "id": 31453,
+                    "name": "Tipasa",
+                    "latitude": "36.58972000",
+                    "longitude": "2.44750000"
+                },
+                {
+                    "id": 31465,
+                    "name": "Zeralda",
+                    "latitude": "36.71169000",
+                    "longitude": "2.84244000"
+                }
+            ]
+        },
+        {
+            "id": 1133,
+            "name": "Tissemsilt Province",
+            "state_code": "38",
+            "cities": [
+                {
+                    "id": 31370,
+                    "name": "Lardjem",
+                    "latitude": "35.74922000",
+                    "longitude": "1.54778000"
+                },
+                {
+                    "id": 31455,
+                    "name": "Tissemsilt",
+                    "latitude": "35.60722000",
+                    "longitude": "1.81081000"
+                }
+            ]
+        },
+        {
+            "id": 1131,
+            "name": "Tizi Ouzou Province",
+            "state_code": "15",
+            "cities": [
+                {
+                    "id": 31476,
+                    "name": "’Aïn el Hammam",
+                    "latitude": "36.56471000",
+                    "longitude": "4.30619000"
+                },
+                {
+                    "id": 31236,
+                    "name": "Arhribs",
+                    "latitude": "36.79361000",
+                    "longitude": "4.31158000"
+                },
+                {
+                    "id": 31238,
+                    "name": "Azazga",
+                    "latitude": "36.74472000",
+                    "longitude": "4.37222000"
+                },
+                {
+                    "id": 31262,
+                    "name": "Beni Douala",
+                    "latitude": "36.61954000",
+                    "longitude": "4.08282000"
+                },
+                {
+                    "id": 31277,
+                    "name": "Boghni",
+                    "latitude": "36.54222000",
+                    "longitude": "3.95306000"
+                },
+                {
+                    "id": 31285,
+                    "name": "Boudjima",
+                    "latitude": "36.80218000",
+                    "longitude": "4.15187000"
+                },
+                {
+                    "id": 31303,
+                    "name": "Chemini",
+                    "latitude": "36.60000000",
+                    "longitude": "4.61667000"
+                },
+                {
+                    "id": 31321,
+                    "name": "Draa Ben Khedda",
+                    "latitude": "36.73436000",
+                    "longitude": "3.96223000"
+                },
+                {
+                    "id": 31345,
+                    "name": "Freha",
+                    "latitude": "36.75234000",
+                    "longitude": "4.31550000"
+                },
+                {
+                    "id": 31357,
+                    "name": "Ighram",
+                    "latitude": "36.46295000",
+                    "longitude": "4.50532000"
+                },
+                {
+                    "id": 31371,
+                    "name": "L’Arbaa Naït Irathen",
+                    "latitude": "36.63112000",
+                    "longitude": "4.19864000"
+                },
+                {
+                    "id": 31380,
+                    "name": "Mekla",
+                    "latitude": "36.68178000",
+                    "longitude": "4.26378000"
+                },
+                {
+                    "id": 31451,
+                    "name": "Timizart",
+                    "latitude": "36.80000000",
+                    "longitude": "4.26667000"
+                },
+                {
+                    "id": 31454,
+                    "name": "Tirmitine",
+                    "latitude": "36.65393000",
+                    "longitude": "3.98143000"
+                },
+                {
+                    "id": 31457,
+                    "name": "Tizi Ouzou",
+                    "latitude": "36.71182000",
+                    "longitude": "4.04591000"
+                },
+                {
+                    "id": 31458,
+                    "name": "Tizi Rached",
+                    "latitude": "36.67176000",
+                    "longitude": "4.19176000"
+                },
+                {
+                    "id": 31459,
+                    "name": "Tizi-n-Tleta",
+                    "latitude": "36.54569000",
+                    "longitude": "4.05712000"
+                }
+            ]
+        },
+        {
+            "id": 1107,
+            "name": "Tlemcen Province",
+            "state_code": "13",
+            "cities": [
+                {
+                    "id": 31264,
+                    "name": "Beni Mester",
+                    "latitude": "34.87045000",
+                    "longitude": "-1.42319000"
+                },
+                {
+                    "id": 31266,
+                    "name": "Bensekrane",
+                    "latitude": "35.07465000",
+                    "longitude": "-1.22431000"
+                },
+                {
+                    "id": 31306,
+                    "name": "Chetouane",
+                    "latitude": "34.92129000",
+                    "longitude": "-1.29512000"
+                },
+                {
+                    "id": 31354,
+                    "name": "Hennaya",
+                    "latitude": "34.95139000",
+                    "longitude": "-1.36806000"
+                },
+                {
+                    "id": 31374,
+                    "name": "Mansoûra",
+                    "latitude": "34.86158000",
+                    "longitude": "-1.33935000"
+                },
+                {
+                    "id": 31394,
+                    "name": "Nedroma",
+                    "latitude": "35.01361000",
+                    "longitude": "-1.74799000"
+                },
+                {
+                    "id": 31402,
+                    "name": "Ouled Mimoun",
+                    "latitude": "34.90472000",
+                    "longitude": "-1.03394000"
+                },
+                {
+                    "id": 31410,
+                    "name": "Remchi",
+                    "latitude": "35.06196000",
+                    "longitude": "-1.43362000"
+                },
+                {
+                    "id": 31420,
+                    "name": "Sebdou",
+                    "latitude": "34.63703000",
+                    "longitude": "-1.33143000"
+                },
+                {
+                    "id": 31423,
+                    "name": "Sidi Abdelli",
+                    "latitude": "35.06937000",
+                    "longitude": "-1.13706000"
+                },
+                {
+                    "id": 31431,
+                    "name": "Sidi Senoussi سيدي سنوسي",
+                    "latitude": "34.99691000",
+                    "longitude": "-1.09449000"
+                },
+                {
+                    "id": 31460,
+                    "name": "Tlemcen",
+                    "latitude": "34.87833000",
+                    "longitude": "-1.31500000"
+                }
+            ]
+        }
+    ],
+    "callingCodes": [
+        "213"
+    ],
+    "capital": "Algiers",
+    "capital_latlng": [
+        36.775361,
+        3.060188
+    ],
+    "currencies": [
+        "DZD"
+    ],
+    "demonym": "Algerian",
+    "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
+    "geoJSON": {
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "type": "Feature",
+                "id": "DZA",
+                "properties": {
+                    "name": "Algeria"
+                },
+                "geometry": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                11.999506,
+                                23.471668
+                            ],
+                            [
+                                8.572893,
+                                21.565661
+                            ],
+                            [
+                                5.677566,
+                                19.601207
+                            ],
+                            [
+                                4.267419,
+                                19.155265
+                            ],
+                            [
+                                3.158133,
+                                19.057364
+                            ],
+                            [
+                                3.146661,
+                                19.693579
+                            ],
+                            [
+                                2.683588,
+                                19.85623
+                            ],
+                            [
+                                2.060991,
+                                20.142233
+                            ],
+                            [
+                                1.823228,
+                                20.610809
+                            ],
+                            [
+                                -1.550055,
+                                22.792666
+                            ],
+                            [
+                                -4.923337,
+                                24.974574
+                            ],
+                            [
+                                -8.6844,
+                                27.395744
+                            ],
+                            [
+                                -8.665124,
+                                27.589479
+                            ],
+                            [
+                                -8.66559,
+                                27.656426
+                            ],
+                            [
+                                -8.674116,
+                                28.841289
+                            ],
+                            [
+                                -7.059228,
+                                29.579228
+                            ],
+                            [
+                                -6.060632,
+                                29.7317
+                            ],
+                            [
+                                -5.242129,
+                                30.000443
+                            ],
+                            [
+                                -4.859646,
+                                30.501188
+                            ],
+                            [
+                                -3.690441,
+                                30.896952
+                            ],
+                            [
+                                -3.647498,
+                                31.637294
+                            ],
+                            [
+                                -3.06898,
+                                31.724498
+                            ],
+                            [
+                                -2.616605,
+                                32.094346
+                            ],
+                            [
+                                -1.307899,
+                                32.262889
+                            ],
+                            [
+                                -1.124551,
+                                32.651522
+                            ],
+                            [
+                                -1.388049,
+                                32.864015
+                            ],
+                            [
+                                -1.733455,
+                                33.919713
+                            ],
+                            [
+                                -1.792986,
+                                34.527919
+                            ],
+                            [
+                                -2.169914,
+                                35.168396
+                            ],
+                            [
+                                -1.208603,
+                                35.714849
+                            ],
+                            [
+                                -0.127454,
+                                35.888662
+                            ],
+                            [
+                                0.503877,
+                                36.301273
+                            ],
+                            [
+                                1.466919,
+                                36.605647
+                            ],
+                            [
+                                3.161699,
+                                36.783905
+                            ],
+                            [
+                                4.815758,
+                                36.865037
+                            ],
+                            [
+                                5.32012,
+                                36.716519
+                            ],
+                            [
+                                6.26182,
+                                37.110655
+                            ],
+                            [
+                                7.330385,
+                                37.118381
+                            ],
+                            [
+                                7.737078,
+                                36.885708
+                            ],
+                            [
+                                8.420964,
+                                36.946427
+                            ],
+                            [
+                                8.217824,
+                                36.433177
+                            ],
+                            [
+                                8.376368,
+                                35.479876
+                            ],
+                            [
+                                8.140981,
+                                34.655146
+                            ],
+                            [
+                                7.524482,
+                                34.097376
+                            ],
+                            [
+                                7.612642,
+                                33.344115
+                            ],
+                            [
+                                8.430473,
+                                32.748337
+                            ],
+                            [
+                                8.439103,
+                                32.506285
+                            ],
+                            [
+                                9.055603,
+                                32.102692
+                            ],
+                            [
+                                9.48214,
+                                30.307556
+                            ],
+                            [
+                                9.805634,
+                                29.424638
+                            ],
+                            [
+                                9.859998,
+                                28.95999
+                            ],
+                            [
+                                9.683885,
+                                28.144174
+                            ],
+                            [
+                                9.756128,
+                                27.688259
+                            ],
+                            [
+                                9.629056,
+                                27.140953
+                            ],
+                            [
+                                9.716286,
+                                26.512206
+                            ],
+                            [
+                                9.319411,
+                                26.094325
+                            ],
+                            [
+                                9.910693,
+                                25.365455
+                            ],
+                            [
+                                9.948261,
+                                24.936954
+                            ],
+                            [
+                                10.303847,
+                                24.379313
+                            ],
+                            [
+                                10.771364,
+                                24.562532
+                            ],
+                            [
+                                11.560669,
+                                24.097909
+                            ],
+                            [
+                                11.999506,
+                                23.471668
+                            ]
+                        ]
+                    ]
+                }
+            }
+        ]
+    },
+    "ISO": {
+        "alpha2": "DZ",
+        "alpha3": "DZA"
+    },
+    "languages": [
+        "Arabic",
+        "Berberi"
+    ],
+    "latlng": [
+        28,
+        3
+    ],
+    "nativeName": "الجزائر",
+    "population": 38700000,
+    "timezones": [
+        "UTC+01:00"
+    ],
+    "tld": [
+        ".dz",
+        "الجزائر."
+    ],
+    "translations": {
+        "de": "Algerien",
+        "es": "Argelia",
+        "fr": "Algérie",
+        "ja": "アルジェリア",
+        "it": "Algeria"
+    },
+    "government": "Republic",
+    "continent": "Africa",
+    "temperature": 22.5,
+    "religion": "Islam",
+    "location": "Northern Africa",
+    "density": 17.73007507,
+    "symbol": null,
+    "dish": "Couscous",
+    "expectancy": 69.7,
+    "independence": 1962,
+    "wiki": "http://en.wikipedia.org/wiki/algeria"
+}

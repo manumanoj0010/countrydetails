@@ -1,0 +1,342 @@
+{
+    "name": "Lebanon",
+    "altSpellings": [
+        "LB",
+        "Lebanese Republic",
+        "Al-Jumhūrīyah Al-Libnānīyah"
+    ],
+    "area": 10452,
+    "borders": [
+        "ISR",
+        "SYR"
+    ],
+    "callingCodes": [
+        "961"
+    ],
+    "capital": "Beirut",
+    "capital_latlng": [
+        33.89592,
+        35.47843
+    ],
+    "currencies": [
+        "LBP"
+    ],
+    "demonym": "Lebanese",
+    "flag": "",
+    "geoJSON": {
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "type": "Feature",
+                "id": "LBN",
+                "properties": {
+                    "name": "Lebanon"
+                },
+                "geometry": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                35.821101,
+                                33.277426
+                            ],
+                            [
+                                35.552797,
+                                33.264275
+                            ],
+                            [
+                                35.460709,
+                                33.08904
+                            ],
+                            [
+                                35.126053,
+                                33.0909
+                            ],
+                            [
+                                35.482207,
+                                33.90545
+                            ],
+                            [
+                                35.979592,
+                                34.610058
+                            ],
+                            [
+                                35.998403,
+                                34.644914
+                            ],
+                            [
+                                36.448194,
+                                34.593935
+                            ],
+                            [
+                                36.61175,
+                                34.201789
+                            ],
+                            [
+                                36.06646,
+                                33.824912
+                            ],
+                            [
+                                35.821101,
+                                33.277426
+                            ]
+                        ]
+                    ]
+                }
+            }
+        ]
+    },
+    "ISO": {
+        "alpha2": "LB",
+        "alpha3": "LBN"
+    },
+    "states": [
+        {
+            "id": 2285,
+            "name": "Akkar Governorate",
+            "state_code": "AK",
+            "cities": [
+                {
+                    "id": 65939,
+                    "name": "Caza de Aakkar",
+                    "latitude": "34.53333000",
+                    "longitude": "36.16667000"
+                }
+            ]
+        },
+        {
+            "id": 2283,
+            "name": "Baalbek-Hermel Governorate",
+            "state_code": "BH",
+            "cities": [
+                {
+                    "id": 65933,
+                    "name": "Baalbek",
+                    "latitude": "34.00583000",
+                    "longitude": "36.21806000"
+                },
+                {
+                    "id": 65941,
+                    "name": "Caza de Baalbek",
+                    "latitude": "34.09822000",
+                    "longitude": "36.27157000"
+                }
+            ]
+        },
+        {
+            "id": 2286,
+            "name": "Beirut Governorate",
+            "state_code": "BA",
+            "cities": [
+                {
+                    "id": 65936,
+                    "name": "Beirut",
+                    "latitude": "33.89332000",
+                    "longitude": "35.50157000"
+                },
+                {
+                    "id": 65951,
+                    "name": "Ra’s Bayrūt",
+                    "latitude": "33.90000000",
+                    "longitude": "35.48333000"
+                }
+            ]
+        },
+        {
+            "id": 2287,
+            "name": "Beqaa Governorate",
+            "state_code": "BI",
+            "cities": [
+                {
+                    "id": 65930,
+                    "name": "Aanjar",
+                    "latitude": "33.72778000",
+                    "longitude": "35.93111000"
+                },
+                {
+                    "id": 65955,
+                    "name": "Zahlé",
+                    "latitude": "33.84675000",
+                    "longitude": "35.90203000"
+                }
+            ]
+        },
+        {
+            "id": 2282,
+            "name": "Mount Lebanon Governorate",
+            "state_code": "JL",
+            "cities": [
+                {
+                    "id": 65932,
+                    "name": "Baabda",
+                    "latitude": "33.83389000",
+                    "longitude": "35.54417000"
+                },
+                {
+                    "id": 65937,
+                    "name": "Bhamdoun",
+                    "latitude": "33.79500000",
+                    "longitude": "35.65111000"
+                },
+                {
+                    "id": 65938,
+                    "name": "Bhamdoûn el Mhatta",
+                    "latitude": "33.80861000",
+                    "longitude": "35.65972000"
+                },
+                {
+                    "id": 65940,
+                    "name": "Caza de Baabda",
+                    "latitude": "33.84592000",
+                    "longitude": "35.66791000"
+                },
+                {
+                    "id": 65947,
+                    "name": "Jbaïl",
+                    "latitude": "34.12111000",
+                    "longitude": "35.64806000"
+                },
+                {
+                    "id": 65948,
+                    "name": "Jounieh",
+                    "latitude": "33.98083000",
+                    "longitude": "35.61778000"
+                }
+            ]
+        },
+        {
+            "id": 2288,
+            "name": "Nabatieh Governorate",
+            "state_code": "NA",
+            "cities": [
+                {
+                    "id": 65931,
+                    "name": "Ain Ebel",
+                    "latitude": "33.11023000",
+                    "longitude": "35.40251000"
+                },
+                {
+                    "id": 65942,
+                    "name": "Caza de Bent Jbaïl",
+                    "latitude": "33.15964000",
+                    "longitude": "35.41137000"
+                },
+                {
+                    "id": 65943,
+                    "name": "Caza de Nabatîyé",
+                    "latitude": "33.39435000",
+                    "longitude": "35.44483000"
+                },
+                {
+                    "id": 65946,
+                    "name": "Habboûch",
+                    "latitude": "33.40729000",
+                    "longitude": "35.48169000"
+                },
+                {
+                    "id": 65949,
+                    "name": "Marjayoûn",
+                    "latitude": "33.36028000",
+                    "longitude": "35.59111000"
+                },
+                {
+                    "id": 65950,
+                    "name": "Nabatîyé et Tahta",
+                    "latitude": "33.37889000",
+                    "longitude": "35.48389000"
+                }
+            ]
+        },
+        {
+            "id": 2284,
+            "name": "North Governorate",
+            "state_code": "AS",
+            "cities": [
+                {
+                    "id": 65934,
+                    "name": "Batroûn",
+                    "latitude": "34.25528000",
+                    "longitude": "35.65806000"
+                },
+                {
+                    "id": 65935,
+                    "name": "Bcharré",
+                    "latitude": "34.25083000",
+                    "longitude": "36.01056000"
+                },
+                {
+                    "id": 65953,
+                    "name": "Tripoli",
+                    "latitude": "34.43352000",
+                    "longitude": "35.84415000"
+                }
+            ]
+        },
+        {
+            "id": 2281,
+            "name": "South Governorate",
+            "state_code": "JA",
+            "cities": [
+                {
+                    "id": 65944,
+                    "name": "En Nâqoûra",
+                    "latitude": "33.11806000",
+                    "longitude": "35.13972000"
+                },
+                {
+                    "id": 65945,
+                    "name": "Ghazieh",
+                    "latitude": "33.51750000",
+                    "longitude": "35.36889000"
+                },
+                {
+                    "id": 65952,
+                    "name": "Sidon",
+                    "latitude": "33.55751000",
+                    "longitude": "35.37148000"
+                },
+                {
+                    "id": 65954,
+                    "name": "Tyre",
+                    "latitude": "33.27333000",
+                    "longitude": "35.19389000"
+                }
+            ]
+        }
+    ],
+    "languages": [
+        "Arabic",
+        "Armenian",
+        "French"
+    ],
+    "latlng": [
+        33.83333333,
+        35.83333333
+    ],
+    "nativeName": "لبنان",
+    "population": 4104000,
+    "timezones": [
+        "UTC+02:00"
+    ],
+    "tld": [
+        ".lb"
+    ],
+    "translations": {
+        "de": "Libanon",
+        "es": "Líbano",
+        "fr": "Liban",
+        "ja": "レバノン",
+        "it": "Libano"
+    },
+    "continent": "Asia",
+     "government": "Republic",
+     "independence": 1941,
+     "dish": "Kibbeh",
+     "location": "Middle East",
+     "density": 669.4941349,
+     "symbol": "Tree",
+     "religion": "Islam",
+     "expectancy": 71.3,
+     "temperature": 16.4,
+    "wiki": "http://en.wikipedia.org/wiki/lebanon"
+}

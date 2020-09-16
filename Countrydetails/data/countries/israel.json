@@ -1,0 +1,1028 @@
+{
+    "name": "Israel",
+    "altSpellings": ["IL", "State of Israel", "Medīnat Yisrā'el"],
+    "area": 20770,
+    "borders": ["EGY", "JOR", "LBN", "SYR"],
+    "callingCodes": ["972"],
+    "capital": "Jerusalem",
+    "capital_latlng": [31.778345, 35.225079],
+    "currencies": ["ILS"],
+    "demonym": "Israeli",
+    "flag": "",
+    "geoJSON": {
+        "type": "FeatureCollection",
+        "features": [{
+            "type": "Feature",
+            "id": "ISR",
+            "properties": {
+                "name": "Israel"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [35.719918, 32.709192],
+                        [35.545665, 32.393992],
+                        [35.18393, 32.532511],
+                        [34.974641, 31.866582],
+                        [35.225892, 31.754341],
+                        [34.970507, 31.616778],
+                        [34.927408, 31.353435],
+                        [35.397561, 31.489086],
+                        [35.420918, 31.100066],
+                        [34.922603, 29.501326],
+                        [34.265433, 31.219361],
+                        [34.556372, 31.548824],
+                        [34.488107, 31.605539],
+                        [34.752587, 32.072926],
+                        [34.955417, 32.827376],
+                        [35.098457, 33.080539],
+                        [35.126053, 33.0909],
+                        [35.460709, 33.08904],
+                        [35.552797, 33.264275],
+                        [35.821101, 33.277426],
+                        [35.836397, 32.868123],
+                        [35.700798, 32.716014],
+                        [35.719918, 32.709192]
+                    ]
+                ]
+            }
+        }]
+    },
+    "ISO": {
+        "alpha2": "IL",
+        "alpha3": "ISR"
+    },
+    "latlng": [31.5, 34.75],
+    "nativeName": "יִשְׂרָאֵל",
+    "population": 8268400,
+    "timezones": ["UTC+02:00"],
+    "tld": [".il"],
+    "translations": {
+        "de": "Israel",
+        "es": "Israel",
+        "fr": "Israël",
+        "ja": "イスラエル",
+        "it": "Israele"
+    },
+    "states": [
+            {
+                "id": 1367,
+                "name": "Central District",
+                "state_code": "M",
+                "cities": [
+                    {
+                        "id": 57446,
+                        "name": "Bet Dagan",
+                        "latitude": "32.00191000",
+                        "longitude": "34.82977000"
+                    },
+                    {
+                        "id": 57449,
+                        "name": "Bet Yiẕẖaq",
+                        "latitude": "32.32751000",
+                        "longitude": "34.88878000"
+                    },
+                    {
+                        "id": 57450,
+                        "name": "Bnei Ayish",
+                        "latitude": "31.78333000",
+                        "longitude": "34.75000000"
+                    },
+                    {
+                        "id": 57463,
+                        "name": "Elyakhin",
+                        "latitude": "32.40793000",
+                        "longitude": "34.92433000"
+                    },
+                    {
+                        "id": 57467,
+                        "name": "Eṭ Ṭaiyiba",
+                        "latitude": "32.26616000",
+                        "longitude": "35.00893000"
+                    },
+                    {
+                        "id": 57466,
+                        "name": "Even Yehuda",
+                        "latitude": "32.26959000",
+                        "longitude": "34.88759000"
+                    },
+                    {
+                        "id": 57468,
+                        "name": "Gan Yavne",
+                        "latitude": "31.78737000",
+                        "longitude": "34.70659000"
+                    },
+                    {
+                        "id": 57469,
+                        "name": "Ganei Tikva",
+                        "latitude": "32.05971000",
+                        "longitude": "34.87320000"
+                    },
+                    {
+                        "id": 57470,
+                        "name": "Gedera",
+                        "latitude": "31.81456000",
+                        "longitude": "34.77998000"
+                    },
+                    {
+                        "id": 57478,
+                        "name": "Hod HaSharon",
+                        "latitude": "32.15934000",
+                        "longitude": "34.89320000"
+                    },
+                    {
+                        "id": 57483,
+                        "name": "Jaljūlya",
+                        "latitude": "32.15470000",
+                        "longitude": "34.95372000"
+                    },
+                    {
+                        "id": 57491,
+                        "name": "Kafr Qāsim",
+                        "latitude": "32.11406000",
+                        "longitude": "34.97624000"
+                    },
+                    {
+                        "id": 57494,
+                        "name": "Kefar H̱abad",
+                        "latitude": "31.98793000",
+                        "longitude": "34.85160000"
+                    },
+                    {
+                        "id": 57499,
+                        "name": "Kefar Yona",
+                        "latitude": "32.31669000",
+                        "longitude": "34.93507000"
+                    },
+                    {
+                        "id": 57500,
+                        "name": "Kfar Saba",
+                        "latitude": "32.17500000",
+                        "longitude": "34.90694000"
+                    },
+                    {
+                        "id": 57503,
+                        "name": "Lapid",
+                        "latitude": "31.91764000",
+                        "longitude": "35.03222000"
+                    },
+                    {
+                        "id": 57505,
+                        "name": "Lod",
+                        "latitude": "31.94670000",
+                        "longitude": "34.89030000"
+                    },
+                    {
+                        "id": 57507,
+                        "name": "Mazkeret Batya",
+                        "latitude": "31.85357000",
+                        "longitude": "34.84646000"
+                    },
+                    {
+                        "id": 57515,
+                        "name": "Modi‘in Makkabbim Re‘ut",
+                        "latitude": "31.89385000",
+                        "longitude": "35.01504000"
+                    },
+                    {
+                        "id": 57525,
+                        "name": "Neẖalim",
+                        "latitude": "32.06012000",
+                        "longitude": "34.91069000"
+                    },
+                    {
+                        "id": 57522,
+                        "name": "Ness Ziona",
+                        "latitude": "31.92933000",
+                        "longitude": "34.79868000"
+                    },
+                    {
+                        "id": 57523,
+                        "name": "Netanya",
+                        "latitude": "32.33291000",
+                        "longitude": "34.85992000"
+                    },
+                    {
+                        "id": 57526,
+                        "name": "Nirit",
+                        "latitude": "32.14677000",
+                        "longitude": "34.98622000"
+                    },
+                    {
+                        "id": 57527,
+                        "name": "Nof Ayalon",
+                        "latitude": "31.87111000",
+                        "longitude": "34.99081000"
+                    },
+                    {
+                        "id": 57528,
+                        "name": "Nordiyya",
+                        "latitude": "32.31470000",
+                        "longitude": "34.89617000"
+                    },
+                    {
+                        "id": 57531,
+                        "name": "Pardesiyya",
+                        "latitude": "32.30577000",
+                        "longitude": "34.90911000"
+                    },
+                    {
+                        "id": 57533,
+                        "name": "Petaẖ Tiqwa",
+                        "latitude": "32.08707000",
+                        "longitude": "34.88747000"
+                    },
+                    {
+                        "id": 57534,
+                        "name": "Qalansuwa",
+                        "latitude": "32.28493000",
+                        "longitude": "34.98106000"
+                    },
+                    {
+                        "id": 57541,
+                        "name": "Ra'anana",
+                        "latitude": "32.18360000",
+                        "longitude": "34.87386000"
+                    },
+                    {
+                        "id": 57546,
+                        "name": "Ramla",
+                        "latitude": "31.92923000",
+                        "longitude": "34.86563000"
+                    },
+                    {
+                        "id": 57548,
+                        "name": "Reẖovot",
+                        "latitude": "31.89421000",
+                        "longitude": "34.81199000"
+                    },
+                    {
+                        "id": 57549,
+                        "name": "Rishon LeẔiyyon",
+                        "latitude": "31.97102000",
+                        "longitude": "34.78939000"
+                    },
+                    {
+                        "id": 57550,
+                        "name": "Rosh Ha‘Ayin",
+                        "latitude": "32.09556000",
+                        "longitude": "34.95664000"
+                    },
+                    {
+                        "id": 57556,
+                        "name": "Savyon",
+                        "latitude": "32.04966000",
+                        "longitude": "34.87770000"
+                    },
+                    {
+                        "id": 57560,
+                        "name": "Shoham",
+                        "latitude": "31.99866000",
+                        "longitude": "34.94559000"
+                    },
+                    {
+                        "id": 57565,
+                        "name": "Tel Mond",
+                        "latitude": "32.24995000",
+                        "longitude": "34.91737000"
+                    },
+                    {
+                        "id": 57568,
+                        "name": "Tirah",
+                        "latitude": "32.23410000",
+                        "longitude": "34.95023000"
+                    },
+                    {
+                        "id": 57573,
+                        "name": "Yavné",
+                        "latitude": "31.87808000",
+                        "longitude": "34.73983000"
+                    },
+                    {
+                        "id": 57574,
+                        "name": "Yehud",
+                        "latitude": "32.03317000",
+                        "longitude": "34.89091000"
+                    },
+                    {
+                        "id": 57580,
+                        "name": "Ẕur Moshe",
+                        "latitude": "32.29819000",
+                        "longitude": "34.91313000"
+                    }
+                ]
+            },
+            {
+                "id": 1369,
+                "name": "Haifa District",
+                "state_code": "HA",
+                "cities": [
+                    {
+                        "id": 57440,
+                        "name": "Atlit",
+                        "latitude": "32.68889000",
+                        "longitude": "34.94236000"
+                    },
+                    {
+                        "id": 57455,
+                        "name": "Caesarea",
+                        "latitude": "32.51888000",
+                        "longitude": "34.90459000"
+                    },
+                    {
+                        "id": 57457,
+                        "name": "Daliyat al Karmel",
+                        "latitude": "32.69383000",
+                        "longitude": "35.04686000"
+                    },
+                    {
+                        "id": 57461,
+                        "name": "El Fureidīs",
+                        "latitude": "32.59812000",
+                        "longitude": "34.95153000"
+                    },
+                    {
+                        "id": 57473,
+                        "name": "Hadera",
+                        "latitude": "32.44192000",
+                        "longitude": "34.90390000"
+                    },
+                    {
+                        "id": 57474,
+                        "name": "Haifa",
+                        "latitude": "32.81841000",
+                        "longitude": "34.98850000"
+                    },
+                    {
+                        "id": 57480,
+                        "name": "Ibṭīn",
+                        "latitude": "32.76150000",
+                        "longitude": "35.11402000"
+                    },
+                    {
+                        "id": 57521,
+                        "name": "Nesher",
+                        "latitude": "32.76622000",
+                        "longitude": "35.04425000"
+                    },
+                    {
+                        "id": 57535,
+                        "name": "Qiryat Ata",
+                        "latitude": "32.81149000",
+                        "longitude": "35.11323000"
+                    },
+                    {
+                        "id": 57536,
+                        "name": "Qiryat Bialik",
+                        "latitude": "32.82750000",
+                        "longitude": "35.08583000"
+                    },
+                    {
+                        "id": 57538,
+                        "name": "Qiryat Moẕqin",
+                        "latitude": "32.83706000",
+                        "longitude": "35.07760000"
+                    },
+                    {
+                        "id": 57540,
+                        "name": "Qiryat Yam",
+                        "latitude": "32.84966000",
+                        "longitude": "35.06973000"
+                    },
+                    {
+                        "id": 57547,
+                        "name": "Rekhasim",
+                        "latitude": "32.74907000",
+                        "longitude": "35.09901000"
+                    },
+                    {
+                        "id": 57569,
+                        "name": "Tirat Karmel",
+                        "latitude": "32.76021000",
+                        "longitude": "34.97183000"
+                    },
+                    {
+                        "id": 57570,
+                        "name": "Umm el Faḥm",
+                        "latitude": "32.51725000",
+                        "longitude": "35.15349000"
+                    }
+                ]
+            },
+            {
+                "id": 1370,
+                "name": "Jerusalem District",
+                "state_code": "JM",
+                "cities": [
+                    {
+                        "id": 57434,
+                        "name": "Abū Ghaush",
+                        "latitude": "31.80592000",
+                        "longitude": "35.10930000"
+                    },
+                    {
+                        "id": 57447,
+                        "name": "Bet Shemesh",
+                        "latitude": "31.73072000",
+                        "longitude": "34.99293000"
+                    },
+                    {
+                        "id": 57475,
+                        "name": "Har Adar",
+                        "latitude": "31.82754000",
+                        "longitude": "35.13093000"
+                    },
+                    {
+                        "id": 57484,
+                        "name": "Jerusalem",
+                        "latitude": "31.76904000",
+                        "longitude": "35.21633000"
+                    },
+                    {
+                        "id": 57509,
+                        "name": "Mevasseret Ẕiyyon",
+                        "latitude": "31.80186000",
+                        "longitude": "35.15072000"
+                    },
+                    {
+                        "id": 57514,
+                        "name": "Modiin Ilit",
+                        "latitude": "31.93221000",
+                        "longitude": "35.04416000"
+                    },
+                    {
+                        "id": 57571,
+                        "name": "West Jerusalem",
+                        "latitude": "31.78199000",
+                        "longitude": "35.21961000"
+                    },
+                    {
+                        "id": 57579,
+                        "name": "Ẕur Hadassa",
+                        "latitude": "31.71912000",
+                        "longitude": "35.09708000"
+                    }
+                ]
+            },
+            {
+                "id": 1366,
+                "name": "Northern District",
+                "state_code": "Z",
+                "cities": [
+                    {
+                        "id": 57581,
+                        "name": "‘Eilabun",
+                        "latitude": "32.83693000",
+                        "longitude": "35.40029000"
+                    },
+                    {
+                        "id": 57583,
+                        "name": "‘Uzeir",
+                        "latitude": "32.79212000",
+                        "longitude": "35.32984000"
+                    },
+                    {
+                        "id": 57435,
+                        "name": "Acre",
+                        "latitude": "32.92814000",
+                        "longitude": "35.07647000"
+                    },
+                    {
+                        "id": 57436,
+                        "name": "Afula",
+                        "latitude": "32.60907000",
+                        "longitude": "35.28920000"
+                    },
+                    {
+                        "id": 57442,
+                        "name": "Basmat Ṭab‘ūn",
+                        "latitude": "32.73898000",
+                        "longitude": "35.15716000"
+                    },
+                    {
+                        "id": 57445,
+                        "name": "Beit Jann",
+                        "latitude": "32.96464000",
+                        "longitude": "35.38152000"
+                    },
+                    {
+                        "id": 57448,
+                        "name": "Bet She’an",
+                        "latitude": "32.49728000",
+                        "longitude": "35.49632000"
+                    },
+                    {
+                        "id": 57454,
+                        "name": "Bīr el Maksūr",
+                        "latitude": "32.77732000",
+                        "longitude": "35.22069000"
+                    },
+                    {
+                        "id": 57453,
+                        "name": "Bu‘eina",
+                        "latitude": "32.80636000",
+                        "longitude": "35.36486000"
+                    },
+                    {
+                        "id": 57452,
+                        "name": "Buqei‘a",
+                        "latitude": "32.97747000",
+                        "longitude": "35.33345000"
+                    },
+                    {
+                        "id": 57456,
+                        "name": "Dabbūrīya",
+                        "latitude": "32.69256000",
+                        "longitude": "35.37123000"
+                    },
+                    {
+                        "id": 57458,
+                        "name": "Deir Ḥannā",
+                        "latitude": "32.86196000",
+                        "longitude": "35.36365000"
+                    },
+                    {
+                        "id": 57462,
+                        "name": "El Mazra‘a",
+                        "latitude": "32.98338000",
+                        "longitude": "35.09837000"
+                    },
+                    {
+                        "id": 57464,
+                        "name": "Er Reina",
+                        "latitude": "32.72339000",
+                        "longitude": "35.31622000"
+                    },
+                    {
+                        "id": 57465,
+                        "name": "Esh Sheikh Dannūn",
+                        "latitude": "32.99410000",
+                        "longitude": "35.14805000"
+                    },
+                    {
+                        "id": 57578,
+                        "name": "Ḥurfeish",
+                        "latitude": "33.01711000",
+                        "longitude": "35.34835000"
+                    },
+                    {
+                        "id": 57481,
+                        "name": "Iksāl",
+                        "latitude": "32.68164000",
+                        "longitude": "35.32365000"
+                    },
+                    {
+                        "id": 57486,
+                        "name": "Jīsh",
+                        "latitude": "33.02216000",
+                        "longitude": "35.44694000"
+                    },
+                    {
+                        "id": 57485,
+                        "name": "Judeida Makr",
+                        "latitude": "32.92820000",
+                        "longitude": "35.15705000"
+                    },
+                    {
+                        "id": 57502,
+                        "name": "Kābūl",
+                        "latitude": "32.86856000",
+                        "longitude": "35.21171000"
+                    },
+                    {
+                        "id": 57487,
+                        "name": "Kafr Kammā",
+                        "latitude": "32.72129000",
+                        "longitude": "35.44122000"
+                    },
+                    {
+                        "id": 57488,
+                        "name": "Kafr Kannā",
+                        "latitude": "32.74660000",
+                        "longitude": "35.34242000"
+                    },
+                    {
+                        "id": 57489,
+                        "name": "Kafr Mandā",
+                        "latitude": "32.81034000",
+                        "longitude": "35.26009000"
+                    },
+                    {
+                        "id": 57490,
+                        "name": "Kafr Miṣr",
+                        "latitude": "32.64521000",
+                        "longitude": "35.42147000"
+                    },
+                    {
+                        "id": 57492,
+                        "name": "Karmi’el",
+                        "latitude": "32.91708000",
+                        "longitude": "35.30501000"
+                    },
+                    {
+                        "id": 57493,
+                        "name": "Kaukab Abū el Hījā",
+                        "latitude": "32.83155000",
+                        "longitude": "35.24848000"
+                    },
+                    {
+                        "id": 57495,
+                        "name": "Kefar Rosh HaNiqra",
+                        "latitude": "33.08607000",
+                        "longitude": "35.11348000"
+                    },
+                    {
+                        "id": 57497,
+                        "name": "Kefar Tavor",
+                        "latitude": "32.68655000",
+                        "longitude": "35.42118000"
+                    },
+                    {
+                        "id": 57498,
+                        "name": "Kefar Weradim",
+                        "latitude": "32.99385000",
+                        "longitude": "35.27793000"
+                    },
+                    {
+                        "id": 57501,
+                        "name": "Kfar Yasif",
+                        "latitude": "32.95451000",
+                        "longitude": "35.16230000"
+                    },
+                    {
+                        "id": 57577,
+                        "name": "maalot Tarshīhā",
+                        "latitude": "33.01667000",
+                        "longitude": "35.26667000"
+                    },
+                    {
+                        "id": 57506,
+                        "name": "Maghār",
+                        "latitude": "32.88984000",
+                        "longitude": "35.40703000"
+                    },
+                    {
+                        "id": 57508,
+                        "name": "Metulla",
+                        "latitude": "33.27918000",
+                        "longitude": "35.57950000"
+                    },
+                    {
+                        "id": 57513,
+                        "name": "Mi‘ilyā",
+                        "latitude": "33.02781000",
+                        "longitude": "35.25658000"
+                    },
+                    {
+                        "id": 57511,
+                        "name": "Migdal Ha‘Emeq",
+                        "latitude": "32.67597000",
+                        "longitude": "35.23986000"
+                    },
+                    {
+                        "id": 57516,
+                        "name": "Nahariyya",
+                        "latitude": "33.00892000",
+                        "longitude": "35.09814000"
+                    },
+                    {
+                        "id": 57518,
+                        "name": "Naḥf",
+                        "latitude": "32.93444000",
+                        "longitude": "35.31679000"
+                    },
+                    {
+                        "id": 57517,
+                        "name": "Nazareth",
+                        "latitude": "32.70056000",
+                        "longitude": "35.29722000"
+                    },
+                    {
+                        "id": 57519,
+                        "name": "Nefat ‘Akko",
+                        "latitude": "32.95000000",
+                        "longitude": "35.23333000"
+                    },
+                    {
+                        "id": 57520,
+                        "name": "Nein",
+                        "latitude": "32.63063000",
+                        "longitude": "35.34885000"
+                    },
+                    {
+                        "id": 57532,
+                        "name": "Pasuta",
+                        "latitude": "33.04895000",
+                        "longitude": "35.30893000"
+                    },
+                    {
+                        "id": 57539,
+                        "name": "Qiryat Shemona",
+                        "latitude": "33.20733000",
+                        "longitude": "35.57212000"
+                    },
+                    {
+                        "id": 57545,
+                        "name": "Ramat Yishay",
+                        "latitude": "32.70444000",
+                        "longitude": "35.17070000"
+                    },
+                    {
+                        "id": 57551,
+                        "name": "Rosh Pinna",
+                        "latitude": "32.96894000",
+                        "longitude": "35.54258000"
+                    },
+                    {
+                        "id": 57552,
+                        "name": "Rumat Heib",
+                        "latitude": "32.77802000",
+                        "longitude": "35.30571000"
+                    },
+                    {
+                        "id": 57553,
+                        "name": "Safed",
+                        "latitude": "32.96465000",
+                        "longitude": "35.49600000"
+                    },
+                    {
+                        "id": 57561,
+                        "name": "Sājūr",
+                        "latitude": "32.94266000",
+                        "longitude": "35.34136000"
+                    },
+                    {
+                        "id": 57554,
+                        "name": "Sakhnīn",
+                        "latitude": "32.86422000",
+                        "longitude": "35.29707000"
+                    },
+                    {
+                        "id": 57555,
+                        "name": "Sallama",
+                        "latitude": "32.89443000",
+                        "longitude": "35.36931000"
+                    },
+                    {
+                        "id": 57558,
+                        "name": "Shelomi",
+                        "latitude": "33.07216000",
+                        "longitude": "35.14452000"
+                    },
+                    {
+                        "id": 57559,
+                        "name": "Shibli",
+                        "latitude": "32.69464000",
+                        "longitude": "35.39252000"
+                    },
+                    {
+                        "id": 57562,
+                        "name": "Sūlam",
+                        "latitude": "32.60606000",
+                        "longitude": "35.33408000"
+                    },
+                    {
+                        "id": 57563,
+                        "name": "Tamra",
+                        "latitude": "32.85301000",
+                        "longitude": "35.19870000"
+                    },
+                    {
+                        "id": 57566,
+                        "name": "Tiberias",
+                        "latitude": "32.79221000",
+                        "longitude": "35.53124000"
+                    },
+                    {
+                        "id": 57567,
+                        "name": "Timrat",
+                        "latitude": "32.70302000",
+                        "longitude": "35.22359000"
+                    },
+                    {
+                        "id": 57572,
+                        "name": "Yavne’el",
+                        "latitude": "32.70619000",
+                        "longitude": "35.50435000"
+                    }
+                ]
+            },
+            {
+                "id": 1368,
+                "name": "Southern District",
+                "state_code": "D",
+                "cities": [
+                    {
+                        "id": 57582,
+                        "name": "‘En Boqeq",
+                        "latitude": "31.19941000",
+                        "longitude": "35.36253000"
+                    },
+                    {
+                        "id": 57437,
+                        "name": "Arad",
+                        "latitude": "31.25882000",
+                        "longitude": "35.21282000"
+                    },
+                    {
+                        "id": 57438,
+                        "name": "Ashdod",
+                        "latitude": "31.79213000",
+                        "longitude": "34.64966000"
+                    },
+                    {
+                        "id": 57439,
+                        "name": "Ashkelon",
+                        "latitude": "31.66926000",
+                        "longitude": "34.57149000"
+                    },
+                    {
+                        "id": 57444,
+                        "name": "Beersheba",
+                        "latitude": "31.25181000",
+                        "longitude": "34.79130000"
+                    },
+                    {
+                        "id": 57459,
+                        "name": "Dimona",
+                        "latitude": "31.07079000",
+                        "longitude": "35.03269000"
+                    },
+                    {
+                        "id": 57460,
+                        "name": "Eilat",
+                        "latitude": "29.55805000",
+                        "longitude": "34.94821000"
+                    },
+                    {
+                        "id": 57504,
+                        "name": "Lehavim",
+                        "latitude": "31.37284000",
+                        "longitude": "34.81619000"
+                    },
+                    {
+                        "id": 57510,
+                        "name": "Midreshet Ben-Gurion",
+                        "latitude": "30.85154000",
+                        "longitude": "34.78340000"
+                    },
+                    {
+                        "id": 57512,
+                        "name": "Mitzpe Ramon",
+                        "latitude": "30.60944000",
+                        "longitude": "34.80111000"
+                    },
+                    {
+                        "id": 57524,
+                        "name": "Netivot",
+                        "latitude": "31.42305000",
+                        "longitude": "34.58911000"
+                    },
+                    {
+                        "id": 57529,
+                        "name": "Ofaqim",
+                        "latitude": "31.31410000",
+                        "longitude": "34.62025000"
+                    },
+                    {
+                        "id": 57537,
+                        "name": "Qiryat Gat",
+                        "latitude": "31.60998000",
+                        "longitude": "34.76422000"
+                    },
+                    {
+                        "id": 57542,
+                        "name": "Rahat",
+                        "latitude": "31.39547000",
+                        "longitude": "34.75699000"
+                    },
+                    {
+                        "id": 57557,
+                        "name": "Sederot",
+                        "latitude": "31.52500000",
+                        "longitude": "34.59693000"
+                    },
+                    {
+                        "id": 57576,
+                        "name": "Yeroẖam",
+                        "latitude": "30.98822000",
+                        "longitude": "34.93176000"
+                    }
+                ]
+            },
+            {
+                "id": 1371,
+                "name": "Tel Aviv District",
+                "state_code": "TA",
+                "cities": [
+                    {
+                        "id": 57441,
+                        "name": "Azor",
+                        "latitude": "32.02430000",
+                        "longitude": "34.80632000"
+                    },
+                    {
+                        "id": 57443,
+                        "name": "Bat Yam",
+                        "latitude": "32.02379000",
+                        "longitude": "34.75185000"
+                    },
+                    {
+                        "id": 57451,
+                        "name": "Bnei Brak",
+                        "latitude": "32.08074000",
+                        "longitude": "34.83380000"
+                    },
+                    {
+                        "id": 57471,
+                        "name": "Giv'at Shmuel",
+                        "latitude": "32.07817000",
+                        "longitude": "34.84858000"
+                    },
+                    {
+                        "id": 57472,
+                        "name": "Givatayim",
+                        "latitude": "32.07225000",
+                        "longitude": "34.81253000"
+                    },
+                    {
+                        "id": 57476,
+                        "name": "Herzliya",
+                        "latitude": "32.16627000",
+                        "longitude": "34.82536000"
+                    },
+                    {
+                        "id": 57477,
+                        "name": "Herzliya Pituah",
+                        "latitude": "32.17409000",
+                        "longitude": "34.80280000"
+                    },
+                    {
+                        "id": 57479,
+                        "name": "H̱olon",
+                        "latitude": "32.01034000",
+                        "longitude": "34.77918000"
+                    },
+                    {
+                        "id": 57482,
+                        "name": "Jaffa",
+                        "latitude": "32.05043000",
+                        "longitude": "34.75224000"
+                    },
+                    {
+                        "id": 57496,
+                        "name": "Kefar Shemaryahu",
+                        "latitude": "32.18529000",
+                        "longitude": "34.82082000"
+                    },
+                    {
+                        "id": 57530,
+                        "name": "Or Yehuda",
+                        "latitude": "32.02923000",
+                        "longitude": "34.85788000"
+                    },
+                    {
+                        "id": 57543,
+                        "name": "Ramat Gan",
+                        "latitude": "32.08227000",
+                        "longitude": "34.81065000"
+                    },
+                    {
+                        "id": 57544,
+                        "name": "Ramat HaSharon",
+                        "latitude": "32.14613000",
+                        "longitude": "34.83940000"
+                    },
+                    {
+                        "id": 57564,
+                        "name": "Tel Aviv",
+                        "latitude": "32.08088000",
+                        "longitude": "34.78057000"
+                    },
+                    {
+                        "id": 57575,
+                        "name": "Yehud-Monosson",
+                        "latitude": "32.02840000",
+                        "longitude": "34.87960000"
+                    }
+                ]
+            }
+        ],
+        "continent": "Asia",
+        "government": "Republic",
+        "independence": 1948,
+        "languages": [
+            "Arabic",
+            "Hebrew",
+            "Russian"
+        ],
+        "expectancy": 78.6,
+        "dish": "Hummus, falafel, Meorav Yerushalmi",
+        "symbol": "Other",
+        "density": 410.5268022,
+        "location": "Middle East",
+        "religion": "Judaism",
+        "temperature": 19.2,
+    "wiki": "http://en.wikipedia.org/wiki/israel"
+}

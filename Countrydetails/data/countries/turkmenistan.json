@@ -1,0 +1,525 @@
+{
+    "name": "Turkmenistan",
+    "altSpellings": [
+        "TM"
+    ],
+    "area": 488100,
+    "borders": [
+        "AFG",
+        "IRN",
+        "KAZ",
+        "UZB"
+    ],
+    "callingCodes": [
+        "993"
+    ],
+    "capital": "Ashgabat",
+    "capital_latlng": [
+        37.939668,
+        58.387426
+    ],
+    "currencies": [
+        "TMT"
+    ],
+    "demonym": "Turkmen",
+    "flag": "",
+    "geoJSON": {
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "type": "Feature",
+                "id": "TKM",
+                "properties": {
+                    "name": "Turkmenistan"
+                },
+                "geometry": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                61.210817,
+                                35.650072
+                            ],
+                            [
+                                61.123071,
+                                36.491597
+                            ],
+                            [
+                                60.377638,
+                                36.527383
+                            ],
+                            [
+                                59.234762,
+                                37.412988
+                            ],
+                            [
+                                58.436154,
+                                37.522309
+                            ],
+                            [
+                                57.330434,
+                                38.029229
+                            ],
+                            [
+                                56.619366,
+                                38.121394
+                            ],
+                            [
+                                56.180375,
+                                37.935127
+                            ],
+                            [
+                                55.511578,
+                                37.964117
+                            ],
+                            [
+                                54.800304,
+                                37.392421
+                            ],
+                            [
+                                53.921598,
+                                37.198918
+                            ],
+                            [
+                                53.735511,
+                                37.906136
+                            ],
+                            [
+                                53.880929,
+                                38.952093
+                            ],
+                            [
+                                53.101028,
+                                39.290574
+                            ],
+                            [
+                                53.357808,
+                                39.975286
+                            ],
+                            [
+                                52.693973,
+                                40.033629
+                            ],
+                            [
+                                52.915251,
+                                40.876523
+                            ],
+                            [
+                                53.858139,
+                                40.631034
+                            ],
+                            [
+                                54.736845,
+                                40.951015
+                            ],
+                            [
+                                54.008311,
+                                41.551211
+                            ],
+                            [
+                                53.721713,
+                                42.123191
+                            ],
+                            [
+                                52.91675,
+                                41.868117
+                            ],
+                            [
+                                52.814689,
+                                41.135371
+                            ],
+                            [
+                                52.50246,
+                                41.783316
+                            ],
+                            [
+                                52.944293,
+                                42.116034
+                            ],
+                            [
+                                54.079418,
+                                42.324109
+                            ],
+                            [
+                                54.755345,
+                                42.043971
+                            ],
+                            [
+                                55.455251,
+                                41.259859
+                            ],
+                            [
+                                55.968191,
+                                41.308642
+                            ],
+                            [
+                                57.096391,
+                                41.32231
+                            ],
+                            [
+                                56.932215,
+                                41.826026
+                            ],
+                            [
+                                57.78653,
+                                42.170553
+                            ],
+                            [
+                                58.629011,
+                                42.751551
+                            ],
+                            [
+                                59.976422,
+                                42.223082
+                            ],
+                            [
+                                60.083341,
+                                41.425146
+                            ],
+                            [
+                                60.465953,
+                                41.220327
+                            ],
+                            [
+                                61.547179,
+                                41.26637
+                            ],
+                            [
+                                61.882714,
+                                41.084857
+                            ],
+                            [
+                                62.37426,
+                                40.053886
+                            ],
+                            [
+                                63.518015,
+                                39.363257
+                            ],
+                            [
+                                64.170223,
+                                38.892407
+                            ],
+                            [
+                                65.215999,
+                                38.402695
+                            ],
+                            [
+                                66.54615,
+                                37.974685
+                            ],
+                            [
+                                66.518607,
+                                37.362784
+                            ],
+                            [
+                                66.217385,
+                                37.39379
+                            ],
+                            [
+                                65.745631,
+                                37.661164
+                            ],
+                            [
+                                65.588948,
+                                37.305217
+                            ],
+                            [
+                                64.746105,
+                                37.111818
+                            ],
+                            [
+                                64.546479,
+                                36.312073
+                            ],
+                            [
+                                63.982896,
+                                36.007957
+                            ],
+                            [
+                                63.193538,
+                                35.857166
+                            ],
+                            [
+                                62.984662,
+                                35.404041
+                            ],
+                            [
+                                62.230651,
+                                35.270664
+                            ],
+                            [
+                                61.210817,
+                                35.650072
+                            ]
+                        ]
+                    ]
+                }
+            }
+        ]
+    },
+    "ISO": {
+        "alpha2": "TM",
+        "alpha3": "TKM"
+    },
+    "languages": [
+        "Kazakh",
+            "Russian",
+            "Turkmenian",
+            "Uzbek"
+    ],
+    "latlng": [
+        40,
+        60
+    ],
+    "states": [
+        {
+            "id": 3374,
+            "name": "Ahal Region",
+            "state_code": "A",
+            "cities": [
+                {
+                    "id": 106880,
+                    "name": "Abadan",
+                    "latitude": "38.05415000",
+                    "longitude": "58.19721000"
+                },
+                {
+                    "id": 106882,
+                    "name": "Annau",
+                    "latitude": "37.88754000",
+                    "longitude": "58.51596000"
+                },
+                {
+                    "id": 106883,
+                    "name": "Arçabil",
+                    "latitude": "37.91500000",
+                    "longitude": "58.08987000"
+                },
+                {
+                    "id": 106886,
+                    "name": "Baharly",
+                    "latitude": "38.43624000",
+                    "longitude": "57.43158000"
+                },
+                {
+                    "id": 106896,
+                    "name": "Kaka",
+                    "latitude": "37.34821000",
+                    "longitude": "59.61431000"
+                },
+                {
+                    "id": 106905,
+                    "name": "Tejen",
+                    "latitude": "37.38338000",
+                    "longitude": "60.50545000"
+                }
+            ]
+        },
+        {
+            "id": 3371,
+            "name": "Ashgabat",
+            "state_code": "S",
+            "cities": [
+                {
+                    "id": 106884,
+                    "name": "Ashgabat",
+                    "latitude": "37.95000000",
+                    "longitude": "58.38333000"
+                }
+            ]
+        },
+        {
+            "id": 3372,
+            "name": "Balkan Region",
+            "state_code": "B",
+            "cities": [
+                {
+                    "id": 106887,
+                    "name": "Balkanabat",
+                    "latitude": "39.51075000",
+                    "longitude": "54.36713000"
+                },
+                {
+                    "id": 106889,
+                    "name": "Bereket",
+                    "latitude": "39.24463000",
+                    "longitude": "55.51536000"
+                },
+                {
+                    "id": 106895,
+                    "name": "Gumdag",
+                    "latitude": "39.20611000",
+                    "longitude": "54.59056000"
+                },
+                {
+                    "id": 106898,
+                    "name": "Magtymguly",
+                    "latitude": "38.43749000",
+                    "longitude": "56.28081000"
+                },
+                {
+                    "id": 106901,
+                    "name": "Serdar",
+                    "latitude": "38.97644000",
+                    "longitude": "56.27575000"
+                },
+                {
+                    "id": 106907,
+                    "name": "Türkmenbaşy",
+                    "latitude": "40.02216000",
+                    "longitude": "52.95517000"
+                }
+            ]
+        },
+        {
+            "id": 3373,
+            "name": "Daşoguz Region",
+            "state_code": "D",
+            "cities": [
+                {
+                    "id": 106881,
+                    "name": "Akdepe",
+                    "latitude": "42.05513000",
+                    "longitude": "59.37877000"
+                },
+                {
+                    "id": 106890,
+                    "name": "Boldumsaz",
+                    "latitude": "42.12824000",
+                    "longitude": "59.67101000"
+                },
+                {
+                    "id": 106891,
+                    "name": "Daşoguz",
+                    "latitude": "41.83625000",
+                    "longitude": "59.96661000"
+                },
+                {
+                    "id": 106897,
+                    "name": "Köneürgench",
+                    "latitude": "42.32773000",
+                    "longitude": "59.15442000"
+                },
+                {
+                    "id": 106904,
+                    "name": "Tagta",
+                    "latitude": "41.65041000",
+                    "longitude": "59.91640000"
+                },
+                {
+                    "id": 106909,
+                    "name": "Yylanly",
+                    "latitude": "41.83333000",
+                    "longitude": "59.65000000"
+                }
+            ]
+        },
+        {
+            "id": 3370,
+            "name": "Lebap Region",
+            "state_code": "L",
+            "cities": [
+                {
+                    "id": 106885,
+                    "name": "Atamyrat",
+                    "latitude": "37.83573000",
+                    "longitude": "65.21058000"
+                },
+                {
+                    "id": 106892,
+                    "name": "Farap",
+                    "latitude": "39.17037000",
+                    "longitude": "63.61165000"
+                },
+                {
+                    "id": 106893,
+                    "name": "Gazojak",
+                    "latitude": "41.18746000",
+                    "longitude": "61.40360000"
+                },
+                {
+                    "id": 106894,
+                    "name": "Gowurdak",
+                    "latitude": "37.81244000",
+                    "longitude": "66.04656000"
+                },
+                {
+                    "id": 106900,
+                    "name": "Saýat",
+                    "latitude": "38.78393000",
+                    "longitude": "63.88035000"
+                },
+                {
+                    "id": 106906,
+                    "name": "Türkmenabat",
+                    "latitude": "39.07328000",
+                    "longitude": "63.57861000"
+                }
+            ]
+        },
+        {
+            "id": 3369,
+            "name": "Mary Region",
+            "state_code": "M",
+            "cities": [
+                {
+                    "id": 106888,
+                    "name": "Bayramaly",
+                    "latitude": "37.61852000",
+                    "longitude": "62.16715000"
+                },
+                {
+                    "id": 106899,
+                    "name": "Mary",
+                    "latitude": "37.59378000",
+                    "longitude": "61.83031000"
+                },
+                {
+                    "id": 106902,
+                    "name": "Serhetabat",
+                    "latitude": "35.27992000",
+                    "longitude": "62.34383000"
+                },
+                {
+                    "id": 106903,
+                    "name": "Seydi",
+                    "latitude": "39.48160000",
+                    "longitude": "62.91374000"
+                },
+                {
+                    "id": 106908,
+                    "name": "Yolöten",
+                    "latitude": "37.29886000",
+                    "longitude": "62.35975000"
+                }
+            ]
+        }
+    ],
+    "nativeName": "Türkmenistan",
+    "population": 5838064,
+    "timezones": [
+        "UTC+05:00"
+    ],
+    "tld": [
+        ".tm"
+    ],
+    "translations": {
+        "de": "Turkmenistan",
+        "es": "Turkmenistán",
+        "fr": "Turkménistan",
+        "ja": "トルクメニスタン",
+        "it": "Turkmenistan"
+    },
+    "dish": "Palaw",
+    "expectancy": 60.9,
+    "symbol": null,
+    "density": 12.45059477,
+    "location": "Southern and Central Asia",
+    "religion": "Islam",
+    "continent": "Asia",
+    "temperature": 15.1,
+    "government": "Republic",
+    "independence": 1991,
+    "wiki": "http://en.wikipedia.org/wiki/turkmenistan"
+}

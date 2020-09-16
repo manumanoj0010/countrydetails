@@ -1,0 +1,748 @@
+{
+    "name": "Malawi",
+    "altSpellings": [
+        "MW",
+        "Republic of Malawi"
+    ],
+    "area": 118484,
+    "borders": [
+        "MOZ",
+        "TZA",
+        "ZMB"
+    ],
+    "callingCodes": [
+        "265"
+    ],
+    "capital": "Lilongwe",
+    "capital_latlng": [
+        -13.987511,
+        33.768144
+    ],
+    "currencies": [
+        "MWK"
+    ],
+    "demonym": "Malawian",
+    "flag": "",
+    "geoJSON": {
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "type": "Feature",
+                "id": "MWI",
+                "properties": {
+                    "name": "Malawi"
+                },
+                "geometry": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                34.559989,
+                                -11.52002
+                            ],
+                            [
+                                34.280006,
+                                -12.280025
+                            ],
+                            [
+                                34.559989,
+                                -13.579998
+                            ],
+                            [
+                                34.907151,
+                                -13.565425
+                            ],
+                            [
+                                35.267956,
+                                -13.887834
+                            ],
+                            [
+                                35.686845,
+                                -14.611046
+                            ],
+                            [
+                                35.771905,
+                                -15.896859
+                            ],
+                            [
+                                35.339063,
+                                -16.10744
+                            ],
+                            [
+                                35.03381,
+                                -16.8013
+                            ],
+                            [
+                                34.381292,
+                                -16.18356
+                            ],
+                            [
+                                34.307291,
+                                -15.478641
+                            ],
+                            [
+                                34.517666,
+                                -15.013709
+                            ],
+                            [
+                                34.459633,
+                                -14.61301
+                            ],
+                            [
+                                34.064825,
+                                -14.35995
+                            ],
+                            [
+                                33.7897,
+                                -14.451831
+                            ],
+                            [
+                                33.214025,
+                                -13.97186
+                            ],
+                            [
+                                32.688165,
+                                -13.712858
+                            ],
+                            [
+                                32.991764,
+                                -12.783871
+                            ],
+                            [
+                                33.306422,
+                                -12.435778
+                            ],
+                            [
+                                33.114289,
+                                -11.607198
+                            ],
+                            [
+                                33.31531,
+                                -10.79655
+                            ],
+                            [
+                                33.485688,
+                                -10.525559
+                            ],
+                            [
+                                33.231388,
+                                -9.676722
+                            ],
+                            [
+                                32.759375,
+                                -9.230599
+                            ],
+                            [
+                                33.739729,
+                                -9.417151
+                            ],
+                            [
+                                33.940838,
+                                -9.693674
+                            ],
+                            [
+                                34.280006,
+                                -10.16
+                            ],
+                            [
+                                34.559989,
+                                -11.52002
+                            ]
+                        ]
+                    ]
+                }
+            }
+        ]
+    },
+    "ISO": {
+        "alpha2": "MW",
+        "alpha3": "MWI"
+    },
+    "languages": [
+        "Chichewa",
+        "Lomwe",
+        "Ngoni",
+        "Yao"
+    ],
+    "latlng": [
+        -13.5,
+        34
+    ],
+    "nativeName": "Malawi",
+    "population": 15805239,
+    "timezones": [
+        "UTC+02:00"
+    ],
+    "tld": [
+        ".mw"
+    ],
+    "translations": {
+        "de": "Malawi",
+        "es": "Malawi",
+        "fr": "Malawi",
+        "ja": "マラウイ",
+        "it": "Malawi"
+    },
+    "states": [
+        {
+            "id": 3096,
+            "name": "Balaka District",
+            "state_code": "BA",
+            "cities": []
+        },
+        {
+            "id": 3102,
+            "name": "Blantyre District",
+            "state_code": "BL",
+            "cities": []
+        },
+        {
+            "id": 3092,
+            "name": "Central Region",
+            "state_code": "C",
+            "cities": [
+                {
+                    "id": 67950,
+                    "name": "Chipoka",
+                    "latitude": "-13.99329000",
+                    "longitude": "34.51566000"
+                },
+                {
+                    "id": 67955,
+                    "name": "Dedza",
+                    "latitude": "-14.37790000",
+                    "longitude": "34.33322000"
+                },
+                {
+                    "id": 67956,
+                    "name": "Dedza District",
+                    "latitude": "-14.26273000",
+                    "longitude": "34.18559000"
+                },
+                {
+                    "id": 67957,
+                    "name": "Dowa",
+                    "latitude": "-13.65399000",
+                    "longitude": "33.93754000"
+                },
+                {
+                    "id": 67958,
+                    "name": "Dowa District",
+                    "latitude": "-13.60098000",
+                    "longitude": "33.82378000"
+                },
+                {
+                    "id": 67961,
+                    "name": "Kasungu",
+                    "latitude": "-13.03333000",
+                    "longitude": "33.48333000"
+                },
+                {
+                    "id": 67962,
+                    "name": "Kasungu District",
+                    "latitude": "-13.00000000",
+                    "longitude": "33.41667000"
+                },
+                {
+                    "id": 67964,
+                    "name": "Lilongwe",
+                    "latitude": "-13.96692000",
+                    "longitude": "33.78725000"
+                },
+                {
+                    "id": 67965,
+                    "name": "Lilongwe District",
+                    "latitude": "-14.01962000",
+                    "longitude": "33.68407000"
+                },
+                {
+                    "id": 67973,
+                    "name": "Mchinji",
+                    "latitude": "-13.79841000",
+                    "longitude": "32.88019000"
+                },
+                {
+                    "id": 67974,
+                    "name": "Mchinji District",
+                    "latitude": "-13.76230000",
+                    "longitude": "33.07998000"
+                },
+                {
+                    "id": 67976,
+                    "name": "Mponela",
+                    "latitude": "-13.53194000",
+                    "longitude": "33.74008000"
+                },
+                {
+                    "id": 67987,
+                    "name": "Nkhotakota",
+                    "latitude": "-12.92744000",
+                    "longitude": "34.29614000"
+                },
+                {
+                    "id": 67988,
+                    "name": "Nkhotakota District",
+                    "latitude": "-12.80417000",
+                    "longitude": "34.08298000"
+                },
+                {
+                    "id": 67991,
+                    "name": "Ntcheu",
+                    "latitude": "-14.82027000",
+                    "longitude": "34.63586000"
+                },
+                {
+                    "id": 67992,
+                    "name": "Ntcheu District",
+                    "latitude": "-14.75000000",
+                    "longitude": "34.75000000"
+                },
+                {
+                    "id": 67993,
+                    "name": "Ntchisi",
+                    "latitude": "-13.52775000",
+                    "longitude": "33.91490000"
+                },
+                {
+                    "id": 67994,
+                    "name": "Ntchisi District",
+                    "latitude": "-13.29574000",
+                    "longitude": "33.90798000"
+                },
+                {
+                    "id": 67999,
+                    "name": "Salima",
+                    "latitude": "-13.78040000",
+                    "longitude": "34.45870000"
+                },
+                {
+                    "id": 68000,
+                    "name": "Salima District",
+                    "latitude": "-13.71959000",
+                    "longitude": "34.40184000"
+                }
+            ]
+        },
+        {
+            "id": 3107,
+            "name": "Chikwawa District",
+            "state_code": "CK",
+            "cities": []
+        },
+        {
+            "id": 3109,
+            "name": "Chiradzulu District",
+            "state_code": "CR",
+            "cities": []
+        },
+        {
+            "id": 3087,
+            "name": "Chitipa district",
+            "state_code": "CT",
+            "cities": []
+        },
+        {
+            "id": 3097,
+            "name": "Dedza District",
+            "state_code": "DE",
+            "cities": []
+        },
+        {
+            "id": 3090,
+            "name": "Dowa District",
+            "state_code": "DO",
+            "cities": []
+        },
+        {
+            "id": 3091,
+            "name": "Karonga District",
+            "state_code": "KR",
+            "cities": []
+        },
+        {
+            "id": 3094,
+            "name": "Kasungu District",
+            "state_code": "KS",
+            "cities": []
+        },
+        {
+            "id": 3093,
+            "name": "Likoma District",
+            "state_code": "LK",
+            "cities": []
+        },
+        {
+            "id": 3101,
+            "name": "Lilongwe District",
+            "state_code": "LI",
+            "cities": []
+        },
+        {
+            "id": 3082,
+            "name": "Machinga District",
+            "state_code": "MH",
+            "cities": []
+        },
+        {
+            "id": 3110,
+            "name": "Mangochi District",
+            "state_code": "MG",
+            "cities": []
+        },
+        {
+            "id": 3099,
+            "name": "Mchinji District",
+            "state_code": "MC",
+            "cities": []
+        },
+        {
+            "id": 3103,
+            "name": "Mulanje District",
+            "state_code": "MU",
+            "cities": []
+        },
+        {
+            "id": 3084,
+            "name": "Mwanza District",
+            "state_code": "MW",
+            "cities": []
+        },
+        {
+            "id": 3104,
+            "name": "Mzimba District",
+            "state_code": "MZ",
+            "cities": []
+        },
+        {
+            "id": 3095,
+            "name": "Nkhata Bay District",
+            "state_code": "NB",
+            "cities": []
+        },
+        {
+            "id": 3100,
+            "name": "Nkhotakota District",
+            "state_code": "NK",
+            "cities": []
+        },
+        {
+            "id": 3105,
+            "name": "Northern Region",
+            "state_code": "N",
+            "cities": [
+                {
+                    "id": 67953,
+                    "name": "Chitipa",
+                    "latitude": "-9.70237000",
+                    "longitude": "33.26969000"
+                },
+                {
+                    "id": 67954,
+                    "name": "Chitipa District",
+                    "latitude": "-9.92727000",
+                    "longitude": "33.42541000"
+                },
+                {
+                    "id": 67959,
+                    "name": "Karonga",
+                    "latitude": "-9.93333000",
+                    "longitude": "33.93333000"
+                },
+                {
+                    "id": 67960,
+                    "name": "Karonga District",
+                    "latitude": "-10.11153000",
+                    "longitude": "33.88151000"
+                },
+                {
+                    "id": 67963,
+                    "name": "Likoma District",
+                    "latitude": "-12.06065000",
+                    "longitude": "34.73608000"
+                },
+                {
+                    "id": 67966,
+                    "name": "Livingstonia",
+                    "latitude": "-10.60602000",
+                    "longitude": "34.10628000"
+                },
+                {
+                    "id": 67981,
+                    "name": "Mzimba",
+                    "latitude": "-11.90000000",
+                    "longitude": "33.60000000"
+                },
+                {
+                    "id": 67982,
+                    "name": "Mzimba District",
+                    "latitude": "-11.85428000",
+                    "longitude": "33.60778000"
+                },
+                {
+                    "id": 67983,
+                    "name": "Mzuzu",
+                    "latitude": "-11.46556000",
+                    "longitude": "34.02071000"
+                },
+                {
+                    "id": 67985,
+                    "name": "Nkhata Bay",
+                    "latitude": "-11.60659000",
+                    "longitude": "34.29073000"
+                },
+                {
+                    "id": 67986,
+                    "name": "Nkhata Bay District",
+                    "latitude": "-11.65304000",
+                    "longitude": "34.05322000"
+                },
+                {
+                    "id": 67997,
+                    "name": "Rumphi",
+                    "latitude": "-11.01863000",
+                    "longitude": "33.85746000"
+                },
+                {
+                    "id": 67998,
+                    "name": "Rumphi District",
+                    "latitude": "-10.80292000",
+                    "longitude": "33.80524000"
+                }
+            ]
+        },
+        {
+            "id": 3085,
+            "name": "Nsanje District",
+            "state_code": "NS",
+            "cities": []
+        },
+        {
+            "id": 3088,
+            "name": "Ntcheu District",
+            "state_code": "NU",
+            "cities": []
+        },
+        {
+            "id": 3111,
+            "name": "Ntchisi District",
+            "state_code": "NI",
+            "cities": []
+        },
+        {
+            "id": 3108,
+            "name": "Phalombe District",
+            "state_code": "PH",
+            "cities": []
+        },
+        {
+            "id": 3089,
+            "name": "Rumphi District",
+            "state_code": "RU",
+            "cities": []
+        },
+        {
+            "id": 3086,
+            "name": "Salima District",
+            "state_code": "SA",
+            "cities": []
+        },
+        {
+            "id": 3106,
+            "name": "Southern Region",
+            "state_code": "S",
+            "cities": [
+                {
+                    "id": 67944,
+                    "name": "Balaka",
+                    "latitude": "-14.97928000",
+                    "longitude": "34.95575000"
+                },
+                {
+                    "id": 67945,
+                    "name": "Balaka District",
+                    "latitude": "-15.04839000",
+                    "longitude": "35.05910000"
+                },
+                {
+                    "id": 67946,
+                    "name": "Blantyre",
+                    "latitude": "-15.78499000",
+                    "longitude": "35.00854000"
+                },
+                {
+                    "id": 67947,
+                    "name": "Blantyre District",
+                    "latitude": "-15.64732000",
+                    "longitude": "34.93956000"
+                },
+                {
+                    "id": 67948,
+                    "name": "Chikwawa",
+                    "latitude": "-16.03352000",
+                    "longitude": "34.80091000"
+                },
+                {
+                    "id": 67949,
+                    "name": "Chikwawa District",
+                    "latitude": "-16.16667000",
+                    "longitude": "34.75000000"
+                },
+                {
+                    "id": 67951,
+                    "name": "Chiradzulu",
+                    "latitude": "-15.67461000",
+                    "longitude": "35.14071000"
+                },
+                {
+                    "id": 67952,
+                    "name": "Chiradzulu District",
+                    "latitude": "-15.75268000",
+                    "longitude": "35.21576000"
+                },
+                {
+                    "id": 67967,
+                    "name": "Liwonde",
+                    "latitude": "-15.06665000",
+                    "longitude": "35.22543000"
+                },
+                {
+                    "id": 67968,
+                    "name": "Luchenza",
+                    "latitude": "-16.00693000",
+                    "longitude": "35.30947000"
+                },
+                {
+                    "id": 67969,
+                    "name": "Machinga",
+                    "latitude": "-15.16849000",
+                    "longitude": "35.30002000"
+                },
+                {
+                    "id": 67970,
+                    "name": "Machinga District",
+                    "latitude": "-14.94583000",
+                    "longitude": "35.57367000"
+                },
+                {
+                    "id": 67971,
+                    "name": "Mangochi",
+                    "latitude": "-14.47815000",
+                    "longitude": "35.26448000"
+                },
+                {
+                    "id": 67972,
+                    "name": "Mangochi District",
+                    "latitude": "-14.39296000",
+                    "longitude": "35.34658000"
+                },
+                {
+                    "id": 67975,
+                    "name": "Monkey Bay",
+                    "latitude": "-14.08239000",
+                    "longitude": "34.91652000"
+                },
+                {
+                    "id": 67977,
+                    "name": "Mulanje",
+                    "latitude": "-16.03163000",
+                    "longitude": "35.50000000"
+                },
+                {
+                    "id": 67978,
+                    "name": "Mulanje District",
+                    "latitude": "-15.93440000",
+                    "longitude": "35.49990000"
+                },
+                {
+                    "id": 67979,
+                    "name": "Mwanza",
+                    "latitude": "-15.60262000",
+                    "longitude": "34.52479000"
+                },
+                {
+                    "id": 67980,
+                    "name": "Mwanza District",
+                    "latitude": "-15.63337000",
+                    "longitude": "34.51682000"
+                },
+                {
+                    "id": 67984,
+                    "name": "Neno District",
+                    "latitude": "-15.45051000",
+                    "longitude": "34.70034000"
+                },
+                {
+                    "id": 67989,
+                    "name": "Nsanje",
+                    "latitude": "-16.91995000",
+                    "longitude": "35.26199000"
+                },
+                {
+                    "id": 67990,
+                    "name": "Nsanje District",
+                    "latitude": "-16.75000000",
+                    "longitude": "35.16667000"
+                },
+                {
+                    "id": 67995,
+                    "name": "Phalombe",
+                    "latitude": "-15.80635000",
+                    "longitude": "35.65067000"
+                },
+                {
+                    "id": 67996,
+                    "name": "Phalombe District",
+                    "latitude": "-15.66667000",
+                    "longitude": "35.66667000"
+                },
+                {
+                    "id": 68001,
+                    "name": "Thyolo",
+                    "latitude": "-16.06775000",
+                    "longitude": "35.14046000"
+                },
+                {
+                    "id": 68002,
+                    "name": "Thyolo District",
+                    "latitude": "-16.10583000",
+                    "longitude": "35.15060000"
+                },
+                {
+                    "id": 68003,
+                    "name": "Zomba",
+                    "latitude": "-15.38596000",
+                    "longitude": "35.31880000"
+                },
+                {
+                    "id": 68004,
+                    "name": "Zomba District",
+                    "latitude": "-15.43007000",
+                    "longitude": "35.41829000"
+                }
+            ]
+        },
+        {
+            "id": 3098,
+            "name": "Thyolo District",
+            "state_code": "TH",
+            "cities": []
+        },
+        {
+            "id": 3083,
+            "name": "Zomba District",
+            "state_code": "ZO",
+            "cities": []
+        }
+    ],
+    "expectancy": 37.6,
+    "dish": null,
+    "symbol": null,
+    "density": 192.4407616,
+    "location": "Eastern Africa",
+    "religion": "Christianity",
+    "temperature": 21.9,
+    "continent": "Africa",
+    "government": "Republic",
+    "independence": 1964,
+    "wiki": "http://en.wikipedia.org/wiki/malawi"
+}

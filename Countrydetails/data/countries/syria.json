@@ -1,0 +1,1146 @@
+{
+    "name": "Syria",
+    "altSpellings": [
+        "SY",
+        "Syrian Arab Republic",
+        "Al-Jumhūrīyah Al-ʻArabīyah As-Sūrīyah"
+    ],
+    "area": 185180,
+    "borders": [
+        "IRQ",
+        "ISR",
+        "JOR",
+        "LBN",
+        "TUR"
+    ],
+    "callingCodes": [
+        "963"
+    ],
+    "capital": "Damascus",
+    "capital_latlng": [
+        33.51307,
+        36.309581
+    ],
+    "currencies": [
+        "SYP"
+    ],
+    "demonym": "Syrian",
+    "flag": "",
+    "geoJSON": {
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "type": "Feature",
+                "id": "SYR",
+                "properties": {
+                    "name": "Syria"
+                },
+                "geometry": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                38.792341,
+                                33.378686
+                            ],
+                            [
+                                36.834062,
+                                32.312938
+                            ],
+                            [
+                                35.719918,
+                                32.709192
+                            ],
+                            [
+                                35.700798,
+                                32.716014
+                            ],
+                            [
+                                35.836397,
+                                32.868123
+                            ],
+                            [
+                                35.821101,
+                                33.277426
+                            ],
+                            [
+                                36.06646,
+                                33.824912
+                            ],
+                            [
+                                36.61175,
+                                34.201789
+                            ],
+                            [
+                                36.448194,
+                                34.593935
+                            ],
+                            [
+                                35.998403,
+                                34.644914
+                            ],
+                            [
+                                35.905023,
+                                35.410009
+                            ],
+                            [
+                                36.149763,
+                                35.821535
+                            ],
+                            [
+                                36.41755,
+                                36.040617
+                            ],
+                            [
+                                36.685389,
+                                36.259699
+                            ],
+                            [
+                                36.739494,
+                                36.81752
+                            ],
+                            [
+                                37.066761,
+                                36.623036
+                            ],
+                            [
+                                38.167727,
+                                36.90121
+                            ],
+                            [
+                                38.699891,
+                                36.712927
+                            ],
+                            [
+                                39.52258,
+                                36.716054
+                            ],
+                            [
+                                40.673259,
+                                37.091276
+                            ],
+                            [
+                                41.212089,
+                                37.074352
+                            ],
+                            [
+                                42.349591,
+                                37.229873
+                            ],
+                            [
+                                41.837064,
+                                36.605854
+                            ],
+                            [
+                                41.289707,
+                                36.358815
+                            ],
+                            [
+                                41.383965,
+                                35.628317
+                            ],
+                            [
+                                41.006159,
+                                34.419372
+                            ],
+                            [
+                                38.792341,
+                                33.378686
+                            ]
+                        ]
+                    ]
+                }
+            }
+        ]
+    },
+    "ISO": {
+        "alpha2": "SY",
+        "alpha3": "SYR"
+    },
+    "states": [
+        {
+            "id": 2941,
+            "name": "Al-Hasakah Governorate",
+            "state_code": "HA",
+            "cities": [
+                {
+                    "id": 104940,
+                    "name": "Ad Darbāsīyah",
+                    "latitude": "37.07279000",
+                    "longitude": "40.65199000"
+                },
+                {
+                    "id": 104957,
+                    "name": "Al Ḩasakah",
+                    "latitude": "36.50237000",
+                    "longitude": "40.74772000"
+                },
+                {
+                    "id": 104950,
+                    "name": "Al Mālikīyah",
+                    "latitude": "37.17701000",
+                    "longitude": "42.14006000"
+                },
+                {
+                    "id": 104955,
+                    "name": "Al Qāmishlī",
+                    "latitude": "37.05215000",
+                    "longitude": "41.23142000"
+                },
+                {
+                    "id": 104960,
+                    "name": "Al-Malikiyah District",
+                    "latitude": "36.94113000",
+                    "longitude": "41.90157000"
+                },
+                {
+                    "id": 104967,
+                    "name": "Amude",
+                    "latitude": "37.10417000",
+                    "longitude": "40.93000000"
+                }
+            ]
+        },
+        {
+            "id": 2944,
+            "name": "Al-Raqqah Governorate",
+            "state_code": "RA",
+            "cities": [
+                {
+                    "id": 104964,
+                    "name": "Al-Thawrah District",
+                    "latitude": "35.79843000",
+                    "longitude": "38.34550000"
+                },
+                {
+                    "id": 104969,
+                    "name": "Ar Raqqah",
+                    "latitude": "35.95283000",
+                    "longitude": "39.00788000"
+                },
+                {
+                    "id": 104971,
+                    "name": "Ar-Raqqah District",
+                    "latitude": "35.87204000",
+                    "longitude": "39.04706000"
+                },
+                {
+                    "id": 104981,
+                    "name": "Ath Thawrah",
+                    "latitude": "35.83758000",
+                    "longitude": "38.54828000"
+                },
+                {
+                    "id": 105055,
+                    "name": "Tall Abyaḑ",
+                    "latitude": "36.69648000",
+                    "longitude": "38.95382000"
+                },
+                {
+                    "id": 105062,
+                    "name": "Tell Abyad District",
+                    "latitude": "36.48280000",
+                    "longitude": "39.21360000"
+                }
+            ]
+        },
+        {
+            "id": 2946,
+            "name": "Aleppo Governorate",
+            "state_code": "HL",
+            "cities": [
+                {
+                    "id": 105079,
+                    "name": "‘Afrīn",
+                    "latitude": "36.51194000",
+                    "longitude": "36.86954000"
+                },
+                {
+                    "id": 105080,
+                    "name": "‘Ayn al ‘Arab",
+                    "latitude": "36.89095000",
+                    "longitude": "38.35347000"
+                },
+                {
+                    "id": 104943,
+                    "name": "Afrin District",
+                    "latitude": "36.54891000",
+                    "longitude": "36.79295000"
+                },
+                {
+                    "id": 104944,
+                    "name": "Al Atārib",
+                    "latitude": "36.13907000",
+                    "longitude": "36.82504000"
+                },
+                {
+                    "id": 104945,
+                    "name": "Al Bāb",
+                    "latitude": "36.37051000",
+                    "longitude": "37.51570000"
+                },
+                {
+                    "id": 104958,
+                    "name": "Al-Bab District",
+                    "latitude": "36.30946000",
+                    "longitude": "37.53277000"
+                },
+                {
+                    "id": 104966,
+                    "name": "Aleppo",
+                    "latitude": "36.20124000",
+                    "longitude": "37.16117000"
+                },
+                {
+                    "id": 104974,
+                    "name": "As Safīrah",
+                    "latitude": "36.07696000",
+                    "longitude": "37.37251000"
+                },
+                {
+                    "id": 104983,
+                    "name": "Azaz District",
+                    "latitude": "36.49986000",
+                    "longitude": "37.18382000"
+                },
+                {
+                    "id": 104992,
+                    "name": "Dayr Ḩāfir",
+                    "latitude": "36.15694000",
+                    "longitude": "37.70778000"
+                },
+                {
+                    "id": 105006,
+                    "name": "I‘zāz",
+                    "latitude": "36.58662000",
+                    "longitude": "37.04628000"
+                },
+                {
+                    "id": 105010,
+                    "name": "Jarābulus",
+                    "latitude": "36.81750000",
+                    "longitude": "38.01111000"
+                },
+                {
+                    "id": 105019,
+                    "name": "Kafr Şaghīr",
+                    "latitude": "36.29264000",
+                    "longitude": "37.25590000"
+                },
+                {
+                    "id": 105022,
+                    "name": "Khanāşir",
+                    "latitude": "35.78159000",
+                    "longitude": "37.49919000"
+                },
+                {
+                    "id": 105027,
+                    "name": "Manbij",
+                    "latitude": "36.52815000",
+                    "longitude": "37.95495000"
+                },
+                {
+                    "id": 105028,
+                    "name": "Manbij District",
+                    "latitude": "36.06687000",
+                    "longitude": "37.91735000"
+                },
+                {
+                    "id": 105034,
+                    "name": "Mount Simeon District",
+                    "latitude": "35.99956000",
+                    "longitude": "37.08473000"
+                },
+                {
+                    "id": 105038,
+                    "name": "Nubl",
+                    "latitude": "36.37867000",
+                    "longitude": "36.99294000"
+                },
+                {
+                    "id": 105072,
+                    "name": "Şūrān",
+                    "latitude": "36.56579000",
+                    "longitude": "37.21270000"
+                },
+                {
+                    "id": 105064,
+                    "name": "Tādif",
+                    "latitude": "36.34814000",
+                    "longitude": "37.53090000"
+                },
+                {
+                    "id": 105056,
+                    "name": "Tall Rif‘at",
+                    "latitude": "36.47229000",
+                    "longitude": "37.09471000"
+                }
+            ]
+        },
+        {
+            "id": 2936,
+            "name": "As-Suwayda Governorate",
+            "state_code": "SU",
+            "cities": [
+                {
+                    "id": 104977,
+                    "name": "As-Suwayda",
+                    "latitude": "32.70896000",
+                    "longitude": "36.56951000"
+                },
+                {
+                    "id": 104978,
+                    "name": "As-Suwayda District",
+                    "latitude": "32.78127000",
+                    "longitude": "36.86502000"
+                },
+                {
+                    "id": 105069,
+                    "name": "Şalākhid",
+                    "latitude": "32.87271000",
+                    "longitude": "36.57271000"
+                },
+                {
+                    "id": 105068,
+                    "name": "Şalkhad",
+                    "latitude": "32.49200000",
+                    "longitude": "36.71114000"
+                },
+                {
+                    "id": 105043,
+                    "name": "Salkhad District",
+                    "latitude": "32.51779000",
+                    "longitude": "36.91954000"
+                },
+                {
+                    "id": 105049,
+                    "name": "Shahbā",
+                    "latitude": "32.85514000",
+                    "longitude": "36.62896000"
+                },
+                {
+                    "id": 105048,
+                    "name": "Shahba District",
+                    "latitude": "33.04282000",
+                    "longitude": "36.72034000"
+                }
+            ]
+        },
+        {
+            "id": 2939,
+            "name": "Damascus Governorate",
+            "state_code": "DI",
+            "cities": [
+                {
+                    "id": 104988,
+                    "name": "Damascus",
+                    "latitude": "33.51020000",
+                    "longitude": "36.29128000"
+                }
+            ]
+        },
+        {
+            "id": 2945,
+            "name": "Daraa Governorate",
+            "state_code": "DR",
+            "cities": [
+                {
+                    "id": 104956,
+                    "name": "Al Ḩarāk",
+                    "latitude": "32.74932000",
+                    "longitude": "36.30994000"
+                },
+                {
+                    "id": 104949,
+                    "name": "Al Muzayrīb",
+                    "latitude": "32.71084000",
+                    "longitude": "36.02751000"
+                },
+                {
+                    "id": 104963,
+                    "name": "Al-Sanamayn District",
+                    "latitude": "33.12559000",
+                    "longitude": "36.27540000"
+                },
+                {
+                    "id": 104984,
+                    "name": "Aş Şanamayn",
+                    "latitude": "33.07186000",
+                    "longitude": "36.18316000"
+                },
+                {
+                    "id": 104979,
+                    "name": "Ash Shaykh Miskīn",
+                    "latitude": "32.82944000",
+                    "longitude": "36.15933000"
+                },
+                {
+                    "id": 104986,
+                    "name": "Buşrá ash Shām",
+                    "latitude": "32.52013000",
+                    "longitude": "36.48256000"
+                },
+                {
+                    "id": 104990,
+                    "name": "Dar‘ā",
+                    "latitude": "32.61889000",
+                    "longitude": "36.10213000"
+                },
+                {
+                    "id": 104996,
+                    "name": "Ghabāghib",
+                    "latitude": "33.18235000",
+                    "longitude": "36.22534000"
+                },
+                {
+                    "id": 105003,
+                    "name": "Inkhil",
+                    "latitude": "33.01809000",
+                    "longitude": "36.12828000"
+                },
+                {
+                    "id": 105004,
+                    "name": "Izra District",
+                    "latitude": "32.90121000",
+                    "longitude": "36.16144000"
+                },
+                {
+                    "id": 105005,
+                    "name": "Izra‘",
+                    "latitude": "32.87060000",
+                    "longitude": "36.25453000"
+                },
+                {
+                    "id": 105014,
+                    "name": "Jāsim",
+                    "latitude": "32.99233000",
+                    "longitude": "36.06018000"
+                },
+                {
+                    "id": 105037,
+                    "name": "Nawá",
+                    "latitude": "32.89044000",
+                    "longitude": "36.03990000"
+                },
+                {
+                    "id": 105073,
+                    "name": "Ţafas",
+                    "latitude": "32.73709000",
+                    "longitude": "36.06654000"
+                },
+                {
+                    "id": 105061,
+                    "name": "Tasīl",
+                    "latitude": "32.83395000",
+                    "longitude": "35.96973000"
+                }
+            ]
+        },
+        {
+            "id": 2937,
+            "name": "Deir ez-Zor Governorate",
+            "state_code": "DY",
+            "cities": [
+                {
+                    "id": 104948,
+                    "name": "Al Mayādīn",
+                    "latitude": "35.01982000",
+                    "longitude": "40.45154000"
+                },
+                {
+                    "id": 105066,
+                    "name": "Ālbū Kamāl",
+                    "latitude": "34.45226000",
+                    "longitude": "40.91854000"
+                },
+                {
+                    "id": 104993,
+                    "name": "Deir ez-Zor",
+                    "latitude": "35.33588000",
+                    "longitude": "40.14084000"
+                },
+                {
+                    "id": 104997,
+                    "name": "Hajīn",
+                    "latitude": "34.69508000",
+                    "longitude": "40.83138000"
+                },
+                {
+                    "id": 105051,
+                    "name": "Subaykhān",
+                    "latitude": "34.85305000",
+                    "longitude": "40.59987000"
+                }
+            ]
+        },
+        {
+            "id": 2934,
+            "name": "Hama Governorate",
+            "state_code": "HM",
+            "cities": [
+                {
+                    "id": 104962,
+                    "name": "Al-Salamiyah District",
+                    "latitude": "35.14398000",
+                    "longitude": "37.59235000"
+                },
+                {
+                    "id": 104975,
+                    "name": "As Salamīyah",
+                    "latitude": "35.01127000",
+                    "longitude": "37.05324000"
+                },
+                {
+                    "id": 104976,
+                    "name": "As Suqaylibīyah",
+                    "latitude": "35.36674000",
+                    "longitude": "36.39359000"
+                },
+                {
+                    "id": 105075,
+                    "name": "Ḩalfāyā",
+                    "latitude": "35.26014000",
+                    "longitude": "36.60581000"
+                },
+                {
+                    "id": 104998,
+                    "name": "Hama District",
+                    "latitude": "35.28577000",
+                    "longitude": "37.12626000"
+                },
+                {
+                    "id": 105076,
+                    "name": "Ḩamāh",
+                    "latitude": "35.13179000",
+                    "longitude": "36.75783000"
+                },
+                {
+                    "id": 105018,
+                    "name": "Kafr Zaytā",
+                    "latitude": "35.37425000",
+                    "longitude": "36.60330000"
+                },
+                {
+                    "id": 105030,
+                    "name": "Maşyāf",
+                    "latitude": "35.06530000",
+                    "longitude": "36.34060000"
+                },
+                {
+                    "id": 105029,
+                    "name": "Masyaf District",
+                    "latitude": "35.10335000",
+                    "longitude": "36.33920000"
+                },
+                {
+                    "id": 105036,
+                    "name": "Mūrak",
+                    "latitude": "35.37615000",
+                    "longitude": "36.68970000"
+                },
+                {
+                    "id": 105050,
+                    "name": "Souran",
+                    "latitude": "35.29193000",
+                    "longitude": "36.74848000"
+                },
+                {
+                    "id": 105057,
+                    "name": "Tall Salḩab",
+                    "latitude": "35.25884000",
+                    "longitude": "36.38461000"
+                },
+                {
+                    "id": 105074,
+                    "name": "Ţayyibat al Imām",
+                    "latitude": "35.26592000",
+                    "longitude": "36.71219000"
+                },
+                {
+                    "id": 105063,
+                    "name": "Tremseh",
+                    "latitude": "35.27181000",
+                    "longitude": "36.50395000"
+                }
+            ]
+        },
+        {
+            "id": 2942,
+            "name": "Homs Governorate",
+            "state_code": "HI",
+            "cities": [
+                {
+                    "id": 104946,
+                    "name": "Al Ghanţū",
+                    "latitude": "34.82202000",
+                    "longitude": "36.69613000"
+                },
+                {
+                    "id": 104951,
+                    "name": "Al Qaryatayn",
+                    "latitude": "34.22956000",
+                    "longitude": "37.24066000"
+                },
+                {
+                    "id": 104953,
+                    "name": "Al Quşayr",
+                    "latitude": "34.50780000",
+                    "longitude": "36.58029000"
+                },
+                {
+                    "id": 104961,
+                    "name": "Al-Rastan District",
+                    "latitude": "34.87100000",
+                    "longitude": "36.77245000"
+                },
+                {
+                    "id": 104970,
+                    "name": "Ar Rastan",
+                    "latitude": "34.92667000",
+                    "longitude": "36.73241000"
+                },
+                {
+                    "id": 105000,
+                    "name": "Hisya",
+                    "latitude": "34.41197000",
+                    "longitude": "36.75867000"
+                },
+                {
+                    "id": 105001,
+                    "name": "Homs",
+                    "latitude": "34.72682000",
+                    "longitude": "36.72339000"
+                },
+                {
+                    "id": 105016,
+                    "name": "Kafr Lāhā",
+                    "latitude": "34.89469000",
+                    "longitude": "36.49582000"
+                },
+                {
+                    "id": 105035,
+                    "name": "Mukharram al Fawqānī",
+                    "latitude": "34.81521000",
+                    "longitude": "37.08677000"
+                },
+                {
+                    "id": 105067,
+                    "name": "Şadad",
+                    "latitude": "34.31248000",
+                    "longitude": "36.92562000"
+                },
+                {
+                    "id": 105052,
+                    "name": "Tadmur",
+                    "latitude": "34.56240000",
+                    "longitude": "38.28402000"
+                },
+                {
+                    "id": 105053,
+                    "name": "Tadmur District",
+                    "latitude": "34.42401000",
+                    "longitude": "38.64580000"
+                },
+                {
+                    "id": 105058,
+                    "name": "Tallbīsah",
+                    "latitude": "34.84072000",
+                    "longitude": "36.73092000"
+                },
+                {
+                    "id": 105059,
+                    "name": "Tallkalakh",
+                    "latitude": "34.66842000",
+                    "longitude": "36.25995000"
+                }
+            ]
+        },
+        {
+            "id": 2940,
+            "name": "Idlib Governorate",
+            "state_code": "ID",
+            "cities": [
+                {
+                    "id": 104942,
+                    "name": "Ad Dānā",
+                    "latitude": "36.21254000",
+                    "longitude": "36.76998000"
+                },
+                {
+                    "id": 104973,
+                    "name": "Arīḩā",
+                    "latitude": "35.81374000",
+                    "longitude": "36.60964000"
+                },
+                {
+                    "id": 104972,
+                    "name": "Armanāz",
+                    "latitude": "36.08363000",
+                    "longitude": "36.50310000"
+                },
+                {
+                    "id": 104985,
+                    "name": "Binnish",
+                    "latitude": "35.95664000",
+                    "longitude": "36.71380000"
+                },
+                {
+                    "id": 104989,
+                    "name": "Darkūsh",
+                    "latitude": "35.99180000",
+                    "longitude": "36.39361000"
+                },
+                {
+                    "id": 104999,
+                    "name": "Harem District",
+                    "latitude": "36.14014000",
+                    "longitude": "36.56535000"
+                },
+                {
+                    "id": 105078,
+                    "name": "Ḩārim",
+                    "latitude": "36.21176000",
+                    "longitude": "36.52078000"
+                },
+                {
+                    "id": 105002,
+                    "name": "Idlib",
+                    "latitude": "35.93062000",
+                    "longitude": "36.63393000"
+                },
+                {
+                    "id": 105012,
+                    "name": "Jisr al-Shughur District",
+                    "latitude": "35.87756000",
+                    "longitude": "36.32901000"
+                },
+                {
+                    "id": 105013,
+                    "name": "Jisr ash Shughūr",
+                    "latitude": "35.81418000",
+                    "longitude": "36.31983000"
+                },
+                {
+                    "id": 105017,
+                    "name": "Kafr Takhārīm",
+                    "latitude": "36.11680000",
+                    "longitude": "36.51522000"
+                },
+                {
+                    "id": 105020,
+                    "name": "Kafranbel",
+                    "latitude": "35.61376000",
+                    "longitude": "36.56449000"
+                },
+                {
+                    "id": 105023,
+                    "name": "Khān Shaykhūn",
+                    "latitude": "35.44208000",
+                    "longitude": "36.65095000"
+                },
+                {
+                    "id": 105031,
+                    "name": "Ma‘arratmişrīn",
+                    "latitude": "36.01152000",
+                    "longitude": "36.67183000"
+                },
+                {
+                    "id": 105026,
+                    "name": "Maarrat al-Nu'man District",
+                    "latitude": "35.53858000",
+                    "longitude": "36.79193000"
+                },
+                {
+                    "id": 105044,
+                    "name": "Salqīn",
+                    "latitude": "36.13865000",
+                    "longitude": "36.45244000"
+                },
+                {
+                    "id": 105046,
+                    "name": "Sarāqib",
+                    "latitude": "35.86447000",
+                    "longitude": "36.80591000"
+                },
+                {
+                    "id": 105045,
+                    "name": "Sarmīn",
+                    "latitude": "35.90403000",
+                    "longitude": "36.72501000"
+                },
+                {
+                    "id": 105054,
+                    "name": "Taftanāz",
+                    "latitude": "35.99832000",
+                    "longitude": "36.78579000"
+                }
+            ]
+        },
+        {
+            "id": 2938,
+            "name": "Latakia Governorate",
+            "state_code": "LA",
+            "cities": [
+                {
+                    "id": 104959,
+                    "name": "Al-Haffah District",
+                    "latitude": "35.59687000",
+                    "longitude": "36.11198000"
+                },
+                {
+                    "id": 105007,
+                    "name": "Jablah",
+                    "latitude": "35.36211000",
+                    "longitude": "35.92759000"
+                },
+                {
+                    "id": 105008,
+                    "name": "Jableh District",
+                    "latitude": "35.29048000",
+                    "longitude": "36.04490000"
+                },
+                {
+                    "id": 105021,
+                    "name": "Kassab",
+                    "latitude": "35.92639000",
+                    "longitude": "35.98970000"
+                },
+                {
+                    "id": 105024,
+                    "name": "Latakia",
+                    "latitude": "35.53168000",
+                    "longitude": "35.79011000"
+                },
+                {
+                    "id": 105025,
+                    "name": "Latakia District",
+                    "latitude": "35.72426000",
+                    "longitude": "35.94150000"
+                },
+                {
+                    "id": 105039,
+                    "name": "Qardaha District",
+                    "latitude": "35.39593000",
+                    "longitude": "36.08603000"
+                },
+                {
+                    "id": 105071,
+                    "name": "Şlinfah",
+                    "latitude": "35.59822000",
+                    "longitude": "36.18770000"
+                }
+            ]
+        },
+        {
+            "id": 2943,
+            "name": "Quneitra Governorate",
+            "state_code": "QU",
+            "cities": [
+                {
+                    "id": 104952,
+                    "name": "Al Qunayţirah",
+                    "latitude": "33.12595000",
+                    "longitude": "35.82461000"
+                }
+            ]
+        },
+        {
+            "id": 2935,
+            "name": "Rif Dimashq Governorate",
+            "state_code": "RD",
+            "cities": [
+                {
+                    "id": 105081,
+                    "name": "‘Irbīn",
+                    "latitude": "33.53719000",
+                    "longitude": "36.36635000"
+                },
+                {
+                    "id": 104947,
+                    "name": "Al Kiswah",
+                    "latitude": "33.35810000",
+                    "longitude": "36.24190000"
+                },
+                {
+                    "id": 104954,
+                    "name": "Al Quţayfah",
+                    "latitude": "33.73848000",
+                    "longitude": "36.60071000"
+                },
+                {
+                    "id": 104965,
+                    "name": "Al-Zabadani District",
+                    "latitude": "33.70819000",
+                    "longitude": "36.11198000"
+                },
+                {
+                    "id": 104968,
+                    "name": "An Nabk",
+                    "latitude": "34.02403000",
+                    "longitude": "36.72848000"
+                },
+                {
+                    "id": 104980,
+                    "name": "At Tall",
+                    "latitude": "33.61033000",
+                    "longitude": "36.31070000"
+                },
+                {
+                    "id": 104982,
+                    "name": "Az Zabadānī",
+                    "latitude": "33.72488000",
+                    "longitude": "36.10050000"
+                },
+                {
+                    "id": 104995,
+                    "name": "Dārayyā",
+                    "latitude": "33.45835000",
+                    "longitude": "36.23256000"
+                },
+                {
+                    "id": 104991,
+                    "name": "Dayr al ‘Aşāfīr",
+                    "latitude": "33.46585000",
+                    "longitude": "36.42044000"
+                },
+                {
+                    "id": 104994,
+                    "name": "Douma",
+                    "latitude": "33.57175000",
+                    "longitude": "36.40270000"
+                },
+                {
+                    "id": 105077,
+                    "name": "Ḩarastā",
+                    "latitude": "33.55869000",
+                    "longitude": "36.36515000"
+                },
+                {
+                    "id": 105009,
+                    "name": "Jaramānā",
+                    "latitude": "33.48620000",
+                    "longitude": "36.34614000"
+                },
+                {
+                    "id": 105011,
+                    "name": "Jayrūd",
+                    "latitude": "33.80709000",
+                    "longitude": "36.73861000"
+                },
+                {
+                    "id": 105032,
+                    "name": "Ma‘lūlā",
+                    "latitude": "33.84529000",
+                    "longitude": "36.54514000"
+                },
+                {
+                    "id": 105033,
+                    "name": "Medaya",
+                    "latitude": "33.69032000",
+                    "longitude": "36.10354000"
+                },
+                {
+                    "id": 105041,
+                    "name": "Qārah",
+                    "latitude": "34.15558000",
+                    "longitude": "36.74284000"
+                },
+                {
+                    "id": 105040,
+                    "name": "Qaţanā",
+                    "latitude": "33.43757000",
+                    "longitude": "36.07888000"
+                },
+                {
+                    "id": 105070,
+                    "name": "Şaydnāyā",
+                    "latitude": "33.69473000",
+                    "longitude": "36.37146000"
+                },
+                {
+                    "id": 105065,
+                    "name": "Yabrūd",
+                    "latitude": "33.96921000",
+                    "longitude": "36.65729000"
+                }
+            ]
+        },
+        {
+            "id": 2947,
+            "name": "Tartus Governorate",
+            "state_code": "TA",
+            "cities": [
+                {
+                    "id": 104941,
+                    "name": "Ad Duraykīsh",
+                    "latitude": "34.89514000",
+                    "longitude": "36.14303000"
+                },
+                {
+                    "id": 104987,
+                    "name": "Bāniyās",
+                    "latitude": "35.18188000",
+                    "longitude": "35.94871000"
+                },
+                {
+                    "id": 105015,
+                    "name": "Kaff al-Jaa",
+                    "latitude": "35.08638000",
+                    "longitude": "36.20605000"
+                },
+                {
+                    "id": 105042,
+                    "name": "Safita District",
+                    "latitude": "34.80419000",
+                    "longitude": "36.12293000"
+                },
+                {
+                    "id": 105047,
+                    "name": "Satita",
+                    "latitude": "34.82099000",
+                    "longitude": "36.11773000"
+                },
+                {
+                    "id": 105060,
+                    "name": "Tartouss",
+                    "latitude": "34.88902000",
+                    "longitude": "35.88659000"
+                }
+            ]
+        }
+    ],
+    "languages": [
+        "Arabic",
+        "Kurdish"
+    ],
+    "latlng": [
+        35,
+        38
+    ],
+    "nativeName": "سوريا",
+    "population": 22964324,
+    "timezones": [
+        "UTC+02:00"
+    ],
+    "tld": [
+        ".sy"
+    ],
+    "translations": {
+        "de": "Syrien",
+        "es": "Siria",
+        "fr": "Syrie",
+        "ja": "シリア・アラブ共和国",
+        "it": "Siria"
+    },
+    "continent": "Asia",
+    "expectancy": 68.5,
+    "symbol": "animal",
+    "religion": "Islam",
+    "government": "Republic",
+    "temperature": 17.75,
+    "location": "Middle East",
+    "dish": "Kibbeh",
+    "density": 92.06710777,
+    "independence": 1941,
+    "wiki": "http://en.wikipedia.org/wiki/syria"
+}

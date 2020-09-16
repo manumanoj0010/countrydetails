@@ -1,0 +1,172 @@
+{
+    "name": "Tuvalu",
+    "altSpellings": [
+        "TV"
+    ],
+    "area": 26,
+    "borders": [],
+    "callingCodes": [
+        "688"
+    ],
+    "capital": "Funafuti",
+    "capital_latlng": [
+        -8.534995,
+        179.11865
+    ],
+    "currencies": [
+        "AUD"
+    ],
+    "demonym": "Tuvaluan",
+    "flag": "",
+    "geoJSON": {},
+    "ISO": {
+        "alpha2": "TV",
+        "alpha3": "TUV"
+    },
+    "languages": [
+        "English",
+        "Kiribati",
+        "Tuvalu"
+    ],
+    "latlng": [
+        -8,
+        178
+    ],
+    "nativeName": "Tuvalu",
+    "population": 11323,
+    "timezones": [
+        "UTC+12:00"
+    ],
+    "tld": [
+        ".tv"
+    ],
+    "states": [
+        {
+            "id": 3951,
+            "name": "Funafuti",
+            "state_code": "FUN",
+            "cities": [
+                {
+                    "id": 108993,
+                    "name": "Alapi Village",
+                    "latitude": "-8.52074000",
+                    "longitude": "179.19680000"
+                },
+                {
+                    "id": 108995,
+                    "name": "Fakaifou Village",
+                    "latitude": "-8.51758000",
+                    "longitude": "179.20094000"
+                },
+                {
+                    "id": 108996,
+                    "name": "Funafuti",
+                    "latitude": "-8.52425000",
+                    "longitude": "179.19417000"
+                }
+            ]
+        },
+        {
+            "id": 3947,
+            "name": "Nanumanga",
+            "state_code": "NMG",
+            "cities": [
+                {
+                    "id": 109001,
+                    "name": "Toga Village",
+                    "latitude": "-6.28764000",
+                    "longitude": "176.31472000"
+                }
+            ]
+        },
+        {
+            "id": 3949,
+            "name": "Nanumea",
+            "state_code": "NMA",
+            "cities": []
+        },
+        {
+            "id": 3946,
+            "name": "Niutao Island Council",
+            "state_code": "NIT",
+            "cities": [
+                {
+                    "id": 108997,
+                    "name": "Kulia Village",
+                    "latitude": "-6.10819000",
+                    "longitude": "177.33393000"
+                },
+                {
+                    "id": 108998,
+                    "name": "Niulakita",
+                    "latitude": "-10.78800000",
+                    "longitude": "179.46600000"
+                }
+            ]
+        },
+        {
+            "id": 3948,
+            "name": "Nui",
+            "state_code": "NUI",
+            "cities": [
+                {
+                    "id": 109000,
+                    "name": "Tanrake Village",
+                    "latitude": "-7.24562000",
+                    "longitude": "177.14511000"
+                }
+            ]
+        },
+        {
+            "id": 3952,
+            "name": "Nukufetau",
+            "state_code": "NKF",
+            "cities": [
+                {
+                    "id": 108999,
+                    "name": "Savave Village",
+                    "latitude": "-8.02731000",
+                    "longitude": "178.31351000"
+                }
+            ]
+        },
+        {
+            "id": 3953,
+            "name": "Nukulaelae",
+            "state_code": "NKL",
+            "cities": []
+        },
+        {
+            "id": 3950,
+            "name": "Vaitupu",
+            "state_code": "VAI",
+            "cities": [
+                {
+                    "id": 108994,
+                    "name": "Asau Village",
+                    "latitude": "-7.49026000",
+                    "longitude": "178.68016000"
+                }
+            ]
+        }
+    ],
+    "translations": {
+        "de": "Tuvalu",
+        "es": "Tuvalu",
+        "fr": "Tuvalu",
+        "ja": "ツバル",
+        "it": "Tuvalu"
+    },
+    "expectancy": 66.3,
+    "dish": null,
+    "symbol": null,
+    "density": 383.6,
+    "location": "Polynesia",
+    "religion": "Christianity",
+    "temperature": 28,
+    "continent": "Oceania",
+    "independence": 1978,
+    "government": "Constitutional Monarchy"
+,
+    "wiki": "http://en.wikipedia.org/wiki/tuvalu"
+}

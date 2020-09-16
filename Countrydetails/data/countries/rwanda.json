@@ -1,0 +1,247 @@
+{
+    "name": "Rwanda",
+    "altSpellings": [
+        "RW",
+        "Republic of Rwanda",
+        "Repubulika y'u Rwanda",
+        "République du Rwanda"
+    ],
+    "area": 26338,
+    "borders": [
+        "BDI",
+        "COD",
+        "TZA",
+        "UGA"
+    ],
+    "callingCodes": [
+        "250"
+    ],
+    "capital": "Kigali",
+    "capital_latlng": [
+        -1.88596,
+        30.129675
+    ],
+    "currencies": [
+        "RWF"
+    ],
+    "demonym": "Rwandan",
+    "flag": "",
+    "geoJSON": {
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "type": "Feature",
+                "id": "RWA",
+                "properties": {
+                    "name": "Rwanda"
+                },
+                "geometry": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                30.419105,
+                                -1.134659
+                            ],
+                            [
+                                30.816135,
+                                -1.698914
+                            ],
+                            [
+                                30.758309,
+                                -2.28725
+                            ],
+                            [
+                                30.469696,
+                                -2.413858
+                            ],
+                            [
+                                29.938359,
+                                -2.348487
+                            ],
+                            [
+                                29.632176,
+                                -2.917858
+                            ],
+                            [
+                                29.024926,
+                                -2.839258
+                            ],
+                            [
+                                29.117479,
+                                -2.292211
+                            ],
+                            [
+                                29.254835,
+                                -2.21511
+                            ],
+                            [
+                                29.291887,
+                                -1.620056
+                            ],
+                            [
+                                29.579466,
+                                -1.341313
+                            ],
+                            [
+                                29.821519,
+                                -1.443322
+                            ],
+                            [
+                                30.419105,
+                                -1.134659
+                            ]
+                        ]
+                    ]
+                }
+            }
+        ]
+    },
+    "ISO": {
+        "alpha2": "RW",
+        "alpha3": "RWA"
+    },
+    "states": [
+        {
+            "id": 261,
+            "name": "Eastern Province",
+            "state_code": "02",
+            "cities": [
+                {
+                    "id": 102798,
+                    "name": "Kibungo",
+                    "latitude": "-2.15970000",
+                    "longitude": "30.54270000"
+                },
+                {
+                    "id": 102803,
+                    "name": "Rwamagana",
+                    "latitude": "-1.94870000",
+                    "longitude": "30.43470000"
+                }
+            ]
+        },
+        {
+            "id": 262,
+            "name": "Kigali district",
+            "state_code": "01",
+            "cities": [
+                {
+                    "id": 102800,
+                    "name": "Kigali",
+                    "latitude": "-1.94995000",
+                    "longitude": "30.05885000"
+                }
+            ]
+        },
+        {
+            "id": 263,
+            "name": "Northern Province",
+            "state_code": "03",
+            "cities": [
+                {
+                    "id": 102793,
+                    "name": "Byumba",
+                    "latitude": "-1.57630000",
+                    "longitude": "30.06750000"
+                },
+                {
+                    "id": 102801,
+                    "name": "Musanze",
+                    "latitude": "-1.49984000",
+                    "longitude": "29.63497000"
+                }
+            ]
+        },
+        {
+            "id": 259,
+            "name": "Southern Province",
+            "state_code": "05",
+            "cities": [
+                {
+                    "id": 102792,
+                    "name": "Butare",
+                    "latitude": "-2.59667000",
+                    "longitude": "29.73944000"
+                },
+                {
+                    "id": 102795,
+                    "name": "Eglise Catholique, Centrale GIKO",
+                    "latitude": "-1.93653000",
+                    "longitude": "29.80610000"
+                },
+                {
+                    "id": 102797,
+                    "name": "Gitarama",
+                    "latitude": "-2.07444000",
+                    "longitude": "29.75667000"
+                },
+                {
+                    "id": 102802,
+                    "name": "Nzega",
+                    "latitude": "-2.47900000",
+                    "longitude": "29.55640000"
+                }
+            ]
+        },
+        {
+            "id": 260,
+            "name": "Western Province",
+            "state_code": "04",
+            "cities": [
+                {
+                    "id": 102794,
+                    "name": "Cyangugu",
+                    "latitude": "-2.48460000",
+                    "longitude": "28.90750000"
+                },
+                {
+                    "id": 102796,
+                    "name": "Gisenyi",
+                    "latitude": "-1.70278000",
+                    "longitude": "29.25639000"
+                },
+                {
+                    "id": 102799,
+                    "name": "Kibuye",
+                    "latitude": "-2.06028000",
+                    "longitude": "29.34778000"
+                }
+            ]
+        }
+    ],
+    "languages": [
+        "French",
+        "Rwanda"
+    ],
+    "latlng": [
+        -2,
+        30
+    ],
+    "nativeName": "Rwanda",
+    "population": 10996891,
+    "timezones": [
+        "UTC+02:00"
+    ],
+    "tld": [
+        ".rw"
+    ],
+    "translations": {
+        "de": "Ruanda",
+        "es": "Ruanda",
+        "fr": "Rwanda",
+        "ja": "ルワンダ",
+        "it": "Ruanda"
+    },
+    "continent": "Africa",
+    "government": "Republic",
+    "independence": 1962,
+    "symbol": null,
+    "expectancy": 39.3,
+    "dish": null,
+    "density": 498.6598703,
+    "location": "Eastern Africa",
+    "temperature": 17.85,
+    "religion": "Christianity",
+    "wiki": "http://en.wikipedia.org/wiki/rwanda"
+}

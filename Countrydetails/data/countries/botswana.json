@@ -1,0 +1,769 @@
+{
+    "name": "Botswana",
+    "altSpellings": [
+        "BW",
+        "Republic of Botswana",
+        "Lefatshe la Botswana"
+    ],
+    "area": 582000,
+    "borders": [
+        "NAM",
+        "ZAF",
+        "ZMB",
+        "ZWE"
+    ],
+    "callingCodes": [
+        "267"
+    ],
+    "capital": "Gaborone",
+    "capital_latlng": [
+        -24.658136,
+        25.908847
+    ],
+    "currencies": [
+        "BWP"
+    ],
+    "demonym": "Motswana",
+    "flag": "",
+    "geoJSON": {
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "type": "Feature",
+                "id": "BWA",
+                "properties": {
+                    "name": "Botswana"
+                },
+                "geometry": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                25.649163,
+                                -18.536026
+                            ],
+                            [
+                                25.850391,
+                                -18.714413
+                            ],
+                            [
+                                26.164791,
+                                -19.293086
+                            ],
+                            [
+                                27.296505,
+                                -20.39152
+                            ],
+                            [
+                                27.724747,
+                                -20.499059
+                            ],
+                            [
+                                27.727228,
+                                -20.851802
+                            ],
+                            [
+                                28.02137,
+                                -21.485975
+                            ],
+                            [
+                                28.794656,
+                                -21.639454
+                            ],
+                            [
+                                29.432188,
+                                -22.091313
+                            ],
+                            [
+                                28.017236,
+                                -22.827754
+                            ],
+                            [
+                                27.11941,
+                                -23.574323
+                            ],
+                            [
+                                26.786407,
+                                -24.240691
+                            ],
+                            [
+                                26.485753,
+                                -24.616327
+                            ],
+                            [
+                                25.941652,
+                                -24.696373
+                            ],
+                            [
+                                25.765849,
+                                -25.174845
+                            ],
+                            [
+                                25.664666,
+                                -25.486816
+                            ],
+                            [
+                                25.025171,
+                                -25.71967
+                            ],
+                            [
+                                24.211267,
+                                -25.670216
+                            ],
+                            [
+                                23.73357,
+                                -25.390129
+                            ],
+                            [
+                                23.312097,
+                                -25.26869
+                            ],
+                            [
+                                22.824271,
+                                -25.500459
+                            ],
+                            [
+                                22.579532,
+                                -25.979448
+                            ],
+                            [
+                                22.105969,
+                                -26.280256
+                            ],
+                            [
+                                21.605896,
+                                -26.726534
+                            ],
+                            [
+                                20.889609,
+                                -26.828543
+                            ],
+                            [
+                                20.66647,
+                                -26.477453
+                            ],
+                            [
+                                20.758609,
+                                -25.868136
+                            ],
+                            [
+                                20.165726,
+                                -24.917962
+                            ],
+                            [
+                                19.895768,
+                                -24.76779
+                            ],
+                            [
+                                19.895458,
+                                -21.849157
+                            ],
+                            [
+                                20.881134,
+                                -21.814327
+                            ],
+                            [
+                                20.910641,
+                                -18.252219
+                            ],
+                            [
+                                21.65504,
+                                -18.219146
+                            ],
+                            [
+                                23.196858,
+                                -17.869038
+                            ],
+                            [
+                                23.579006,
+                                -18.281261
+                            ],
+                            [
+                                24.217365,
+                                -17.889347
+                            ],
+                            [
+                                24.520705,
+                                -17.887125
+                            ],
+                            [
+                                25.084443,
+                                -17.661816
+                            ],
+                            [
+                                25.264226,
+                                -17.73654
+                            ],
+                            [
+                                25.649163,
+                                -18.536026
+                            ]
+                        ]
+                    ]
+                }
+            }
+        ]
+    },
+    "ISO": {
+        "alpha2": "BW",
+        "alpha3": "BWA"
+    },
+    "languages": [
+        "Khoekhoe",
+        "Ndebele",
+        "San",
+        "Shona",
+        "Tswana"
+    ],
+    "latlng": [
+        -22,
+        24
+    ],
+    "nativeName": "Botswana",
+    "population": 2024904,
+    "timezones": [
+        "UTC+02:00"
+    ],
+    "tld": [
+        ".bw"
+    ],
+    "states": [
+        {
+            "id": 3067,
+            "name": "Central District",
+            "state_code": "CE",
+            "cities": [
+                {
+                    "id": 15738,
+                    "name": "Gobojango",
+                    "latitude": "-21.83270000",
+                    "longitude": "28.72882000"
+                },
+                {
+                    "id": 15739,
+                    "name": "Gweta",
+                    "latitude": "-20.18333000",
+                    "longitude": "25.23333000"
+                },
+                {
+                    "id": 15742,
+                    "name": "Kalamare",
+                    "latitude": "-22.93369000",
+                    "longitude": "26.57032000"
+                },
+                {
+                    "id": 15750,
+                    "name": "Letlhakane",
+                    "latitude": "-21.41494000",
+                    "longitude": "25.59263000"
+                },
+                {
+                    "id": 15752,
+                    "name": "Letsheng",
+                    "latitude": "-22.66384000",
+                    "longitude": "27.22390000"
+                },
+                {
+                    "id": 15753,
+                    "name": "Maapi",
+                    "latitude": "-22.75785000",
+                    "longitude": "27.35001000"
+                },
+                {
+                    "id": 15754,
+                    "name": "Machaneng",
+                    "latitude": "-23.18621000",
+                    "longitude": "27.48856000"
+                },
+                {
+                    "id": 15755,
+                    "name": "Mahalapye",
+                    "latitude": "-23.10407000",
+                    "longitude": "26.81421000"
+                },
+                {
+                    "id": 15757,
+                    "name": "Makobeng",
+                    "latitude": "-22.99637000",
+                    "longitude": "27.66766000"
+                },
+                {
+                    "id": 15758,
+                    "name": "Makwata",
+                    "latitude": "-23.28333000",
+                    "longitude": "27.30000000"
+                },
+                {
+                    "id": 15761,
+                    "name": "Mathakola",
+                    "latitude": "-22.72125000",
+                    "longitude": "27.31057000"
+                },
+                {
+                    "id": 15762,
+                    "name": "Mathambgwane",
+                    "latitude": "-20.99075000",
+                    "longitude": "27.33158000"
+                },
+                {
+                    "id": 15763,
+                    "name": "Mathathane",
+                    "latitude": "-22.26875000",
+                    "longitude": "28.74946000"
+                },
+                {
+                    "id": 15765,
+                    "name": "Maunatlala",
+                    "latitude": "-22.59701000",
+                    "longitude": "27.63006000"
+                },
+                {
+                    "id": 15770,
+                    "name": "Mogapi",
+                    "latitude": "-22.32301000",
+                    "longitude": "27.83492000"
+                },
+                {
+                    "id": 15772,
+                    "name": "Moijabana",
+                    "latitude": "-22.43333000",
+                    "longitude": "26.41667000"
+                },
+                {
+                    "id": 15774,
+                    "name": "Mookane",
+                    "latitude": "-23.68805000",
+                    "longitude": "26.65948000"
+                },
+                {
+                    "id": 15775,
+                    "name": "Mopipi",
+                    "latitude": "-21.18333000",
+                    "longitude": "24.88333000"
+                },
+                {
+                    "id": 15776,
+                    "name": "Mosetse",
+                    "latitude": "-20.75000000",
+                    "longitude": "26.65000000"
+                },
+                {
+                    "id": 15778,
+                    "name": "Nata",
+                    "latitude": "-20.21667000",
+                    "longitude": "26.18333000"
+                },
+                {
+                    "id": 15781,
+                    "name": "Orapa",
+                    "latitude": "-21.31150000",
+                    "longitude": "25.37642000"
+                },
+                {
+                    "id": 15783,
+                    "name": "Palapye",
+                    "latitude": "-22.54605000",
+                    "longitude": "27.12507000"
+                },
+                {
+                    "id": 15786,
+                    "name": "Pilikwe",
+                    "latitude": "-22.79904000",
+                    "longitude": "27.19376000"
+                },
+                {
+                    "id": 15787,
+                    "name": "Rakops",
+                    "latitude": "-21.02257000",
+                    "longitude": "24.36052000"
+                },
+                {
+                    "id": 15788,
+                    "name": "Ramokgonami",
+                    "latitude": "-22.86450000",
+                    "longitude": "27.42391000"
+                },
+                {
+                    "id": 15790,
+                    "name": "Ratholo",
+                    "latitude": "-22.72454000",
+                    "longitude": "27.57199000"
+                },
+                {
+                    "id": 15792,
+                    "name": "Sefophe",
+                    "latitude": "-22.18333000",
+                    "longitude": "27.96667000"
+                },
+                {
+                    "id": 15795,
+                    "name": "Serowe",
+                    "latitude": "-22.38754000",
+                    "longitude": "26.71077000"
+                },
+                {
+                    "id": 15797,
+                    "name": "Sua",
+                    "latitude": "-20.05000000",
+                    "longitude": "26.20000000"
+                },
+                {
+                    "id": 15798,
+                    "name": "Tamasane",
+                    "latitude": "-22.41840000",
+                    "longitude": "27.40127000"
+                },
+                {
+                    "id": 15800,
+                    "name": "Tobane",
+                    "latitude": "-21.95000000",
+                    "longitude": "27.90000000"
+                },
+                {
+                    "id": 15801,
+                    "name": "Tonota",
+                    "latitude": "-21.44236000",
+                    "longitude": "27.46153000"
+                }
+            ]
+        },
+        {
+            "id": 3061,
+            "name": "Ghanzi District",
+            "state_code": "GH",
+            "cities": [
+                {
+                    "id": 15731,
+                    "name": "Dekar",
+                    "latitude": "-21.53333000",
+                    "longitude": "21.93333000"
+                },
+                {
+                    "id": 15737,
+                    "name": "Ghanzi",
+                    "latitude": "-21.69785000",
+                    "longitude": "21.64581000"
+                }
+            ]
+        },
+        {
+            "id": 3066,
+            "name": "Kgalagadi District",
+            "state_code": "KG",
+            "cities": [
+                {
+                    "id": 15740,
+                    "name": "Hukuntsi",
+                    "latitude": "-23.99880000",
+                    "longitude": "21.77962000"
+                },
+                {
+                    "id": 15743,
+                    "name": "Kang",
+                    "latitude": "-23.67518000",
+                    "longitude": "22.78762000"
+                },
+                {
+                    "id": 15748,
+                    "name": "Lehututu",
+                    "latitude": "-23.96667000",
+                    "longitude": "21.86667000"
+                },
+                {
+                    "id": 15759,
+                    "name": "Manyana",
+                    "latitude": "-23.40000000",
+                    "longitude": "21.71667000"
+                },
+                {
+                    "id": 15802,
+                    "name": "Tshabong",
+                    "latitude": "-26.05000000",
+                    "longitude": "22.45000000"
+                },
+                {
+                    "id": 15803,
+                    "name": "Werda",
+                    "latitude": "-25.26667000",
+                    "longitude": "23.28333000"
+                }
+            ]
+        },
+        {
+            "id": 3062,
+            "name": "Kgatleng District",
+            "state_code": "KL",
+            "cities": [
+                {
+                    "id": 15729,
+                    "name": "Bokaa",
+                    "latitude": "-24.45000000",
+                    "longitude": "26.01667000"
+                },
+                {
+                    "id": 15767,
+                    "name": "Mmathubudukwane",
+                    "latitude": "-24.60000000",
+                    "longitude": "26.43333000"
+                },
+                {
+                    "id": 15769,
+                    "name": "Mochudi",
+                    "latitude": "-24.41667000",
+                    "longitude": "26.15000000"
+                },
+                {
+                    "id": 15785,
+                    "name": "Pilane",
+                    "latitude": "-24.45000000",
+                    "longitude": "26.13333000"
+                }
+            ]
+        },
+        {
+            "id": 3069,
+            "name": "Kweneng District",
+            "state_code": "KW",
+            "cities": [
+                {
+                    "id": 15730,
+                    "name": "Botlhapatlou",
+                    "latitude": "-24.02591000",
+                    "longitude": "25.48976000"
+                },
+                {
+                    "id": 15733,
+                    "name": "Dutlwe",
+                    "latitude": "-23.98333000",
+                    "longitude": "23.90000000"
+                },
+                {
+                    "id": 15734,
+                    "name": "Gabane",
+                    "latitude": "-24.66667000",
+                    "longitude": "25.78222000"
+                },
+                {
+                    "id": 15736,
+                    "name": "Gaphatshwe",
+                    "latitude": "-24.57389000",
+                    "longitude": "25.83417000"
+                },
+                {
+                    "id": 15746,
+                    "name": "Khudumelapye",
+                    "latitude": "-23.88333000",
+                    "longitude": "24.75000000"
+                },
+                {
+                    "id": 15749,
+                    "name": "Lenchwe Le Tau",
+                    "latitude": "-24.38333000",
+                    "longitude": "25.85000000"
+                },
+                {
+                    "id": 15751,
+                    "name": "Letlhakeng",
+                    "latitude": "-24.09442000",
+                    "longitude": "25.02977000"
+                },
+                {
+                    "id": 15766,
+                    "name": "Metsemotlhaba",
+                    "latitude": "-24.55139000",
+                    "longitude": "25.80306000"
+                },
+                {
+                    "id": 15768,
+                    "name": "Mmopone",
+                    "latitude": "-24.56694000",
+                    "longitude": "25.87417000"
+                },
+                {
+                    "id": 15771,
+                    "name": "Mogoditshane",
+                    "latitude": "-24.62694000",
+                    "longitude": "25.86556000"
+                },
+                {
+                    "id": 15773,
+                    "name": "Molepolole",
+                    "latitude": "-24.40659000",
+                    "longitude": "25.49508000"
+                },
+                {
+                    "id": 15779,
+                    "name": "Nkoyaphiri",
+                    "latitude": "-24.63222000",
+                    "longitude": "25.83139000"
+                },
+                {
+                    "id": 15799,
+                    "name": "Thamaga",
+                    "latitude": "-24.67014000",
+                    "longitude": "25.53975000"
+                }
+            ]
+        },
+        {
+            "id": 3060,
+            "name": "Ngamiland",
+            "state_code": "NG",
+            "cities": []
+        },
+        {
+            "id": 3068,
+            "name": "North-East District",
+            "state_code": "NE",
+            "cities": [
+                {
+                    "id": 15732,
+                    "name": "Dukwe",
+                    "latitude": "-20.58333000",
+                    "longitude": "26.41667000"
+                },
+                {
+                    "id": 15756,
+                    "name": "Makaleng",
+                    "latitude": "-20.90000000",
+                    "longitude": "27.28333000"
+                },
+                {
+                    "id": 15760,
+                    "name": "Masunga",
+                    "latitude": "-20.62455000",
+                    "longitude": "27.44875000"
+                },
+                {
+                    "id": 15791,
+                    "name": "Sebina",
+                    "latitude": "-20.86667000",
+                    "longitude": "27.25000000"
+                }
+            ]
+        },
+        {
+            "id": 3065,
+            "name": "North-West District",
+            "state_code": "NW",
+            "cities": [
+                {
+                    "id": 15764,
+                    "name": "Maun",
+                    "latitude": "-19.98333000",
+                    "longitude": "23.41667000"
+                },
+                {
+                    "id": 15780,
+                    "name": "Nokaneng",
+                    "latitude": "-19.66667000",
+                    "longitude": "22.26667000"
+                },
+                {
+                    "id": 15784,
+                    "name": "Pandamatenga",
+                    "latitude": "-18.52779000",
+                    "longitude": "25.62698000"
+                },
+                {
+                    "id": 15793,
+                    "name": "Sehithwa",
+                    "latitude": "-20.46667000",
+                    "longitude": "22.71667000"
+                },
+                {
+                    "id": 15796,
+                    "name": "Shakawe",
+                    "latitude": "-18.36536000",
+                    "longitude": "21.84219000"
+                }
+            ]
+        },
+        {
+            "id": 3064,
+            "name": "South-East District",
+            "state_code": "SE",
+            "cities": [
+                {
+                    "id": 15735,
+                    "name": "Gaborone",
+                    "latitude": "-24.76234000",
+                    "longitude": "25.79950000"
+                },
+                {
+                    "id": 15741,
+                    "name": "Janeng",
+                    "latitude": "-25.41667000",
+                    "longitude": "25.55000000"
+                },
+                {
+                    "id": 15747,
+                    "name": "Kopong",
+                    "latitude": "-24.48333000",
+                    "longitude": "25.88333000"
+                },
+                {
+                    "id": 15782,
+                    "name": "Otse",
+                    "latitude": "-25.01667000",
+                    "longitude": "25.73333000"
+                },
+                {
+                    "id": 15789,
+                    "name": "Ramotswa",
+                    "latitude": "-24.87158000",
+                    "longitude": "25.86989000"
+                }
+            ]
+        },
+        {
+            "id": 3063,
+            "name": "Southern District",
+            "state_code": "SO",
+            "cities": [
+                {
+                    "id": 15744,
+                    "name": "Kanye",
+                    "latitude": "-24.96675000",
+                    "longitude": "25.33273000"
+                },
+                {
+                    "id": 15745,
+                    "name": "Khakhea",
+                    "latitude": "-24.68954000",
+                    "longitude": "23.49403000"
+                },
+                {
+                    "id": 15777,
+                    "name": "Mosopa",
+                    "latitude": "-24.77180000",
+                    "longitude": "25.42156000"
+                },
+                {
+                    "id": 15794,
+                    "name": "Sekoma",
+                    "latitude": "-24.40000000",
+                    "longitude": "23.88333000"
+                }
+            ]
+        }
+    ],
+    "translations": {
+        "de": "Botswana",
+        "es": "Botswana",
+        "fr": "Botswana",
+        "ja": "ボツワナ",
+        "it": "Botswana"
+    },
+    "independence": 1966,
+    "expectancy": 39.3,
+    "dish": "Seswaa",
+    "symbol": null,
+    "density": 3.977424876,
+    "location": "Southern Africa",
+    "religion": "Christianity",
+    "temperature": 21.5,
+    "continent": "Africa",
+    "government": "Republic",
+    "wiki": "http://en.wikipedia.org/wiki/botswana"
+}

@@ -1,0 +1,864 @@
+{
+    "name": "El Salvador",
+    "altSpellings": [
+        "SV",
+        "Republic of El Salvador",
+        "República de El Salvador"
+    ],
+    "area": 21041,
+    "borders": [
+        "GTM",
+        "HND"
+    ],
+    "callingCodes": [
+        "503"
+    ],
+    "capital": "San Salvador",
+    "capital_latlng": [
+        13.698994,
+        -89.191425
+    ],
+    "currencies": [
+        "SVC",
+        "USD"
+    ],
+    "demonym": "Salvadoran",
+    "flag": "",
+    "geoJSON": {
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "type": "Feature",
+                "id": "SLV",
+                "properties": {
+                    "name": "El Salvador"
+                },
+                "geometry": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                -87.793111,
+                                13.38448
+                            ],
+                            [
+                                -87.904112,
+                                13.149017
+                            ],
+                            [
+                                -88.483302,
+                                13.163951
+                            ],
+                            [
+                                -88.843228,
+                                13.259734
+                            ],
+                            [
+                                -89.256743,
+                                13.458533
+                            ],
+                            [
+                                -89.812394,
+                                13.520622
+                            ],
+                            [
+                                -90.095555,
+                                13.735338
+                            ],
+                            [
+                                -90.064678,
+                                13.88197
+                            ],
+                            [
+                                -89.721934,
+                                14.134228
+                            ],
+                            [
+                                -89.534219,
+                                14.244816
+                            ],
+                            [
+                                -89.587343,
+                                14.362586
+                            ],
+                            [
+                                -89.353326,
+                                14.424133
+                            ],
+                            [
+                                -89.058512,
+                                14.340029
+                            ],
+                            [
+                                -88.843073,
+                                14.140507
+                            ],
+                            [
+                                -88.541231,
+                                13.980155
+                            ],
+                            [
+                                -88.503998,
+                                13.845486
+                            ],
+                            [
+                                -88.065343,
+                                13.964626
+                            ],
+                            [
+                                -87.859515,
+                                13.893312
+                            ],
+                            [
+                                -87.723503,
+                                13.78505
+                            ],
+                            [
+                                -87.793111,
+                                13.38448
+                            ]
+                        ]
+                    ]
+                }
+            }
+        ]
+    },
+    "ISO": {
+        "alpha2": "SV",
+        "alpha3": "SLV"
+    },
+    "states": [
+        {
+            "id": 4139,
+            "name": "Ahuachapán Department",
+            "state_code": "AH",
+            "cities": [
+                {
+                    "id": 104842,
+                    "name": "Ahuachapán",
+                    "latitude": "13.92139000",
+                    "longitude": "-89.84500000"
+                },
+                {
+                    "id": 104848,
+                    "name": "Atiquizaya",
+                    "latitude": "13.97694000",
+                    "longitude": "-89.75250000"
+                },
+                {
+                    "id": 104863,
+                    "name": "Concepción de Ataco",
+                    "latitude": "13.87028000",
+                    "longitude": "-89.84861000"
+                },
+                {
+                    "id": 104873,
+                    "name": "Guaymango",
+                    "latitude": "13.75028000",
+                    "longitude": "-89.84222000"
+                },
+                {
+                    "id": 104883,
+                    "name": "Jujutla",
+                    "latitude": "13.78694000",
+                    "longitude": "-89.85722000"
+                },
+                {
+                    "id": 104906,
+                    "name": "San Francisco Menéndez",
+                    "latitude": "13.84306000",
+                    "longitude": "-90.01583000"
+                },
+                {
+                    "id": 104931,
+                    "name": "Tacuba",
+                    "latitude": "13.90111000",
+                    "longitude": "-89.92972000"
+                }
+            ]
+        },
+        {
+            "id": 4132,
+            "name": "Cabañas Department",
+            "state_code": "CA",
+            "cities": [
+                {
+                    "id": 104924,
+                    "name": "Sensuntepeque",
+                    "latitude": "13.86667000",
+                    "longitude": "-88.63333000"
+                },
+                {
+                    "id": 104937,
+                    "name": "Victoria",
+                    "latitude": "13.95000000",
+                    "longitude": "-88.63333000"
+                }
+            ]
+        },
+        {
+            "id": 4131,
+            "name": "Chalatenango Department",
+            "state_code": "CH",
+            "cities": [
+                {
+                    "id": 104853,
+                    "name": "Chalatenango",
+                    "latitude": "14.03333000",
+                    "longitude": "-88.93333000"
+                },
+                {
+                    "id": 104891,
+                    "name": "Nueva Concepción",
+                    "latitude": "14.13333000",
+                    "longitude": "-89.30000000"
+                }
+            ]
+        },
+        {
+            "id": 4137,
+            "name": "Cuscatlán Department",
+            "state_code": "CU",
+            "cities": [
+                {
+                    "id": 104861,
+                    "name": "Cojutepeque",
+                    "latitude": "13.71667000",
+                    "longitude": "-88.93333000"
+                },
+                {
+                    "id": 104909,
+                    "name": "San Martín",
+                    "latitude": "13.78333000",
+                    "longitude": "-88.91667000"
+                },
+                {
+                    "id": 104930,
+                    "name": "Suchitoto",
+                    "latitude": "13.93806000",
+                    "longitude": "-89.02778000"
+                },
+                {
+                    "id": 104932,
+                    "name": "Tecoluca",
+                    "latitude": "13.78917000",
+                    "longitude": "-89.00528000"
+                },
+                {
+                    "id": 104933,
+                    "name": "Tenancingo",
+                    "latitude": "13.83333000",
+                    "longitude": "-88.98333000"
+                }
+            ]
+        },
+        {
+            "id": 4134,
+            "name": "La Libertad Department",
+            "state_code": "LI",
+            "cities": [
+                {
+                    "id": 104844,
+                    "name": "Antiguo Cuscatlán",
+                    "latitude": "13.66492000",
+                    "longitude": "-89.25319000"
+                },
+                {
+                    "id": 104858,
+                    "name": "Ciudad Arce",
+                    "latitude": "13.84028000",
+                    "longitude": "-89.44722000"
+                },
+                {
+                    "id": 104884,
+                    "name": "La Libertad",
+                    "latitude": "13.48833000",
+                    "longitude": "-89.32222000"
+                },
+                {
+                    "id": 104894,
+                    "name": "Nuevo Cuscatlán",
+                    "latitude": "13.64861000",
+                    "longitude": "-89.26528000"
+                },
+                {
+                    "id": 104900,
+                    "name": "Quezaltepeque",
+                    "latitude": "13.83124000",
+                    "longitude": "-89.27221000"
+                },
+                {
+                    "id": 104907,
+                    "name": "San Juan Opico",
+                    "latitude": "13.87611000",
+                    "longitude": "-89.35972000"
+                },
+                {
+                    "id": 104911,
+                    "name": "San Pablo Tacachico",
+                    "latitude": "13.97556000",
+                    "longitude": "-89.34000000"
+                },
+                {
+                    "id": 104920,
+                    "name": "Santa Tecla",
+                    "latitude": "13.67694000",
+                    "longitude": "-89.27972000"
+                },
+                {
+                    "id": 104939,
+                    "name": "Zaragoza",
+                    "latitude": "13.58944000",
+                    "longitude": "-89.28889000"
+                }
+            ]
+        },
+        {
+            "id": 4136,
+            "name": "La Paz Department",
+            "state_code": "PA",
+            "cities": [
+                {
+                    "id": 104870,
+                    "name": "El Rosario",
+                    "latitude": "13.49778000",
+                    "longitude": "-89.02972000"
+                },
+                {
+                    "id": 104895,
+                    "name": "Olocuilta",
+                    "latitude": "13.56972000",
+                    "longitude": "-89.11722000"
+                },
+                {
+                    "id": 104912,
+                    "name": "San Pedro Masahuat",
+                    "latitude": "13.54361000",
+                    "longitude": "-89.03861000"
+                },
+                {
+                    "id": 104921,
+                    "name": "Santiago Nonualco",
+                    "latitude": "13.51667000",
+                    "longitude": "-88.95000000"
+                },
+                {
+                    "id": 104938,
+                    "name": "Zacatecoluca",
+                    "latitude": "13.50000000",
+                    "longitude": "-88.86667000"
+                }
+            ]
+        },
+        {
+            "id": 4138,
+            "name": "La Unión Department",
+            "state_code": "UN",
+            "cities": [
+                {
+                    "id": 104843,
+                    "name": "Anamorós",
+                    "latitude": "13.74056000",
+                    "longitude": "-87.87361000"
+                },
+                {
+                    "id": 104864,
+                    "name": "Conchagua",
+                    "latitude": "13.30778000",
+                    "longitude": "-87.86472000"
+                },
+                {
+                    "id": 104876,
+                    "name": "Intipucá",
+                    "latitude": "13.19694000",
+                    "longitude": "-88.05444000"
+                },
+                {
+                    "id": 104885,
+                    "name": "La Unión",
+                    "latitude": "13.33694000",
+                    "longitude": "-87.84389000"
+                },
+                {
+                    "id": 104892,
+                    "name": "Nueva Esparta",
+                    "latitude": "13.78361000",
+                    "longitude": "-87.83861000"
+                },
+                {
+                    "id": 104898,
+                    "name": "Pasaquina",
+                    "latitude": "13.58444000",
+                    "longitude": "-87.84111000"
+                },
+                {
+                    "id": 104903,
+                    "name": "San Alejo",
+                    "latitude": "13.43139000",
+                    "longitude": "-87.96306000"
+                },
+                {
+                    "id": 104919,
+                    "name": "Santa Rosa de Lima",
+                    "latitude": "13.62472000",
+                    "longitude": "-87.89361000"
+                }
+            ]
+        },
+        {
+            "id": 4130,
+            "name": "Morazán Department",
+            "state_code": "MO",
+            "cities": [
+                {
+                    "id": 104851,
+                    "name": "Cacaopera",
+                    "latitude": "13.76667000",
+                    "longitude": "-88.08333000"
+                },
+                {
+                    "id": 104865,
+                    "name": "Corinto",
+                    "latitude": "13.81083000",
+                    "longitude": "-87.97139000"
+                },
+                {
+                    "id": 104872,
+                    "name": "Guatajiagua",
+                    "latitude": "13.66667000",
+                    "longitude": "-88.20000000"
+                },
+                {
+                    "id": 104879,
+                    "name": "Jocoro",
+                    "latitude": "13.61667000",
+                    "longitude": "-88.01667000"
+                },
+                {
+                    "id": 104905,
+                    "name": "San Francisco",
+                    "latitude": "13.70000000",
+                    "longitude": "-88.10000000"
+                },
+                {
+                    "id": 104926,
+                    "name": "Sociedad",
+                    "latitude": "13.70000000",
+                    "longitude": "-88.01667000"
+                }
+            ]
+        },
+        {
+            "id": 4135,
+            "name": "San Miguel Department",
+            "state_code": "SM",
+            "cities": [
+                {
+                    "id": 104855,
+                    "name": "Chapeltique",
+                    "latitude": "13.63333000",
+                    "longitude": "-88.26667000"
+                },
+                {
+                    "id": 104856,
+                    "name": "Chinameca",
+                    "latitude": "13.50000000",
+                    "longitude": "-88.35000000"
+                },
+                {
+                    "id": 104857,
+                    "name": "Chirilagua",
+                    "latitude": "13.22028000",
+                    "longitude": "-88.13861000"
+                },
+                {
+                    "id": 104859,
+                    "name": "Ciudad Barrios",
+                    "latitude": "13.76667000",
+                    "longitude": "-88.26667000"
+                },
+                {
+                    "id": 104871,
+                    "name": "El Tránsito",
+                    "latitude": "13.35000000",
+                    "longitude": "-88.35000000"
+                },
+                {
+                    "id": 104886,
+                    "name": "Lolotique",
+                    "latitude": "13.55000000",
+                    "longitude": "-88.35000000"
+                },
+                {
+                    "id": 104889,
+                    "name": "Moncagua",
+                    "latitude": "13.53333000",
+                    "longitude": "-88.25000000"
+                },
+                {
+                    "id": 104893,
+                    "name": "Nueva Guadalupe",
+                    "latitude": "13.53333000",
+                    "longitude": "-88.35000000"
+                },
+                {
+                    "id": 104910,
+                    "name": "San Miguel",
+                    "latitude": "13.48333000",
+                    "longitude": "-88.18333000"
+                },
+                {
+                    "id": 104913,
+                    "name": "San Rafael Oriente",
+                    "latitude": "13.38333000",
+                    "longitude": "-88.35000000"
+                },
+                {
+                    "id": 104925,
+                    "name": "Sesori",
+                    "latitude": "13.71667000",
+                    "longitude": "-88.36667000"
+                }
+            ]
+        },
+        {
+            "id": 4133,
+            "name": "San Salvador Department",
+            "state_code": "SS",
+            "cities": [
+                {
+                    "id": 104841,
+                    "name": "Aguilares",
+                    "latitude": "13.95722000",
+                    "longitude": "-89.18972000"
+                },
+                {
+                    "id": 104846,
+                    "name": "Apopa",
+                    "latitude": "13.80722000",
+                    "longitude": "-89.17917000"
+                },
+                {
+                    "id": 104849,
+                    "name": "Ayutuxtepeque",
+                    "latitude": "13.74556000",
+                    "longitude": "-89.20639000"
+                },
+                {
+                    "id": 104866,
+                    "name": "Cuscatancingo",
+                    "latitude": "13.73611000",
+                    "longitude": "-89.18139000"
+                },
+                {
+                    "id": 104867,
+                    "name": "Delgado",
+                    "latitude": "13.72417000",
+                    "longitude": "-89.17028000"
+                },
+                {
+                    "id": 104869,
+                    "name": "El Paisnal",
+                    "latitude": "13.97361000",
+                    "longitude": "-89.21861000"
+                },
+                {
+                    "id": 104874,
+                    "name": "Guazapa",
+                    "latitude": "13.87694000",
+                    "longitude": "-89.17306000"
+                },
+                {
+                    "id": 104875,
+                    "name": "Ilopango",
+                    "latitude": "13.70167000",
+                    "longitude": "-89.10944000"
+                },
+                {
+                    "id": 104887,
+                    "name": "Mejicanos",
+                    "latitude": "13.74028000",
+                    "longitude": "-89.21306000"
+                },
+                {
+                    "id": 104897,
+                    "name": "Panchimalco",
+                    "latitude": "13.61278000",
+                    "longitude": "-89.18000000"
+                },
+                {
+                    "id": 104901,
+                    "name": "Rosario de Mora",
+                    "latitude": "13.57528000",
+                    "longitude": "-89.20889000"
+                },
+                {
+                    "id": 104908,
+                    "name": "San Marcos",
+                    "latitude": "13.65889000",
+                    "longitude": "-89.18306000"
+                },
+                {
+                    "id": 104914,
+                    "name": "San Salvador",
+                    "latitude": "13.68935000",
+                    "longitude": "-89.18718000"
+                },
+                {
+                    "id": 104923,
+                    "name": "Santo Tomás",
+                    "latitude": "13.64083000",
+                    "longitude": "-89.13333000"
+                },
+                {
+                    "id": 104929,
+                    "name": "Soyapango",
+                    "latitude": "13.71024000",
+                    "longitude": "-89.13989000"
+                },
+                {
+                    "id": 104935,
+                    "name": "Tonacatepeque",
+                    "latitude": "13.78111000",
+                    "longitude": "-89.11861000"
+                }
+            ]
+        },
+        {
+            "id": 4127,
+            "name": "San Vicente Department",
+            "state_code": "SV",
+            "cities": [
+                {
+                    "id": 104845,
+                    "name": "Apastepeque",
+                    "latitude": "13.66667000",
+                    "longitude": "-88.78333000"
+                },
+                {
+                    "id": 104915,
+                    "name": "San Sebastián",
+                    "latitude": "13.73333000",
+                    "longitude": "-88.83333000"
+                },
+                {
+                    "id": 104916,
+                    "name": "San Vicente",
+                    "latitude": "13.63333000",
+                    "longitude": "-88.80000000"
+                }
+            ]
+        },
+        {
+            "id": 4128,
+            "name": "Santa Ana Department",
+            "state_code": "SA",
+            "cities": [
+                {
+                    "id": 104852,
+                    "name": "Candelaria de La Frontera",
+                    "latitude": "14.11667000",
+                    "longitude": "-89.65000000"
+                },
+                {
+                    "id": 104854,
+                    "name": "Chalchuapa",
+                    "latitude": "13.98667000",
+                    "longitude": "-89.68111000"
+                },
+                {
+                    "id": 104860,
+                    "name": "Coatepeque",
+                    "latitude": "13.92861000",
+                    "longitude": "-89.50417000"
+                },
+                {
+                    "id": 104868,
+                    "name": "El Congo",
+                    "latitude": "13.90889000",
+                    "longitude": "-89.49583000"
+                },
+                {
+                    "id": 104888,
+                    "name": "Metapán",
+                    "latitude": "14.33333000",
+                    "longitude": "-89.45000000"
+                },
+                {
+                    "id": 104917,
+                    "name": "Santa Ana",
+                    "latitude": "13.99417000",
+                    "longitude": "-89.55972000"
+                },
+                {
+                    "id": 104934,
+                    "name": "Texistepeque",
+                    "latitude": "14.13333000",
+                    "longitude": "-89.50000000"
+                }
+            ]
+        },
+        {
+            "id": 4140,
+            "name": "Sonsonate Department",
+            "state_code": "SO",
+            "cities": [
+                {
+                    "id": 104840,
+                    "name": "Acajutla",
+                    "latitude": "13.59278000",
+                    "longitude": "-89.82750000"
+                },
+                {
+                    "id": 104847,
+                    "name": "Armenia",
+                    "latitude": "13.74361000",
+                    "longitude": "-89.49889000"
+                },
+                {
+                    "id": 104877,
+                    "name": "Izalco",
+                    "latitude": "13.74472000",
+                    "longitude": "-89.67306000"
+                },
+                {
+                    "id": 104880,
+                    "name": "Juayúa",
+                    "latitude": "13.84139000",
+                    "longitude": "-89.74556000"
+                },
+                {
+                    "id": 104890,
+                    "name": "Nahuizalco",
+                    "latitude": "13.77750000",
+                    "longitude": "-89.73667000"
+                },
+                {
+                    "id": 104904,
+                    "name": "San Antonio del Monte",
+                    "latitude": "13.71639000",
+                    "longitude": "-89.73833000"
+                },
+                {
+                    "id": 104927,
+                    "name": "Sonsonate",
+                    "latitude": "13.71889000",
+                    "longitude": "-89.72417000"
+                },
+                {
+                    "id": 104928,
+                    "name": "Sonzacate",
+                    "latitude": "13.73417000",
+                    "longitude": "-89.71472000"
+                }
+            ]
+        },
+        {
+            "id": 4129,
+            "name": "Usulután Department",
+            "state_code": "US",
+            "cities": [
+                {
+                    "id": 104850,
+                    "name": "Berlín",
+                    "latitude": "13.50000000",
+                    "longitude": "-88.53333000"
+                },
+                {
+                    "id": 104862,
+                    "name": "Concepción Batres",
+                    "latitude": "13.35000000",
+                    "longitude": "-88.36667000"
+                },
+                {
+                    "id": 104878,
+                    "name": "Jiquilisco",
+                    "latitude": "13.31667000",
+                    "longitude": "-88.58333000"
+                },
+                {
+                    "id": 104881,
+                    "name": "Jucuapa",
+                    "latitude": "13.51667000",
+                    "longitude": "-88.38333000"
+                },
+                {
+                    "id": 104882,
+                    "name": "Jucuarán",
+                    "latitude": "13.25389000",
+                    "longitude": "-88.24778000"
+                },
+                {
+                    "id": 104896,
+                    "name": "Ozatlán",
+                    "latitude": "13.38333000",
+                    "longitude": "-88.50000000"
+                },
+                {
+                    "id": 104899,
+                    "name": "Puerto El Triunfo",
+                    "latitude": "13.28333000",
+                    "longitude": "-88.55000000"
+                },
+                {
+                    "id": 104902,
+                    "name": "San Agustín",
+                    "latitude": "13.43333000",
+                    "longitude": "-88.60000000"
+                },
+                {
+                    "id": 104918,
+                    "name": "Santa Elena",
+                    "latitude": "13.38333000",
+                    "longitude": "-88.41667000"
+                },
+                {
+                    "id": 104922,
+                    "name": "Santiago de María",
+                    "latitude": "13.48333000",
+                    "longitude": "-88.46667000"
+                },
+                {
+                    "id": 104936,
+                    "name": "Usulután",
+                    "latitude": "13.35000000",
+                    "longitude": "-88.45000000"
+                }
+            ]
+        }
+    ],
+    "languages": [
+        "Nahua",
+        "Spanish"
+    ],
+    "latlng": [
+        13.83333333,
+        -88.91666666
+    ],
+    "nativeName": "El Salvador",
+    "population": 6401240,
+    "timezones": [
+        "UTC−06:00"
+    ],
+    "tld": [
+        ".sv"
+    ],
+    "translations": {
+        "de": "El Salvador",
+        "es": "El Salvador",
+        "fr": "Salvador",
+        "ja": "エルサルバドル",
+        "it": "El Salvador"
+    },
+    "continent": "North America",
+    "government": "Republic",
+    "independence": 1841,
+    "dish": "Pupusa",
+    "symbol": null,
+    "density": 309.8814672,
+    "expectancy": 69.7,
+    "religion": "Christianity",
+    "location": "Central America",
+    "temperature": 24.45,
+    "wiki": "http://en.wikipedia.org/wiki/el_salvador"
+}

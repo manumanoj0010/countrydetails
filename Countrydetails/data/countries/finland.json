@@ -1,0 +1,2667 @@
+{
+  "name": "Finland",
+  "altSpellings": ["FI", "Suomi", "Republic of Finland", "Suomen tasavalta", "Republiken Finland"],
+  "area": 338424,
+  "borders": ["NOR", "SWE", "RUS"],
+  "callingCodes": ["358"],
+  "capital": "Helsinki",
+  "capital_latlng": [60.16741, 24.942577],
+  "currencies": ["EUR"],
+  "demonym": "Finnish",
+  "flag": "",
+  "geoJSON": {
+    "type": "FeatureCollection",
+    "features": [{
+      "type": "Feature",
+      "id": "FIN",
+      "properties": {
+        "name": "Finland"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [28.59193, 69.064777],
+            [28.445944, 68.364613],
+            [29.977426, 67.698297],
+            [29.054589, 66.944286],
+            [30.21765, 65.80598],
+            [29.54443, 64.948672],
+            [30.444685, 64.204453],
+            [30.035872, 63.552814],
+            [31.516092, 62.867687],
+            [31.139991, 62.357693],
+            [30.211107, 61.780028],
+            [28.069998, 60.503517],
+            [26.255173, 60.423961],
+            [24.496624, 60.057316],
+            [22.869695, 59.846373],
+            [22.290764, 60.391921],
+            [21.322244, 60.72017],
+            [21.544866, 61.705329],
+            [21.059211, 62.607393],
+            [21.536029, 63.189735],
+            [22.442744, 63.81781],
+            [24.730512, 64.902344],
+            [25.398068, 65.111427],
+            [25.294043, 65.534346],
+            [23.903379, 66.006927],
+            [23.56588, 66.396051],
+            [23.539473, 67.936009],
+            [21.978535, 68.616846],
+            [20.645593, 69.106247],
+            [21.244936, 69.370443],
+            [22.356238, 68.841741],
+            [23.66205, 68.891247],
+            [24.735679, 68.649557],
+            [25.689213, 69.092114],
+            [26.179622, 69.825299],
+            [27.732292, 70.164193],
+            [29.015573, 69.766491],
+            [28.59193, 69.064777]
+          ]
+        ]
+      }
+    }]
+  },
+  "ISO": {
+    "alpha2": "FI",
+    "alpha3": "FIN"
+  },
+
+  "latlng": [64, 26],
+  "nativeName": "Suomi",
+  "population": 5470437,
+"continent": "Europe",
+  "government": "Republic",
+      "independence": 1917,
+      "languages": [
+          "Estonian",
+          "Finnish",
+          "Russian",
+          "Saame",
+          "Swedish"
+      ],
+          "expectancy": 77.4,
+              "dish": "Karjalanpaisti,Mämmi, Sautéed reindeer",
+                  "symbol": null,
+                    "density": 18.15685565,
+                        "location": "Nordic Countries",
+                            "religion": "Christianity",
+                                  "temperature": 1.7,
+                                  "states": [
+                                      {
+                                          "id": 1509,
+                                          "name": "Åland Islands",
+                                          "state_code": "01",
+                                          "cities": []
+                                      },
+                                      {
+                                          "id": 1511,
+                                          "name": "Central Finland",
+                                          "state_code": "08",
+                                          "cities": [
+                                              {
+                                                  "id": 39132,
+                                                  "name": "Äänekoski",
+                                                  "latitude": "62.60000000",
+                                                  "longitude": "25.73333000"
+                                              },
+                                              {
+                                                  "id": 38760,
+                                                  "name": "Hankasalmi",
+                                                  "latitude": "62.38333000",
+                                                  "longitude": "26.43333000"
+                                              },
+                                              {
+                                                  "id": 38809,
+                                                  "name": "Jämsä",
+                                                  "latitude": "61.86420000",
+                                                  "longitude": "25.19002000"
+                                              },
+                                              {
+                                                  "id": 38810,
+                                                  "name": "Jämsänkoski",
+                                                  "latitude": "61.91900000",
+                                                  "longitude": "25.17011000"
+                                              },
+                                              {
+                                                  "id": 38801,
+                                                  "name": "Joutsa",
+                                                  "latitude": "61.73333000",
+                                                  "longitude": "26.11667000"
+                                              },
+                                              {
+                                                  "id": 38807,
+                                                  "name": "Jyväskylä",
+                                                  "latitude": "62.24147000",
+                                                  "longitude": "25.72088000"
+                                              },
+                                              {
+                                                  "id": 38823,
+                                                  "name": "Kannonkoski",
+                                                  "latitude": "62.96667000",
+                                                  "longitude": "25.25000000"
+                                              },
+                                              {
+                                                  "id": 38831,
+                                                  "name": "Karstula",
+                                                  "latitude": "62.86667000",
+                                                  "longitude": "24.78333000"
+                                              },
+                                              {
+                                                  "id": 38849,
+                                                  "name": "Keuruu",
+                                                  "latitude": "62.26667000",
+                                                  "longitude": "24.70000000"
+                                              },
+                                              {
+                                                  "id": 38855,
+                                                  "name": "Kinnula",
+                                                  "latitude": "63.38333000",
+                                                  "longitude": "24.95000000"
+                                              },
+                                              {
+                                                  "id": 38862,
+                                                  "name": "Kivijärvi",
+                                                  "latitude": "63.11984000",
+                                                  "longitude": "25.07835000"
+                                              },
+                                              {
+                                                  "id": 38866,
+                                                  "name": "Konnevesi",
+                                                  "latitude": "62.61667000",
+                                                  "longitude": "26.31667000"
+                                              },
+                                              {
+                                                  "id": 38868,
+                                                  "name": "Korpilahti",
+                                                  "latitude": "62.01667000",
+                                                  "longitude": "25.55000000"
+                                              },
+                                              {
+                                                  "id": 38878,
+                                                  "name": "Kuhmoinen",
+                                                  "latitude": "61.56667000",
+                                                  "longitude": "25.18333000"
+                                              },
+                                              {
+                                                  "id": 38887,
+                                                  "name": "Kyyjärvi",
+                                                  "latitude": "63.03333000",
+                                                  "longitude": "24.56667000"
+                                              },
+                                              {
+                                                  "id": 38903,
+                                                  "name": "Laukaa",
+                                                  "latitude": "62.41407000",
+                                                  "longitude": "25.95194000"
+                                              },
+                                              {
+                                                  "id": 38907,
+                                                  "name": "Leivonmäki",
+                                                  "latitude": "61.91198000",
+                                                  "longitude": "26.12796000"
+                                              },
+                                              {
+                                                  "id": 38921,
+                                                  "name": "Luhanka",
+                                                  "latitude": "61.79682000",
+                                                  "longitude": "25.70457000"
+                                              },
+                                              {
+                                                  "id": 38939,
+                                                  "name": "Multia",
+                                                  "latitude": "62.41667000",
+                                                  "longitude": "24.78333000"
+                                              },
+                                              {
+                                                  "id": 38942,
+                                                  "name": "Muurame",
+                                                  "latitude": "62.13333000",
+                                                  "longitude": "25.66667000"
+                                              },
+                                              {
+                                                  "id": 38982,
+                                                  "name": "Petäjävesi",
+                                                  "latitude": "62.25000000",
+                                                  "longitude": "25.20000000"
+                                              },
+                                              {
+                                                  "id": 38985,
+                                                  "name": "Pihtipudas",
+                                                  "latitude": "63.38333000",
+                                                  "longitude": "25.56667000"
+                                              },
+                                              {
+                                                  "id": 39008,
+                                                  "name": "Pylkönmäki",
+                                                  "latitude": "62.66667000",
+                                                  "longitude": "24.80000000"
+                                              },
+                                              {
+                                                  "id": 39035,
+                                                  "name": "Saarijärvi",
+                                                  "latitude": "62.70486000",
+                                                  "longitude": "25.25396000"
+                                              },
+                                              {
+                                                  "id": 39066,
+                                                  "name": "Säynätsalo",
+                                                  "latitude": "62.14025000",
+                                                  "longitude": "25.76948000"
+                                              },
+                                              {
+                                                  "id": 39058,
+                                                  "name": "Sumiainen",
+                                                  "latitude": "62.65736000",
+                                                  "longitude": "26.04642000"
+                                              },
+                                              {
+                                                  "id": 39059,
+                                                  "name": "Suolahti",
+                                                  "latitude": "62.56421000",
+                                                  "longitude": "25.85363000"
+                                              },
+                                              {
+                                                  "id": 39079,
+                                                  "name": "Toivakka",
+                                                  "latitude": "62.10000000",
+                                                  "longitude": "26.08333000"
+                                              },
+                                              {
+                                                  "id": 39092,
+                                                  "name": "Uurainen",
+                                                  "latitude": "62.50000000",
+                                                  "longitude": "25.45000000"
+                                              },
+                                              {
+                                                  "id": 39110,
+                                                  "name": "Viitasaari",
+                                                  "latitude": "63.06667000",
+                                                  "longitude": "25.86667000"
+                                              }
+                                          ]
+                                      },
+                                      {
+                                          "id": 1494,
+                                          "name": "Central Ostrobothnia",
+                                          "state_code": "07",
+                                          "cities": [
+                                              {
+                                                  "id": 38758,
+                                                  "name": "Halsua",
+                                                  "latitude": "63.46667000",
+                                                  "longitude": "24.16667000"
+                                              },
+                                              {
+                                                  "id": 38888,
+                                                  "name": "Kälviä",
+                                                  "latitude": "63.86067000",
+                                                  "longitude": "23.45289000"
+                                              },
+                                              {
+                                                  "id": 38824,
+                                                  "name": "Kannus",
+                                                  "latitude": "63.90000000",
+                                                  "longitude": "23.90000000"
+                                              },
+                                              {
+                                                  "id": 38838,
+                                                  "name": "Kaustinen",
+                                                  "latitude": "63.54878000",
+                                                  "longitude": "23.68845000"
+                                              },
+                                              {
+                                                  "id": 38864,
+                                                  "name": "Kokkola",
+                                                  "latitude": "63.85414000",
+                                                  "longitude": "23.58562000"
+                                              },
+                                              {
+                                                  "id": 38911,
+                                                  "name": "Lestijärvi",
+                                                  "latitude": "63.53333000",
+                                                  "longitude": "24.65000000"
+                                              },
+                                              {
+                                                  "id": 38918,
+                                                  "name": "Lohtaja",
+                                                  "latitude": "64.02472000",
+                                                  "longitude": "23.50482000"
+                                              },
+                                              {
+                                                  "id": 38977,
+                                                  "name": "Perho",
+                                                  "latitude": "63.21667000",
+                                                  "longitude": "24.41667000"
+                                              },
+                                              {
+                                                  "id": 39078,
+                                                  "name": "Toholampi",
+                                                  "latitude": "63.76667000",
+                                                  "longitude": "24.25000000"
+                                              },
+                                              {
+                                                  "id": 39088,
+                                                  "name": "Ullava",
+                                                  "latitude": "63.60000000",
+                                                  "longitude": "24.08333000"
+                                              },
+                                              {
+                                                  "id": 39106,
+                                                  "name": "Veteli",
+                                                  "latitude": "63.47839000",
+                                                  "longitude": "23.78285000"
+                                              }
+                                          ]
+                                      },
+                                      {
+                                          "id": 1492,
+                                          "name": "Eastern Finland Province",
+                                          "state_code": "IS",
+                                          "cities": []
+                                      },
+                                      {
+                                          "id": 1507,
+                                          "name": "Finland Proper",
+                                          "state_code": "19",
+                                          "cities": [
+                                              {
+                                                  "id": 38732,
+                                                  "name": "Alastaro",
+                                                  "latitude": "60.95000000",
+                                                  "longitude": "22.85000000"
+                                              },
+                                              {
+                                                  "id": 38738,
+                                                  "name": "Askainen",
+                                                  "latitude": "60.56667000",
+                                                  "longitude": "21.86667000"
+                                              },
+                                              {
+                                                  "id": 38740,
+                                                  "name": "Aura",
+                                                  "latitude": "60.64710000",
+                                                  "longitude": "22.58755000"
+                                              },
+                                              {
+                                                  "id": 38742,
+                                                  "name": "Dragsfjärd",
+                                                  "latitude": "60.06667000",
+                                                  "longitude": "22.48333000"
+                                              },
+                                              {
+                                                  "id": 38757,
+                                                  "name": "Halikko",
+                                                  "latitude": "60.40000000",
+                                                  "longitude": "23.08333000"
+                                              },
+                                              {
+                                                  "id": 38775,
+                                                  "name": "Houtskär",
+                                                  "latitude": "60.22284000",
+                                                  "longitude": "21.37218000"
+                                              },
+                                              {
+                                                  "id": 38790,
+                                                  "name": "Iniö",
+                                                  "latitude": "60.40000000",
+                                                  "longitude": "21.40000000"
+                                              },
+                                              {
+                                                  "id": 38814,
+                                                  "name": "Kaarina",
+                                                  "latitude": "60.40724000",
+                                                  "longitude": "22.36904000"
+                                              },
+                                              {
+                                                  "id": 38827,
+                                                  "name": "Karinainen",
+                                                  "latitude": "60.66667000",
+                                                  "longitude": "22.76667000"
+                                              },
+                                              {
+                                                  "id": 38851,
+                                                  "name": "Kiikala",
+                                                  "latitude": "60.46667000",
+                                                  "longitude": "23.56667000"
+                                              },
+                                              {
+                                                  "id": 38854,
+                                                  "name": "Kimito",
+                                                  "latitude": "60.16047000",
+                                                  "longitude": "22.72900000"
+                                              },
+                                              {
+                                                  "id": 38857,
+                                                  "name": "Kisko",
+                                                  "latitude": "60.23333000",
+                                                  "longitude": "23.48333000"
+                                              },
+                                              {
+                                                  "id": 38884,
+                                                  "name": "Kustavi",
+                                                  "latitude": "60.54529000",
+                                                  "longitude": "21.35880000"
+                                              },
+                                              {
+                                                  "id": 38886,
+                                                  "name": "Kuusjoki",
+                                                  "latitude": "60.51667000",
+                                                  "longitude": "23.20000000"
+                                              },
+                                              {
+                                                  "id": 38894,
+                                                  "name": "Laitila",
+                                                  "latitude": "60.87575000",
+                                                  "longitude": "21.69765000"
+                                              },
+                                              {
+                                                  "id": 38909,
+                                                  "name": "Lemu",
+                                                  "latitude": "60.56667000",
+                                                  "longitude": "21.96667000"
+                                              },
+                                              {
+                                                  "id": 38913,
+                                                  "name": "Lieto",
+                                                  "latitude": "60.51032000",
+                                                  "longitude": "22.46176000"
+                                              },
+                                              {
+                                                  "id": 38928,
+                                                  "name": "Marttila",
+                                                  "latitude": "60.58333000",
+                                                  "longitude": "22.90000000"
+                                              },
+                                              {
+                                                  "id": 38929,
+                                                  "name": "Masku",
+                                                  "latitude": "60.57082000",
+                                                  "longitude": "22.09883000"
+                                              },
+                                              {
+                                                  "id": 38930,
+                                                  "name": "Mellilä",
+                                                  "latitude": "60.76667000",
+                                                  "longitude": "22.95000000"
+                                              },
+                                              {
+                                                  "id": 38934,
+                                                  "name": "Merimasku",
+                                                  "latitude": "60.48333000",
+                                                  "longitude": "21.86667000"
+                                              },
+                                              {
+                                                  "id": 38936,
+                                                  "name": "Mietoinen",
+                                                  "latitude": "60.63333000",
+                                                  "longitude": "21.93333000"
+                                              },
+                                              {
+                                                  "id": 38943,
+                                                  "name": "Muurla",
+                                                  "latitude": "60.35000000",
+                                                  "longitude": "23.28333000"
+                                              },
+                                              {
+                                                  "id": 38944,
+                                                  "name": "Mynämäki",
+                                                  "latitude": "60.67915000",
+                                                  "longitude": "21.99274000"
+                                              },
+                                              {
+                                                  "id": 38948,
+                                                  "name": "Naantali",
+                                                  "latitude": "60.46744000",
+                                                  "longitude": "22.02428000"
+                                              },
+                                              {
+                                                  "id": 38949,
+                                                  "name": "Nagu",
+                                                  "latitude": "60.19375000",
+                                                  "longitude": "21.90972000"
+                                              },
+                                              {
+                                                  "id": 38955,
+                                                  "name": "Nousiainen",
+                                                  "latitude": "60.60416000",
+                                                  "longitude": "22.07926000"
+                                              },
+                                              {
+                                                  "id": 38963,
+                                                  "name": "Oripää",
+                                                  "latitude": "60.85000000",
+                                                  "longitude": "22.68333000"
+                                              },
+                                              {
+                                                  "id": 38970,
+                                                  "name": "Paimio",
+                                                  "latitude": "60.45671000",
+                                                  "longitude": "22.68694000"
+                                              },
+                                              {
+                                                  "id": 38972,
+                                                  "name": "Pargas",
+                                                  "latitude": "60.30672000",
+                                                  "longitude": "22.30097000"
+                                              },
+                                              {
+                                                  "id": 38978,
+                                                  "name": "Perniö",
+                                                  "latitude": "60.20000000",
+                                                  "longitude": "23.13333000"
+                                              },
+                                              {
+                                                  "id": 38980,
+                                                  "name": "Pertteli",
+                                                  "latitude": "60.43333000",
+                                                  "longitude": "23.26667000"
+                                              },
+                                              {
+                                                  "id": 38986,
+                                                  "name": "Piikkiö",
+                                                  "latitude": "60.42481000",
+                                                  "longitude": "22.51601000"
+                                              },
+                                              {
+                                                  "id": 39009,
+                                                  "name": "Pöytyä",
+                                                  "latitude": "60.76667000",
+                                                  "longitude": "22.66667000"
+                                              },
+                                              {
+                                                  "id": 39006,
+                                                  "name": "Pyhäranta",
+                                                  "latitude": "60.95000000",
+                                                  "longitude": "21.45000000"
+                                              },
+                                              {
+                                                  "id": 39012,
+                                                  "name": "Raisio",
+                                                  "latitude": "60.48592000",
+                                                  "longitude": "22.16895000"
+                                              },
+                                              {
+                                                  "id": 39030,
+                                                  "name": "Rusko",
+                                                  "latitude": "60.53333000",
+                                                  "longitude": "22.21667000"
+                                              },
+                                              {
+                                                  "id": 39032,
+                                                  "name": "Rymättylä",
+                                                  "latitude": "60.37658000",
+                                                  "longitude": "21.94184000"
+                                              },
+                                              {
+                                                  "id": 39037,
+                                                  "name": "Salo",
+                                                  "latitude": "60.38333000",
+                                                  "longitude": "23.13333000"
+                                              },
+                                              {
+                                                  "id": 39065,
+                                                  "name": "Särkisalo",
+                                                  "latitude": "60.11389000",
+                                                  "longitude": "22.95000000"
+                                              },
+                                              {
+                                                  "id": 39039,
+                                                  "name": "Sauvo",
+                                                  "latitude": "60.34306000",
+                                                  "longitude": "22.69642000"
+                                              },
+                                              {
+                                                  "id": 39054,
+                                                  "name": "Somero",
+                                                  "latitude": "60.61667000",
+                                                  "longitude": "23.53333000"
+                                              },
+                                              {
+                                                  "id": 39060,
+                                                  "name": "Suomusjärvi",
+                                                  "latitude": "60.35000000",
+                                                  "longitude": "23.65000000"
+                                              },
+                                              {
+                                                  "id": 39069,
+                                                  "name": "Taivassalo",
+                                                  "latitude": "60.56085000",
+                                                  "longitude": "21.61639000"
+                                              },
+                                              {
+                                                  "id": 39071,
+                                                  "name": "Tarvasjoki",
+                                                  "latitude": "60.58333000",
+                                                  "longitude": "22.73333000"
+                                              },
+                                              {
+                                                  "id": 39081,
+                                                  "name": "Turku",
+                                                  "latitude": "60.45148000",
+                                                  "longitude": "22.26869000"
+                                              },
+                                              {
+                                                  "id": 39093,
+                                                  "name": "Uusikaupunki",
+                                                  "latitude": "60.80043000",
+                                                  "longitude": "21.40841000"
+                                              },
+                                              {
+                                                  "id": 39096,
+                                                  "name": "Vahto",
+                                                  "latitude": "60.60000000",
+                                                  "longitude": "22.30000000"
+                                              },
+                                              {
+                                                  "id": 39119,
+                                                  "name": "Väståboland",
+                                                  "latitude": "60.29972000",
+                                                  "longitude": "22.30040000"
+                                              },
+                                              {
+                                                  "id": 39118,
+                                                  "name": "Västanfjärd",
+                                                  "latitude": "60.05000000",
+                                                  "longitude": "22.68333000"
+                                              },
+                                              {
+                                                  "id": 39102,
+                                                  "name": "Vehmaa",
+                                                  "latitude": "60.68333000",
+                                                  "longitude": "21.66667000"
+                                              },
+                                              {
+                                                  "id": 39104,
+                                                  "name": "Velkua",
+                                                  "latitude": "60.46667000",
+                                                  "longitude": "21.66667000"
+                                              },
+                                              {
+                                                  "id": 39128,
+                                                  "name": "Yläne",
+                                                  "latitude": "60.88333000",
+                                                  "longitude": "22.41667000"
+                                              }
+                                          ]
+                                      },
+                                      {
+                                          "id": 1496,
+                                          "name": "Kainuu",
+                                          "state_code": "05",
+                                          "cities": [
+                                              {
+                                                  "id": 38778,
+                                                  "name": "Hyrynsalmi",
+                                                  "latitude": "64.66667000",
+                                                  "longitude": "28.53333000"
+                                              },
+                                              {
+                                                  "id": 38816,
+                                                  "name": "Kajaani",
+                                                  "latitude": "64.22728000",
+                                                  "longitude": "27.72846000"
+                                              },
+                                              {
+                                                  "id": 38877,
+                                                  "name": "Kuhmo",
+                                                  "latitude": "64.13333000",
+                                                  "longitude": "29.51667000"
+                                              },
+                                              {
+                                                  "id": 38971,
+                                                  "name": "Paltamo",
+                                                  "latitude": "64.41667000",
+                                                  "longitude": "27.83333000"
+                                              },
+                                              {
+                                                  "id": 38999,
+                                                  "name": "Puolanka",
+                                                  "latitude": "64.86667000",
+                                                  "longitude": "27.66667000"
+                                              },
+                                              {
+                                                  "id": 39025,
+                                                  "name": "Ristijärvi",
+                                                  "latitude": "64.50000000",
+                                                  "longitude": "28.21667000"
+                                              },
+                                              {
+                                                  "id": 39056,
+                                                  "name": "Sotkamo",
+                                                  "latitude": "64.13333000",
+                                                  "longitude": "28.41667000"
+                                              },
+                                              {
+                                                  "id": 39061,
+                                                  "name": "Suomussalmi",
+                                                  "latitude": "64.88685000",
+                                                  "longitude": "28.90778000"
+                                              },
+                                              {
+                                                  "id": 39094,
+                                                  "name": "Vaala",
+                                                  "latitude": "64.56667000",
+                                                  "longitude": "26.83333000"
+                                              },
+                                              {
+                                                  "id": 39114,
+                                                  "name": "Vuokatti",
+                                                  "latitude": "64.14466000",
+                                                  "longitude": "28.28196000"
+                                              },
+                                              {
+                                                  "id": 39115,
+                                                  "name": "Vuolijoki",
+                                                  "latitude": "64.18538000",
+                                                  "longitude": "26.99547000"
+                                              }
+                                          ]
+                                      },
+                                      {
+                                          "id": 1512,
+                                          "name": "Kymenlaakso",
+                                          "state_code": "09",
+                                          "cities": [
+                                              {
+                                                  "id": 38735,
+                                                  "name": "Anjala",
+                                                  "latitude": "60.68333000",
+                                                  "longitude": "26.83333000"
+                                              },
+                                              {
+                                                  "id": 38744,
+                                                  "name": "Elimäki",
+                                                  "latitude": "60.71667000",
+                                                  "longitude": "26.46667000"
+                                              },
+                                              {
+                                                  "id": 38759,
+                                                  "name": "Hamina",
+                                                  "latitude": "60.56974000",
+                                                  "longitude": "27.19794000"
+                                              },
+                                              {
+                                                  "id": 38784,
+                                                  "name": "Iitti",
+                                                  "latitude": "60.89488000",
+                                                  "longitude": "26.33869000"
+                                              },
+                                              {
+                                                  "id": 38794,
+                                                  "name": "Jaala",
+                                                  "latitude": "61.05251000",
+                                                  "longitude": "26.48117000"
+                                              },
+                                              {
+                                                  "id": 38825,
+                                                  "name": "Karhula",
+                                                  "latitude": "60.52156000",
+                                                  "longitude": "26.93125000"
+                                              },
+                                              {
+                                                  "id": 38872,
+                                                  "name": "Kotka",
+                                                  "latitude": "60.46640000",
+                                                  "longitude": "26.94582000"
+                                              },
+                                              {
+                                                  "id": 38874,
+                                                  "name": "Kouvola",
+                                                  "latitude": "60.86667000",
+                                                  "longitude": "26.70000000"
+                                              },
+                                              {
+                                                  "id": 38935,
+                                                  "name": "Miehikkälä",
+                                                  "latitude": "60.66667000",
+                                                  "longitude": "27.70000000"
+                                              },
+                                              {
+                                                  "id": 39001,
+                                                  "name": "Pyhtää",
+                                                  "latitude": "60.49349000",
+                                                  "longitude": "26.54346000"
+                                              },
+                                              {
+                                                  "id": 39112,
+                                                  "name": "Virojoki",
+                                                  "latitude": "60.57940000",
+                                                  "longitude": "27.70354000"
+                                              }
+                                          ]
+                                      },
+                                      {
+                                          "id": 1500,
+                                          "name": "Lapland",
+                                          "state_code": "LL",
+                                          "cities": [
+                                              {
+                                                  "id": 38747,
+                                                  "name": "Enontekiö",
+                                                  "latitude": "68.38573000",
+                                                  "longitude": "23.63215000"
+                                              },
+                                              {
+                                                  "id": 38788,
+                                                  "name": "Inari",
+                                                  "latitude": "68.90596000",
+                                                  "longitude": "27.02881000"
+                                              },
+                                              {
+                                                  "id": 38793,
+                                                  "name": "Ivalo",
+                                                  "latitude": "68.65986000",
+                                                  "longitude": "27.53891000"
+                                              },
+                                              {
+                                                  "id": 38841,
+                                                  "name": "Kemi",
+                                                  "latitude": "65.73641000",
+                                                  "longitude": "24.56371000"
+                                              },
+                                              {
+                                                  "id": 38842,
+                                                  "name": "Kemijärvi",
+                                                  "latitude": "66.71309000",
+                                                  "longitude": "27.43056000"
+                                              },
+                                              {
+                                                  "id": 38843,
+                                                  "name": "Keminmaa",
+                                                  "latitude": "65.80158000",
+                                                  "longitude": "24.54483000"
+                                              },
+                                              {
+                                                  "id": 38859,
+                                                  "name": "Kittilä",
+                                                  "latitude": "67.66474000",
+                                                  "longitude": "24.89356000"
+                                              },
+                                              {
+                                                  "id": 38865,
+                                                  "name": "Kolari",
+                                                  "latitude": "67.33047000",
+                                                  "longitude": "23.77785000"
+                                              },
+                                              {
+                                                  "id": 38941,
+                                                  "name": "Muonio",
+                                                  "latitude": "67.95000000",
+                                                  "longitude": "23.70000000"
+                                              },
+                                              {
+                                                  "id": 38975,
+                                                  "name": "Pelkosenniemi",
+                                                  "latitude": "67.11083000",
+                                                  "longitude": "27.51056000"
+                                              },
+                                              {
+                                                  "id": 38976,
+                                                  "name": "Pello",
+                                                  "latitude": "66.77364000",
+                                                  "longitude": "23.96255000"
+                                              },
+                                              {
+                                                  "id": 38994,
+                                                  "name": "Posio",
+                                                  "latitude": "66.10856000",
+                                                  "longitude": "28.17186000"
+                                              },
+                                              {
+                                                  "id": 39004,
+                                                  "name": "Pyhäjärvi",
+                                                  "latitude": "67.07010000",
+                                                  "longitude": "27.21763000"
+                                              },
+                                              {
+                                                  "id": 39015,
+                                                  "name": "Ranua",
+                                                  "latitude": "65.91667000",
+                                                  "longitude": "26.53333000"
+                                              },
+                                              {
+                                                  "id": 39027,
+                                                  "name": "Rovaniemi",
+                                                  "latitude": "66.50000000",
+                                                  "longitude": "25.71667000"
+                                              },
+                                              {
+                                                  "id": 39036,
+                                                  "name": "Salla",
+                                                  "latitude": "66.83333000",
+                                                  "longitude": "28.66667000"
+                                              },
+                                              {
+                                                  "id": 39043,
+                                                  "name": "Savukoski",
+                                                  "latitude": "67.29250000",
+                                                  "longitude": "28.15806000"
+                                              },
+                                              {
+                                                  "id": 39050,
+                                                  "name": "Simo",
+                                                  "latitude": "65.66667000",
+                                                  "longitude": "25.05000000"
+                                              },
+                                              {
+                                                  "id": 39052,
+                                                  "name": "Sodankylä",
+                                                  "latitude": "67.41667000",
+                                                  "longitude": "26.60000000"
+                                              },
+                                              {
+                                                  "id": 39075,
+                                                  "name": "Tervola",
+                                                  "latitude": "66.08333000",
+                                                  "longitude": "24.80000000"
+                                              },
+                                              {
+                                                  "id": 39080,
+                                                  "name": "Tornio",
+                                                  "latitude": "65.84811000",
+                                                  "longitude": "24.14662000"
+                                              },
+                                              {
+                                                  "id": 39091,
+                                                  "name": "Utsjoki",
+                                                  "latitude": "69.90864000",
+                                                  "longitude": "27.02843000"
+                                              },
+                                              {
+                                                  "id": 39125,
+                                                  "name": "Ylitornio",
+                                                  "latitude": "66.30893000",
+                                                  "longitude": "23.67734000"
+                                              }
+                                          ]
+                                      },
+                                      {
+                                          "id": 1504,
+                                          "name": "North Karelia",
+                                          "state_code": "13",
+                                          "cities": [
+                                              {
+                                                  "id": 38745,
+                                                  "name": "Eno",
+                                                  "latitude": "62.80511000",
+                                                  "longitude": "30.15422000"
+                                              },
+                                              {
+                                                  "id": 38786,
+                                                  "name": "Ilomantsi",
+                                                  "latitude": "62.67162000",
+                                                  "longitude": "30.93276000"
+                                              },
+                                              {
+                                                  "id": 38798,
+                                                  "name": "Joensuu",
+                                                  "latitude": "62.60118000",
+                                                  "longitude": "29.76316000"
+                                              },
+                                              {
+                                                  "id": 38805,
+                                                  "name": "Juuka",
+                                                  "latitude": "63.23333000",
+                                                  "longitude": "29.25000000"
+                                              },
+                                              {
+                                                  "id": 38848,
+                                                  "name": "Kesälahti",
+                                                  "latitude": "61.89752000",
+                                                  "longitude": "29.83494000"
+                                              },
+                                              {
+                                                  "id": 38850,
+                                                  "name": "Kiihtelysvaara",
+                                                  "latitude": "62.49525000",
+                                                  "longitude": "30.25081000"
+                                              },
+                                              {
+                                                  "id": 38858,
+                                                  "name": "Kitee",
+                                                  "latitude": "62.10000000",
+                                                  "longitude": "30.15000000"
+                                              },
+                                              {
+                                                  "id": 38867,
+                                                  "name": "Kontiolahti",
+                                                  "latitude": "62.76023000",
+                                                  "longitude": "29.84711000"
+                                              },
+                                              {
+                                                  "id": 38912,
+                                                  "name": "Lieksa",
+                                                  "latitude": "63.31667000",
+                                                  "longitude": "30.01667000"
+                                              },
+                                              {
+                                                  "id": 38916,
+                                                  "name": "Liperi",
+                                                  "latitude": "62.53333000",
+                                                  "longitude": "29.36667000"
+                                              },
+                                              {
+                                                  "id": 38957,
+                                                  "name": "Nurmes",
+                                                  "latitude": "63.54205000",
+                                                  "longitude": "29.13965000"
+                                              },
+                                              {
+                                                  "id": 38968,
+                                                  "name": "Outokumpu",
+                                                  "latitude": "62.72685000",
+                                                  "longitude": "29.01592000"
+                                              },
+                                              {
+                                                  "id": 38989,
+                                                  "name": "Polvijärvi",
+                                                  "latitude": "62.85000000",
+                                                  "longitude": "29.36667000"
+                                              },
+                                              {
+                                                  "id": 39007,
+                                                  "name": "Pyhäselkä",
+                                                  "latitude": "62.43333000",
+                                                  "longitude": "29.96667000"
+                                              },
+                                              {
+                                                  "id": 39033,
+                                                  "name": "Rääkkylä",
+                                                  "latitude": "62.31667000",
+                                                  "longitude": "29.61667000"
+                                              },
+                                              {
+                                                  "id": 39077,
+                                                  "name": "Tohmajärvi",
+                                                  "latitude": "62.18333000",
+                                                  "longitude": "30.38333000"
+                                              },
+                                              {
+                                                  "id": 39083,
+                                                  "name": "Tuupovaara",
+                                                  "latitude": "62.48372000",
+                                                  "longitude": "30.62731000"
+                                              },
+                                              {
+                                                  "id": 39097,
+                                                  "name": "Valtimo",
+                                                  "latitude": "63.66667000",
+                                                  "longitude": "28.80000000"
+                                              }
+                                          ]
+                                      },
+                                      {
+                                          "id": 1505,
+                                          "name": "Northern Ostrobothnia",
+                                          "state_code": "14",
+                                          "cities": [
+                                              {
+                                                  "id": 38733,
+                                                  "name": "Alavieska",
+                                                  "latitude": "64.16667000",
+                                                  "longitude": "24.30000000"
+                                              },
+                                              {
+                                                  "id": 38754,
+                                                  "name": "Haapajärvi",
+                                                  "latitude": "63.75000000",
+                                                  "longitude": "25.33333000"
+                                              },
+                                              {
+                                                  "id": 38755,
+                                                  "name": "Haapavesi",
+                                                  "latitude": "64.13333000",
+                                                  "longitude": "25.36667000"
+                                              },
+                                              {
+                                                  "id": 38756,
+                                                  "name": "Hailuoto",
+                                                  "latitude": "65.00900000",
+                                                  "longitude": "24.71385000"
+                                              },
+                                              {
+                                                  "id": 38765,
+                                                  "name": "Haukipudas",
+                                                  "latitude": "65.17654000",
+                                                  "longitude": "25.35233000"
+                                              },
+                                              {
+                                                  "id": 38772,
+                                                  "name": "Himanka",
+                                                  "latitude": "64.06218000",
+                                                  "longitude": "23.65447000"
+                                              },
+                                              {
+                                                  "id": 38782,
+                                                  "name": "Ii",
+                                                  "latitude": "65.31735000",
+                                                  "longitude": "25.37310000"
+                                              },
+                                              {
+                                                  "id": 38817,
+                                                  "name": "Kalajoki",
+                                                  "latitude": "64.25000000",
+                                                  "longitude": "23.95000000"
+                                              },
+                                              {
+                                                  "id": 38890,
+                                                  "name": "Kärsämäki",
+                                                  "latitude": "63.96667000",
+                                                  "longitude": "25.76667000"
+                                              },
+                                              {
+                                                  "id": 38844,
+                                                  "name": "Kempele",
+                                                  "latitude": "64.91314000",
+                                                  "longitude": "25.50339000"
+                                              },
+                                              {
+                                                  "id": 38847,
+                                                  "name": "Kestilä",
+                                                  "latitude": "64.35002000",
+                                                  "longitude": "26.27921000"
+                                              },
+                                              {
+                                                  "id": 38852,
+                                                  "name": "Kiiminki",
+                                                  "latitude": "65.13139000",
+                                                  "longitude": "25.79744000"
+                                              },
+                                              {
+                                                  "id": 38879,
+                                                  "name": "Kuivaniemi",
+                                                  "latitude": "65.57847000",
+                                                  "longitude": "25.18814000"
+                                              },
+                                              {
+                                                  "id": 38885,
+                                                  "name": "Kuusamo",
+                                                  "latitude": "65.96667000",
+                                                  "longitude": "29.18333000"
+                                              },
+                                              {
+                                                  "id": 38915,
+                                                  "name": "Liminka",
+                                                  "latitude": "64.80985000",
+                                                  "longitude": "25.41545000"
+                                              },
+                                              {
+                                                  "id": 38922,
+                                                  "name": "Lumijoki",
+                                                  "latitude": "64.83744000",
+                                                  "longitude": "25.18607000"
+                                              },
+                                              {
+                                                  "id": 38932,
+                                                  "name": "Merijärvi",
+                                                  "latitude": "64.30000000",
+                                                  "longitude": "24.45000000"
+                                              },
+                                              {
+                                                  "id": 38938,
+                                                  "name": "Muhos",
+                                                  "latitude": "64.80798000",
+                                                  "longitude": "25.99314000"
+                                              },
+                                              {
+                                                  "id": 38953,
+                                                  "name": "Nivala",
+                                                  "latitude": "63.91667000",
+                                                  "longitude": "24.96667000"
+                                              },
+                                              {
+                                                  "id": 38965,
+                                                  "name": "Oulainen",
+                                                  "latitude": "64.26667000",
+                                                  "longitude": "24.80000000"
+                                              },
+                                              {
+                                                  "id": 38966,
+                                                  "name": "Oulu",
+                                                  "latitude": "65.01236000",
+                                                  "longitude": "25.46816000"
+                                              },
+                                              {
+                                                  "id": 38967,
+                                                  "name": "Oulunsalo",
+                                                  "latitude": "64.93456000",
+                                                  "longitude": "25.41121000"
+                                              },
+                                              {
+                                                  "id": 38987,
+                                                  "name": "Piippola",
+                                                  "latitude": "64.16667000",
+                                                  "longitude": "25.96667000"
+                                              },
+                                              {
+                                                  "id": 38995,
+                                                  "name": "Pudasjärvi",
+                                                  "latitude": "65.38333000",
+                                                  "longitude": "26.91667000"
+                                              },
+                                              {
+                                                  "id": 38997,
+                                                  "name": "Pulkkila",
+                                                  "latitude": "64.26667000",
+                                                  "longitude": "25.86667000"
+                                              },
+                                              {
+                                                  "id": 39003,
+                                                  "name": "Pyhäjärvi",
+                                                  "latitude": "63.66667000",
+                                                  "longitude": "25.90000000"
+                                              },
+                                              {
+                                                  "id": 39002,
+                                                  "name": "Pyhäjoki",
+                                                  "latitude": "64.46667000",
+                                                  "longitude": "24.23333000"
+                                              },
+                                              {
+                                                  "id": 39005,
+                                                  "name": "Pyhäntä",
+                                                  "latitude": "64.10000000",
+                                                  "longitude": "26.31667000"
+                                              },
+                                              {
+                                                  "id": 39010,
+                                                  "name": "Raahe",
+                                                  "latitude": "64.68333000",
+                                                  "longitude": "24.48333000"
+                                              },
+                                              {
+                                                  "id": 39014,
+                                                  "name": "Rantsila",
+                                                  "latitude": "64.50613000",
+                                                  "longitude": "25.66449000"
+                                              },
+                                              {
+                                                  "id": 39020,
+                                                  "name": "Reisjärvi",
+                                                  "latitude": "63.61667000",
+                                                  "longitude": "24.90000000"
+                                              },
+                                              {
+                                                  "id": 39031,
+                                                  "name": "Ruukki",
+                                                  "latitude": "64.66667000",
+                                                  "longitude": "25.10000000"
+                                              },
+                                              {
+                                                  "id": 39046,
+                                                  "name": "Sievi",
+                                                  "latitude": "63.90000000",
+                                                  "longitude": "24.50000000"
+                                              },
+                                              {
+                                                  "id": 39048,
+                                                  "name": "Siikajoki",
+                                                  "latitude": "64.81455000",
+                                                  "longitude": "24.75924000"
+                                              },
+                                              {
+                                                  "id": 39068,
+                                                  "name": "Taivalkoski",
+                                                  "latitude": "65.56667000",
+                                                  "longitude": "28.25000000"
+                                              },
+                                              {
+                                                  "id": 39086,
+                                                  "name": "Tyrnävä",
+                                                  "latitude": "64.76469000",
+                                                  "longitude": "25.65230000"
+                                              },
+                                              {
+                                                  "id": 39090,
+                                                  "name": "Utajärvi",
+                                                  "latitude": "64.75000000",
+                                                  "longitude": "26.38333000"
+                                              },
+                                              {
+                                                  "id": 39108,
+                                                  "name": "Vihanti",
+                                                  "latitude": "64.48472000",
+                                                  "longitude": "24.99157000"
+                                              },
+                                              {
+                                                  "id": 39121,
+                                                  "name": "Yli-Ii",
+                                                  "latitude": "65.37181000",
+                                                  "longitude": "25.84580000"
+                                              },
+                                              {
+                                                  "id": 39123,
+                                                  "name": "Ylikiiminki",
+                                                  "latitude": "65.08333000",
+                                                  "longitude": "26.25000000"
+                                              },
+                                              {
+                                                  "id": 39126,
+                                                  "name": "Ylivieska",
+                                                  "latitude": "64.08333000",
+                                                  "longitude": "24.55000000"
+                                              }
+                                          ]
+                                      },
+                                      {
+                                          "id": 1503,
+                                          "name": "Northern Savonia",
+                                          "state_code": "15",
+                                          "cities": []
+                                      },
+                                      {
+                                          "id": 1508,
+                                          "name": "Ostrobothnia",
+                                          "state_code": "12",
+                                          "cities": [
+                                              {
+                                                  "id": 38771,
+                                                  "name": "Hietalahti",
+                                                  "latitude": "63.08480000",
+                                                  "longitude": "21.61716000"
+                                              },
+                                              {
+                                                  "id": 38792,
+                                                  "name": "Isokyrö",
+                                                  "latitude": "63.01172000",
+                                                  "longitude": "22.33332000"
+                                              },
+                                              {
+                                                  "id": 38795,
+                                                  "name": "Jakobstad",
+                                                  "latitude": "63.67486000",
+                                                  "longitude": "22.70256000"
+                                              },
+                                              {
+                                                  "id": 38834,
+                                                  "name": "Kaskinen",
+                                                  "latitude": "62.38444000",
+                                                  "longitude": "21.22331000"
+                                              },
+                                              {
+                                                  "id": 38869,
+                                                  "name": "Korsholm",
+                                                  "latitude": "63.11418000",
+                                                  "longitude": "21.68216000"
+                                              },
+                                              {
+                                                  "id": 38870,
+                                                  "name": "Korsnäs",
+                                                  "latitude": "62.78333000",
+                                                  "longitude": "21.20000000"
+                                              },
+                                              {
+                                                  "id": 38875,
+                                                  "name": "Kristinestad",
+                                                  "latitude": "62.27429000",
+                                                  "longitude": "21.37596000"
+                                              },
+                                              {
+                                                  "id": 38876,
+                                                  "name": "Kronoby",
+                                                  "latitude": "63.72859000",
+                                                  "longitude": "23.03387000"
+                                              },
+                                              {
+                                                  "id": 38893,
+                                                  "name": "Laihia",
+                                                  "latitude": "62.97609000",
+                                                  "longitude": "22.01143000"
+                                              },
+                                              {
+                                                  "id": 38902,
+                                                  "name": "Larsmo",
+                                                  "latitude": "63.75388000",
+                                                  "longitude": "22.74728000"
+                                              },
+                                              {
+                                                  "id": 38927,
+                                                  "name": "Malax",
+                                                  "latitude": "62.94225000",
+                                                  "longitude": "21.57311000"
+                                              },
+                                              {
+                                                  "id": 38960,
+                                                  "name": "Nykarleby",
+                                                  "latitude": "63.52277000",
+                                                  "longitude": "22.53073000"
+                                              },
+                                              {
+                                                  "id": 38961,
+                                                  "name": "Oravais",
+                                                  "latitude": "63.30135000",
+                                                  "longitude": "22.37821000"
+                                              },
+                                              {
+                                                  "id": 38974,
+                                                  "name": "Pedersöre",
+                                                  "latitude": "63.65000000",
+                                                  "longitude": "22.68333000"
+                                              },
+                                              {
+                                                  "id": 39022,
+                                                  "name": "Replot",
+                                                  "latitude": "63.22882000",
+                                                  "longitude": "21.41691000"
+                                              },
+                                              {
+                                                  "id": 39026,
+                                                  "name": "Ristinummi",
+                                                  "latitude": "63.09192000",
+                                                  "longitude": "21.72297000"
+                                              },
+                                              {
+                                                  "id": 39072,
+                                                  "name": "Teeriniemi",
+                                                  "latitude": "63.09705000",
+                                                  "longitude": "21.69590000"
+                                              },
+                                              {
+                                                  "id": 39095,
+                                                  "name": "Vaasa",
+                                                  "latitude": "63.09600000",
+                                                  "longitude": "21.61577000"
+                                              },
+                                              {
+                                                  "id": 39117,
+                                                  "name": "Vähäkyrö",
+                                                  "latitude": "63.05635000",
+                                                  "longitude": "22.10584000"
+                                              },
+                                              {
+                                                  "id": 39120,
+                                                  "name": "Vörå",
+                                                  "latitude": "63.13607000",
+                                                  "longitude": "22.25223000"
+                                              }
+                                          ]
+                                      },
+                                      {
+                                          "id": 1499,
+                                          "name": "Oulu Province",
+                                          "state_code": "OL",
+                                          "cities": []
+                                      },
+                                      {
+                                          "id": 1502,
+                                          "name": "Päijänne Tavastia",
+                                          "state_code": "16",
+                                          "cities": [
+                                              {
+                                                  "id": 38736,
+                                                  "name": "Artjärvi",
+                                                  "latitude": "60.74544000",
+                                                  "longitude": "26.07084000"
+                                              },
+                                              {
+                                                  "id": 38737,
+                                                  "name": "Asikkala",
+                                                  "latitude": "61.21667000",
+                                                  "longitude": "25.50000000"
+                                              },
+                                              {
+                                                  "id": 38741,
+                                                  "name": "Auttoinen",
+                                                  "latitude": "61.29901000",
+                                                  "longitude": "25.08887000"
+                                              },
+                                              {
+                                                  "id": 38780,
+                                                  "name": "Hämeenkoski",
+                                                  "latitude": "61.02222000",
+                                                  "longitude": "25.15417000"
+                                              },
+                                              {
+                                                  "id": 38763,
+                                                  "name": "Hartola",
+                                                  "latitude": "61.58333000",
+                                                  "longitude": "26.01667000"
+                                              },
+                                              {
+                                                  "id": 38768,
+                                                  "name": "Heinola",
+                                                  "latitude": "61.20564000",
+                                                  "longitude": "26.03811000"
+                                              },
+                                              {
+                                                  "id": 38774,
+                                                  "name": "Hollola",
+                                                  "latitude": "61.05000000",
+                                                  "longitude": "25.43333000"
+                                              },
+                                              {
+                                                  "id": 38892,
+                                                  "name": "Lahti",
+                                                  "latitude": "60.98267000",
+                                                  "longitude": "25.66151000"
+                                              },
+                                              {
+                                                  "id": 38951,
+                                                  "name": "Nastola",
+                                                  "latitude": "60.95000000",
+                                                  "longitude": "25.93333000"
+                                              },
+                                              {
+                                                  "id": 38962,
+                                                  "name": "Orimattila",
+                                                  "latitude": "60.80487000",
+                                                  "longitude": "25.72964000"
+                                              },
+                                              {
+                                                  "id": 38969,
+                                                  "name": "Padasjoki",
+                                                  "latitude": "61.35000000",
+                                                  "longitude": "25.28333000"
+                                              },
+                                              {
+                                                  "id": 39063,
+                                                  "name": "Sysmä",
+                                                  "latitude": "61.50000000",
+                                                  "longitude": "25.68333000"
+                                              }
+                                          ]
+                                      },
+                                      {
+                                          "id": 1506,
+                                          "name": "Pirkanmaa",
+                                          "state_code": "11",
+                                          "cities": [
+                                              {
+                                                  "id": 38783,
+                                                  "name": "Iisalmi",
+                                                  "latitude": "63.55915000",
+                                                  "longitude": "27.19067000"
+                                              },
+                                              {
+                                                  "id": 38803,
+                                                  "name": "Juankoski",
+                                                  "latitude": "63.06667000",
+                                                  "longitude": "28.35000000"
+                                              },
+                                              {
+                                                  "id": 38815,
+                                                  "name": "Kaavi",
+                                                  "latitude": "62.98333000",
+                                                  "longitude": "28.50000000"
+                                              },
+                                              {
+                                                  "id": 38820,
+                                                  "name": "Kangaslampi",
+                                                  "latitude": "62.29563000",
+                                                  "longitude": "28.25289000"
+                                              },
+                                              {
+                                                  "id": 38832,
+                                                  "name": "Karttula",
+                                                  "latitude": "62.89630000",
+                                                  "longitude": "26.97045000"
+                                              },
+                                              {
+                                                  "id": 38839,
+                                                  "name": "Keitele",
+                                                  "latitude": "63.18333000",
+                                                  "longitude": "26.36667000"
+                                              },
+                                              {
+                                                  "id": 38861,
+                                                  "name": "Kiuruvesi",
+                                                  "latitude": "63.65000000",
+                                                  "longitude": "26.61667000"
+                                              },
+                                              {
+                                                  "id": 38881,
+                                                  "name": "Kuopio",
+                                                  "latitude": "62.89238000",
+                                                  "longitude": "27.67703000"
+                                              },
+                                              {
+                                                  "id": 38897,
+                                                  "name": "Lapinlahti",
+                                                  "latitude": "63.36667000",
+                                                  "longitude": "27.40000000"
+                                              },
+                                              {
+                                                  "id": 38910,
+                                                  "name": "Leppävirta",
+                                                  "latitude": "62.49009000",
+                                                  "longitude": "27.78262000"
+                                              },
+                                              {
+                                                  "id": 38926,
+                                                  "name": "Maaninka",
+                                                  "latitude": "63.15523000",
+                                                  "longitude": "27.29939000"
+                                              },
+                                              {
+                                                  "id": 38952,
+                                                  "name": "Nilsiä",
+                                                  "latitude": "63.20746000",
+                                                  "longitude": "28.08222000"
+                                              },
+                                              {
+                                                  "id": 38984,
+                                                  "name": "Pielavesi",
+                                                  "latitude": "63.23333000",
+                                                  "longitude": "26.75000000"
+                                              },
+                                              {
+                                                  "id": 39017,
+                                                  "name": "Rautalampi",
+                                                  "latitude": "62.63333000",
+                                                  "longitude": "26.83333000"
+                                              },
+                                              {
+                                                  "id": 39018,
+                                                  "name": "Rautavaara",
+                                                  "latitude": "63.48333000",
+                                                  "longitude": "28.30000000"
+                                              },
+                                              {
+                                                  "id": 39049,
+                                                  "name": "Siilinjärvi",
+                                                  "latitude": "63.08333000",
+                                                  "longitude": "27.66667000"
+                                              },
+                                              {
+                                                  "id": 39055,
+                                                  "name": "Sonkajärvi",
+                                                  "latitude": "63.66667000",
+                                                  "longitude": "27.51667000"
+                                              },
+                                              {
+                                                  "id": 39062,
+                                                  "name": "Suonenjoki",
+                                                  "latitude": "62.61667000",
+                                                  "longitude": "27.13333000"
+                                              },
+                                              {
+                                                  "id": 39074,
+                                                  "name": "Tervo",
+                                                  "latitude": "62.95000000",
+                                                  "longitude": "26.75000000"
+                                              },
+                                              {
+                                                  "id": 39084,
+                                                  "name": "Tuusniemi",
+                                                  "latitude": "62.81667000",
+                                                  "longitude": "28.50000000"
+                                              },
+                                              {
+                                                  "id": 39100,
+                                                  "name": "Varkaus",
+                                                  "latitude": "62.31533000",
+                                                  "longitude": "27.87300000"
+                                              },
+                                              {
+                                                  "id": 39101,
+                                                  "name": "Varpaisjärvi",
+                                                  "latitude": "63.35932000",
+                                                  "longitude": "27.75506000"
+                                              },
+                                              {
+                                                  "id": 39103,
+                                                  "name": "Vehmersalmi",
+                                                  "latitude": "62.76101000",
+                                                  "longitude": "28.02853000"
+                                              },
+                                              {
+                                                  "id": 39105,
+                                                  "name": "Vesanto",
+                                                  "latitude": "62.93333000",
+                                                  "longitude": "26.41667000"
+                                              },
+                                              {
+                                                  "id": 39107,
+                                                  "name": "Vieremä",
+                                                  "latitude": "63.75000000",
+                                                  "longitude": "27.01667000"
+                                              }
+                                          ]
+                                      },
+                                      {
+                                          "id": 1501,
+                                          "name": "Satakunta",
+                                          "state_code": "17",
+                                          "cities": [
+                                              {
+                                                  "id": 38749,
+                                                  "name": "Eura",
+                                                  "latitude": "61.13333000",
+                                                  "longitude": "22.13333000"
+                                              },
+                                              {
+                                                  "id": 38750,
+                                                  "name": "Eurajoki",
+                                                  "latitude": "61.20000000",
+                                                  "longitude": "21.73333000"
+                                              },
+                                              {
+                                                  "id": 38762,
+                                                  "name": "Harjavalta",
+                                                  "latitude": "61.31667000",
+                                                  "longitude": "22.13333000"
+                                              },
+                                              {
+                                                  "id": 38776,
+                                                  "name": "Huittinen",
+                                                  "latitude": "61.18333000",
+                                                  "longitude": "22.70000000"
+                                              },
+                                              {
+                                                  "id": 38808,
+                                                  "name": "Jämijärvi",
+                                                  "latitude": "61.81667000",
+                                                  "longitude": "22.70000000"
+                                              },
+                                              {
+                                                  "id": 38822,
+                                                  "name": "Kankaanpää",
+                                                  "latitude": "61.80000000",
+                                                  "longitude": "22.41667000"
+                                              },
+                                              {
+                                                  "id": 38833,
+                                                  "name": "Karvia",
+                                                  "latitude": "62.13333000",
+                                                  "longitude": "22.56667000"
+                                              },
+                                              {
+                                                  "id": 38860,
+                                                  "name": "Kiukainen",
+                                                  "latitude": "61.21667000",
+                                                  "longitude": "22.08333000"
+                                              },
+                                              {
+                                                  "id": 38863,
+                                                  "name": "Kokemäki",
+                                                  "latitude": "61.25647000",
+                                                  "longitude": "22.35643000"
+                                              },
+                                              {
+                                                  "id": 38891,
+                                                  "name": "Köyliö",
+                                                  "latitude": "61.11910000",
+                                                  "longitude": "22.30976000"
+                                              },
+                                              {
+                                                  "id": 38880,
+                                                  "name": "Kullaa",
+                                                  "latitude": "61.46998000",
+                                                  "longitude": "22.16145000"
+                                              },
+                                              {
+                                                  "id": 38925,
+                                                  "name": "Längelmäki",
+                                                  "latitude": "61.65000000",
+                                                  "longitude": "22.10000000"
+                                              },
+                                              {
+                                                  "id": 38900,
+                                                  "name": "Lappi",
+                                                  "latitude": "61.10000000",
+                                                  "longitude": "21.83333000"
+                                              },
+                                              {
+                                                  "id": 38905,
+                                                  "name": "Lavia",
+                                                  "latitude": "61.60000000",
+                                                  "longitude": "22.60000000"
+                                              },
+                                              {
+                                                  "id": 38924,
+                                                  "name": "Luvia",
+                                                  "latitude": "61.36375000",
+                                                  "longitude": "21.62556000"
+                                              },
+                                              {
+                                                  "id": 38933,
+                                                  "name": "Merikarvia",
+                                                  "latitude": "61.85839000",
+                                                  "longitude": "21.50035000"
+                                              },
+                                              {
+                                                  "id": 38950,
+                                                  "name": "Nakkila",
+                                                  "latitude": "61.36667000",
+                                                  "longitude": "22.00000000"
+                                              },
+                                              {
+                                                  "id": 38954,
+                                                  "name": "Noormarkku",
+                                                  "latitude": "61.59274000",
+                                                  "longitude": "21.86846000"
+                                              },
+                                              {
+                                                  "id": 38990,
+                                                  "name": "Pomarkku",
+                                                  "latitude": "61.69348000",
+                                                  "longitude": "22.00862000"
+                                              },
+                                              {
+                                                  "id": 38991,
+                                                  "name": "Pori",
+                                                  "latitude": "61.48333000",
+                                                  "longitude": "21.78333000"
+                                              },
+                                              {
+                                                  "id": 39016,
+                                                  "name": "Rauma",
+                                                  "latitude": "61.12724000",
+                                                  "longitude": "21.51127000"
+                                              },
+                                              {
+                                                  "id": 39064,
+                                                  "name": "Säkylä",
+                                                  "latitude": "61.03333000",
+                                                  "longitude": "22.33333000"
+                                              },
+                                              {
+                                                  "id": 39047,
+                                                  "name": "Siikainen",
+                                                  "latitude": "61.87703000",
+                                                  "longitude": "21.81945000"
+                                              },
+                                              {
+                                                  "id": 39089,
+                                                  "name": "Ulvila",
+                                                  "latitude": "61.42844000",
+                                                  "longitude": "21.87103000"
+                                              },
+                                              {
+                                                  "id": 39098,
+                                                  "name": "Vampula",
+                                                  "latitude": "61.01667000",
+                                                  "longitude": "22.70000000"
+                                              }
+                                          ]
+                                      },
+                                      {
+                                          "id": 1497,
+                                          "name": "South Karelia",
+                                          "state_code": "02",
+                                          "cities": [
+                                              {
+                                                  "id": 38787,
+                                                  "name": "Imatra",
+                                                  "latitude": "61.17185000",
+                                                  "longitude": "28.75242000"
+                                              },
+                                              {
+                                                  "id": 38802,
+                                                  "name": "Joutseno",
+                                                  "latitude": "61.11796000",
+                                                  "longitude": "28.50763000"
+                                              },
+                                              {
+                                                  "id": 38899,
+                                                  "name": "Lappeenranta",
+                                                  "latitude": "61.05871000",
+                                                  "longitude": "28.18871000"
+                                              },
+                                              {
+                                                  "id": 38908,
+                                                  "name": "Lemi",
+                                                  "latitude": "61.06244000",
+                                                  "longitude": "27.80571000"
+                                              },
+                                              {
+                                                  "id": 38923,
+                                                  "name": "Luumäki",
+                                                  "latitude": "60.92618000",
+                                                  "longitude": "27.58135000"
+                                              },
+                                              {
+                                                  "id": 38956,
+                                                  "name": "Nuijamaa",
+                                                  "latitude": "60.96011000",
+                                                  "longitude": "28.55104000"
+                                              },
+                                              {
+                                                  "id": 38973,
+                                                  "name": "Parikkala",
+                                                  "latitude": "61.55000000",
+                                                  "longitude": "29.50000000"
+                                              },
+                                              {
+                                                  "id": 39019,
+                                                  "name": "Rautjärvi",
+                                                  "latitude": "61.43333000",
+                                                  "longitude": "29.35000000"
+                                              },
+                                              {
+                                                  "id": 39028,
+                                                  "name": "Ruokolahti",
+                                                  "latitude": "61.28333000",
+                                                  "longitude": "28.83333000"
+                                              },
+                                              {
+                                                  "id": 39034,
+                                                  "name": "Saari",
+                                                  "latitude": "61.65000000",
+                                                  "longitude": "29.75000000"
+                                              },
+                                              {
+                                                  "id": 39040,
+                                                  "name": "Savitaipale",
+                                                  "latitude": "61.20000000",
+                                                  "longitude": "27.70000000"
+                                              },
+                                              {
+                                                  "id": 39067,
+                                                  "name": "Taipalsaari",
+                                                  "latitude": "61.15000000",
+                                                  "longitude": "28.05000000"
+                                              },
+                                              {
+                                                  "id": 39127,
+                                                  "name": "Ylämaa",
+                                                  "latitude": "60.80000000",
+                                                  "longitude": "28.00000000"
+                                              }
+                                          ]
+                                      },
+                                      {
+                                          "id": 1498,
+                                          "name": "Southern Ostrobothnia",
+                                          "state_code": "03",
+                                          "cities": [
+                                              {
+                                                  "id": 39130,
+                                                  "name": "Ähtäri",
+                                                  "latitude": "62.55403000",
+                                                  "longitude": "24.06186000"
+                                              },
+                                              {
+                                                  "id": 38730,
+                                                  "name": "Alahärmä",
+                                                  "latitude": "63.23333000",
+                                                  "longitude": "22.85000000"
+                                              },
+                                              {
+                                                  "id": 38731,
+                                                  "name": "Alajärvi",
+                                                  "latitude": "63.00000000",
+                                                  "longitude": "23.81667000"
+                                              },
+                                              {
+                                                  "id": 39131,
+                                                  "name": "Älajärvi",
+                                                  "latitude": "63.00027000",
+                                                  "longitude": "23.81586000"
+                                              },
+                                              {
+                                                  "id": 38734,
+                                                  "name": "Alavus",
+                                                  "latitude": "62.58333000",
+                                                  "longitude": "23.61667000"
+                                              },
+                                              {
+                                                  "id": 38751,
+                                                  "name": "Evijärvi",
+                                                  "latitude": "63.36667000",
+                                                  "longitude": "23.48333000"
+                                              },
+                                              {
+                                                  "id": 38785,
+                                                  "name": "Ilmajoki",
+                                                  "latitude": "62.73333000",
+                                                  "longitude": "22.56667000"
+                                              },
+                                              {
+                                                  "id": 38791,
+                                                  "name": "Isojoki",
+                                                  "latitude": "62.11319000",
+                                                  "longitude": "21.95884000"
+                                              },
+                                              {
+                                                  "id": 38796,
+                                                  "name": "Jalasjärvi",
+                                                  "latitude": "62.50000000",
+                                                  "longitude": "22.75000000"
+                                              },
+                                              {
+                                                  "id": 38804,
+                                                  "name": "Jurva",
+                                                  "latitude": "62.68333000",
+                                                  "longitude": "21.98333000"
+                                              },
+                                              {
+                                                  "id": 38826,
+                                                  "name": "Karijoki",
+                                                  "latitude": "62.30851000",
+                                                  "longitude": "21.70856000"
+                                              },
+                                              {
+                                                  "id": 38835,
+                                                  "name": "Kauhajoki",
+                                                  "latitude": "62.43333000",
+                                                  "longitude": "22.18333000"
+                                              },
+                                              {
+                                                  "id": 38836,
+                                                  "name": "Kauhava",
+                                                  "latitude": "63.10299000",
+                                                  "longitude": "23.07129000"
+                                              },
+                                              {
+                                                  "id": 38871,
+                                                  "name": "Kortesjärvi",
+                                                  "latitude": "63.30000000",
+                                                  "longitude": "23.16667000"
+                                              },
+                                              {
+                                                  "id": 38882,
+                                                  "name": "Kuortane",
+                                                  "latitude": "62.80000000",
+                                                  "longitude": "23.50000000"
+                                              },
+                                              {
+                                                  "id": 38883,
+                                                  "name": "Kurikka",
+                                                  "latitude": "62.61667000",
+                                                  "longitude": "22.41667000"
+                                              },
+                                              {
+                                                  "id": 38898,
+                                                  "name": "Lappajärvi",
+                                                  "latitude": "63.20000000",
+                                                  "longitude": "23.63333000"
+                                              },
+                                              {
+                                                  "id": 38901,
+                                                  "name": "Lapua",
+                                                  "latitude": "62.96927000",
+                                                  "longitude": "23.00880000"
+                                              },
+                                              {
+                                                  "id": 38906,
+                                                  "name": "Lehtimäki",
+                                                  "latitude": "62.78333000",
+                                                  "longitude": "23.91667000"
+                                              },
+                                              {
+                                                  "id": 38959,
+                                                  "name": "Nurmo",
+                                                  "latitude": "62.82870000",
+                                                  "longitude": "22.90990000"
+                                              },
+                                              {
+                                                  "id": 39044,
+                                                  "name": "Seinäjoki",
+                                                  "latitude": "62.79446000",
+                                                  "longitude": "22.82822000"
+                                              },
+                                              {
+                                                  "id": 39053,
+                                                  "name": "Soini",
+                                                  "latitude": "62.86667000",
+                                                  "longitude": "24.21667000"
+                                              },
+                                              {
+                                                  "id": 39076,
+                                                  "name": "Teuva",
+                                                  "latitude": "62.48190000",
+                                                  "longitude": "21.74156000"
+                                              },
+                                              {
+                                                  "id": 39087,
+                                                  "name": "Töysä",
+                                                  "latitude": "62.62803000",
+                                                  "longitude": "23.81828000"
+                                              },
+                                              {
+                                                  "id": 39111,
+                                                  "name": "Vimpeli",
+                                                  "latitude": "63.16187000",
+                                                  "longitude": "23.81922000"
+                                              },
+                                              {
+                                                  "id": 39122,
+                                                  "name": "Ylihärmä",
+                                                  "latitude": "63.15000000",
+                                                  "longitude": "22.78333000"
+                                              },
+                                              {
+                                                  "id": 39124,
+                                                  "name": "Ylistaro",
+                                                  "latitude": "62.93958000",
+                                                  "longitude": "22.51306000"
+                                              }
+                                          ]
+                                      },
+                                      {
+                                          "id": 1495,
+                                          "name": "Southern Savonia",
+                                          "state_code": "04",
+                                          "cities": [
+                                              {
+                                                  "id": 38746,
+                                                  "name": "Enonkoski",
+                                                  "latitude": "62.08333000",
+                                                  "longitude": "28.93333000"
+                                              },
+                                              {
+                                                  "id": 38766,
+                                                  "name": "Haukivuori",
+                                                  "latitude": "62.01753000",
+                                                  "longitude": "27.21906000"
+                                              },
+                                              {
+                                                  "id": 38769,
+                                                  "name": "Heinävesi",
+                                                  "latitude": "62.43333000",
+                                                  "longitude": "28.60000000"
+                                              },
+                                              {
+                                                  "id": 38773,
+                                                  "name": "Hirvensalmi",
+                                                  "latitude": "61.63333000",
+                                                  "longitude": "26.80000000"
+                                              },
+                                              {
+                                                  "id": 38811,
+                                                  "name": "Jäppilä",
+                                                  "latitude": "62.37899000",
+                                                  "longitude": "27.43372000"
+                                              },
+                                              {
+                                                  "id": 38800,
+                                                  "name": "Joroinen",
+                                                  "latitude": "62.17823000",
+                                                  "longitude": "27.83165000"
+                                              },
+                                              {
+                                                  "id": 38806,
+                                                  "name": "Juva",
+                                                  "latitude": "61.90000000",
+                                                  "longitude": "27.85000000"
+                                              },
+                                              {
+                                                  "id": 38821,
+                                                  "name": "Kangasniemi",
+                                                  "latitude": "61.99357000",
+                                                  "longitude": "26.64785000"
+                                              },
+                                              {
+                                                  "id": 38846,
+                                                  "name": "Kerimäki",
+                                                  "latitude": "61.91069000",
+                                                  "longitude": "29.28228000"
+                                              },
+                                              {
+                                                  "id": 38947,
+                                                  "name": "Mäntyharju",
+                                                  "latitude": "61.41667000",
+                                                  "longitude": "26.88333000"
+                                              },
+                                              {
+                                                  "id": 38937,
+                                                  "name": "Mikkeli",
+                                                  "latitude": "61.68857000",
+                                                  "longitude": "27.27227000"
+                                              },
+                                              {
+                                                  "id": 38981,
+                                                  "name": "Pertunmaa",
+                                                  "latitude": "61.50000000",
+                                                  "longitude": "26.48333000"
+                                              },
+                                              {
+                                                  "id": 38983,
+                                                  "name": "Pieksämäki",
+                                                  "latitude": "62.30000000",
+                                                  "longitude": "27.13333000"
+                                              },
+                                              {
+                                                  "id": 38998,
+                                                  "name": "Punkaharju",
+                                                  "latitude": "61.75883000",
+                                                  "longitude": "29.38843000"
+                                              },
+                                              {
+                                                  "id": 39000,
+                                                  "name": "Puumala",
+                                                  "latitude": "61.52728000",
+                                                  "longitude": "28.17495000"
+                                              },
+                                              {
+                                                  "id": 39013,
+                                                  "name": "Rantasalmi",
+                                                  "latitude": "62.06667000",
+                                                  "longitude": "28.30000000"
+                                              },
+                                              {
+                                                  "id": 39024,
+                                                  "name": "Ristiina",
+                                                  "latitude": "61.50579000",
+                                                  "longitude": "27.24643000"
+                                              },
+                                              {
+                                                  "id": 39041,
+                                                  "name": "Savonlinna",
+                                                  "latitude": "61.86990000",
+                                                  "longitude": "28.87999000"
+                                              },
+                                              {
+                                                  "id": 39042,
+                                                  "name": "Savonranta",
+                                                  "latitude": "62.18333000",
+                                                  "longitude": "29.20000000"
+                                              },
+                                              {
+                                                  "id": 39057,
+                                                  "name": "Sulkava",
+                                                  "latitude": "61.78691000",
+                                                  "longitude": "28.37299000"
+                                              },
+                                              {
+                                                  "id": 39113,
+                                                  "name": "Virtasalmi",
+                                                  "latitude": "62.12695000",
+                                                  "longitude": "27.46276000"
+                                              }
+                                          ]
+                                      },
+                                      {
+                                          "id": 1493,
+                                          "name": "Tavastia Proper",
+                                          "state_code": "06",
+                                          "cities": [
+                                              {
+                                                  "id": 38752,
+                                                  "name": "Forssa",
+                                                  "latitude": "60.81462000",
+                                                  "longitude": "23.62146000"
+                                              },
+                                              {
+                                                  "id": 38781,
+                                                  "name": "Hämeenlinna",
+                                                  "latitude": "60.99596000",
+                                                  "longitude": "24.46434000"
+                                              },
+                                              {
+                                                  "id": 38764,
+                                                  "name": "Hauho",
+                                                  "latitude": "61.17255000",
+                                                  "longitude": "24.56303000"
+                                              },
+                                              {
+                                                  "id": 38767,
+                                                  "name": "Hausjärvi",
+                                                  "latitude": "60.78333000",
+                                                  "longitude": "24.93333000"
+                                              },
+                                              {
+                                                  "id": 38777,
+                                                  "name": "Humppila",
+                                                  "latitude": "60.93333000",
+                                                  "longitude": "23.36667000"
+                                              },
+                                              {
+                                                  "id": 38797,
+                                                  "name": "Janakkala",
+                                                  "latitude": "60.90000000",
+                                                  "longitude": "24.60000000"
+                                              },
+                                              {
+                                                  "id": 38799,
+                                                  "name": "Jokioinen",
+                                                  "latitude": "60.80162000",
+                                                  "longitude": "23.48004000"
+                                              },
+                                              {
+                                                  "id": 38819,
+                                                  "name": "Kalvola",
+                                                  "latitude": "61.10081000",
+                                                  "longitude": "24.12177000"
+                                              },
+                                              {
+                                                  "id": 38895,
+                                                  "name": "Lammi",
+                                                  "latitude": "61.08333000",
+                                                  "longitude": "25.01667000"
+                                              },
+                                              {
+                                                  "id": 38919,
+                                                  "name": "Loppi",
+                                                  "latitude": "60.71667000",
+                                                  "longitude": "24.45000000"
+                                              },
+                                              {
+                                                  "id": 39021,
+                                                  "name": "Renko",
+                                                  "latitude": "60.89563000",
+                                                  "longitude": "24.28785000"
+                                              },
+                                              {
+                                                  "id": 39023,
+                                                  "name": "Riihimäki",
+                                                  "latitude": "60.73769000",
+                                                  "longitude": "24.77726000"
+                                              },
+                                              {
+                                                  "id": 39070,
+                                                  "name": "Tammela",
+                                                  "latitude": "60.81035000",
+                                                  "longitude": "23.76823000"
+                                              },
+                                              {
+                                                  "id": 39073,
+                                                  "name": "Tervakoski",
+                                                  "latitude": "60.81412000",
+                                                  "longitude": "24.62594000"
+                                              },
+                                              {
+                                                  "id": 39082,
+                                                  "name": "Tuulos",
+                                                  "latitude": "61.15000000",
+                                                  "longitude": "24.80000000"
+                                              },
+                                              {
+                                                  "id": 39129,
+                                                  "name": "Ypäjä",
+                                                  "latitude": "60.80000000",
+                                                  "longitude": "23.28333000"
+                                              }
+                                          ]
+                                      },
+                                      {
+                                          "id": 1510,
+                                          "name": "Uusimaa",
+                                          "state_code": "18",
+                                          "cities": [
+                                              {
+                                                  "id": 38739,
+                                                  "name": "Askola",
+                                                  "latitude": "60.53333000",
+                                                  "longitude": "25.60000000"
+                                              },
+                                              {
+                                                  "id": 38743,
+                                                  "name": "Ekenäs",
+                                                  "latitude": "59.97359000",
+                                                  "longitude": "23.43389000"
+                                              },
+                                              {
+                                                  "id": 38748,
+                                                  "name": "Espoo",
+                                                  "latitude": "60.20520000",
+                                                  "longitude": "24.65220000"
+                                              },
+                                              {
+                                                  "id": 38753,
+                                                  "name": "Gumböle",
+                                                  "latitude": "60.21948000",
+                                                  "longitude": "24.61684000"
+                                              },
+                                              {
+                                                  "id": 38761,
+                                                  "name": "Hanko",
+                                                  "latitude": "59.83333000",
+                                                  "longitude": "22.95000000"
+                                              },
+                                              {
+                                                  "id": 38770,
+                                                  "name": "Helsinki",
+                                                  "latitude": "60.16952000",
+                                                  "longitude": "24.93545000"
+                                              },
+                                              {
+                                                  "id": 38779,
+                                                  "name": "Hyvinge",
+                                                  "latitude": "60.63333000",
+                                                  "longitude": "24.86667000"
+                                              },
+                                              {
+                                                  "id": 38789,
+                                                  "name": "Ingå",
+                                                  "latitude": "60.04587000",
+                                                  "longitude": "24.00459000"
+                                              },
+                                              {
+                                                  "id": 38812,
+                                                  "name": "Järvenpää",
+                                                  "latitude": "60.47369000",
+                                                  "longitude": "25.08992000"
+                                              },
+                                              {
+                                                  "id": 38813,
+                                                  "name": "Kaarela",
+                                                  "latitude": "60.25174000",
+                                                  "longitude": "24.88111000"
+                                              },
+                                              {
+                                                  "id": 38818,
+                                                  "name": "Kallio",
+                                                  "latitude": "60.18427000",
+                                                  "longitude": "24.95034000"
+                                              },
+                                              {
+                                                  "id": 38828,
+                                                  "name": "Karis",
+                                                  "latitude": "60.07178000",
+                                                  "longitude": "23.66163000"
+                                              },
+                                              {
+                                                  "id": 38829,
+                                                  "name": "Karjalohja",
+                                                  "latitude": "60.24015000",
+                                                  "longitude": "23.71789000"
+                                              },
+                                              {
+                                                  "id": 38830,
+                                                  "name": "Karkkila",
+                                                  "latitude": "60.53418000",
+                                                  "longitude": "24.20977000"
+                                              },
+                                              {
+                                                  "id": 38889,
+                                                  "name": "Kärkölä",
+                                                  "latitude": "60.61292000",
+                                                  "longitude": "23.94196000"
+                                              },
+                                              {
+                                                  "id": 38837,
+                                                  "name": "Kauniainen",
+                                                  "latitude": "60.21209000",
+                                                  "longitude": "24.72756000"
+                                              },
+                                              {
+                                                  "id": 38840,
+                                                  "name": "Kellokoski",
+                                                  "latitude": "60.53271000",
+                                                  "longitude": "25.10917000"
+                                              },
+                                              {
+                                                  "id": 38845,
+                                                  "name": "Kerava",
+                                                  "latitude": "60.40338000",
+                                                  "longitude": "25.10500000"
+                                              },
+                                              {
+                                                  "id": 38853,
+                                                  "name": "Kilo",
+                                                  "latitude": "60.21746000",
+                                                  "longitude": "24.78151000"
+                                              },
+                                              {
+                                                  "id": 38856,
+                                                  "name": "Kirkkonummi",
+                                                  "latitude": "60.12381000",
+                                                  "longitude": "24.43853000"
+                                              },
+                                              {
+                                                  "id": 38873,
+                                                  "name": "Koukkuniemi",
+                                                  "latitude": "60.15261000",
+                                                  "longitude": "24.76467000"
+                                              },
+                                              {
+                                                  "id": 38896,
+                                                  "name": "Lapinjärvi",
+                                                  "latitude": "60.62443000",
+                                                  "longitude": "26.19720000"
+                                              },
+                                              {
+                                                  "id": 38904,
+                                                  "name": "Lauttasaari",
+                                                  "latitude": "60.15896000",
+                                                  "longitude": "24.86797000"
+                                              },
+                                              {
+                                                  "id": 38914,
+                                                  "name": "Liljendal",
+                                                  "latitude": "60.57346000",
+                                                  "longitude": "26.05257000"
+                                              },
+                                              {
+                                                  "id": 38917,
+                                                  "name": "Lohja",
+                                                  "latitude": "60.24859000",
+                                                  "longitude": "24.06534000"
+                                              },
+                                              {
+                                                  "id": 38920,
+                                                  "name": "Lovisa",
+                                                  "latitude": "60.45659000",
+                                                  "longitude": "26.22505000"
+                                              },
+                                              {
+                                                  "id": 38946,
+                                                  "name": "Mäntsälä",
+                                                  "latitude": "60.63333000",
+                                                  "longitude": "25.31667000"
+                                              },
+                                              {
+                                                  "id": 38931,
+                                                  "name": "Mellunkylä",
+                                                  "latitude": "60.23355000",
+                                                  "longitude": "25.09947000"
+                                              },
+                                              {
+                                                  "id": 38940,
+                                                  "name": "Munkkiniemi",
+                                                  "latitude": "60.19861000",
+                                                  "longitude": "24.87772000"
+                                              },
+                                              {
+                                                  "id": 38945,
+                                                  "name": "Myrskylä",
+                                                  "latitude": "60.66965000",
+                                                  "longitude": "25.84750000"
+                                              },
+                                              {
+                                                  "id": 38958,
+                                                  "name": "Nurmijärvi",
+                                                  "latitude": "60.46407000",
+                                                  "longitude": "24.80730000"
+                                              },
+                                              {
+                                                  "id": 38964,
+                                                  "name": "Otaniemi",
+                                                  "latitude": "60.18395000",
+                                                  "longitude": "24.82786000"
+                                              },
+                                              {
+                                                  "id": 38979,
+                                                  "name": "Pernå",
+                                                  "latitude": "60.44869000",
+                                                  "longitude": "26.03187000"
+                                              },
+                                              {
+                                                  "id": 38988,
+                                                  "name": "Pohja",
+                                                  "latitude": "60.09626000",
+                                                  "longitude": "23.52757000"
+                                              },
+                                              {
+                                                  "id": 38992,
+                                                  "name": "Pornainen",
+                                                  "latitude": "60.47581000",
+                                                  "longitude": "25.37490000"
+                                              },
+                                              {
+                                                  "id": 38993,
+                                                  "name": "Porvoo",
+                                                  "latitude": "60.39233000",
+                                                  "longitude": "25.66507000"
+                                              },
+                                              {
+                                                  "id": 38996,
+                                                  "name": "Pukkila",
+                                                  "latitude": "60.65000000",
+                                                  "longitude": "25.56667000"
+                                              },
+                                              {
+                                                  "id": 39011,
+                                                  "name": "Raaseporin",
+                                                  "latitude": "60.00273000",
+                                                  "longitude": "23.55499000"
+                                              },
+                                              {
+                                                  "id": 39029,
+                                                  "name": "Ruotsinpyhtää",
+                                                  "latitude": "60.52680000",
+                                                  "longitude": "26.46203000"
+                                              },
+                                              {
+                                                  "id": 39038,
+                                                  "name": "Sammatti",
+                                                  "latitude": "60.31991000",
+                                                  "longitude": "23.82085000"
+                                              },
+                                              {
+                                                  "id": 39045,
+                                                  "name": "Sibbo",
+                                                  "latitude": "60.37752000",
+                                                  "longitude": "25.26906000"
+                                              },
+                                              {
+                                                  "id": 39051,
+                                                  "name": "Siuntio",
+                                                  "latitude": "60.13862000",
+                                                  "longitude": "24.22715000"
+                                              },
+                                              {
+                                                  "id": 39085,
+                                                  "name": "Tuusula",
+                                                  "latitude": "60.40368000",
+                                                  "longitude": "25.02638000"
+                                              },
+                                              {
+                                                  "id": 39099,
+                                                  "name": "Vantaa",
+                                                  "latitude": "60.29414000",
+                                                  "longitude": "25.04099000"
+                                              },
+                                              {
+                                                  "id": 39109,
+                                                  "name": "Vihti",
+                                                  "latitude": "60.41699000",
+                                                  "longitude": "24.31965000"
+                                              },
+                                              {
+                                                  "id": 39116,
+                                                  "name": "Vuosaari",
+                                                  "latitude": "60.20963000",
+                                                  "longitude": "25.14195000"
+                                              }
+                                          ]
+                                      }
+                                  ],
+
+
+  "timezones": ["UTC+02:00"],
+  "tld": [".fi"],
+  "translations": {
+    "de": "Finnland",
+    "es": "Finlandia",
+    "fr": "Finlande",
+    "ja": "フィンランド",
+    "it": "Finlandia"
+  },
+  "wiki": "http://en.wikipedia.org/wiki/finland"
+}

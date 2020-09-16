@@ -1,0 +1,1219 @@
+{
+    "name": "Iran",
+    "altSpellings": ["IR", "Islamic Republic of Iran", "Jomhuri-ye Eslāmi-ye Irān"],
+    "area": 1648195,
+    "borders": ["AFG", "ARM", "AZE", "IRQ", "PAK", "TUR", "TKM"],
+    "callingCodes": ["98"],
+    "capital": "Tehran",
+    "capital_latlng": [35.700618, 51.401378],
+    "currencies": ["IRR"],
+    "demonym": "Iranian",
+    "flag": "",
+    "geoJSON": {
+        "type": "FeatureCollection",
+        "features": [{
+            "type": "Feature",
+            "id": "IRN",
+            "properties": {
+                "name": "Iran"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [53.921598, 37.198918],
+                        [54.800304, 37.392421],
+                        [55.511578, 37.964117],
+                        [56.180375, 37.935127],
+                        [56.619366, 38.121394],
+                        [57.330434, 38.029229],
+                        [58.436154, 37.522309],
+                        [59.234762, 37.412988],
+                        [60.377638, 36.527383],
+                        [61.123071, 36.491597],
+                        [61.210817, 35.650072],
+                        [60.803193, 34.404102],
+                        [60.52843, 33.676446],
+                        [60.9637, 33.528832],
+                        [60.536078, 32.981269],
+                        [60.863655, 32.18292],
+                        [60.941945, 31.548075],
+                        [61.699314, 31.379506],
+                        [61.781222, 30.73585],
+                        [60.874248, 29.829239],
+                        [61.369309, 29.303276],
+                        [61.771868, 28.699334],
+                        [62.72783, 28.259645],
+                        [62.755426, 27.378923],
+                        [63.233898, 27.217047],
+                        [63.316632, 26.756532],
+                        [61.874187, 26.239975],
+                        [61.497363, 25.078237],
+                        [59.616134, 25.380157],
+                        [58.525761, 25.609962],
+                        [57.397251, 25.739902],
+                        [56.970766, 26.966106],
+                        [56.492139, 27.143305],
+                        [55.72371, 26.964633],
+                        [54.71509, 26.480658],
+                        [53.493097, 26.812369],
+                        [52.483598, 27.580849],
+                        [51.520763, 27.86569],
+                        [50.852948, 28.814521],
+                        [50.115009, 30.147773],
+                        [49.57685, 29.985715],
+                        [48.941333, 30.31709],
+                        [48.567971, 29.926778],
+                        [48.014568, 30.452457],
+                        [48.004698, 30.985137],
+                        [47.685286, 30.984853],
+                        [47.849204, 31.709176],
+                        [47.334661, 32.469155],
+                        [46.109362, 33.017287],
+                        [45.416691, 33.967798],
+                        [45.64846, 34.748138],
+                        [46.151788, 35.093259],
+                        [46.07634, 35.677383],
+                        [45.420618, 35.977546],
+                        [44.77267, 37.17045],
+                        [44.225756, 37.971584],
+                        [44.421403, 38.281281],
+                        [44.109225, 39.428136],
+                        [44.79399, 39.713003],
+                        [44.952688, 39.335765],
+                        [45.457722, 38.874139],
+                        [46.143623, 38.741201],
+                        [46.50572, 38.770605],
+                        [47.685079, 39.508364],
+                        [48.060095, 39.582235],
+                        [48.355529, 39.288765],
+                        [48.010744, 38.794015],
+                        [48.634375, 38.270378],
+                        [48.883249, 38.320245],
+                        [49.199612, 37.582874],
+                        [50.147771, 37.374567],
+                        [50.842354, 36.872814],
+                        [52.264025, 36.700422],
+                        [53.82579, 36.965031],
+                        [53.921598, 37.198918]
+                    ]
+                ]
+            }
+        }]
+    },
+    "ISO": {
+        "alpha2": "IR",
+        "alpha3": "IRN"
+    },
+    "latlng": [32, 53],
+    "nativeName": "Irān",
+    "population": 77966400,
+    "timezones": ["UTC+03:30"],
+    "tld": [".ir"],
+    "translations": {
+        "de": "Iran",
+        "es": "Iran",
+        "fr": "Iran",
+        "ja": "イラン・イスラム共和国",
+        "it": null
+    },
+    "states": [
+            {
+                "id": 603,
+                "name": "Berat County",
+                "state_code": "01",
+                "cities": []
+            },
+            {
+                "id": 629,
+                "name": "Berat District",
+                "state_code": "BR",
+                "cities": [
+                    {
+                        "id": 153,
+                        "name": "Banaj",
+                        "latitude": "40.82492000",
+                        "longitude": "19.84074000"
+                    },
+                    {
+                        "id": 154,
+                        "name": "Bashkia Berat",
+                        "latitude": "40.69997000",
+                        "longitude": "19.94983000"
+                    },
+                    {
+                        "id": 170,
+                        "name": "Bashkia Kuçovë",
+                        "latitude": "40.82489000",
+                        "longitude": "19.95350000"
+                    },
+                    {
+                        "id": 180,
+                        "name": "Bashkia Poliçan",
+                        "latitude": "40.58608000",
+                        "longitude": "20.04535000"
+                    },
+                    {
+                        "id": 186,
+                        "name": "Bashkia Skrapar",
+                        "latitude": "40.56036000",
+                        "longitude": "20.25477000"
+                    },
+                    {
+                        "id": 191,
+                        "name": "Berat",
+                        "latitude": "40.70583000",
+                        "longitude": "19.95222000"
+                    },
+                    {
+                        "id": 280,
+                        "name": "Çorovodë",
+                        "latitude": "40.50417000",
+                        "longitude": "20.22722000"
+                    },
+                    {
+                        "id": 219,
+                        "name": "Kuçovë",
+                        "latitude": "40.80028000",
+                        "longitude": "19.91667000"
+                    },
+                    {
+                        "id": 238,
+                        "name": "Poliçan",
+                        "latitude": "40.61222000",
+                        "longitude": "20.09806000"
+                    },
+                    {
+                        "id": 242,
+                        "name": "Rrethi i Beratit",
+                        "latitude": "40.66667000",
+                        "longitude": "20.00000000"
+                    },
+                    {
+                        "id": 253,
+                        "name": "Rrethi i Kuçovës",
+                        "latitude": "40.83333000",
+                        "longitude": "19.91667000"
+                    },
+                    {
+                        "id": 258,
+                        "name": "Rrethi i Skraparit",
+                        "latitude": "40.55000000",
+                        "longitude": "20.26667000"
+                    },
+                    {
+                        "id": 273,
+                        "name": "Ura Vajgurore",
+                        "latitude": "40.76889000",
+                        "longitude": "19.87778000"
+                    }
+                ]
+            },
+            {
+                "id": 607,
+                "name": "Bulqizë District",
+                "state_code": "BU",
+                "cities": []
+            },
+            {
+                "id": 618,
+                "name": "Delvinë District",
+                "state_code": "DL",
+                "cities": []
+            },
+            {
+                "id": 608,
+                "name": "Devoll District",
+                "state_code": "DV",
+                "cities": []
+            },
+            {
+                "id": 610,
+                "name": "Dibër County",
+                "state_code": "09",
+                "cities": [
+                    {
+                        "id": 155,
+                        "name": "Bashkia Bulqizë",
+                        "latitude": "41.47152000",
+                        "longitude": "20.33192000"
+                    },
+                    {
+                        "id": 165,
+                        "name": "Bashkia Klos",
+                        "latitude": "41.50826000",
+                        "longitude": "20.07107000"
+                    },
+                    {
+                        "id": 176,
+                        "name": "Bashkia Mat",
+                        "latitude": "41.63317000",
+                        "longitude": "20.01228000"
+                    },
+                    {
+                        "id": 193,
+                        "name": "Bulqizë",
+                        "latitude": "41.49167000",
+                        "longitude": "20.22194000"
+                    },
+                    {
+                        "id": 194,
+                        "name": "Burrel",
+                        "latitude": "41.61028000",
+                        "longitude": "20.00889000"
+                    },
+                    {
+                        "id": 209,
+                        "name": "Klos",
+                        "latitude": "41.50694000",
+                        "longitude": "20.08667000"
+                    },
+                    {
+                        "id": 236,
+                        "name": "Peshkopi",
+                        "latitude": "41.68500000",
+                        "longitude": "20.42889000"
+                    },
+                    {
+                        "id": 243,
+                        "name": "Rrethi i Bulqizës",
+                        "latitude": "41.50000000",
+                        "longitude": "20.33333000"
+                    },
+                    {
+                        "id": 246,
+                        "name": "Rrethi i Dibrës",
+                        "latitude": "41.75000000",
+                        "longitude": "20.33333000"
+                    },
+                    {
+                        "id": 256,
+                        "name": "Rrethi i Matit",
+                        "latitude": "41.58333000",
+                        "longitude": "20.08333000"
+                    },
+                    {
+                        "id": 272,
+                        "name": "Ulëz",
+                        "latitude": "41.68278000",
+                        "longitude": "19.89333000"
+                    }
+                ]
+            },
+            {
+                "id": 605,
+                "name": "Dibër District",
+                "state_code": "DI",
+                "cities": []
+            },
+            {
+                "id": 632,
+                "name": "Durrës County",
+                "state_code": "02",
+                "cities": []
+            },
+            {
+                "id": 639,
+                "name": "Durrës District",
+                "state_code": "DR",
+                "cities": [
+                    {
+                        "id": 159,
+                        "name": "Bashkia Durrës",
+                        "latitude": "41.42743000",
+                        "longitude": "19.48690000"
+                    },
+                    {
+                        "id": 168,
+                        "name": "Bashkia Krujë",
+                        "latitude": "41.50091000",
+                        "longitude": "19.72571000"
+                    },
+                    {
+                        "id": 185,
+                        "name": "Bashkia Shijak",
+                        "latitude": "41.33558000",
+                        "longitude": "19.58977000"
+                    },
+                    {
+                        "id": 197,
+                        "name": "Durrës",
+                        "latitude": "41.32355000",
+                        "longitude": "19.45469000"
+                    },
+                    {
+                        "id": 198,
+                        "name": "Durrës District",
+                        "latitude": "41.31660000",
+                        "longitude": "19.45000000"
+                    },
+                    {
+                        "id": 203,
+                        "name": "Fushë-Krujë",
+                        "latitude": "41.47833000",
+                        "longitude": "19.71778000"
+                    },
+                    {
+                        "id": 214,
+                        "name": "Krujë",
+                        "latitude": "41.50917000",
+                        "longitude": "19.79278000"
+                    },
+                    {
+                        "id": 250,
+                        "name": "Rrethi i Krujës",
+                        "latitude": "41.55000000",
+                        "longitude": "19.75000000"
+                    },
+                    {
+                        "id": 265,
+                        "name": "Shijak",
+                        "latitude": "41.34556000",
+                        "longitude": "19.56722000"
+                    },
+                    {
+                        "id": 269,
+                        "name": "Sukth",
+                        "latitude": "41.38056000",
+                        "longitude": "19.53778000"
+                    }
+                ]
+            },
+            {
+                "id": 598,
+                "name": "Elbasan County",
+                "state_code": "03",
+                "cities": []
+            },
+            {
+                "id": 631,
+                "name": "Fier County",
+                "state_code": "04",
+                "cities": [
+                    {
+                        "id": 152,
+                        "name": "Ballsh",
+                        "latitude": "40.59889000",
+                        "longitude": "19.73472000"
+                    },
+                    {
+                        "id": 157,
+                        "name": "Bashkia Divjakë",
+                        "latitude": "40.95716000",
+                        "longitude": "19.52364000"
+                    },
+                    {
+                        "id": 160,
+                        "name": "Bashkia Fier",
+                        "latitude": "40.72937000",
+                        "longitude": "19.48690000"
+                    },
+                    {
+                        "id": 174,
+                        "name": "Bashkia Mallakastër",
+                        "latitude": "40.55669000",
+                        "longitude": "19.77347000"
+                    },
+                    {
+                        "id": 179,
+                        "name": "Bashkia Patos",
+                        "latitude": "40.67793000",
+                        "longitude": "19.65591000"
+                    },
+                    {
+                        "id": 196,
+                        "name": "Divjakë",
+                        "latitude": "40.99667000",
+                        "longitude": "19.52944000"
+                    },
+                    {
+                        "id": 200,
+                        "name": "Fier",
+                        "latitude": "40.72389000",
+                        "longitude": "19.55611000"
+                    },
+                    {
+                        "id": 201,
+                        "name": "Fier-Çifçi",
+                        "latitude": "40.71667000",
+                        "longitude": "19.56667000"
+                    },
+                    {
+                        "id": 227,
+                        "name": "Lushnjë",
+                        "latitude": "40.94194000",
+                        "longitude": "19.70500000"
+                    },
+                    {
+                        "id": 234,
+                        "name": "Patos",
+                        "latitude": "40.68333000",
+                        "longitude": "19.61944000"
+                    },
+                    {
+                        "id": 235,
+                        "name": "Patos Fshat",
+                        "latitude": "40.64278000",
+                        "longitude": "19.65083000"
+                    },
+                    {
+                        "id": 241,
+                        "name": "Roskovec",
+                        "latitude": "40.73750000",
+                        "longitude": "19.70222000"
+                    },
+                    {
+                        "id": 254,
+                        "name": "Rrethi i Mallakastrës",
+                        "latitude": "40.55000000",
+                        "longitude": "19.78333000"
+                    }
+                ]
+            },
+            {
+                "id": 627,
+                "name": "Fier District",
+                "state_code": "FR",
+                "cities": []
+            },
+            {
+                "id": 604,
+                "name": "Gjirokastër County",
+                "state_code": "05",
+                "cities": []
+            },
+            {
+                "id": 621,
+                "name": "Gjirokastër District",
+                "state_code": "GJ",
+                "cities": [
+                    {
+                        "id": 158,
+                        "name": "Bashkia Dropull",
+                        "latitude": "39.98584000",
+                        "longitude": "20.30529000"
+                    },
+                    {
+                        "id": 164,
+                        "name": "Bashkia Kelcyrë",
+                        "latitude": "40.36196000",
+                        "longitude": "20.16476000"
+                    },
+                    {
+                        "id": 172,
+                        "name": "Bashkia Libohovë",
+                        "latitude": "40.10754000",
+                        "longitude": "20.25753000"
+                    },
+                    {
+                        "id": 177,
+                        "name": "Bashkia Memaliaj",
+                        "latitude": "40.41524000",
+                        "longitude": "19.96911000"
+                    },
+                    {
+                        "id": 183,
+                        "name": "Bashkia Përmet",
+                        "latitude": "40.23246000",
+                        "longitude": "20.41091000"
+                    },
+                    {
+                        "id": 187,
+                        "name": "Bashkia Tepelenë",
+                        "latitude": "40.26736000",
+                        "longitude": "19.97003000"
+                    },
+                    {
+                        "id": 204,
+                        "name": "Gjinkar",
+                        "latitude": "40.19944000",
+                        "longitude": "20.40611000"
+                    },
+                    {
+                        "id": 205,
+                        "name": "Gjirokastër",
+                        "latitude": "40.07583000",
+                        "longitude": "20.13889000"
+                    },
+                    {
+                        "id": 220,
+                        "name": "Këlcyrë",
+                        "latitude": "40.31306000",
+                        "longitude": "20.18944000"
+                    },
+                    {
+                        "id": 221,
+                        "name": "Lazarat",
+                        "latitude": "40.04667000",
+                        "longitude": "20.14750000"
+                    },
+                    {
+                        "id": 225,
+                        "name": "Libohovë",
+                        "latitude": "40.03111000",
+                        "longitude": "20.26306000"
+                    },
+                    {
+                        "id": 231,
+                        "name": "Memaliaj",
+                        "latitude": "40.35167000",
+                        "longitude": "19.98028000"
+                    },
+                    {
+                        "id": 240,
+                        "name": "Përmet",
+                        "latitude": "40.23361000",
+                        "longitude": "20.35167000"
+                    },
+                    {
+                        "id": 270,
+                        "name": "Tepelenë",
+                        "latitude": "40.29583000",
+                        "longitude": "20.01917000"
+                    }
+                ]
+            },
+            {
+                "id": 617,
+                "name": "Gramsh District",
+                "state_code": "GR",
+                "cities": []
+            },
+            {
+                "id": 600,
+                "name": "Has District",
+                "state_code": "HA",
+                "cities": []
+            },
+            {
+                "id": 594,
+                "name": "Kavajë District",
+                "state_code": "KA",
+                "cities": []
+            },
+            {
+                "id": 628,
+                "name": "Kolonjë District",
+                "state_code": "ER",
+                "cities": []
+            },
+            {
+                "id": 630,
+                "name": "Korçë County",
+                "state_code": "06",
+                "cities": [
+                    {
+                        "id": 156,
+                        "name": "Bashkia Devoll",
+                        "latitude": "40.60078000",
+                        "longitude": "20.93814000"
+                    },
+                    {
+                        "id": 166,
+                        "name": "Bashkia Kolonjë",
+                        "latitude": "40.31420000",
+                        "longitude": "20.61482000"
+                    },
+                    {
+                        "id": 173,
+                        "name": "Bashkia Maliq",
+                        "latitude": "40.75508000",
+                        "longitude": "20.60748000"
+                    },
+                    {
+                        "id": 182,
+                        "name": "Bashkia Pustec",
+                        "latitude": "40.83591000",
+                        "longitude": "20.89405000"
+                    },
+                    {
+                        "id": 192,
+                        "name": "Bilisht",
+                        "latitude": "40.62750000",
+                        "longitude": "20.99000000"
+                    },
+                    {
+                        "id": 199,
+                        "name": "Ersekë",
+                        "latitude": "40.33778000",
+                        "longitude": "20.67889000"
+                    },
+                    {
+                        "id": 212,
+                        "name": "Korçë",
+                        "latitude": "40.61861000",
+                        "longitude": "20.78083000"
+                    },
+                    {
+                        "id": 223,
+                        "name": "Leskovik",
+                        "latitude": "40.15139000",
+                        "longitude": "20.59722000"
+                    },
+                    {
+                        "id": 226,
+                        "name": "Libonik",
+                        "latitude": "40.70444000",
+                        "longitude": "20.70861000"
+                    },
+                    {
+                        "id": 228,
+                        "name": "Maliq",
+                        "latitude": "40.70583000",
+                        "longitude": "20.69972000"
+                    },
+                    {
+                        "id": 230,
+                        "name": "Mborje",
+                        "latitude": "40.60333000",
+                        "longitude": "20.80306000"
+                    },
+                    {
+                        "id": 237,
+                        "name": "Pogradec",
+                        "latitude": "40.90250000",
+                        "longitude": "20.65250000"
+                    },
+                    {
+                        "id": 245,
+                        "name": "Rrethi i Devollit",
+                        "latitude": "40.58333000",
+                        "longitude": "20.91667000"
+                    },
+                    {
+                        "id": 249,
+                        "name": "Rrethi i Kolonjës",
+                        "latitude": "40.25000000",
+                        "longitude": "20.66667000"
+                    },
+                    {
+                        "id": 275,
+                        "name": "Velçan",
+                        "latitude": "40.95472000",
+                        "longitude": "20.46222000"
+                    },
+                    {
+                        "id": 278,
+                        "name": "Voskopojë",
+                        "latitude": "40.63306000",
+                        "longitude": "20.58889000"
+                    }
+                ]
+            },
+            {
+                "id": 597,
+                "name": "Korçë District",
+                "state_code": "KO",
+                "cities": []
+            },
+            {
+                "id": 614,
+                "name": "Krujë District",
+                "state_code": "KR",
+                "cities": []
+            },
+            {
+                "id": 612,
+                "name": "Kuçovë District",
+                "state_code": "KC",
+                "cities": []
+            },
+            {
+                "id": 601,
+                "name": "Kukës County",
+                "state_code": "07",
+                "cities": []
+            },
+            {
+                "id": 623,
+                "name": "Kukës District",
+                "state_code": "KU",
+                "cities": [
+                    {
+                        "id": 151,
+                        "name": "Bajram Curri",
+                        "latitude": "42.35734000",
+                        "longitude": "20.07679000"
+                    },
+                    {
+                        "id": 215,
+                        "name": "Krumë",
+                        "latitude": "42.19694000",
+                        "longitude": "20.41333000"
+                    },
+                    {
+                        "id": 217,
+                        "name": "Kukës",
+                        "latitude": "42.07694000",
+                        "longitude": "20.42194000"
+                    },
+                    {
+                        "id": 247,
+                        "name": "Rrethi i Hasit",
+                        "latitude": "42.16667000",
+                        "longitude": "20.33333000"
+                    },
+                    {
+                        "id": 251,
+                        "name": "Rrethi i Kukësit",
+                        "latitude": "42.00000000",
+                        "longitude": "20.33333000"
+                    }
+                ]
+            },
+            {
+                "id": 622,
+                "name": "Kurbin District",
+                "state_code": "KB",
+                "cities": []
+            },
+            {
+                "id": 609,
+                "name": "Lezhë County",
+                "state_code": "08",
+                "cities": [
+                    {
+                        "id": 169,
+                        "name": "Bashkia Kurbin",
+                        "latitude": "41.62215000",
+                        "longitude": "19.70734000"
+                    },
+                    {
+                        "id": 171,
+                        "name": "Bashkia Lezhë",
+                        "latitude": "41.81320000",
+                        "longitude": "19.64121000"
+                    },
+                    {
+                        "id": 178,
+                        "name": "Bashkia Mirditë",
+                        "latitude": "41.80953000",
+                        "longitude": "19.99024000"
+                    },
+                    {
+                        "id": 218,
+                        "name": "Kurbnesh",
+                        "latitude": "41.77972000",
+                        "longitude": "20.08361000"
+                    },
+                    {
+                        "id": 222,
+                        "name": "Laç",
+                        "latitude": "41.63556000",
+                        "longitude": "19.71306000"
+                    },
+                    {
+                        "id": 224,
+                        "name": "Lezhë",
+                        "latitude": "41.78361000",
+                        "longitude": "19.64361000"
+                    },
+                    {
+                        "id": 229,
+                        "name": "Mamurras",
+                        "latitude": "41.57750000",
+                        "longitude": "19.69222000"
+                    },
+                    {
+                        "id": 232,
+                        "name": "Milot",
+                        "latitude": "41.68389000",
+                        "longitude": "19.71556000"
+                    },
+                    {
+                        "id": 261,
+                        "name": "Rrëshen",
+                        "latitude": "41.76750000",
+                        "longitude": "19.87556000"
+                    },
+                    {
+                        "id": 252,
+                        "name": "Rrethi i Kurbinit",
+                        "latitude": "41.63333000",
+                        "longitude": "19.71667000"
+                    },
+                    {
+                        "id": 262,
+                        "name": "Rubik",
+                        "latitude": "41.77444000",
+                        "longitude": "19.78611000"
+                    },
+                    {
+                        "id": 267,
+                        "name": "Shëngjin",
+                        "latitude": "41.81361000",
+                        "longitude": "19.59389000"
+                    }
+                ]
+            },
+            {
+                "id": 595,
+                "name": "Lezhë District",
+                "state_code": "LE",
+                "cities": []
+            },
+            {
+                "id": 596,
+                "name": "Librazhd District",
+                "state_code": "LB",
+                "cities": []
+            },
+            {
+                "id": 599,
+                "name": "Lushnjë District",
+                "state_code": "LU",
+                "cities": []
+            },
+            {
+                "id": 602,
+                "name": "Malësi e Madhe District",
+                "state_code": "MM",
+                "cities": []
+            },
+            {
+                "id": 637,
+                "name": "Mallakastër District",
+                "state_code": "MK",
+                "cities": []
+            },
+            {
+                "id": 635,
+                "name": "Mat District",
+                "state_code": "MT",
+                "cities": []
+            },
+            {
+                "id": 638,
+                "name": "Mirditë District",
+                "state_code": "MR",
+                "cities": []
+            },
+            {
+                "id": 619,
+                "name": "Peqin District",
+                "state_code": "PQ",
+                "cities": []
+            },
+            {
+                "id": 625,
+                "name": "Përmet District",
+                "state_code": "PR",
+                "cities": []
+            },
+            {
+                "id": 606,
+                "name": "Pogradec District",
+                "state_code": "PG",
+                "cities": []
+            },
+            {
+                "id": 620,
+                "name": "Pukë District",
+                "state_code": "PU",
+                "cities": []
+            },
+            {
+                "id": 624,
+                "name": "Sarandë District",
+                "state_code": "SR",
+                "cities": []
+            },
+            {
+                "id": 611,
+                "name": "Shkodër County",
+                "state_code": "10",
+                "cities": []
+            },
+            {
+                "id": 626,
+                "name": "Shkodër District",
+                "state_code": "SH",
+                "cities": [
+                    {
+                        "id": 175,
+                        "name": "Bashkia Malësi e Madhe",
+                        "latitude": "42.36798000",
+                        "longitude": "19.58977000"
+                    },
+                    {
+                        "id": 181,
+                        "name": "Bashkia Pukë",
+                        "latitude": "42.02997000",
+                        "longitude": "19.92778000"
+                    },
+                    {
+                        "id": 188,
+                        "name": "Bashkia Vau i Dejës",
+                        "latitude": "42.04834000",
+                        "longitude": "19.69999000"
+                    },
+                    {
+                        "id": 202,
+                        "name": "Fushë-Arrëz",
+                        "latitude": "42.06222000",
+                        "longitude": "20.01667000"
+                    },
+                    {
+                        "id": 211,
+                        "name": "Koplik",
+                        "latitude": "42.21361000",
+                        "longitude": "19.43639000"
+                    },
+                    {
+                        "id": 239,
+                        "name": "Pukë",
+                        "latitude": "42.04444000",
+                        "longitude": "19.89972000"
+                    },
+                    {
+                        "id": 255,
+                        "name": "Rrethi i Malësia e Madhe",
+                        "latitude": "42.33333000",
+                        "longitude": "19.58333000"
+                    },
+                    {
+                        "id": 257,
+                        "name": "Rrethi i Shkodrës",
+                        "latitude": "42.06917000",
+                        "longitude": "19.53506000"
+                    },
+                    {
+                        "id": 266,
+                        "name": "Shkodër",
+                        "latitude": "42.06828000",
+                        "longitude": "19.51258000"
+                    },
+                    {
+                        "id": 274,
+                        "name": "Vau i Dejës",
+                        "latitude": "42.01000000",
+                        "longitude": "19.62472000"
+                    },
+                    {
+                        "id": 279,
+                        "name": "Vukatanë",
+                        "latitude": "42.02806000",
+                        "longitude": "19.54778000"
+                    }
+                ]
+            },
+            {
+                "id": 593,
+                "name": "Skrapar District",
+                "state_code": "SK",
+                "cities": []
+            },
+            {
+                "id": 616,
+                "name": "Tepelenë District",
+                "state_code": "TE",
+                "cities": []
+            },
+            {
+                "id": 615,
+                "name": "Tirana County",
+                "state_code": "11",
+                "cities": []
+            },
+            {
+                "id": 633,
+                "name": "Tirana District",
+                "state_code": "TR",
+                "cities": [
+                    {
+                        "id": 163,
+                        "name": "Bashkia Kavajë",
+                        "latitude": "41.18127000",
+                        "longitude": "19.55579000"
+                    },
+                    {
+                        "id": 190,
+                        "name": "Bashkia Vorë",
+                        "latitude": "41.39804000",
+                        "longitude": "19.67703000"
+                    },
+                    {
+                        "id": 207,
+                        "name": "Kamëz",
+                        "latitude": "41.38167000",
+                        "longitude": "19.76028000"
+                    },
+                    {
+                        "id": 208,
+                        "name": "Kavajë",
+                        "latitude": "41.18556000",
+                        "longitude": "19.55694000"
+                    },
+                    {
+                        "id": 213,
+                        "name": "Krrabë",
+                        "latitude": "41.21556000",
+                        "longitude": "19.97139000"
+                    },
+                    {
+                        "id": 248,
+                        "name": "Rrethi i Kavajës",
+                        "latitude": "41.16667000",
+                        "longitude": "19.58333000"
+                    },
+                    {
+                        "id": 259,
+                        "name": "Rrethi i Tiranës",
+                        "latitude": "41.33333000",
+                        "longitude": "19.91667000"
+                    },
+                    {
+                        "id": 260,
+                        "name": "Rrogozhinë",
+                        "latitude": "41.07639000",
+                        "longitude": "19.66528000"
+                    },
+                    {
+                        "id": 268,
+                        "name": "Sinaballaj",
+                        "latitude": "41.06889000",
+                        "longitude": "19.69944000"
+                    },
+                    {
+                        "id": 271,
+                        "name": "Tirana",
+                        "latitude": "41.32750000",
+                        "longitude": "19.81889000"
+                    },
+                    {
+                        "id": 277,
+                        "name": "Vorë",
+                        "latitude": "41.39083000",
+                        "longitude": "19.65500000"
+                    }
+                ]
+            },
+            {
+                "id": 636,
+                "name": "Tropojë District",
+                "state_code": "TP",
+                "cities": []
+            },
+            {
+                "id": 634,
+                "name": "Vlorë County",
+                "state_code": "12",
+                "cities": [
+                    {
+                        "id": 161,
+                        "name": "Bashkia Finiq",
+                        "latitude": "39.84393000",
+                        "longitude": "20.16659000"
+                    },
+                    {
+                        "id": 162,
+                        "name": "Bashkia Himarë",
+                        "latitude": "40.11581000",
+                        "longitude": "19.81389000"
+                    },
+                    {
+                        "id": 167,
+                        "name": "Bashkia Konispol",
+                        "latitude": "39.70064000",
+                        "longitude": "20.13353000"
+                    },
+                    {
+                        "id": 184,
+                        "name": "Bashkia Selenicë",
+                        "latitude": "40.39503000",
+                        "longitude": "19.65958000"
+                    },
+                    {
+                        "id": 189,
+                        "name": "Bashkia Vlorë",
+                        "latitude": "40.41340000",
+                        "longitude": "19.49792000"
+                    },
+                    {
+                        "id": 195,
+                        "name": "Delvinë",
+                        "latitude": "39.95111000",
+                        "longitude": "20.09778000"
+                    },
+                    {
+                        "id": 206,
+                        "name": "Himarë",
+                        "latitude": "40.10167000",
+                        "longitude": "19.74472000"
+                    },
+                    {
+                        "id": 210,
+                        "name": "Konispol",
+                        "latitude": "39.65889000",
+                        "longitude": "20.18139000"
+                    },
+                    {
+                        "id": 216,
+                        "name": "Ksamil",
+                        "latitude": "39.76889000",
+                        "longitude": "19.99972000"
+                    },
+                    {
+                        "id": 233,
+                        "name": "Orikum",
+                        "latitude": "40.32528000",
+                        "longitude": "19.47139000"
+                    },
+                    {
+                        "id": 244,
+                        "name": "Rrethi i Delvinës",
+                        "latitude": "39.91667000",
+                        "longitude": "20.08333000"
+                    },
+                    {
+                        "id": 263,
+                        "name": "Sarandë",
+                        "latitude": "39.87534000",
+                        "longitude": "20.00477000"
+                    },
+                    {
+                        "id": 264,
+                        "name": "Selenicë",
+                        "latitude": "40.53056000",
+                        "longitude": "19.63583000"
+                    },
+                    {
+                        "id": 276,
+                        "name": "Vlorë",
+                        "latitude": "40.46860000",
+                        "longitude": "19.48318000"
+                    }
+                ]
+            },
+            {
+                "id": 613,
+                "name": "Vlorë District",
+                "state_code": "VL",
+                "cities": []
+            }
+        ],
+        "continent": "Asia",
+         "government": "Islamic Republic",
+         "independence": 1906,
+         "languages": [
+            "Arabic",
+            "Azerbaijani",
+            "Bakhtyari",
+            "Balochi",
+            "Gilaki",
+            "Kurdish",
+            "Luri",
+            "Mazandarani",
+            "Persian",
+            "Turkmenian"
+        ],
+        "expectancy": 69.7,
+        "dish": "Chelo kabab, Ghormeh sabzi",
+        "symbol": "Flower",
+        "density": 50.22242012,
+        "location": "Southern and Central Asia",
+        "religion": "Islam",
+         "temperature": 17.25,
+
+    "wiki": "http://en.wikipedia.org/wiki/iran"
+}

@@ -1,0 +1,414 @@
+{
+    "name": "Bhutan",
+    "altSpellings": [
+        "BT",
+        "Kingdom of Bhutan"
+    ],
+    "area": 38394,
+    "borders": [
+        "CHN",
+        "IND"
+    ],
+    "callingCodes": [
+        "975"
+    ],
+    "capital": "Thimphu",
+    "capital_latlng": [
+        27.472762,
+        89.629548
+    ],
+    "currencies": [
+        "BTN",
+        "INR"
+    ],
+    "demonym": "Bhutanese",
+    "flag": "",
+    "geoJSON": {
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "type": "Feature",
+                "id": "BTN",
+                "properties": {
+                    "name": "Bhutan"
+                },
+                "geometry": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                91.696657,
+                                27.771742
+                            ],
+                            [
+                                92.103712,
+                                27.452614
+                            ],
+                            [
+                                92.033484,
+                                26.83831
+                            ],
+                            [
+                                91.217513,
+                                26.808648
+                            ],
+                            [
+                                90.373275,
+                                26.875724
+                            ],
+                            [
+                                89.744528,
+                                26.719403
+                            ],
+                            [
+                                88.835643,
+                                27.098966
+                            ],
+                            [
+                                88.814248,
+                                27.299316
+                            ],
+                            [
+                                89.47581,
+                                28.042759
+                            ],
+                            [
+                                90.015829,
+                                28.296439
+                            ],
+                            [
+                                90.730514,
+                                28.064954
+                            ],
+                            [
+                                91.258854,
+                                28.040614
+                            ],
+                            [
+                                91.696657,
+                                27.771742
+                            ]
+                        ]
+                    ]
+                }
+            }
+        ]
+    },
+    "ISO": {
+        "alpha2": "BT",
+        "alpha3": "BTN"
+    },
+    "languages": [
+        "Asami",
+            "Dzongkha",
+            "Nepali"
+    ],
+    "latlng": [
+        27.5,
+        90.5
+    ],
+    "nativeName": "ʼbrug-yul",
+    "population": 755030,
+    "timezones": [
+        "UTC+06:00"
+    ],
+    "tld": [
+        ".bt"
+    ],
+    "states": [
+        {
+            "id": 240,
+            "name": "Bumthang District",
+            "state_code": "33",
+            "cities": [
+                {
+                    "id": 15709,
+                    "name": "Jakar",
+                    "latitude": "27.54918000",
+                    "longitude": "90.75250000"
+                }
+            ]
+        },
+        {
+            "id": 239,
+            "name": "Chukha District",
+            "state_code": "12",
+            "cities": [
+                {
+                    "id": 15706,
+                    "name": "Daphu",
+                    "latitude": "26.96667000",
+                    "longitude": "89.38333000"
+                },
+                {
+                    "id": 15716,
+                    "name": "Phuntsholing",
+                    "latitude": "26.85164000",
+                    "longitude": "89.38837000"
+                },
+                {
+                    "id": 15726,
+                    "name": "Tsimasham",
+                    "latitude": "27.09890000",
+                    "longitude": "89.53604000"
+                }
+            ]
+        },
+        {
+            "id": 238,
+            "name": "Dagana District",
+            "state_code": "22",
+            "cities": [
+                {
+                    "id": 15705,
+                    "name": "Daga",
+                    "latitude": "27.07529000",
+                    "longitude": "89.87688000"
+                },
+                {
+                    "id": 15728,
+                    "name": "Wangdue Phodrang",
+                    "latitude": "27.48615000",
+                    "longitude": "89.89915000"
+                }
+            ]
+        },
+        {
+            "id": 229,
+            "name": "Gasa District",
+            "state_code": "GA",
+            "cities": [
+                {
+                    "id": 15707,
+                    "name": "Gasa",
+                    "latitude": "27.90372000",
+                    "longitude": "89.72689000"
+                }
+            ]
+        },
+        {
+            "id": 232,
+            "name": "Haa District",
+            "state_code": "13",
+            "cities": [
+                {
+                    "id": 15708,
+                    "name": "Ha",
+                    "latitude": "27.38747000",
+                    "longitude": "89.28074000"
+                }
+            ]
+        },
+        {
+            "id": 234,
+            "name": "Lhuntse District",
+            "state_code": "44",
+            "cities": [
+                {
+                    "id": 15710,
+                    "name": "Lhuentse",
+                    "latitude": "27.66787000",
+                    "longitude": "91.18393000"
+                }
+            ]
+        },
+        {
+            "id": 242,
+            "name": "Mongar District",
+            "state_code": "42",
+            "cities": [
+                {
+                    "id": 15711,
+                    "name": "Mongar",
+                    "latitude": "27.27471000",
+                    "longitude": "91.23963000"
+                }
+            ]
+        },
+        {
+            "id": 237,
+            "name": "Paro District",
+            "state_code": "11",
+            "cities": [
+                {
+                    "id": 15714,
+                    "name": "Paro",
+                    "latitude": "27.43050000",
+                    "longitude": "89.41334000"
+                }
+            ]
+        },
+        {
+            "id": 244,
+            "name": "Pemagatshel District",
+            "state_code": "43",
+            "cities": [
+                {
+                    "id": 15715,
+                    "name": "Pemagatshel",
+                    "latitude": "27.03795000",
+                    "longitude": "91.40305000"
+                }
+            ]
+        },
+        {
+            "id": 235,
+            "name": "Punakha District",
+            "state_code": "23",
+            "cities": [
+                {
+                    "id": 15712,
+                    "name": "Pajo",
+                    "latitude": "27.53333000",
+                    "longitude": "89.88333000"
+                },
+                {
+                    "id": 15717,
+                    "name": "Punākha",
+                    "latitude": "27.59137000",
+                    "longitude": "89.87743000"
+                }
+            ]
+        },
+        {
+            "id": 243,
+            "name": "Samdrup Jongkhar District",
+            "state_code": "45",
+            "cities": [
+                {
+                    "id": 15718,
+                    "name": "Samdrup Jongkhar",
+                    "latitude": "26.80069000",
+                    "longitude": "91.50519000"
+                }
+            ]
+        },
+        {
+            "id": 246,
+            "name": "Samtse District",
+            "state_code": "14",
+            "cities": [
+                {
+                    "id": 15719,
+                    "name": "Samtse",
+                    "latitude": "26.89903000",
+                    "longitude": "89.09951000"
+                }
+            ]
+        },
+        {
+            "id": 247,
+            "name": "Sarpang District",
+            "state_code": "31",
+            "cities": [
+                {
+                    "id": 15720,
+                    "name": "Sarpang",
+                    "latitude": "26.86395000",
+                    "longitude": "90.26745000"
+                }
+            ]
+        },
+        {
+            "id": 241,
+            "name": "Thimphu District",
+            "state_code": "15",
+            "cities": [
+                {
+                    "id": 15722,
+                    "name": "Thimphu",
+                    "latitude": "27.46609000",
+                    "longitude": "89.64191000"
+                }
+            ]
+        },
+        {
+            "id": 236,
+            "name": "Trashigang District",
+            "state_code": "41",
+            "cities": [
+                {
+                    "id": 15724,
+                    "name": "Trashigang",
+                    "latitude": "27.33310000",
+                    "longitude": "91.55424000"
+                }
+            ]
+        },
+        {
+            "id": 245,
+            "name": "Trongsa District",
+            "state_code": "32",
+            "cities": []
+        },
+        {
+            "id": 230,
+            "name": "Tsirang District",
+            "state_code": "21",
+            "cities": [
+                {
+                    "id": 15725,
+                    "name": "Trongsa",
+                    "latitude": "27.50260000",
+                    "longitude": "90.50716000"
+                },
+                {
+                    "id": 15727,
+                    "name": "Tsirang",
+                    "latitude": "27.02190000",
+                    "longitude": "90.12291000"
+                }
+            ]
+        },
+        {
+            "id": 231,
+            "name": "Wangdue Phodrang District",
+            "state_code": "24",
+            "cities": [
+                {
+                    "id": 15723,
+                    "name": "Trashi Yangtse",
+                    "latitude": "27.61160000",
+                    "longitude": "91.49800000"
+                }
+            ]
+        },
+        {
+            "id": 233,
+            "name": "Zhemgang District",
+            "state_code": "34",
+            "cities": [
+                {
+                    "id": 15713,
+                    "name": "Panbang",
+                    "latitude": "26.86667000",
+                    "longitude": "90.98333000"
+                },
+                {
+                    "id": 15721,
+                    "name": "Shemgang",
+                    "latitude": "27.21689000",
+                    "longitude": "90.65793000"
+                }
+            ]
+        }
+    ],
+    "translations": {
+        "de": "Bhutan",
+        "es": "Bután",
+        "fr": "Bhoutan",
+        "ja": "ブータン",
+        "it": "Bhutan"
+    },
+    "expectancy": 52.4,
+    "government": "Monarchy",
+    "dish": "Ema datshi",
+    "symbol": null,
+    "density": 19.77752777,
+    "location": "Southern and Central Asia",
+    "religion": "Buddhism",
+    "temperature": 7.4,
+    "continent": "Asia",
+    "independence": 1910,
+    "wiki": "http://en.wikipedia.org/wiki/bhutan"
+}

@@ -1,0 +1,285 @@
+{
+    "name": "Belize",
+    "altSpellings": [
+        "BZ"
+    ],
+    "area": 22966,
+    "borders": [
+        "GTM",
+        "MEX"
+    ],
+    "callingCodes": [
+        "501"
+    ],
+    "capital": "Belmopan",
+    "capital_latlng": [
+        17.250199,
+        -88.770018
+    ],
+    "currencies": [
+        "BZD"
+    ],
+    "demonym": "Belizean",
+    "flag": "",
+    "geoJSON": {
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "type": "Feature",
+                "id": "BLZ",
+                "properties": {
+                    "name": "Belize"
+                },
+                "geometry": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                -89.14308,
+                                17.808319
+                            ],
+                            [
+                                -89.150909,
+                                17.955468
+                            ],
+                            [
+                                -89.029857,
+                                18.001511
+                            ],
+                            [
+                                -88.848344,
+                                17.883198
+                            ],
+                            [
+                                -88.490123,
+                                18.486831
+                            ],
+                            [
+                                -88.300031,
+                                18.499982
+                            ],
+                            [
+                                -88.296336,
+                                18.353273
+                            ],
+                            [
+                                -88.106813,
+                                18.348674
+                            ],
+                            [
+                                -88.123479,
+                                18.076675
+                            ],
+                            [
+                                -88.285355,
+                                17.644143
+                            ],
+                            [
+                                -88.197867,
+                                17.489475
+                            ],
+                            [
+                                -88.302641,
+                                17.131694
+                            ],
+                            [
+                                -88.239518,
+                                17.036066
+                            ],
+                            [
+                                -88.355428,
+                                16.530774
+                            ],
+                            [
+                                -88.551825,
+                                16.265467
+                            ],
+                            [
+                                -88.732434,
+                                16.233635
+                            ],
+                            [
+                                -88.930613,
+                                15.887273
+                            ],
+                            [
+                                -89.229122,
+                                15.886938
+                            ],
+                            [
+                                -89.150806,
+                                17.015577
+                            ],
+                            [
+                                -89.14308,
+                                17.808319
+                            ]
+                        ]
+                    ]
+                }
+            }
+        ]
+    },
+    "ISO": {
+        "alpha2": "BZ",
+        "alpha3": "BLZ"
+    },
+    "states": [
+        {
+            "id": 264,
+            "name": "Belize District",
+            "state_code": "BZ",
+            "cities": [
+                {
+                    "id": 16133,
+                    "name": "Belize City",
+                    "latitude": "17.49952000",
+                    "longitude": "-88.19756000"
+                },
+                {
+                    "id": 16143,
+                    "name": "San Pedro",
+                    "latitude": "17.91598000",
+                    "longitude": "-87.96590000"
+                }
+            ]
+        },
+        {
+            "id": 269,
+            "name": "Cayo District",
+            "state_code": "CY",
+            "cities": [
+                {
+                    "id": 16134,
+                    "name": "Belmopan",
+                    "latitude": "17.25000000",
+                    "longitude": "-88.76667000"
+                },
+                {
+                    "id": 16135,
+                    "name": "Benque Viejo el Carmen",
+                    "latitude": "17.07500000",
+                    "longitude": "-89.13917000"
+                },
+                {
+                    "id": 16142,
+                    "name": "San Ignacio",
+                    "latitude": "17.15880000",
+                    "longitude": "-89.06960000"
+                },
+                {
+                    "id": 16145,
+                    "name": "Valley of Peace",
+                    "latitude": "17.33472000",
+                    "longitude": "-88.83472000"
+                }
+            ]
+        },
+        {
+            "id": 266,
+            "name": "Corozal District",
+            "state_code": "CZL",
+            "cities": [
+                {
+                    "id": 16136,
+                    "name": "Corozal",
+                    "latitude": "18.39375000",
+                    "longitude": "-88.38849000"
+                }
+            ]
+        },
+        {
+            "id": 268,
+            "name": "Orange Walk District",
+            "state_code": "OW",
+            "cities": [
+                {
+                    "id": 16138,
+                    "name": "Hopelchén",
+                    "latitude": "17.80000000",
+                    "longitude": "-89.10000000"
+                },
+                {
+                    "id": 16139,
+                    "name": "Orange Walk",
+                    "latitude": "18.08124000",
+                    "longitude": "-88.56328000"
+                },
+                {
+                    "id": 16144,
+                    "name": "Shipyard",
+                    "latitude": "17.89382000",
+                    "longitude": "-88.65452000"
+                }
+            ]
+        },
+        {
+            "id": 265,
+            "name": "Stann Creek District",
+            "state_code": "SC",
+            "cities": [
+                {
+                    "id": 16137,
+                    "name": "Dangriga",
+                    "latitude": "16.96970000",
+                    "longitude": "-88.23313000"
+                },
+                {
+                    "id": 16140,
+                    "name": "Placencia",
+                    "latitude": "16.51419000",
+                    "longitude": "-88.36647000"
+                }
+            ]
+        },
+        {
+            "id": 267,
+            "name": "Toledo District",
+            "state_code": "TOL",
+            "cities": [
+                {
+                    "id": 16141,
+                    "name": "Punta Gorda",
+                    "latitude": "16.09835000",
+                    "longitude": "-88.80970000"
+                }
+            ]
+        }
+    ],
+    "languages": [
+        "English",
+        "Garifuna",
+        "Maya Languages",
+        "Spanish"
+    ],
+    "latlng": [
+        17.25,
+        -88.75
+    ],
+    "nativeName": "Belize",
+    "population": 349728,
+    "timezones": [
+        "UTC−06:00"
+    ],
+    "tld": [
+        ".bz"
+    ],
+    "translations": {
+        "de": "Belize",
+        "es": "Belice",
+        "fr": "Belize",
+        "ja": "ベリーズ",
+        "it": "Belize"
+    },
+    "government": "Constitutional Monarchy",
+    "expectancy": 70.9,
+    "dish": "Boil up",
+    "symbol": null,
+    "density": 16.79399386,
+    "location": "Central America",
+    "religion": "Christianity",
+    "temperature": 25.3,
+    "continent": "North America",
+    "independence": 1981,
+    "wiki": "http://en.wikipedia.org/wiki/belize"
+}

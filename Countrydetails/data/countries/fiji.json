@@ -1,0 +1,333 @@
+{
+  "name": "Fiji",
+  "altSpellings": ["FJ", "Viti", "Republic of Fiji", "Matanitu ko Viti", "Fijī Gaṇarājya"],
+  "area": 18272,
+  "borders": [],
+  "callingCodes": ["679"],
+  "capital": "Suva",
+  "capital_latlng": [-18.141588, 178.442166],
+  "currencies": ["FJD"],
+  "demonym": "Fijian",
+  "flag": "",
+  "geoJSON": {
+    "type": "FeatureCollection",
+    "features": [{
+      "type": "Feature",
+      "id": "FJI",
+      "properties": {
+        "name": "Fiji"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [178.3736, -17.33992],
+              [178.71806, -17.62846],
+              [178.55271, -18.15059],
+              [177.93266, -18.28799],
+              [177.38146, -18.16432],
+              [177.28504, -17.72465],
+              [177.67087, -17.38114],
+              [178.12557, -17.50481],
+              [178.3736, -17.33992]
+            ]
+          ],
+          [
+            [
+              [179.364143, -16.801354],
+              [178.725059, -17.012042],
+              [178.596839, -16.63915],
+              [179.096609, -16.433984],
+              [179.413509, -16.379054],
+              [180, -16.067133],
+              [180, -16.555217],
+              [179.364143, -16.801354]
+            ]
+          ],
+          [
+            [
+              [-179.917369, -16.501783],
+              [-180, -16.555217],
+              [-180, -16.067133],
+              [-179.79332, -16.020882],
+              [-179.917369, -16.501783]
+            ]
+          ]
+        ]
+      }
+    }]
+  },
+  "ISO": {
+    "alpha2": "FJ",
+    "alpha3": "FJI"
+  },
+  "languages": [
+      "Fijian",
+      "Hindi"
+  ],
+  "latlng": [-18, 175],
+  "nativeName": "Fiji",
+  "population": 859178,
+      "continent": "Oceania",
+          "government": "Republic",
+            "independence": 1970,
+              "expectancy": 67.9,
+                  "dish": null,
+                  "symbol": null,
+                      "density": 48.35703339,
+                      "location": "Melanesia",
+                        "religion": "Christianity",
+                          "temperature": null,
+                          "states": [
+                              {
+                                  "id": 1917,
+                                  "name": "Ba",
+                                  "state_code": "01",
+                                  "cities": []
+                              },
+                              {
+                                  "id": 1930,
+                                  "name": "Bua",
+                                  "state_code": "02",
+                                  "cities": []
+                              },
+                              {
+                                  "id": 1924,
+                                  "name": "Cakaudrove",
+                                  "state_code": "03",
+                                  "cities": []
+                              },
+                              {
+                                  "id": 1929,
+                                  "name": "Central Division",
+                                  "state_code": "C",
+                                  "cities": [
+                                      {
+                                          "id": 39145,
+                                          "name": "Naitasiri Province",
+                                          "latitude": "-17.83333000",
+                                          "longitude": "178.25000000"
+                                      },
+                                      {
+                                          "id": 39146,
+                                          "name": "Namosi Province",
+                                          "latitude": "-18.05000000",
+                                          "longitude": "178.13333000"
+                                      },
+                                      {
+                                          "id": 39149,
+                                          "name": "Rewa Province",
+                                          "latitude": "-18.08333000",
+                                          "longitude": "178.33333000"
+                                      },
+                                      {
+                                          "id": 39150,
+                                          "name": "Serua Province",
+                                          "latitude": "-18.16667000",
+                                          "longitude": "178.00000000"
+                                      },
+                                      {
+                                          "id": 39151,
+                                          "name": "Suva",
+                                          "latitude": "-18.14161000",
+                                          "longitude": "178.44149000"
+                                      },
+                                      {
+                                          "id": 39152,
+                                          "name": "Tailevu Province",
+                                          "latitude": "-17.83333000",
+                                          "longitude": "178.50000000"
+                                      }
+                                  ]
+                              },
+                              {
+                                  "id": 1932,
+                                  "name": "Eastern Division",
+                                  "state_code": "E",
+                                  "cities": [
+                                      {
+                                          "id": 39137,
+                                          "name": "Kadavu Province",
+                                          "latitude": "-18.99331000",
+                                          "longitude": "178.22021000"
+                                      },
+                                      {
+                                          "id": 39139,
+                                          "name": "Lau Province",
+                                          "latitude": "-18.20488000",
+                                          "longitude": "-178.79251000"
+                                      },
+                                      {
+                                          "id": 39141,
+                                          "name": "Levuka",
+                                          "latitude": "-18.06667000",
+                                          "longitude": "179.31667000"
+                                      },
+                                      {
+                                          "id": 39142,
+                                          "name": "Lomaiviti Province",
+                                          "latitude": "-17.66667000",
+                                          "longitude": "178.80000000"
+                                      }
+                                  ]
+                              },
+                              {
+                                  "id": 1934,
+                                  "name": "Kadavu",
+                                  "state_code": "04",
+                                  "cities": []
+                              },
+                              {
+                                  "id": 1933,
+                                  "name": "Lau",
+                                  "state_code": "05",
+                                  "cities": []
+                              },
+                              {
+                                  "id": 1916,
+                                  "name": "Lomaiviti",
+                                  "state_code": "06",
+                                  "cities": []
+                              },
+                              {
+                                  "id": 1922,
+                                  "name": "Macuata",
+                                  "state_code": "07",
+                                  "cities": []
+                              },
+                              {
+                                  "id": 1919,
+                                  "name": "Nadroga-Navosa",
+                                  "state_code": "08",
+                                  "cities": []
+                              },
+                              {
+                                  "id": 1927,
+                                  "name": "Naitasiri",
+                                  "state_code": "09",
+                                  "cities": []
+                              },
+                              {
+                                  "id": 1928,
+                                  "name": "Namosi",
+                                  "state_code": "10",
+                                  "cities": []
+                              },
+                              {
+                                  "id": 1921,
+                                  "name": "Northern Division",
+                                  "state_code": "N",
+                                  "cities": [
+                                      {
+                                          "id": 39135,
+                                          "name": "Bua Province",
+                                          "latitude": "-16.83333000",
+                                          "longitude": "178.75000000"
+                                      },
+                                      {
+                                          "id": 39136,
+                                          "name": "Cakaudrove Province",
+                                          "latitude": "-16.66667000",
+                                          "longitude": "179.41667000"
+                                      },
+                                      {
+                                          "id": 39138,
+                                          "name": "Labasa",
+                                          "latitude": "-16.43320000",
+                                          "longitude": "179.36451000"
+                                      },
+                                      {
+                                          "id": 39143,
+                                          "name": "Macuata Province",
+                                          "latitude": "-16.50000000",
+                                          "longitude": "179.25000000"
+                                      }
+                                  ]
+                              },
+                              {
+                                  "id": 1926,
+                                  "name": "Ra",
+                                  "state_code": "11",
+                                  "cities": []
+                              },
+                              {
+                                  "id": 1920,
+                                  "name": "Rewa",
+                                  "state_code": "12",
+                                  "cities": []
+                              },
+                              {
+                                  "id": 1931,
+                                  "name": "Rotuma",
+                                  "state_code": "R",
+                                  "cities": []
+                              },
+                              {
+                                  "id": 1925,
+                                  "name": "Serua",
+                                  "state_code": "13",
+                                  "cities": []
+                              },
+                              {
+                                  "id": 1918,
+                                  "name": "Tailevu",
+                                  "state_code": "14",
+                                  "cities": []
+                              },
+                              {
+                                  "id": 1923,
+                                  "name": "Western Division",
+                                  "state_code": "W",
+                                  "cities": [
+                                      {
+                                          "id": 39133,
+                                          "name": "Ba",
+                                          "latitude": "-17.53430000",
+                                          "longitude": "177.67407000"
+                                      },
+                                      {
+                                          "id": 39134,
+                                          "name": "Ba Province",
+                                          "latitude": "-17.66667000",
+                                          "longitude": "177.66667000"
+                                      },
+                                      {
+                                          "id": 39140,
+                                          "name": "Lautoka",
+                                          "latitude": "-17.61686000",
+                                          "longitude": "177.45049000"
+                                      },
+                                      {
+                                          "id": 39144,
+                                          "name": "Nadi",
+                                          "latitude": "-17.80309000",
+                                          "longitude": "177.41617000"
+                                      },
+                                      {
+                                          "id": 39147,
+                                          "name": "Nandronga and Navosa Province",
+                                          "latitude": "-18.00000000",
+                                          "longitude": "177.66667000"
+                                      },
+                                      {
+                                          "id": 39148,
+                                          "name": "Ra Province",
+                                          "latitude": "-17.50000000",
+                                          "longitude": "178.16667000"
+                                      }
+                                  ]
+                              }
+                          ],
+
+  "timezones": ["UTC+12:00"],
+  "tld": [".fj"],
+  "translations": {
+    "de": "Fidschi",
+    "es": "Fiyi",
+    "fr": "Fidji",
+    "ja": "フィジー",
+    "it": "Figi"
+  },
+  "wiki": "http://en.wikipedia.org/wiki/fiji"
+}

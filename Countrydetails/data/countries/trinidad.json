@@ -1,0 +1,375 @@
+{
+    "name": "Trinidad and Tobago",
+    "altSpellings": [
+        "TT",
+        "Republic of Trinidad and Tobago"
+    ],
+    "area": 5130,
+    "borders": [],
+    "callingCodes": [
+        "1868"
+    ],
+    "capital": "Port of Spain",
+    "capital_latlng": [
+        10.657268,
+        -61.518017
+    ],
+    "currencies": [
+        "TTD"
+    ],
+    "demonym": "Trinidadian",
+    "flag": "",
+    "geoJSON": {
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "type": "Feature",
+                "id": "TTO",
+                "properties": {
+                    "name": "Trinidad and Tobago"
+                },
+                "geometry": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                -61.68,
+                                10.76
+                            ],
+                            [
+                                -61.105,
+                                10.89
+                            ],
+                            [
+                                -60.895,
+                                10.855
+                            ],
+                            [
+                                -60.935,
+                                10.11
+                            ],
+                            [
+                                -61.77,
+                                10
+                            ],
+                            [
+                                -61.95,
+                                10.09
+                            ],
+                            [
+                                -61.66,
+                                10.365
+                            ],
+                            [
+                                -61.68,
+                                10.76
+                            ]
+                        ]
+                    ]
+                }
+            }
+        ]
+    },
+    "ISO": {
+        "alpha2": "TT",
+        "alpha3": "TTO"
+    },
+    "languages": [
+        "Creole English",
+        "English",
+        "Hindi"
+    ],
+    "latlng": [
+        11,
+        -61
+    ],
+    "nativeName": "Trinidad and Tobago",
+    "population": 1328019,
+    "timezones": [
+        "UTC−04:00"
+    ],
+    "tld": [
+        ".tt"
+    ],
+    "states": [
+        {
+            "id": 3362,
+            "name": "Arima",
+            "state_code": "ARI",
+            "cities": [
+                {
+                    "id": 108968,
+                    "name": "Arima",
+                    "latitude": "10.63737000",
+                    "longitude": "-61.28228000"
+                }
+            ]
+        },
+        {
+            "id": 3366,
+            "name": "Chaguanas",
+            "state_code": "CHA",
+            "cities": [
+                {
+                    "id": 108970,
+                    "name": "Chaguanas",
+                    "latitude": "10.51667000",
+                    "longitude": "-61.41667000"
+                },
+                {
+                    "id": 108990,
+                    "name": "Ward of Chaguanas",
+                    "latitude": "10.50000000",
+                    "longitude": "-61.38333000"
+                }
+            ]
+        },
+        {
+            "id": 3354,
+            "name": "Couva-Tabaquite-Talparo Regional Corporation",
+            "state_code": "CTT",
+            "cities": [
+                {
+                    "id": 108971,
+                    "name": "Couva",
+                    "latitude": "10.42248000",
+                    "longitude": "-61.46748000"
+                },
+                {
+                    "id": 108988,
+                    "name": "Tabaquite",
+                    "latitude": "10.38824000",
+                    "longitude": "-61.29704000"
+                }
+            ]
+        },
+        {
+            "id": 3367,
+            "name": "Diego Martin Regional Corporation",
+            "state_code": "DMN",
+            "cities": [
+                {
+                    "id": 108978,
+                    "name": "Petit Valley",
+                    "latitude": "10.69974000",
+                    "longitude": "-61.54717000"
+                },
+                {
+                    "id": 108991,
+                    "name": "Ward of Diego Martin",
+                    "latitude": "10.70000000",
+                    "longitude": "-61.58333000"
+                }
+            ]
+        },
+        {
+            "id": 3355,
+            "name": "Eastern Tobago",
+            "state_code": "ETO",
+            "cities": [
+                {
+                    "id": 108986,
+                    "name": "Scarborough",
+                    "latitude": "11.18229000",
+                    "longitude": "-60.73525000"
+                }
+            ]
+        },
+        {
+            "id": 3365,
+            "name": "Penal-Debe Regional Corporation",
+            "state_code": "PED",
+            "cities": [
+                {
+                    "id": 108972,
+                    "name": "Debe",
+                    "latitude": "10.20846000",
+                    "longitude": "-61.45273000"
+                },
+                {
+                    "id": 108979,
+                    "name": "Peñal",
+                    "latitude": "10.16667000",
+                    "longitude": "-61.46667000"
+                }
+            ]
+        },
+        {
+            "id": 3360,
+            "name": "Point Fortin",
+            "state_code": "PTF",
+            "cities": [
+                {
+                    "id": 108980,
+                    "name": "Point Fortin",
+                    "latitude": "10.17411000",
+                    "longitude": "-61.68407000"
+                }
+            ]
+        },
+        {
+            "id": 3363,
+            "name": "Port of Spain",
+            "state_code": "POS",
+            "cities": [
+                {
+                    "id": 108976,
+                    "name": "Mucurapo",
+                    "latitude": "10.66253000",
+                    "longitude": "-61.53697000"
+                },
+                {
+                    "id": 108981,
+                    "name": "Port of Spain",
+                    "latitude": "10.66668000",
+                    "longitude": "-61.51889000"
+                }
+            ]
+        },
+        {
+            "id": 3368,
+            "name": "Princes Town Regional Corporation",
+            "state_code": "PRT",
+            "cities": [
+                {
+                    "id": 108982,
+                    "name": "Princes Town",
+                    "latitude": "10.27184000",
+                    "longitude": "-61.37103000"
+                }
+            ]
+        },
+        {
+            "id": 3356,
+            "name": "Rio Claro-Mayaro Regional Corporation",
+            "state_code": "MRC",
+            "cities": []
+        },
+        {
+            "id": 3359,
+            "name": "San Fernando",
+            "state_code": "SFO",
+            "cities": [
+                {
+                    "id": 108974,
+                    "name": "Marabella",
+                    "latitude": "10.30618000",
+                    "longitude": "-61.44671000"
+                },
+                {
+                    "id": 108975,
+                    "name": "Mon Repos",
+                    "latitude": "10.27979000",
+                    "longitude": "-61.44590000"
+                },
+                {
+                    "id": 108984,
+                    "name": "San Fernando",
+                    "latitude": "10.27969000",
+                    "longitude": "-61.46835000"
+                }
+            ]
+        },
+        {
+            "id": 3357,
+            "name": "San Juan-Laventille Regional Corporation",
+            "state_code": "SJL",
+            "cities": [
+                {
+                    "id": 108973,
+                    "name": "Laventille",
+                    "latitude": "10.64917000",
+                    "longitude": "-61.49889000"
+                }
+            ]
+        },
+        {
+            "id": 3361,
+            "name": "Sangre Grande Regional Corporation",
+            "state_code": "SGE",
+            "cities": [
+                {
+                    "id": 108985,
+                    "name": "Sangre Grande",
+                    "latitude": "10.58705000",
+                    "longitude": "-61.13008000"
+                }
+            ]
+        },
+        {
+            "id": 3364,
+            "name": "Siparia Regional Corporation",
+            "state_code": "SIP",
+            "cities": [
+                {
+                    "id": 108987,
+                    "name": "Siparia",
+                    "latitude": "10.14525000",
+                    "longitude": "-61.50740000"
+                },
+                {
+                    "id": 108992,
+                    "name": "Ward of Siparia",
+                    "latitude": "10.15000000",
+                    "longitude": "-61.46667000"
+                }
+            ]
+        },
+        {
+            "id": 3358,
+            "name": "Tunapuna-Piarco Regional Corporation",
+            "state_code": "TUP",
+            "cities": [
+                {
+                    "id": 108969,
+                    "name": "Arouca",
+                    "latitude": "10.62877000",
+                    "longitude": "-61.33487000"
+                },
+                {
+                    "id": 108977,
+                    "name": "Paradise",
+                    "latitude": "10.65298000",
+                    "longitude": "-61.36298000"
+                },
+                {
+                    "id": 108989,
+                    "name": "Tunapuna",
+                    "latitude": "10.65245000",
+                    "longitude": "-61.38878000"
+                }
+            ]
+        },
+        {
+            "id": 3353,
+            "name": "Western Tobago",
+            "state_code": "WTO",
+            "cities": [
+                {
+                    "id": 108983,
+                    "name": "Rio Claro",
+                    "latitude": "10.30594000",
+                    "longitude": "-61.17556000"
+                }
+            ]
+        }
+    ],
+    "translations": {
+        "de": "Trinidad und Tobago",
+        "es": "Trinidad y Tobago",
+        "fr": "Trinité et Tobago",
+        "ja": "トリニダード・トバゴ",
+        "it": "Trinidad e Tobago"
+    },
+    "expectancy": 68,
+    "dish": "Callaloo,Doubles",
+    "symbol": null,
+    "density": 270.9274854,
+    "location": "Caribbean",
+    "religion": "Christianity",
+    "temperature": 25.75,
+    "continent": "North America",
+    "government": "Republic",
+    "independence": 1962,
+    "wiki": "http://en.wikipedia.org/wiki/trinidad"
+}

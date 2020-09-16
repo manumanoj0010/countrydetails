@@ -450,7 +450,7 @@ class country_details:
                     return(f'There is no available country named {self.country_name}')
 
     def languages(self):
-        """Returns all spolen languages for a specified country
+        """Returns all spoken languages for a specified country
 
         :return: list
         """

@@ -286,7 +286,6 @@ class all_countries:
         """
         languages_capital_dict={}
         a = self.languages_to_capitals_file
-        print(a)
         for i in range(65,91):
           for j in range(65,91):
             res_str = chr(i)+chr(j)

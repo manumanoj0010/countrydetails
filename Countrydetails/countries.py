@@ -19,7 +19,7 @@ class all_countries:
         continents_file_path = dir_path + '/data/continents.json'
         region_file_path = dir_path + '/data/region.json'
         states_file_path = dir_path + '/data/states.json'
-        languages_to_capitals_file_path = dir_path + 'data/langtocountries.json'
+        languages_to_capitals_file_path = dir_path + '/data/langtocountries.json'
         with open(countries_file_path, encoding='utf-8') as file:
             countries_file = json.load(file)
             self.countries_file = countries_file

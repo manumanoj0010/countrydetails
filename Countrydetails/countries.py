@@ -282,7 +282,7 @@ class all_countries:
     def languages(self):
         """ Returns capitals with their languages
         :return: dict
-        :format: {country_name: ( capital, national_language[] ) }
+        :format: {country_name: ( capital, national_language[] in code ) }
         """
         languages_capital_dict={}
         a = self.languages_to_capitals_file

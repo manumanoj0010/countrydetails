@@ -733,7 +733,7 @@ print(country.geo_json())
 
 ### [Manumanoj](https://github.com/manumanoj0010)
 
-Passionate Python and Web Developer. Currently pursuing his carrer as a student.
+A Passionate Python and Web Developer. Currently pursuing his carrer as a student.
 
 <a href="https://www.linkedin.com/in/manumanoj0010/" target="_blank"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="60"></a><a href="https://facebook.com/manumanoj0010" target="_blank"><img src="https://github.com/aritraroy/social-icons/blob/master/facebook-icon.png?raw=true" width="60"></a><a href="https://instagram.com/m.a.n.u.m.a.n.o.j" target="_blank"><img src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.png?raw=true" width="60"></a><a href="https://github.com/manumanoj0010" target="_blank"><img src="https://img.icons8.com/material-outlined/52/000000/github.png"></a><a href="http://manojmanu.me/"  target="_blank"><img src="https://img.icons8.com/metro/52/000000/domain.png"></a>
 

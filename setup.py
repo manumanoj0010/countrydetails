@@ -1,3 +1,4 @@
+#importing libaries
 from setuptools import setup
 
 # version of the software from Countrydetails/version.py
@@ -8,7 +9,7 @@ def readme():
         README = f.read()
     return README
 
-
+#keywords for better performance
 keywords = ['country', 'countrydetails', 'countryinfo', 'country information' ,'country data' ,'json']
 
 setup(

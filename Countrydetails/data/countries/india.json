@@ -18601,12 +18601,6 @@
                     "longitude": "78.45636000"
                 },
                 {
-                    "id": 132133,
-                    "name": "Hyderābād",
-                    "latitude": "17.40164000",
-                    "longitude": "78.48976000"
-                },
-                {
                     "id": 132190,
                     "name": "Jagitial",
                     "latitude": "18.79380000",
@@ -19299,12 +19293,6 @@
                     "longitude": "80.50792000"
                 },
                 {
-                    "id": 134470,
-                    "name": "Āzamgarh",
-                    "latitude": "26.00000000",
-                    "longitude": "83.00000000"
-                },
-                {
                     "id": 57777,
                     "name": "Azamgarh",
                     "latitude": "26.06832000",
@@ -19966,7 +19954,7 @@
                 },
                 {
                     "id": 131851,
-                    "name": "Faizābād",
+                    "name": "Faizabad",
                     "latitude": "26.75000000",
                     "longitude": "82.00000000"
                 },
@@ -21160,19 +21148,19 @@
                 },
                 {
                     "id": 133007,
-                    "name": "Mubārakpur",
+                    "name": "Mubarakpur",
                     "latitude": "26.08866000",
                     "longitude": "83.29088000"
                 },
                 {
                     "id": 133014,
-                    "name": "Mughal Sarāi",
+                    "name": "Mughal Sarai",
                     "latitude": "25.28307000",
                     "longitude": "83.11968000"
                 },
                 {
                     "id": 133016,
-                    "name": "Muhammadābād",
+                    "name": "Muhammadabad",
                     "latitude": "25.61907000",
                     "longitude": "83.75576000"
                 },
@@ -22099,12 +22087,6 @@
                     "name": "Varanasi",
                     "latitude": "25.31668000",
                     "longitude": "83.01041000"
-                },
-                {
-                    "id": 134383,
-                    "name": "Vārānasi",
-                    "latitude": "25.33333000",
-                    "longitude": "83.00000000"
                 },
                 {
                     "id": 134376,
@@ -24071,34 +24053,34 @@
     "government": "Federal Republic",
     "independence": 1947,
     "languages": [
-            "Asami",
-            "Bengali",
-            "Gujarati",
-            "Hindi",
-            "Kannada",
-            "Malayalam",
-            "Marathi",
-            "Odia",
-            "Punjabi",
-            "Tamil",
-            "Telugu",
-            "Urdu",
-            "Sanskrit",
-            "English",
-            "Konkani",
-            "Nepali",
-            "Bodo",
-            "Kashmiri",
-            "Maithili",
-            "Santali",
-            "Sindhi"
-        ],
-        "expectancy": 62.5,
-        "dish": "No officially announced national dish",
-        "symbol": "animal",
-        "density": 454.9380726, 
-        "location": "Southern and Central Asia",
-        "religion": "Hinduism",
-        "temperature": 23.65,
+        "Asami",
+        "Bengali",
+        "Gujarati",
+        "Hindi",
+        "Kannada",
+        "Malayalam",
+        "Marathi",
+        "Odia",
+        "Punjabi",
+        "Tamil",
+        "Telugu",
+        "Urdu",
+        "Sanskrit",
+        "English",
+        "Konkani",
+        "Nepali",
+        "Bodo",
+        "Kashmiri",
+        "Maithili",
+        "Santali",
+        "Sindhi"
+    ],
+    "expectancy": 62.5,
+    "dish": "No officially announced national dish",
+    "symbol": "animal",
+    "density": 454.9380726,
+    "location": "Southern and Central Asia",
+    "religion": "Hinduism",
+    "temperature": 23.65,
     "wiki": "http://en.wikipedia.org/wiki/india"
 }

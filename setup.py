@@ -14,7 +14,7 @@ keywords = ['country', 'countrydetails', 'countryinfo', 'country information' ,'
 
 setup(
     name="Countrydetails",
-    version= __version__,
+    version='{{VERSION_PLACEHOLDER}}',
     description="A python package for retrieving data of all the countries in the world.",
     long_description=readme(),
     long_description_content_type="text/markdown",

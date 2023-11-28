@@ -1,9 +1,6 @@
 #importing libaries
 from setuptools import setup
 
-# version of the software from Countrydetails/version.py
-exec(compile(open('Countrydetails/version.py').read(), 'Countrydetails/version.py', 'exec'))
-
 def readme():
     with open('README.md', encoding="utf8") as f:
         README = f.read()
@@ -15,6 +12,7 @@ keywords = ['country', 'countrydetails', 'countryinfo', 'country information' ,'
 setup(
     name="Countrydetails",
     version='{{VERSION_PLACEHOLDER}}',
+    # version = '1.0.9',
     description="A python package for retrieving data of all the countries in the world.",
     long_description=readme(),
     long_description_content_type="text/markdown",
